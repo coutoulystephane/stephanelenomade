@@ -1,0 +1,16 @@
+{
+  "name": "Japan",
+  "continent": "Asia",
+  "visited": true,
+  "cities": [
+    "Tokyo",
+    "Kyoto",
+    "Osaka"
+  ],
+  "regions": [
+    "Kansai",
+    "Kanto"
+  ],
+  "photos": 860,
+  "favorite": true
+}

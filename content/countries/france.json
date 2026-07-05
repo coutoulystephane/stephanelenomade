@@ -1,0 +1,16 @@
+{
+  "name": "France",
+  "continent": "Europe",
+  "visited": true,
+  "cities": [
+    "Paris",
+    "Lyon",
+    "Marseille"
+  ],
+  "regions": [
+    "Île-de-France",
+    "Provence-Alpes-Côte d'Azur"
+  ],
+  "photos": 1240,
+  "favorite": true
+}

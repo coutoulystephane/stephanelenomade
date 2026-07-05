@@ -1,33 +1,48 @@
+import Image from "next/image";
+import Background from "./Background";
+import StoryPanel from "./StoryPanel";
+import WorldMap from "./WorldMap";
+import Stats from "./Stats";
+
 export default function Hero() {
   return (
-    <section
-      className="relative h-screen w-full overflow-hidden"
-      style={{
-        backgroundImage: "url('/images/hero-background.png')",
-        backgroundSize: "cover",
-        backgroundPosition: "center center",
-        backgroundRepeat: "no-repeat",
-      }}
-    >
-      {/* Dark overlay */}
-      <div className="absolute inset-0 bg-black/40" />
+    <section className="relative h-screen overflow-hidden">
 
-      {/* Hero Content */}
-      <div className="relative z-10 flex h-full flex-col items-center justify-center text-center px-6">
+      {/* Background */}
+      <Background />
 
-        <h1 className="text-7xl font-serif text-white mb-6">
-          Stéphane le nomade
-        </h1>
+      {/* Main Content */}
+      <div className="relative z-20 mx-auto h-screen max-w-[1800px]">
 
-        <p className="text-3xl italic text-amber-400 mb-10">
-          Every pin on the map has a story.
-        </p>
+        {/* Story */}
+        <div className="absolute left-12 top-12 z-20">
+          <StoryPanel />
+        </div>
 
-        <button className="rounded-full border border-amber-400 px-8 py-4 text-white hover:bg-amber-400 hover:text-black transition">
-          Begin the Journey
-        </button>
+        {/* World Map */}
+        <div className="absolute top-6 left-[14%] w-[100%] z-10">
+          <WorldMap />
+        </div>
+
+        {/* Stephane */}
+        <div className="absolute bottom-0 left-35 z-40">
+          <Image
+            src="/images/hero/stephane.png"
+            alt="Stephane"
+            width={500}
+            height={760}
+            priority
+            className="object-contain"
+          />
+        </div>
 
       </div>
+
+      {/* Stats */}
+      <div className="absolute bottom-10 left-1/2 -translate-x-1/2 z-50 w-full flex justify-center">
+        <Stats />
+      </div>
+
     </section>
   );
 }

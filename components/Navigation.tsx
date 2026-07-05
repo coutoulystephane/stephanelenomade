@@ -1,53 +1,39 @@
-import { Compass } from "lucide-react";
+"use client";
+
+import Link from "next/link";
+import { usePathname } from "next/navigation";
 
 export default function Navigation() {
+  const pathname = usePathname();
+
+  const navItems = [
+    { label: "Map", href: "/" },
+    { label: "Journal", href: "/journal" },
+    { label: "Gallery", href: "/gallery" },
+    { label: "Bucket List", href: "/bucket-list" },
+    { label: "About", href: "/about" },
+    { label: "Contact", href: "/contact" },
+  ];
+
   return (
-    <header className="absolute top-0 left-0 z-50 w-full">
-      <div className="mx-auto flex max-w-7xl items-center justify-between px-8 py-6">
+    <header className="fixed top-0 left-0 z-50 w-full">
+      <nav className="mx-auto flex max-w-[1800px] justify-center gap-16 py-8 text-lg text-white">
 
-        {/* Logo */}
-        <div className="flex items-center gap-3">
-          <Compass
-            size={34}
-            strokeWidth={1.5}
-            className="text-amber-400"
-          />
+        {navItems.map((item) => (
+          <Link
+            key={item.href}
+            href={item.href}
+            className={`pb-1 transition duration-300 hover:text-[#d4af37] ${
+              pathname === item.href
+                ? "border-b-2 border-[#d4af37] text-[#d4af37]"
+                : "text-white"
+            }`}
+          >
+            {item.label}
+          </Link>
+        ))}
 
-          <h1 className="text-4xl font-serif text-white">
-            Stéphane le nomade
-          </h1>
-        </div>
-
-        {/* Navigation */}
-        <nav className="hidden lg:flex gap-10 text-white">
-
-          <a href="#" className="hover:text-amber-400 transition">
-            Map
-          </a>
-
-          <a href="#" className="hover:text-amber-400 transition">
-            Journal
-          </a>
-
-          <a href="#" className="hover:text-amber-400 transition">
-            Gallery
-          </a>
-
-          <a href="#" className="hover:text-amber-400 transition">
-            Bucket List
-          </a>
-
-          <a href="#" className="hover:text-amber-400 transition">
-            About
-          </a>
-
-          <a href="#" className="hover:text-amber-400 transition">
-            Contact
-          </a>
-
-        </nav>
-
-      </div>
+      </nav>
     </header>
   );
 }
