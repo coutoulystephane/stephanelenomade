@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { getDestinations } from "@/lib/archive";
+import { getCountryIso } from "@/lib/archive";
 
 type Destination = {
   geonameId: number;
@@ -13,9 +13,6 @@ type DestinationSelectProps = {
   value: number | null;
   onChange: (destinationId: number | null) => void;
 };
-
-const USA_ID = 233;
-const CANADA_ID = 37;
 
 export default function DestinationSelect({
   countryId,
@@ -35,28 +32,24 @@ export default function DestinationSelect({
       setLoading(true);
 
       try {
-        let data: Destination[] = [];
+        const iso = await getCountryIso(countryId);
 
-        // 🇺🇸 USA
-        if (countryId === USA_ID) {
-          console.log("Loading USA JSON...");
-
-          const response = await fetch("/data/countries/UnitedStates.json");
-          data = await response.json();
+        if (!iso) {
+          setDestinations([]);
+          return;
         }
 
-        // 🇨🇦 Canada
-        else if (countryId === CANADA_ID) {
-          console.log("Loading Canada JSON...");
+        console.log(`Loading ${iso}.json`);
 
-          const response = await fetch("/data/countries/Canada.json");
-          data = await response.json();
+        const response = await fetch(`/data/countries/${iso}.json`);
+
+        if (!response.ok) {
+          throw new Error(`Cannot load ${iso}.json`);
         }
 
-        // 🌍 Everything else
-        else {
-          data = await getDestinations(countryId);
-        }
+        const data: Destination[] = await response.json();
+
+        data.sort((a, b) => a.name.localeCompare(b.name));
 
         setDestinations(data);
       } catch (err) {

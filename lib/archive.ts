@@ -29,6 +29,21 @@ export async function getCountries(continentId: number) {
   return data ?? [];
 }
 
+export async function getCountryIso(countryId: number) {
+  const { data, error } = await supabase
+    .from("countries")
+    .select("iso_code")
+    .eq("id", countryId)
+    .single();
+
+  if (error) {
+    console.error(error);
+    return null;
+  }
+
+  return data?.iso_code?.toLowerCase() ?? null;
+}
+
 /* --------------------------------------------------
    MASTER DESTINATIONS
 --------------------------------------------------- */
@@ -66,7 +81,6 @@ export async function getDestinations(countryId: number) {
 
   return allDestinations;
 }
-
 
 /* --------------------------------------------------
    NEW SEARCH FUNCTION
