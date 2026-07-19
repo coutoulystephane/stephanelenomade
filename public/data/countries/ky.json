@@ -1,0 +1,632 @@
+[
+  {
+    "geonameId": 3580762,
+    "name": "Ally Land",
+    "latitude": 19.34101,
+    "longitude": -81.1194,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580751,
+    "name": "Belford Estates",
+    "latitude": 19.28472,
+    "longitude": -81.2464,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580750,
+    "name": "Bessy Howard Cay",
+    "latitude": 19.74931,
+    "longitude": -79.7197,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580748,
+    "name": "Betty Bay Pond",
+    "latitude": 19.29665,
+    "longitude": -81.19286,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580742,
+    "name": "Blakes",
+    "latitude": 19.30338,
+    "longitude": -81.09753,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580733,
+    "name": "Bodden Town",
+    "latitude": 19.27647,
+    "longitude": -81.2542,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580732,
+    "name": "Booby Cay",
+    "latitude": 19.32874,
+    "longitude": -81.29103,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580725,
+    "name": "Breakers",
+    "latitude": 19.2961,
+    "longitude": -81.19844,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580724,
+    "name": "Breezy Castle",
+    "latitude": 19.29613,
+    "longitude": -81.36068,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580723,
+    "name": "Brinkleys",
+    "latitude": 19.34909,
+    "longitude": -81.2409,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580720,
+    "name": "Cayman Brac Island",
+    "latitude": 19.71667,
+    "longitude": -79.81667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580719,
+    "name": "Cayman Islands",
+    "latitude": 19.5,
+    "longitude": -80.66667,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580717,
+    "name": "Cayman Palms",
+    "latitude": 19.27759,
+    "longitude": -81.2699,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580713,
+    "name": "Channel Land",
+    "latitude": 19.34365,
+    "longitude": -81.21762,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580703,
+    "name": "Colliers Pond",
+    "latitude": 19.33874,
+    "longitude": -81.08754,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580682,
+    "name": "Driftwood Village",
+    "latitude": 19.35339,
+    "longitude": -81.24647,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580680,
+    "name": "Duck Pond Cay",
+    "latitude": 19.30964,
+    "longitude": -81.29766,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580678,
+    "name": "East End",
+    "latitude": 19.3,
+    "longitude": -81.11667,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580666,
+    "name": "Frank Sound",
+    "latitude": 19.30239,
+    "longitude": -81.18194,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580662,
+    "name": "Further Ground",
+    "latitude": 19.34149,
+    "longitude": -81.19896,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580661,
+    "name": "George Town",
+    "latitude": 19.2866,
+    "longitude": -81.37436,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580656,
+    "name": "Grand Cayman",
+    "latitude": 19.32281,
+    "longitude": -81.2487,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580650,
+    "name": "Gun Bay",
+    "latitude": 19.31077,
+    "longitude": -81.09202,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580647,
+    "name": "Half Moon Bay",
+    "latitude": 19.29689,
+    "longitude": -81.15102,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580637,
+    "name": "High Rock",
+    "latitude": 19.29467,
+    "longitude": -81.13195,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580636,
+    "name": "High Rock Estates",
+    "latitude": 19.29875,
+    "longitude": -81.14654,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580633,
+    "name": "Hutland",
+    "latitude": 19.34922,
+    "longitude": -81.21346,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580625,
+    "name": "Jackson’s Pond",
+    "latitude": 19.69035,
+    "longitude": -80.06424,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580626,
+    "name": "Jacksons Pond",
+    "latitude": 19.36667,
+    "longitude": -81.38996,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580618,
+    "name": "Lesser Caymans",
+    "latitude": 19.66667,
+    "longitude": -79.91667,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580614,
+    "name": "Little Cayman",
+    "latitude": 19.69146,
+    "longitude": -80.04303,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580613,
+    "name": "Little Cayman Brac",
+    "latitude": 19.75379,
+    "longitude": -79.72821,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580601,
+    "name": "Lower Valley",
+    "latitude": 19.2804,
+    "longitude": -81.28431,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580595,
+    "name": "Malportas Pond",
+    "latitude": 19.3448,
+    "longitude": -81.20473,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580591,
+    "name": "Meagre Bay Pond",
+    "latitude": 19.29474,
+    "longitude": -81.23225,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580590,
+    "name": "Midland Acres",
+    "latitude": 19.29862,
+    "longitude": -81.22061,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 9294254,
+    "name": "Moore Lake",
+    "latitude": 19.67019,
+    "longitude": -80.07853,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580580,
+    "name": "Newlands",
+    "latitude": 19.28542,
+    "longitude": -81.302,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580575,
+    "name": "North Side",
+    "latitude": 19.35143,
+    "longitude": -81.20851,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580572,
+    "name": "North Sound Estates",
+    "latitude": 19.29303,
+    "longitude": -81.30242,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580571,
+    "name": "North Ward",
+    "latitude": 19.28439,
+    "longitude": -81.27053,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580566,
+    "name": "Old Man Bay",
+    "latitude": 19.34419,
+    "longitude": -81.17652,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580562,
+    "name": "Omega Gardens",
+    "latitude": 19.29239,
+    "longitude": -81.32675,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580561,
+    "name": "Owen Island",
+    "latitude": 19.66643,
+    "longitude": -80.0625,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580557,
+    "name": "Pease Bay",
+    "latitude": 19.28781,
+    "longitude": -81.24166,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580556,
+    "name": "Pedro",
+    "latitude": 19.27581,
+    "longitude": -81.27487,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580553,
+    "name": "Prospect",
+    "latitude": 19.27971,
+    "longitude": -81.33277,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580551,
+    "name": "Prospect Park",
+    "latitude": 19.28072,
+    "longitude": -81.3302,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580547,
+    "name": "Red Bay Estate",
+    "latitude": 19.28724,
+    "longitude": -81.34125,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580540,
+    "name": "Saint James",
+    "latitude": 19.26713,
+    "longitude": -81.28887,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580535,
+    "name": "Salt Water Pond",
+    "latitude": 19.68832,
+    "longitude": -79.86424,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580532,
+    "name": "Sand Cay",
+    "latitude": 19.26314,
+    "longitude": -81.38625,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580529,
+    "name": "Savannah",
+    "latitude": 19.2806,
+    "longitude": -81.29866,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580525,
+    "name": "Sea Pond",
+    "latitude": 19.39473,
+    "longitude": -81.38435,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580506,
+    "name": "Spotts",
+    "latitude": 19.2742,
+    "longitude": -81.31256,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580502,
+    "name": "Tarpon Lake",
+    "latitude": 19.68122,
+    "longitude": -80.04064,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580495,
+    "name": "The Mountain",
+    "latitude": 19.3309,
+    "longitude": -81.19905,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580490,
+    "name": "Tropical Gardens",
+    "latitude": 19.29124,
+    "longitude": -81.34894,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580489,
+    "name": "Upper Land",
+    "latitude": 19.36258,
+    "longitude": -81.38703,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580487,
+    "name": "Vidal Cay",
+    "latitude": 19.38558,
+    "longitude": -81.35323,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580486,
+    "name": "Vulgunners Pond",
+    "latitude": 19.38774,
+    "longitude": -81.38358,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580477,
+    "name": "West Bay",
+    "latitude": 19.38197,
+    "longitude": -81.39281,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580471,
+    "name": "Whitehall Estates",
+    "latitude": 19.31313,
+    "longitude": -81.38208,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  }
+]

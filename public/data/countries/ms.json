@@ -1,0 +1,152 @@
+[
+  {
+    "geonameId": 3578212,
+    "name": "Castle Peak",
+    "latitude": 16.7091,
+    "longitude": -62.17695,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3578207,
+    "name": "Chances Peak",
+    "latitude": 16.709,
+    "longitude": -62.17584,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3578178,
+    "name": "Fergus Mountain",
+    "latitude": 16.69139,
+    "longitude": -62.17179,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3578156,
+    "name": "Ghaut Matraimie Falls",
+    "latitude": 16.71003,
+    "longitude": -62.15761,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3578151,
+    "name": "Great Alp Falls (Permanently Closed)",
+    "latitude": 16.68321,
+    "longitude": -62.18444,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3578130,
+    "name": "Katy Hill",
+    "latitude": 16.75908,
+    "longitude": -62.19654,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3578125,
+    "name": "Lawyers Mountain",
+    "latitude": 16.76432,
+    "longitude": -62.21327,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3578114,
+    "name": "Little Redonda",
+    "latitude": 16.82079,
+    "longitude": -62.19346,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3578098,
+    "name": "Montserrat",
+    "latitude": 16.7404,
+    "longitude": -62.18983,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3578069,
+    "name": "Plymouth",
+    "latitude": 16.70555,
+    "longitude": -62.21292,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3578051,
+    "name": "Roche’s Mountain",
+    "latitude": 16.70569,
+    "longitude": -62.16884,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3578043,
+    "name": "Saint George’s Hill",
+    "latitude": 16.72085,
+    "longitude": -62.21148,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3578038,
+    "name": "Saint Peters",
+    "latitude": 16.7727,
+    "longitude": -62.21729,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3578033,
+    "name": "Shell Rock",
+    "latitude": 16.75863,
+    "longitude": -62.18427,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3578030,
+    "name": "Silver Hill",
+    "latitude": 16.80964,
+    "longitude": -62.19446,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "geonameId": 617702,
+    "name": "Anenii Noi",
+    "latitude": 46.87795,
+    "longitude": 29.23503,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 618605,
+    "name": "Bălţi",
+    "latitude": 47.76291,
+    "longitude": 27.92854,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 618594,
+    "name": "Basarabeasca",
+    "latitude": 46.33352,
+    "longitude": 28.96165,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 618577,
+    "name": "Bender",
+    "latitude": 46.83158,
+    "longitude": 29.47671,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 617345,
+    "name": "Bilicenii Vechi",
+    "latitude": 47.6558,
+    "longitude": 28.04734,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 618556,
+    "name": "Blijnii Hutor",
+    "latitude": 46.88754,
+    "longitude": 29.64651,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 618551,
+    "name": "Bogaty Ozero",
+    "latitude": 46.05,
+    "longitude": 28.11667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 618528,
+    "name": "Botna Ozero",
+    "latitude": 46.7,
+    "longitude": 29.55,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 618510,
+    "name": "Briceni",
+    "latitude": 48.36302,
+    "longitude": 27.07847,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 618456,
+    "name": "Cahul",
+    "latitude": 45.90456,
+    "longitude": 28.19516,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 618454,
+    "name": "Călăraşi",
+    "latitude": 47.25548,
+    "longitude": 28.30953,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 618453,
+    "name": "Camenca",
+    "latitude": 48.03233,
+    "longitude": 28.69899,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 618452,
+    "name": "Cantemir",
+    "latitude": 46.27749,
+    "longitude": 28.20052,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 618120,
+    "name": "Căuşeni",
+    "latitude": 46.63738,
+    "longitude": 29.41087,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 618450,
+    "name": "Ceadîr-Lunga",
+    "latitude": 46.06169,
+    "longitude": 28.83078,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 618426,
+    "name": "Chisinau",
+    "latitude": 47.00902,
+    "longitude": 28.85938,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 618067,
+    "name": "Chiţcani",
+    "latitude": 46.78296,
+    "longitude": 29.61682,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 618406,
+    "name": "Cimişlia",
+    "latitude": 46.52629,
+    "longitude": 28.7649,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 824153,
+    "name": "Ciorescu",
+    "latitude": 47.13,
+    "longitude": 28.88937,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 618057,
+    "name": "Cocieri",
+    "latitude": 47.3017,
+    "longitude": 29.11755,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 618054,
+    "name": "Codru",
+    "latitude": 46.97648,
+    "longitude": 28.819,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 618405,
+    "name": "Comrat",
+    "latitude": 46.29488,
+    "longitude": 28.65713,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 618404,
+    "name": "Congaz",
+    "latitude": 46.10744,
+    "longitude": 28.59303,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 617965,
+    "name": "Cricova",
+    "latitude": 47.13835,
+    "longitude": 28.86156,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 618403,
+    "name": "Criuleni",
+    "latitude": 47.2134,
+    "longitude": 29.15847,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 618400,
+    "name": "Dancu",
+    "latitude": 46.75818,
+    "longitude": 28.20716,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 824311,
+    "name": "Dealul Bălăneşti",
+    "latitude": 47.2175,
+    "longitude": 28.08361,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 824312,
+    "name": "Dealul Lărguţa",
+    "latitude": 46.30833,
+    "longitude": 28.34583,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 618387,
+    "name": "Dnestrovsc",
+    "latitude": 46.624,
+    "longitude": 29.906,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 618382,
+    "name": "Donduşeni",
+    "latitude": 48.24268,
+    "longitude": 27.6101,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 618370,
+    "name": "Drochia",
+    "latitude": 48.03686,
+    "longitude": 27.81242,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 618365,
+    "name": "Dubăsari",
+    "latitude": 47.26562,
+    "longitude": 29.16667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 618356,
+    "name": "Durleşti",
+    "latitude": 47.02156,
+    "longitude": 28.76303,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 617076,
+    "name": "Edineţ",
+    "latitude": 48.17319,
+    "longitude": 27.30075,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 618344,
+    "name": "Fălești",
+    "latitude": 47.57667,
+    "longitude": 27.71264,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 618329,
+    "name": "Floreşti",
+    "latitude": 47.89168,
+    "longitude": 28.29339,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 618261,
+    "name": "Glodeni",
+    "latitude": 47.77467,
+    "longitude": 27.51753,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7670564,
+    "name": "Grădina Publică Petru Rareș",
+    "latitude": 48.16088,
+    "longitude": 28.30458,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 617993,
+    "name": "Hînceşti",
+    "latitude": 46.83089,
+    "longitude": 28.58999,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 618234,
+    "name": "Hryhoriopol",
+    "latitude": 47.15413,
+    "longitude": 29.30008,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 618196,
+    "name": "Ialoveni",
+    "latitude": 46.94357,
+    "longitude": 28.78153,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 617081,
+    "name": "Iargara",
+    "latitude": 46.4252,
+    "longitude": 28.42676,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 824166,
+    "name": "Lacul Beleu",
+    "latitude": 45.60025,
+    "longitude": 28.12138,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 831488,
+    "name": "Lacul Crasnoe",
+    "latitude": 46.65329,
+    "longitude": 29.84528,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10192021,
+    "name": "Lacul de Acumulare Dubăsari",
+    "latitude": 47.2972,
+    "longitude": 29.09885,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 618279,
+    "name": "Lacul Ghidighici",
+    "latitude": 47.10536,
+    "longitude": 28.70992,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 831220,
+    "name": "Lacul Iaz",
+    "latitude": 47.44194,
+    "longitude": 28.79917,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 829971,
+    "name": "Lacul Liman",
+    "latitude": 46.79111,
+    "longitude": 29.58917,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 824159,
+    "name": "Lacul Manta",
+    "latitude": 45.83972,
+    "longitude": 28.16028,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 618460,
+    "name": "Lacul Sălaş",
+    "latitude": 46.91272,
+    "longitude": 29.4129,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 829848,
+    "name": "Lacul Stînca-Costeşti",
+    "latitude": 47.88132,
+    "longitude": 27.20434,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 865579,
+    "name": "Lacul Valea Morilor",
+    "latitude": 47.01778,
+    "longitude": 28.81167,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 617904,
+    "name": "Leova",
+    "latitude": 46.48195,
+    "longitude": 28.25298,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 824142,
+    "name": "Limanul Cuciurgan",
+    "latitude": 46.63007,
+    "longitude": 29.95591,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 617778,
+    "name": "Mîndreşti",
+    "latitude": 47.50525,
+    "longitude": 28.27687,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 617753,
+    "name": "Nisporeni",
+    "latitude": 47.08025,
+    "longitude": 28.17098,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 617659,
+    "name": "Ocniţa",
+    "latitude": 48.38231,
+    "longitude": 27.43864,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 617638,
+    "name": "Orhei",
+    "latitude": 47.38503,
+    "longitude": 28.82535,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7667991,
+    "name": "Orhei National Park",
+    "latitude": 47.30779,
+    "longitude": 28.62973,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 618631,
+    "name": "Otaci",
+    "latitude": 48.43285,
+    "longitude": 27.79912,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10194154,
+    "name": "Ozero Buzhora",
+    "latitude": 46.50587,
+    "longitude": 28.22945,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 864978,
+    "name": "Ozero Drachele",
+    "latitude": 45.8136,
+    "longitude": 28.13428,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 864979,
+    "name": "Ozero Nizhneye Dragele",
+    "latitude": 45.81366,
+    "longitude": 28.16081,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 864980,
+    "name": "Ozero Rotunda",
+    "latitude": 45.79838,
+    "longitude": 28.1568,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7647621,
+    "name": "Parcul Catedralei",
+    "latitude": 47.02591,
+    "longitude": 28.8343,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7670563,
+    "name": "Parcul Central din Soroca",
+    "latitude": 48.15315,
+    "longitude": 28.29924,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 617602,
+    "name": "Pervomaisc",
+    "latitude": 46.73253,
+    "longitude": 29.9617,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7667936,
+    "name": "Plaiul Fagului",
+    "latitude": 47.30028,
+    "longitude": 28.03694,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 829853,
+    "name": "Rezervorul de Apă Dubăsari",
+    "latitude": 47.29972,
+    "longitude": 29.09778,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 829668,
+    "name": "Rezervorul de Apă Răzeni",
+    "latitude": 46.79567,
+    "longitude": 28.92796,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 617502,
+    "name": "Rezina",
+    "latitude": 47.74857,
+    "longitude": 28.96769,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 617486,
+    "name": "Rîbniţa",
+    "latitude": 47.76817,
+    "longitude": 29.01,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 617482,
+    "name": "Rîşcani",
+    "latitude": 47.94829,
+    "longitude": 27.56669,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 617420,
+    "name": "Shirokoye Ozero",
+    "latitude": 46.63583,
+    "longitude": 29.70639,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 617279,
+    "name": "Sîngera",
+    "latitude": 46.91557,
+    "longitude": 28.96673,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 617914,
+    "name": "Sîngerei",
+    "latitude": 47.63694,
+    "longitude": 28.1407,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 617381,
+    "name": "Slobozia",
+    "latitude": 46.72927,
+    "longitude": 29.70446,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 617372,
+    "name": "Şoldăneşti",
+    "latitude": 47.81618,
+    "longitude": 28.79841,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 617367,
+    "name": "Soroca",
+    "latitude": 48.15659,
+    "longitude": 28.28489,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 617317,
+    "name": "Stăuceni",
+    "latitude": 47.09643,
+    "longitude": 28.86791,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 617284,
+    "name": "Ştefan Vodă",
+    "latitude": 46.51294,
+    "longitude": 29.66223,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 617302,
+    "name": "Strășeni",
+    "latitude": 47.14216,
+    "longitude": 28.60774,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 617270,
+    "name": "Taraclia",
+    "latitude": 45.90321,
+    "longitude": 28.66628,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 864950,
+    "name": "Tarakliyskoye Vodokhranilishche",
+    "latitude": 45.97501,
+    "longitude": 28.59398,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 617254,
+    "name": "Teleneşti",
+    "latitude": 47.50179,
+    "longitude": 28.36478,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 617239,
+    "name": "Tiraspol",
+    "latitude": 46.84275,
+    "longitude": 29.6284,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 617187,
+    "name": "Tvardița",
+    "latitude": 46.14826,
+    "longitude": 28.96491,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 617180,
+    "name": "Ungheni",
+    "latitude": 47.21023,
+    "longitude": 27.80013,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 617164,
+    "name": "Vadul lui Vodă",
+    "latitude": 47.09009,
+    "longitude": 29.0757,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 617096,
+    "name": "Vulcăneşti",
+    "latitude": 45.68492,
+    "longitude": 28.40613,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  }
+]

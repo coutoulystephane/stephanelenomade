@@ -1,0 +1,942 @@
+[
+  {
+    "geonameId": 2413990,
+    "name": "Abuko",
+    "latitude": 13.40417,
+    "longitude": -16.65583,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2571559,
+    "name": "Abuko Nature Reserve",
+    "latitude": 13.39139,
+    "longitude": -16.6525,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413971,
+    "name": "Alohungari",
+    "latitude": 13.31667,
+    "longitude": -14.23333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413952,
+    "name": "Ba Faraba Island",
+    "latitude": 13.65,
+    "longitude": -15.18333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413958,
+    "name": "Baboon Islands",
+    "latitude": 13.63333,
+    "longitude": -14.95,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413955,
+    "name": "Badja Kunda",
+    "latitude": 13.46667,
+    "longitude": -14.05,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413920,
+    "name": "Bakau",
+    "latitude": 13.47806,
+    "longitude": -16.68194,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413915,
+    "name": "Bakoti",
+    "latitude": 13.43,
+    "longitude": -16.69833,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413876,
+    "name": "Banjul",
+    "latitude": 13.45274,
+    "longitude": -16.57803,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2412237,
+    "name": "Banjul Island",
+    "latitude": 13.45417,
+    "longitude": -16.60833,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413874,
+    "name": "Banjul NDing",
+    "latitude": 13.37333,
+    "longitude": -16.65722,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413866,
+    "name": "Bansang",
+    "latitude": 13.43333,
+    "longitude": -14.65,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11288101,
+    "name": "Bao Belong Wetland Reserve",
+    "latitude": 13.51366,
+    "longitude": -15.85808,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413827,
+    "name": "Barra",
+    "latitude": 13.48278,
+    "longitude": -16.54556,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413818,
+    "name": "Basse Santa Su",
+    "latitude": 13.30995,
+    "longitude": -14.21373,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413788,
+    "name": "Bijilo",
+    "latitude": 13.41806,
+    "longitude": -16.73,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413786,
+    "name": "Bijol Islands",
+    "latitude": 13.38528,
+    "longitude": -16.81694,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413780,
+    "name": "Bird Island",
+    "latitude": 13.71667,
+    "longitude": -14.93333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11205079,
+    "name": "Bolong Fenyo Community Wildlife Reserve",
+    "latitude": 13.3666,
+    "longitude": -16.73333,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413753,
+    "name": "Brikama",
+    "latitude": 13.27136,
+    "longitude": -16.64944,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413749,
+    "name": "Brikama Ba",
+    "latitude": 13.53333,
+    "longitude": -14.93333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413747,
+    "name": "Brikama Island",
+    "latitude": 13.58333,
+    "longitude": -14.96667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413745,
+    "name": "Brufut",
+    "latitude": 13.38417,
+    "longitude": -16.75139,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413696,
+    "name": "Busumbala",
+    "latitude": 13.33917,
+    "longitude": -16.6875,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413657,
+    "name": "Chitabong Island",
+    "latitude": 13.42972,
+    "longitude": -16.60972,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413642,
+    "name": "Dankunku Island",
+    "latitude": 13.56667,
+    "longitude": -15.36667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413637,
+    "name": "Daranka Island",
+    "latitude": 13.425,
+    "longitude": -16.61056,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413607,
+    "name": "Deer Islands",
+    "latitude": 13.71667,
+    "longitude": -15.05,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413565,
+    "name": "Dippa Kunda",
+    "latitude": 13.44028,
+    "longitude": -16.68694,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413564,
+    "name": "Djalabango",
+    "latitude": 13.28056,
+    "longitude": -16.67861,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413555,
+    "name": "Dog Island",
+    "latitude": 13.36472,
+    "longitude": -16.51139,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413536,
+    "name": "Elephant Island",
+    "latitude": 13.45,
+    "longitude": -15.33333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413533,
+    "name": "Essau",
+    "latitude": 13.48389,
+    "longitude": -16.53472,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413525,
+    "name": "Faji Kunda",
+    "latitude": 13.41778,
+    "longitude": -16.66667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413515,
+    "name": "Farafenni",
+    "latitude": 13.56667,
+    "longitude": -15.6,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413511,
+    "name": "Farato",
+    "latitude": 13.4,
+    "longitude": -14.21667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413472,
+    "name": "Fort James Island",
+    "latitude": 13.31753,
+    "longitude": -16.36144,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413450,
+    "name": "Gambissar",
+    "latitude": 13.31667,
+    "longitude": -13.95,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413445,
+    "name": "Garawol",
+    "latitude": 13.41667,
+    "longitude": -13.95,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413419,
+    "name": "Gunjur",
+    "latitude": 13.20194,
+    "longitude": -16.73389,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413304,
+    "name": "Jambanjali",
+    "latitude": 13.28028,
+    "longitude": -16.72944,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413300,
+    "name": "Jamisa",
+    "latitude": 13.41667,
+    "longitude": -16.71667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413437,
+    "name": "Janjanbureh",
+    "latitude": 13.54039,
+    "longitude": -14.76374,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2412708,
+    "name": "Janjanbureh Island",
+    "latitude": 13.53333,
+    "longitude": -14.76667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6941902,
+    "name": "Kachikally Museum and Crocodile Pool",
+    "latitude": 13.47667,
+    "longitude": -16.6725,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413152,
+    "name": "Kai Hai Islands",
+    "latitude": 13.55,
+    "longitude": -14.88333,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413147,
+    "name": "Kaimbujae NDing",
+    "latitude": 13.285,
+    "longitude": -16.62139,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413146,
+    "name": "Kajakat Island",
+    "latitude": 13.56667,
+    "longitude": -14.88333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413106,
+    "name": "Kanifing",
+    "latitude": 13.44639,
+    "longitude": -16.67444,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2413061,
+    "name": "Kartung",
+    "latitude": 13.09472,
+    "longitude": -16.76222,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2412992,
+    "name": "Kerewan",
+    "latitude": 13.4898,
+    "longitude": -16.08879,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7282416,
+    "name": "Kerr Serign",
+    "latitude": 13.43247,
+    "longitude": -16.7203,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7670733,
+    "name": "Kiang West National Park",
+    "latitude": 13.3833,
+    "longitude": -15.9167,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2412868,
+    "name": "Koina",
+    "latitude": 13.48333,
+    "longitude": -13.86667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2412855,
+    "name": "Kololi",
+    "latitude": 13.45,
+    "longitude": -16.71667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2412833,
+    "name": "Kotu",
+    "latitude": 13.45944,
+    "longitude": -16.70528,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2412815,
+    "name": "Kulari",
+    "latitude": 13.4,
+    "longitude": -14.08333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2412786,
+    "name": "Kunkujang",
+    "latitude": 13.38972,
+    "longitude": -16.67278,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2412749,
+    "name": "Lamin",
+    "latitude": 13.35222,
+    "longitude": -16.43389,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2412745,
+    "name": "Lamin Island",
+    "latitude": 13.41833,
+    "longitude": -16.60778,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2412737,
+    "name": "Latri Sabiji",
+    "latitude": 13.41333,
+    "longitude": -16.67889,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2412722,
+    "name": "Little Pappa Island",
+    "latitude": 13.66667,
+    "longitude": -15.28333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2412703,
+    "name": "Madiana",
+    "latitude": 13.51667,
+    "longitude": -14.53333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2412625,
+    "name": "Mandinari",
+    "latitude": 13.37278,
+    "longitude": -16.60278,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2412609,
+    "name": "Manjai Kunda",
+    "latitude": 13.44528,
+    "longitude": -16.70278,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2412605,
+    "name": "Mansa Konko",
+    "latitude": 13.44325,
+    "longitude": -15.5357,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2412529,
+    "name": "Mimang Island",
+    "latitude": 13.58333,
+    "longitude": -14.91667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2412358,
+    "name": "N’Jubdu Island",
+    "latitude": 13.65,
+    "longitude": -15.25,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2412452,
+    "name": "Nema Kunku",
+    "latitude": 13.25,
+    "longitude": -15.88333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12640501,
+    "name": "New Jeshwang",
+    "latitude": 13.44735,
+    "longitude": -16.665,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2412331,
+    "name": "Old Jeswang",
+    "latitude": 13.45861,
+    "longitude": -16.66333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411652,
+    "name": "Old Yundum",
+    "latitude": 13.3625,
+    "longitude": -16.68611,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2412294,
+    "name": "Pangon Island",
+    "latitude": 13.55,
+    "longitude": -14.8,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2412291,
+    "name": "Pappa Island",
+    "latitude": 13.63333,
+    "longitude": -15.23333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2412289,
+    "name": "Pasari Island",
+    "latitude": 13.7,
+    "longitude": -15.08333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2412282,
+    "name": "Pasul Island",
+    "latitude": 13.66667,
+    "longitude": -15.13333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2593157,
+    "name": "Pelican Island",
+    "latitude": 13.36111,
+    "longitude": -16.51194,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2412248,
+    "name": "Sabi",
+    "latitude": 13.23333,
+    "longitude": -14.2,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2412186,
+    "name": "Sanchaba",
+    "latitude": 13.42222,
+    "longitude": -16.70972,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2412154,
+    "name": "Sansankoto Island",
+    "latitude": 13.26806,
+    "longitude": -16.39778,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2412141,
+    "name": "Sanyang",
+    "latitude": 13.26667,
+    "longitude": -16.76056,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411990,
+    "name": "Sepu Island",
+    "latitude": 13.55,
+    "longitude": -14.86667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411989,
+    "name": "Serekunda",
+    "latitude": 13.43833,
+    "longitude": -16.67806,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411976,
+    "name": "Sifoe",
+    "latitude": 13.18361,
+    "longitude": -16.6975,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12640503,
+    "name": "Sinchu Alagi",
+    "latitude": 13.37491,
+    "longitude": -16.67841,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411949,
+    "name": "Sinchu Balla",
+    "latitude": 13.6,
+    "longitude": -15.03333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12640504,
+    "name": "Sinchu Sorry",
+    "latitude": 13.38753,
+    "longitude": -16.6855,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411905,
+    "name": "Soma",
+    "latitude": 13.43333,
+    "longitude": -15.53333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411880,
+    "name": "Sukuta",
+    "latitude": 13.41033,
+    "longitude": -16.70815,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12640502,
+    "name": "Talinding",
+    "latitude": 13.42558,
+    "longitude": -16.67261,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411805,
+    "name": "Tanji",
+    "latitude": 13.34889,
+    "longitude": -16.79083,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411727,
+    "name": "Tujering",
+    "latitude": 13.31889,
+    "longitude": -16.78548,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411700,
+    "name": "Welingara",
+    "latitude": 13.40361,
+    "longitude": -16.67361,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411653,
+    "name": "Yundum",
+    "latitude": 13.34556,
+    "longitude": -16.67278,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  }
+]

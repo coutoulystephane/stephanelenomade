@@ -1,0 +1,212 @@
+[
+  {
+    "geonameId": 1547345,
+    "name": "Anzac Peak",
+    "latitude": -53,
+    "longitude": 73.3,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1547338,
+    "name": "Big Ben",
+    "latitude": -53.10833,
+    "longitude": 73.525,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787466,
+    "name": "Budd Pass",
+    "latitude": -53.13333,
+    "longitude": 73.53333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787467,
+    "name": "Budd Peak",
+    "latitude": -53.11667,
+    "longitude": 73.55,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1547335,
+    "name": "Campbell Peak",
+    "latitude": -53.1,
+    "longitude": 73.51667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1547327,
+    "name": "Dome",
+    "latitude": -53.08333,
+    "longitude": 73.5,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1547321,
+    "name": "Flat Island",
+    "latitude": -53.03333,
+    "longitude": 72.6,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1547320,
+    "name": "Fremantle Peak",
+    "latitude": -53.08333,
+    "longitude": 73.5,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787527,
+    "name": "Gilchrist Aiguilles",
+    "latitude": -53.01667,
+    "longitude": 73.33333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1547316,
+    "name": "Hayter Peak",
+    "latitude": -53.01667,
+    "longitude": 73.33333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1547315,
+    "name": "Heard Island",
+    "latitude": -53.1,
+    "longitude": 73.5,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1547307,
+    "name": "Little Matterhorn",
+    "latitude": -53.06667,
+    "longitude": 73.48333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1547302,
+    "name": "Mawson Peak",
+    "latitude": -53.1,
+    "longitude": 73.51667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1547301,
+    "name": "McDonald Island",
+    "latitude": -53.05,
+    "longitude": 72.6,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1547300,
+    "name": "McDonald Islands",
+    "latitude": -53.03333,
+    "longitude": 72.6,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1547296,
+    "name": "Morgan Island",
+    "latitude": -53.01667,
+    "longitude": 73.56667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1547328,
+    "name": "Mount Dixon",
+    "latitude": -53,
+    "longitude": 73.28333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1547291,
+    "name": "Mount Olsen",
+    "latitude": -53.01667,
+    "longitude": 73.33333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1547281,
+    "name": "Mount Separation",
+    "latitude": -53.08333,
+    "longitude": 73.55,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1547289,
+    "name": "Red Island",
+    "latitude": -52.96667,
+    "longitude": 73.3,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1547280,
+    "name": "Shag Island",
+    "latitude": -52.91667,
+    "longitude": 73.58333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  }
+]

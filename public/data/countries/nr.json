@@ -1,0 +1,102 @@
+[
+  {
+    "geonameId": 2110450,
+    "name": "Anabar",
+    "latitude": -0.50845,
+    "longitude": 166.95326,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110447,
+    "name": "Anibare",
+    "latitude": -0.52792,
+    "longitude": 166.95249,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110427,
+    "name": "Baiti",
+    "latitude": -0.50803,
+    "longitude": 166.92945,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110439,
+    "name": "Buada Lagoon",
+    "latitude": -0.5351,
+    "longitude": 166.92226,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7626421,
+    "name": "Command Ridge Top of Nauru",
+    "latitude": -0.53062,
+    "longitude": 166.91679,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110433,
+    "name": "Ijuw",
+    "latitude": -0.521,
+    "longitude": 166.95813,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110426,
+    "name": "Nauru Island",
+    "latitude": -0.52642,
+    "longitude": 166.93527,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110421,
+    "name": "Uaboe",
+    "latitude": -0.51393,
+    "longitude": 166.92384,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110419,
+    "name": "Yangor",
+    "latitude": -0.53536,
+    "longitude": 166.91048,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7626461,
+    "name": "Yaren",
+    "latitude": -0.55085,
+    "longitude": 166.9252,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  }
+]

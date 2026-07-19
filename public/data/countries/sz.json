@@ -1,0 +1,2682 @@
+[
+  {
+    "geonameId": 13121850,
+    "name": "Bafazi",
+    "latitude": -26.81106,
+    "longitude": 31.32366,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1021646,
+    "name": "Bakenkop",
+    "latitude": -26.32102,
+    "longitude": 30.89134,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935117,
+    "name": "Bambinyoni",
+    "latitude": -25.98333,
+    "longitude": 31.51667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13096725,
+    "name": "Barytes",
+    "latitude": -26.19803,
+    "longitude": 31.00081,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1020664,
+    "name": "Bearded Man",
+    "latitude": -25.74348,
+    "longitude": 31.31537,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1020220,
+    "name": "Bellskop",
+    "latitude": -26.46667,
+    "longitude": 30.8,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13645255,
+    "name": "Big Bend",
+    "latitude": -26.7905,
+    "longitude": 31.93736,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13106097,
+    "name": "Boschbaken",
+    "latitude": -26.46459,
+    "longitude": 30.96921,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13096356,
+    "name": "Bulembu",
+    "latitude": -25.92111,
+    "longitude": 31.12715,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935110,
+    "name": "Bulowane",
+    "latitude": -27.01667,
+    "longitude": 31.61667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1013841,
+    "name": "Cecil Mack’s Pass",
+    "latitude": -27.07161,
+    "longitude": 32.00195,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13121816,
+    "name": "Cibo",
+    "latitude": -26.79847,
+    "longitude": 31.38386,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1010822,
+    "name": "Derby",
+    "latitude": -26.85,
+    "longitude": 30.8,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1010228,
+    "name": "Diepgezet",
+    "latitude": -26,
+    "longitude": 31.1,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13106134,
+    "name": "Dlokoza",
+    "latitude": -26.34113,
+    "longitude": 30.94189,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935105,
+    "name": "Dome",
+    "latitude": -26.38582,
+    "longitude": 30.92956,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13098282,
+    "name": "Dumisa",
+    "latitude": -26.22126,
+    "longitude": 31.48496,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935102,
+    "name": "Dwaleni Kop",
+    "latitude": -26.73499,
+    "longitude": 31.3656,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1007191,
+    "name": "Dwalile",
+    "latitude": -26.71465,
+    "longitude": 30.79045,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935100,
+    "name": "End",
+    "latitude": -27.11356,
+    "longitude": 31.7522,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13098313,
+    "name": "Endzingeni",
+    "latitude": -26.02482,
+    "longitude": 31.36618,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13098302,
+    "name": "Enkaba",
+    "latitude": -26.1066,
+    "longitude": 31.26276,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935098,
+    "name": "Esthede Kop",
+    "latitude": -26.95,
+    "longitude": 31.2,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935094,
+    "name": "Fahlaza",
+    "latitude": -27.1849,
+    "longitude": 31.82393,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13106123,
+    "name": "Fernie",
+    "latitude": -26.42348,
+    "longitude": 30.82575,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13116377,
+    "name": "Flag",
+    "latitude": -26.26045,
+    "longitude": 31.02398,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13116422,
+    "name": "Flat Rock",
+    "latitude": -26.3221,
+    "longitude": 31.15822,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13108799,
+    "name": "Ford",
+    "latitude": -26.5273,
+    "longitude": 30.89362,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13121054,
+    "name": "Gege",
+    "latitude": -26.95555,
+    "longitude": 31.06048,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935038,
+    "name": "Golweni",
+    "latitude": -27.06093,
+    "longitude": 31.50107,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13094911,
+    "name": "Hhohho",
+    "latitude": -25.79913,
+    "longitude": 31.3762,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935084,
+    "name": "Hlabeni Kop",
+    "latitude": -26.91707,
+    "longitude": 31.03271,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12123370,
+    "name": "Hlane National Park",
+    "latitude": -26.2813,
+    "longitude": 31.87986,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935082,
+    "name": "Hlati",
+    "latitude": -26.98333,
+    "longitude": 31.45,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935079,
+    "name": "Hlokohla",
+    "latitude": -26.5,
+    "longitude": 31.5,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935078,
+    "name": "Hlushwane",
+    "latitude": -27.2,
+    "longitude": 31.65,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935076,
+    "name": "Hluti",
+    "latitude": -27.221,
+    "longitude": 31.58685,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935087,
+    "name": "Howane",
+    "latitude": -26.22047,
+    "longitude": 31.10416,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13104182,
+    "name": "Hump",
+    "latitude": -26.04189,
+    "longitude": 31.98513,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13096615,
+    "name": "Impungulu",
+    "latitude": -25.979,
+    "longitude": 31.59496,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935073,
+    "name": "Incuba",
+    "latitude": -25.85852,
+    "longitude": 31.45547,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13108814,
+    "name": "Ingogodla",
+    "latitude": -26.5772,
+    "longitude": 31.04613,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 970904,
+    "name": "Ingwavuma",
+    "latitude": -27.12359,
+    "longitude": 31.97503,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935071,
+    "name": "Inhlonama Kop",
+    "latitude": -25.79138,
+    "longitude": 31.51583,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935070,
+    "name": "Inkambeni Hills",
+    "latitude": -26.0975,
+    "longitude": 31.63506,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935069,
+    "name": "Inkonjane Kop",
+    "latitude": -27.03333,
+    "longitude": 31.06667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 994646,
+    "name": "Intaba",
+    "latitude": -25.98333,
+    "longitude": 31.1,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13098482,
+    "name": "Isikepe",
+    "latitude": -26.07762,
+    "longitude": 31.51084,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13096772,
+    "name": "Jasper",
+    "latitude": -26.13374,
+    "longitude": 31.04245,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13121039,
+    "name": "Jekela",
+    "latitude": -26.86182,
+    "longitude": 31.02615,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13108417,
+    "name": "Jele",
+    "latitude": -26.46185,
+    "longitude": 31.34983,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935065,
+    "name": "Josani",
+    "latitude": -26.68123,
+    "longitude": 31.19835,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13131617,
+    "name": "Kalwana",
+    "latitude": -27.05677,
+    "longitude": 31.61603,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 979507,
+    "name": "Kamhlabane",
+    "latitude": -25.71785,
+    "longitude": 31.41478,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935062,
+    "name": "Kanjane",
+    "latitude": -26.36406,
+    "longitude": 30.98133,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13116410,
+    "name": "Kelly",
+    "latitude": -26.30258,
+    "longitude": 31.09173,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935061,
+    "name": "Kinkel Koppies",
+    "latitude": -26.53333,
+    "longitude": 30.8,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935059,
+    "name": "Kobolondo Peak",
+    "latitude": -25.87695,
+    "longitude": 31.27109,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935058,
+    "name": "Kon I",
+    "latitude": -27.2,
+    "longitude": 31.76667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13116374,
+    "name": "Kopola",
+    "latitude": -26.3596,
+    "longitude": 31.17677,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935056,
+    "name": "Krogh",
+    "latitude": -26.15,
+    "longitude": 32.1,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13108367,
+    "name": "Kwaluseni",
+    "latitude": -26.46856,
+    "longitude": 31.33311,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13121044,
+    "name": "Lagubu",
+    "latitude": -26.97136,
+    "longitude": 31.17985,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935053,
+    "name": "Landwado Kop",
+    "latitude": -26.66667,
+    "longitude": 30.98333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13098478,
+    "name": "Langa",
+    "latitude": -26.03806,
+    "longitude": 31.54635,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935052,
+    "name": "Lapanda",
+    "latitude": -26.80894,
+    "longitude": 31.06878,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13098493,
+    "name": "Lesimbile",
+    "latitude": -26.13963,
+    "longitude": 31.63771,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935047,
+    "name": "Lobati",
+    "latitude": -27.11667,
+    "longitude": 31.56667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935046,
+    "name": "Lokolwane Kop",
+    "latitude": -26.76667,
+    "longitude": 31.45,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13104208,
+    "name": "Loop",
+    "latitude": -26.11257,
+    "longitude": 31.97737,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13109558,
+    "name": "Luandle",
+    "latitude": -26.52847,
+    "longitude": 31.38711,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13134076,
+    "name": "Lubombo Mountains",
+    "latitude": -26.26186,
+    "longitude": 32.00508,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 9257584,
+    "name": "Lubombo Transfrontier Conservation Area",
+    "latitude": -26.25,
+    "longitude": 31.88,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13108359,
+    "name": "Lugoba",
+    "latitude": -26.48322,
+    "longitude": 31.3467,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13108804,
+    "name": "Luhleko",
+    "latitude": -26.51938,
+    "longitude": 31.0551,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13114004,
+    "name": "Lukhetseni",
+    "latitude": -26.69784,
+    "longitude": 32.08507,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13227037,
+    "name": "Lukhula",
+    "latitude": -26.41808,
+    "longitude": 31.9014,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13116424,
+    "name": "Lukhulu",
+    "latitude": -26.30724,
+    "longitude": 31.19034,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935035,
+    "name": "Lukonde",
+    "latitude": -25.83042,
+    "longitude": 31.42709,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13116375,
+    "name": "Luphohlo",
+    "latitude": -26.38371,
+    "longitude": 31.12647,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935034,
+    "name": "Luphohlo Kop",
+    "latitude": -26.37544,
+    "longitude": 31.12193,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13108812,
+    "name": "Lupondo",
+    "latitude": -26.52977,
+    "longitude": 31.24264,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935032,
+    "name": "Lutortya",
+    "latitude": -26.31182,
+    "longitude": 31.44739,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935030,
+    "name": "Luzinyane Kop",
+    "latitude": -26.6,
+    "longitude": 31.53333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935029,
+    "name": "Mabanda",
+    "latitude": -27.31287,
+    "longitude": 31.76117,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935028,
+    "name": "Mabandebande Nek",
+    "latitude": -27.28333,
+    "longitude": 31.76667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935026,
+    "name": "Mabogwana",
+    "latitude": -25.92534,
+    "longitude": 31.34089,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13108453,
+    "name": "Macnabs",
+    "latitude": -26.39098,
+    "longitude": 31.62059,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935022,
+    "name": "Madhlolo Kop",
+    "latitude": -26.96667,
+    "longitude": 31.21667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935020,
+    "name": "Maduba Kop",
+    "latitude": -27.05,
+    "longitude": 31.23333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935019,
+    "name": "Madulini Kop",
+    "latitude": -27.01667,
+    "longitude": 31.21667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13121808,
+    "name": "Magunusa",
+    "latitude": -26.87952,
+    "longitude": 31.35988,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 980353,
+    "name": "Mahamba",
+    "latitude": -27.09409,
+    "longitude": 31.06105,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13227062,
+    "name": "Mahuku",
+    "latitude": -26.39877,
+    "longitude": 31.90045,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13116438,
+    "name": "Mahunga",
+    "latitude": -26.31156,
+    "longitude": 31.15208,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13116404,
+    "name": "Makhosini",
+    "latitude": -26.30311,
+    "longitude": 31.2033,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935012,
+    "name": "Makhungutsha",
+    "latitude": -26.65313,
+    "longitude": 31.29369,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935013,
+    "name": "Makubula",
+    "latitude": -26.77469,
+    "longitude": 31.13963,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935011,
+    "name": "Makwana",
+    "latitude": -26.26183,
+    "longitude": 30.96158,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935008,
+    "name": "Malegate",
+    "latitude": -25.89753,
+    "longitude": 31.42458,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13094889,
+    "name": "Malegati",
+    "latitude": -25.88441,
+    "longitude": 31.43828,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13456234,
+    "name": "Malinda",
+    "latitude": -26.42755,
+    "longitude": 31.68881,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935006,
+    "name": "Malindza Koppies",
+    "latitude": -26.43108,
+    "longitude": 31.68056,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935005,
+    "name": "Malkerns",
+    "latitude": -26.52872,
+    "longitude": 31.19193,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935004,
+    "name": "Malobo Kop",
+    "latitude": -26.63333,
+    "longitude": 31.11667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13096773,
+    "name": "Malolotja",
+    "latitude": -26.1383,
+    "longitude": 31.10055,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13562599,
+    "name": "Malolotja Nature Reserve",
+    "latitude": -25.99609,
+    "longitude": 31.12077,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13096774,
+    "name": "Malolotsha Falls",
+    "latitude": -26.1167,
+    "longitude": 31.10258,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13116443,
+    "name": "Maloya",
+    "latitude": -26.34141,
+    "longitude": 31.02126,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13113317,
+    "name": "Mambane",
+    "latitude": -26.76565,
+    "longitude": 32.02029,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13104171,
+    "name": "Mananga South",
+    "latitude": -26.04564,
+    "longitude": 31.89597,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935000,
+    "name": "Mandisa",
+    "latitude": -26.56751,
+    "longitude": 31.38957,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13104193,
+    "name": "Manjalo",
+    "latitude": -26.01674,
+    "longitude": 31.97396,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13108823,
+    "name": "Mank4",
+    "latitude": -26.65407,
+    "longitude": 31.06796,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13130826,
+    "name": "Mantambe",
+    "latitude": -27.18412,
+    "longitude": 31.54639,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934996,
+    "name": "Mantasa Hlovana",
+    "latitude": -25.81693,
+    "longitude": 31.55589,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8504610,
+    "name": "Mantenga Nature Reserve",
+    "latitude": -26.40817,
+    "longitude": 31.13062,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13116461,
+    "name": "Mantenga Waterfall",
+    "latitude": -26.44312,
+    "longitude": 31.15105,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13121036,
+    "name": "Mantola",
+    "latitude": -26.83405,
+    "longitude": 31.17049,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934995,
+    "name": "Manzini",
+    "latitude": -26.49884,
+    "longitude": 31.38004,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934992,
+    "name": "Masele",
+    "latitude": -25.95303,
+    "longitude": 31.28674,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934991,
+    "name": "Mashobeni",
+    "latitude": -27,
+    "longitude": 31.11667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13096718,
+    "name": "Masilela",
+    "latitude": -26.19902,
+    "longitude": 31.23305,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6942091,
+    "name": "Matolotja Nature Reserve",
+    "latitude": -26.08802,
+    "longitude": 31.08629,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934988,
+    "name": "Matshemade Kop",
+    "latitude": -26.65,
+    "longitude": 31.25,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934987,
+    "name": "Mavututhi",
+    "latitude": -26.91933,
+    "longitude": 31.40102,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13108466,
+    "name": "Mayaluka",
+    "latitude": -26.42191,
+    "longitude": 31.67607,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934986,
+    "name": "Mbabala",
+    "latitude": -27.06728,
+    "longitude": 31.34126,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934985,
+    "name": "Mbabane",
+    "latitude": -26.31667,
+    "longitude": 31.13333,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13108385,
+    "name": "Mbekelweni",
+    "latitude": -26.43497,
+    "longitude": 31.33006,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934982,
+    "name": "Mbombwane",
+    "latitude": -26.90164,
+    "longitude": 31.10082,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13096764,
+    "name": "Mbovana",
+    "latitude": -26.0289,
+    "longitude": 31.11553,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934981,
+    "name": "Mbulungwane",
+    "latitude": -27.06383,
+    "longitude": 31.41861,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13103657,
+    "name": "Mbuluzi",
+    "latitude": -26.22765,
+    "longitude": 32.02811,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13131262,
+    "name": "Mbuzane",
+    "latitude": -27.17383,
+    "longitude": 31.50397,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13094882,
+    "name": "McCorkindales",
+    "latitude": -25.88806,
+    "longitude": 31.36202,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934977,
+    "name": "Mconga Kop",
+    "latitude": -26.96667,
+    "longitude": 31.41667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934976,
+    "name": "Mdimba",
+    "latitude": -26.38333,
+    "longitude": 31.26667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13116403,
+    "name": "Mdimba West",
+    "latitude": -26.42375,
+    "longitude": 31.23588,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13108418,
+    "name": "Mdzimba",
+    "latitude": -26.38961,
+    "longitude": 31.27798,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13106090,
+    "name": "Mgotshane",
+    "latitude": -26.46882,
+    "longitude": 30.90531,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934973,
+    "name": "Mhlababomvu",
+    "latitude": -26.55,
+    "longitude": 32.08333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934966,
+    "name": "Mhlume",
+    "latitude": -26.02607,
+    "longitude": 31.81423,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13108842,
+    "name": "Mission",
+    "latitude": -26.58139,
+    "longitude": 31.15567,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13121072,
+    "name": "Mjekwe",
+    "latitude": -26.83035,
+    "longitude": 31.02096,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13113967,
+    "name": "Mkhaya Nature Reserve",
+    "latitude": -26.62027,
+    "longitude": 31.74106,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13106108,
+    "name": "Mkwes",
+    "latitude": -26.47118,
+    "longitude": 30.84248,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13104174,
+    "name": "Mlawula Nature Reserve",
+    "latitude": -26.18691,
+    "longitude": 31.99635,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 935101,
+    "name": "Mlembe",
+    "latitude": -25.921,
+    "longitude": 31.12736,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934958,
+    "name": "Mliba",
+    "latitude": -26.24932,
+    "longitude": 31.57383,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13106126,
+    "name": "Mlindazwe",
+    "latitude": -26.477,
+    "longitude": 30.92022,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934956,
+    "name": "Mnjoli Dam",
+    "latitude": -26.16667,
+    "longitude": 31.66667,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934954,
+    "name": "Molingane Kop",
+    "latitude": -26.95,
+    "longitude": 31.05,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934957,
+    "name": "Monyonti",
+    "latitude": -26.68741,
+    "longitude": 31.24211,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13109557,
+    "name": "Moti",
+    "latitude": -26.71098,
+    "longitude": 31.425,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13096730,
+    "name": "Motshane New",
+    "latitude": -26.24891,
+    "longitude": 31.07396,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934951,
+    "name": "Mouaween Kop",
+    "latitude": -26.75,
+    "longitude": 30.86667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934950,
+    "name": "Mozaankop",
+    "latitude": -27.17453,
+    "longitude": 31.18214,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13121833,
+    "name": "Mpatheni",
+    "latitude": -26.97594,
+    "longitude": 31.41898,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13108370,
+    "name": "Mpembekatl",
+    "latitude": -26.44972,
+    "longitude": 31.37202,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13108403,
+    "name": "Mpembekatl South",
+    "latitude": -26.4561,
+    "longitude": 31.37114,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13094864,
+    "name": "Mphondle",
+    "latitude": -25.96695,
+    "longitude": 31.39542,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934943,
+    "name": "Mpunzi Hill",
+    "latitude": -26.54843,
+    "longitude": 31.60623,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13096597,
+    "name": "Mquaba",
+    "latitude": -25.84764,
+    "longitude": 31.5298,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13116425,
+    "name": "Msunduza",
+    "latitude": -26.34544,
+    "longitude": 31.16483,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934937,
+    "name": "Mthambama",
+    "latitude": -26.91326,
+    "longitude": 31.36066,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13094857,
+    "name": "Mvembili",
+    "latitude": -25.75113,
+    "longitude": 31.40321,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13131300,
+    "name": "Ndabankulu",
+    "latitude": -27.11622,
+    "longitude": 31.44824,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13094936,
+    "name": "Ndlalambi",
+    "latitude": -25.80416,
+    "longitude": 31.42942,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13094908,
+    "name": "Ndlovu",
+    "latitude": -25.96169,
+    "longitude": 31.44468,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 971751,
+    "name": "Ndlovudwalile",
+    "latitude": -26.71667,
+    "longitude": 30.8,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13103652,
+    "name": "Ndzindza Nature Reserve",
+    "latitude": -26.21737,
+    "longitude": 32.0588,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13113978,
+    "name": "Ngculwini",
+    "latitude": -26.5867,
+    "longitude": 31.53311,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13121841,
+    "name": "Ngobolweni",
+    "latitude": -26.90417,
+    "longitude": 31.46397,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13094932,
+    "name": "Ngonini",
+    "latitude": -25.8162,
+    "longitude": 31.38225,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934920,
+    "name": "Ngqongqane",
+    "latitude": -26.93333,
+    "longitude": 31.43333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934919,
+    "name": "Ngude",
+    "latitude": -27.01667,
+    "longitude": 31.56667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13108431,
+    "name": "Ngwengabovu",
+    "latitude": -26.33512,
+    "longitude": 31.56749,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934915,
+    "name": "Ngwenya",
+    "latitude": -26.16891,
+    "longitude": 31.05432,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934914,
+    "name": "Ngwenya Kop",
+    "latitude": -26.15,
+    "longitude": 32.08333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13121051,
+    "name": "Ngwompisi",
+    "latitude": -26.78185,
+    "longitude": 31.03696,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934913,
+    "name": "Nhlangano",
+    "latitude": -27.11222,
+    "longitude": 31.19833,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934911,
+    "name": "Njingo",
+    "latitude": -26.48333,
+    "longitude": 31.38333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934910,
+    "name": "Nkabane",
+    "latitude": -26.34491,
+    "longitude": 31.96146,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13098487,
+    "name": "Nkambeni",
+    "latitude": -26.07335,
+    "longitude": 31.64128,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13098486,
+    "name": "Nkambeni New",
+    "latitude": -26.08539,
+    "longitude": 31.63269,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13130824,
+    "name": "Nkondolo",
+    "latitude": -27.18434,
+    "longitude": 31.76263,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13133981,
+    "name": "Nkonjane",
+    "latitude": -26.79186,
+    "longitude": 32.10693,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13109541,
+    "name": "Nkonyeni",
+    "latitude": -26.68026,
+    "longitude": 31.42763,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13108328,
+    "name": "Nsingweni",
+    "latitude": -26.26748,
+    "longitude": 31.32957,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934897,
+    "name": "Ntabankulu",
+    "latitude": -26.48149,
+    "longitude": 31.66079,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934896,
+    "name": "Ntabankulu Kop",
+    "latitude": -26.98333,
+    "longitude": 31.06667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934895,
+    "name": "Ntabinezimpisi",
+    "latitude": -25.91215,
+    "longitude": 31.55776,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 9180486,
+    "name": "Ntfonjeni",
+    "latitude": -25.82659,
+    "longitude": 31.3273,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934894,
+    "name": "Ntondosi",
+    "latitude": -26.62468,
+    "longitude": 31.16665,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934893,
+    "name": "Ntonga Hills",
+    "latitude": -27.01435,
+    "longitude": 31.43141,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934892,
+    "name": "Ntototsha Kop",
+    "latitude": -26.76667,
+    "longitude": 31.33333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13106116,
+    "name": "Ntsakane",
+    "latitude": -26.42653,
+    "longitude": 30.85827,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13108833,
+    "name": "Ntungulu",
+    "latitude": -26.74009,
+    "longitude": 31.18244,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13108861,
+    "name": "Ntungulu North",
+    "latitude": -26.7191,
+    "longitude": 31.17166,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934890,
+    "name": "Ntutwakazi",
+    "latitude": -27.04609,
+    "longitude": 31.78363,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934889,
+    "name": "Nunes",
+    "latitude": -26.31667,
+    "longitude": 32.05,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13098475,
+    "name": "Nyakatfo",
+    "latitude": -26.01939,
+    "longitude": 31.53091,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13098495,
+    "name": "Nyongane",
+    "latitude": -26.13549,
+    "longitude": 31.52505,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934885,
+    "name": "Nyonyane",
+    "latitude": -26.45633,
+    "longitude": 31.17011,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934884,
+    "name": "Nyonyane Kop",
+    "latitude": -26.63333,
+    "longitude": 31.31667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13096722,
+    "name": "Oshoek",
+    "latitude": -26.21741,
+    "longitude": 30.99625,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13121053,
+    "name": "Petani",
+    "latitude": -26.80399,
+    "longitude": 31.09073,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934881,
+    "name": "Piggs Peak",
+    "latitude": -25.96082,
+    "longitude": 31.24666,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13116405,
+    "name": "Pik",
+    "latitude": -26.30537,
+    "longitude": 31.16371,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13104200,
+    "name": "Pikiti",
+    "latitude": -26.07001,
+    "longitude": 31.97209,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 964572,
+    "name": "Pongolapoortdam",
+    "latitude": -27.41667,
+    "longitude": 31.96667,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13098294,
+    "name": "Ponjwana",
+    "latitude": -26.15184,
+    "longitude": 31.31939,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13098295,
+    "name": "Ponjwana North",
+    "latitude": -26.13485,
+    "longitude": 31.3252,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13116426,
+    "name": "Pop",
+    "latitude": -26.33359,
+    "longitude": 31.15525,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 958453,
+    "name": "Sabana Pass",
+    "latitude": -27.16173,
+    "longitude": 31.97369,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934876,
+    "name": "Saddle",
+    "latitude": -26.49124,
+    "longitude": 31.44499,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934901,
+    "name": "Salitya",
+    "latitude": -27.28243,
+    "longitude": 31.64992,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13116432,
+    "name": "Scaba",
+    "latitude": -26.46101,
+    "longitude": 31.06377,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934868,
+    "name": "Sekonga Nek",
+    "latitude": -26.86667,
+    "longitude": 31.08333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934869,
+    "name": "Seyama",
+    "latitude": -25.85874,
+    "longitude": 31.41884,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13104199,
+    "name": "Shaka",
+    "latitude": -26.03395,
+    "longitude": 31.92692,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13116433,
+    "name": "Sheba New",
+    "latitude": -26.43007,
+    "longitude": 31.16798,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11257068,
+    "name": "Shewula Nature Reserve",
+    "latitude": -26.14093,
+    "longitude": 32.03975,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11467932,
+    "name": "Sibebe Rock",
+    "latitude": -26.29464,
+    "longitude": 31.12165,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934866,
+    "name": "Sibenyeni Kop",
+    "latitude": -26.63333,
+    "longitude": 31.23333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13108427,
+    "name": "Sidvokodvo",
+    "latitude": -26.28416,
+    "longitude": 31.54646,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13108373,
+    "name": "Sigombeni",
+    "latitude": -26.39634,
+    "longitude": 31.36158,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13133965,
+    "name": "Sikalasebodwe",
+    "latitude": -27.24139,
+    "longitude": 31.81732,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13094949,
+    "name": "Sikalasohodo",
+    "latitude": -25.78348,
+    "longitude": 31.3044,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934860,
+    "name": "Sikayana",
+    "latitude": -26.01667,
+    "longitude": 32.06667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934859,
+    "name": "Sikupa Kop",
+    "latitude": -26.31667,
+    "longitude": 31.7,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13106124,
+    "name": "Sikwonkwane",
+    "latitude": -26.44799,
+    "longitude": 30.89382,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934847,
+    "name": "Silingane",
+    "latitude": -26.08035,
+    "longitude": 31.41934,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934858,
+    "name": "Silotwane New",
+    "latitude": -26.087,
+    "longitude": 31.07467,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934857,
+    "name": "Simelane Kop",
+    "latitude": -26.83333,
+    "longitude": 31.06667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13096717,
+    "name": "Simeon",
+    "latitude": -26.15903,
+    "longitude": 31.12583,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13104175,
+    "name": "Simunye Nature Reserve",
+    "latitude": -26.23615,
+    "longitude": 31.96803,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13113947,
+    "name": "Sinceni Mountain",
+    "latitude": -26.73648,
+    "longitude": 31.55035,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13113948,
+    "name": "Singcani 2",
+    "latitude": -26.71403,
+    "longitude": 31.53668,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934854,
+    "name": "Sinyamatulu",
+    "latitude": -26.94786,
+    "longitude": 31.80646,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934853,
+    "name": "Siphanga Hills",
+    "latitude": -26.66096,
+    "longitude": 31.33511,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934851,
+    "name": "Siteki",
+    "latitude": -26.4525,
+    "longitude": 31.94722,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934845,
+    "name": "Sitsatsaweni",
+    "latitude": -26.39471,
+    "longitude": 32.04438,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13108849,
+    "name": "Sitsheko",
+    "latitude": -26.58305,
+    "longitude": 31.26506,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13121872,
+    "name": "Somhlolo",
+    "latitude": -26.87493,
+    "longitude": 31.298,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13096590,
+    "name": "Swazi",
+    "latitude": -25.9149,
+    "longitude": 31.56014,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13116428,
+    "name": "Tat",
+    "latitude": -26.31985,
+    "longitude": 31.11315,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13109529,
+    "name": "Thushane",
+    "latitude": -26.75512,
+    "longitude": 31.38755,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13106101,
+    "name": "Tierkop",
+    "latitude": -26.43613,
+    "longitude": 30.83603,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13106106,
+    "name": "Tshaneni",
+    "latitude": -26.40012,
+    "longitude": 30.93128,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13094926,
+    "name": "Tshelangubo",
+    "latitude": -25.7877,
+    "longitude": 31.2874,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13106107,
+    "name": "Tshinyama",
+    "latitude": -26.30746,
+    "longitude": 30.97805,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13108822,
+    "name": "Udsisi",
+    "latitude": -26.63073,
+    "longitude": 31.12023,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 981502,
+    "name": "Ufafa",
+    "latitude": -25.80841,
+    "longitude": 31.26328,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934837,
+    "name": "Umbanjane Kop",
+    "latitude": -26.55,
+    "longitude": 31.5,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934836,
+    "name": "Umbeloosi Poort",
+    "latitude": -26.21667,
+    "longitude": 32.03333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934835,
+    "name": "Umbuba Kop",
+    "latitude": -26.68333,
+    "longitude": 31.26667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934832,
+    "name": "Umgungundlovo",
+    "latitude": -25.93333,
+    "longitude": 31.91667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13094859,
+    "name": "Umgungundlovu",
+    "latitude": -25.9235,
+    "longitude": 31.40324,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934829,
+    "name": "Umshundu",
+    "latitude": -25.90534,
+    "longitude": 31.45132,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 968597,
+    "name": "Umzilazi",
+    "latitude": -25.85,
+    "longitude": 31.63333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13108811,
+    "name": "Usutu",
+    "latitude": -26.56548,
+    "longitude": 31.11932,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934824,
+    "name": "Vilakati Kop",
+    "latitude": -26.58333,
+    "longitude": 31,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 934823,
+    "name": "Vondo Kop",
+    "latitude": -27.05267,
+    "longitude": 31.15742,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13121849,
+    "name": "Zaaihoek",
+    "latitude": -26.87138,
+    "longitude": 31.42474,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13121078,
+    "name": "Zenga",
+    "latitude": -26.77476,
+    "longitude": 31.09703,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13133974,
+    "name": "Zibe",
+    "latitude": -27.22939,
+    "longitude": 31.95587,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  }
+]

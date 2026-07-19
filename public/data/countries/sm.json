@@ -1,0 +1,122 @@
+[
+  {
+    "geonameId": 3183500,
+    "name": "Acquaviva",
+    "latitude": 43.94593,
+    "longitude": 12.4185,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3181793,
+    "name": "Borgo Maggiore",
+    "latitude": 43.94193,
+    "longitude": 12.44738,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3177564,
+    "name": "Dogana",
+    "latitude": 43.98034,
+    "longitude": 12.49051,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3177542,
+    "name": "Domagnano",
+    "latitude": 43.94961,
+    "longitude": 12.46828,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3177299,
+    "name": "Faetano",
+    "latitude": 43.92831,
+    "longitude": 12.49798,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3176966,
+    "name": "Fiorentino",
+    "latitude": 43.91001,
+    "longitude": 12.45738,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3172906,
+    "name": "Monte Giardino",
+    "latitude": 43.90878,
+    "longitude": 12.48201,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3165630,
+    "name": "Monte Titano",
+    "latitude": 43.93119,
+    "longitude": 12.45172,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3170472,
+    "name": "Poggio di Chiesanuova",
+    "latitude": 43.90451,
+    "longitude": 12.42142,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3168070,
+    "name": "San Marino",
+    "latitude": 43.93667,
+    "longitude": 12.44639,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3166645,
+    "name": "Serravalle",
+    "latitude": 43.96897,
+    "longitude": 12.48167,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8199071,
+    "name": "Valdragone",
+    "latitude": 43.94021,
+    "longitude": 12.45622,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  }
+]

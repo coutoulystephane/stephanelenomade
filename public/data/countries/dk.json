@@ -1,0 +1,5752 @@
+[
+  {
+    "geonameId": 2625070,
+    "name": "Aabenraa",
+    "latitude": 55.04434,
+    "longitude": 9.41741,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624886,
+    "name": "Aalborg",
+    "latitude": 57.048,
+    "longitude": 9.9187,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624602,
+    "name": "Aars",
+    "latitude": 56.80399,
+    "longitude": 9.51441,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2625037,
+    "name": "Åbybro",
+    "latitude": 57.16249,
+    "longitude": 9.72996,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2625016,
+    "name": "Æbelø",
+    "latitude": 55.63944,
+    "longitude": 10.17778,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2625014,
+    "name": "Æbelø Holm",
+    "latitude": 55.60958,
+    "longitude": 10.18222,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2625003,
+    "name": "Ærø",
+    "latitude": 54.88333,
+    "longitude": 10.33333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2625001,
+    "name": "Ærøskøbing",
+    "latitude": 54.88803,
+    "longitude": 10.41117,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624979,
+    "name": "Agerø",
+    "latitude": 56.71412,
+    "longitude": 8.57122,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624969,
+    "name": "Agersø",
+    "latitude": 55.21493,
+    "longitude": 11.18536,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8604653,
+    "name": "Aksel Møllers Have",
+    "latitude": 55.68554,
+    "longitude": 12.53295,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624906,
+    "name": "Albertslund",
+    "latitude": 55.65691,
+    "longitude": 12.36381,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624853,
+    "name": "Alholm",
+    "latitude": 54.66483,
+    "longitude": 11.72303,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624843,
+    "name": "Allerød",
+    "latitude": 55.87035,
+    "longitude": 12.35737,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624812,
+    "name": "Alling Sø",
+    "latitude": 56.26756,
+    "longitude": 9.59616,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624803,
+    "name": "Almind Sø",
+    "latitude": 56.15004,
+    "longitude": 9.54163,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624793,
+    "name": "Alrø",
+    "latitude": 55.85944,
+    "longitude": 10.07,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624789,
+    "name": "Als",
+    "latitude": 54.98333,
+    "longitude": 9.91667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624784,
+    "name": "Ålsgårde",
+    "latitude": 56.07559,
+    "longitude": 12.53995,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624740,
+    "name": "Amager",
+    "latitude": 55.61667,
+    "longitude": 12.61667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3213263,
+    "name": "Amager Fælled",
+    "latitude": 55.65,
+    "longitude": 12.58333,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8604731,
+    "name": "Amager Fælled eco gardens",
+    "latitude": 55.64869,
+    "longitude": 12.56508,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624694,
+    "name": "Anholt",
+    "latitude": 56.70841,
+    "longitude": 11.56333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624652,
+    "name": "Århus",
+    "latitude": 56.15674,
+    "longitude": 10.21076,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624613,
+    "name": "Årø",
+    "latitude": 55.26174,
+    "longitude": 9.74577,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624606,
+    "name": "Arreskov Sø",
+    "latitude": 55.15899,
+    "longitude": 10.3067,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624605,
+    "name": "Arresø",
+    "latitude": 55.96914,
+    "longitude": 12.12738,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624598,
+    "name": "Arsenaløen",
+    "latitude": 55.67703,
+    "longitude": 12.60334,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624574,
+    "name": "Arup Vejle",
+    "latitude": 57.01753,
+    "longitude": 8.91298,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624538,
+    "name": "Askø",
+    "latitude": 54.89228,
+    "longitude": 11.49283,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11703927,
+    "name": "Askø-Lilleø",
+    "latitude": 54.89695,
+    "longitude": 11.49496,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624502,
+    "name": "Assens",
+    "latitude": 55.27023,
+    "longitude": 9.90081,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624427,
+    "name": "Avedøre",
+    "latitude": 55.62722,
+    "longitude": 12.45644,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624423,
+    "name": "Avernakø",
+    "latitude": 55.01874,
+    "longitude": 10.28448,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624411,
+    "name": "Avnø Røn",
+    "latitude": 55.08231,
+    "longitude": 11.72794,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624392,
+    "name": "Bågø",
+    "latitude": 55.31052,
+    "longitude": 9.81077,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624389,
+    "name": "Bagsværd Sø",
+    "latitude": 55.76943,
+    "longitude": 12.46296,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624341,
+    "name": "Ballerup",
+    "latitude": 55.73165,
+    "longitude": 12.36328,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624320,
+    "name": "Bankel",
+    "latitude": 55.21932,
+    "longitude": 9.66805,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624305,
+    "name": "Barholm",
+    "latitude": 54.9096,
+    "longitude": 12.08094,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624304,
+    "name": "Barholme",
+    "latitude": 54.71187,
+    "longitude": 11.88889,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624291,
+    "name": "Barneholm",
+    "latitude": 54.82685,
+    "longitude": 11.08918,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624277,
+    "name": "Barsø",
+    "latitude": 55.12162,
+    "longitude": 9.5578,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624260,
+    "name": "Bastholm",
+    "latitude": 55.28479,
+    "longitude": 9.76912,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624250,
+    "name": "Bastrup Sø",
+    "latitude": 55.81836,
+    "longitude": 12.2683,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624243,
+    "name": "Bavelse Sø",
+    "latitude": 55.33364,
+    "longitude": 11.63589,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624193,
+    "name": "Bellinge",
+    "latitude": 55.33535,
+    "longitude": 10.32045,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624144,
+    "name": "Billund",
+    "latitude": 55.73349,
+    "longitude": 9.10785,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624112,
+    "name": "Birkerød",
+    "latitude": 55.84759,
+    "longitude": 12.42791,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624108,
+    "name": "Birkholm",
+    "latitude": 54.93098,
+    "longitude": 10.503,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624103,
+    "name": "Birksø",
+    "latitude": 56.09215,
+    "longitude": 9.73766,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624019,
+    "name": "Bjerringbro",
+    "latitude": 56.37797,
+    "longitude": 9.66065,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623994,
+    "name": "Bjørnø",
+    "latitude": 55.06331,
+    "longitude": 10.24825,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623922,
+    "name": "Blegsø",
+    "latitude": 57.06393,
+    "longitude": 8.60995,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623916,
+    "name": "Bletholm",
+    "latitude": 56.39233,
+    "longitude": 8.13102,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623783,
+    "name": "Bøgeholm Sø",
+    "latitude": 56.06078,
+    "longitude": 12.53228,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623857,
+    "name": "Bogense",
+    "latitude": 55.56691,
+    "longitude": 10.08863,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623849,
+    "name": "Bogø",
+    "latitude": 55.58092,
+    "longitude": 10.60981,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623806,
+    "name": "Bondeholm",
+    "latitude": 54.91801,
+    "longitude": 10.5838,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623669,
+    "name": "Borgø",
+    "latitude": 54.75727,
+    "longitude": 11.53977,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623664,
+    "name": "Bornholm",
+    "latitude": 55.12551,
+    "longitude": 14.91394,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623644,
+    "name": "Borre Sø",
+    "latitude": 56.12954,
+    "longitude": 9.61278,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623650,
+    "name": "Borreholm",
+    "latitude": 56.98743,
+    "longitude": 9.25524,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623645,
+    "name": "Borresknob",
+    "latitude": 55.83934,
+    "longitude": 10.02275,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623607,
+    "name": "Bosserne",
+    "latitude": 55.93401,
+    "longitude": 10.78965,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6940496,
+    "name": "Botanisk Have",
+    "latitude": 56.16074,
+    "longitude": 10.1913,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623585,
+    "name": "Brabrand Sø",
+    "latitude": 56.14593,
+    "longitude": 10.10742,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623407,
+    "name": "Brændesgårdshaven",
+    "latitude": 55.12856,
+    "longitude": 15.10476,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623570,
+    "name": "Bramming",
+    "latitude": 55.46946,
+    "longitude": 8.70007,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623554,
+    "name": "Brande",
+    "latitude": 55.94316,
+    "longitude": 9.12798,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623539,
+    "name": "Brandsø",
+    "latitude": 55.35883,
+    "longitude": 9.70538,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623526,
+    "name": "Brassø",
+    "latitude": 56.14196,
+    "longitude": 9.58452,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3229263,
+    "name": "Bredeholm",
+    "latitude": 55.05969,
+    "longitude": 12.22974,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623494,
+    "name": "Bredholm",
+    "latitude": 54.9059,
+    "longitude": 10.54285,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623367,
+    "name": "Brokholm Sø",
+    "latitude": 56.72099,
+    "longitude": 9.08143,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623341,
+    "name": "Brøndby Strand",
+    "latitude": 55.61782,
+    "longitude": 12.42219,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623340,
+    "name": "Brøndbyvester",
+    "latitude": 55.6455,
+    "longitude": 12.41008,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623337,
+    "name": "Brønderslev",
+    "latitude": 57.27021,
+    "longitude": 9.94102,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623267,
+    "name": "Buddinge",
+    "latitude": 55.74818,
+    "longitude": 12.49532,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623239,
+    "name": "Buresø",
+    "latitude": 55.8255,
+    "longitude": 12.2186,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623206,
+    "name": "Byn",
+    "latitude": 56.3978,
+    "longitude": 8.24424,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623199,
+    "name": "Byrum",
+    "latitude": 57.25679,
+    "longitude": 10.99738,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11101457,
+    "name": "Campus Kollegiets Park",
+    "latitude": 55.37292,
+    "longitude": 10.42976,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623188,
+    "name": "Charlottenlund",
+    "latitude": 55.75238,
+    "longitude": 12.5745,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623175,
+    "name": "Christiansholm",
+    "latitude": 55.67907,
+    "longitude": 12.59844,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623169,
+    "name": "Christiansø",
+    "latitude": 55.31988,
+    "longitude": 15.18908,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618425,
+    "name": "Copenhagen",
+    "latitude": 55.67594,
+    "longitude": 12.56553,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623083,
+    "name": "Damhussøen",
+    "latitude": 55.67531,
+    "longitude": 12.47721,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623047,
+    "name": "Deget",
+    "latitude": 57.45118,
+    "longitude": 10.57948,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623044,
+    "name": "Degneholm",
+    "latitude": 55.06653,
+    "longitude": 12.16943,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623038,
+    "name": "Dejrø",
+    "latitude": 54.89828,
+    "longitude": 10.42468,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622997,
+    "name": "Dokøen",
+    "latitude": 55.68218,
+    "longitude": 12.6011,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622996,
+    "name": "Dollemose",
+    "latitude": 56.47153,
+    "longitude": 8.29441,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622968,
+    "name": "Dørholm",
+    "latitude": 55.48477,
+    "longitude": 10.46286,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622900,
+    "name": "Dræet",
+    "latitude": 55.60286,
+    "longitude": 10.174,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622937,
+    "name": "Dragør",
+    "latitude": 55.5928,
+    "longitude": 12.67221,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622906,
+    "name": "Drejø",
+    "latitude": 54.97046,
+    "longitude": 10.4183,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622866,
+    "name": "Dueholm",
+    "latitude": 54.83138,
+    "longitude": 11.05365,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622849,
+    "name": "Dybesø",
+    "latitude": 55.96356,
+    "longitude": 11.74621,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622847,
+    "name": "Dybsø",
+    "latitude": 55.13559,
+    "longitude": 11.71881,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622825,
+    "name": "Dyrefod",
+    "latitude": 54.97107,
+    "longitude": 11.82261,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622812,
+    "name": "Dyrsø",
+    "latitude": 56.46517,
+    "longitude": 10.55766,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622793,
+    "name": "Ebeltoft",
+    "latitude": 56.19442,
+    "longitude": 10.6821,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622706,
+    "name": "Egholm",
+    "latitude": 57.06603,
+    "longitude": 9.8411,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622656,
+    "name": "Ejerslev Røn",
+    "latitude": 56.9336,
+    "longitude": 8.94827,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622652,
+    "name": "Ejlinge",
+    "latitude": 55.60084,
+    "longitude": 10.19966,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622596,
+    "name": "Elleore",
+    "latitude": 55.68533,
+    "longitude": 12.06225,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622540,
+    "name": "Endelave",
+    "latitude": 55.75619,
+    "longitude": 10.29956,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622525,
+    "name": "Enehøje",
+    "latitude": 54.84236,
+    "longitude": 11.01769,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622486,
+    "name": "Enø",
+    "latitude": 55.17135,
+    "longitude": 11.67033,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623168,
+    "name": "Ertholmene",
+    "latitude": 55.32534,
+    "longitude": 15.18136,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622447,
+    "name": "Esbjerg",
+    "latitude": 55.47028,
+    "longitude": 8.45187,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622438,
+    "name": "Eskeholm",
+    "latitude": 55.88575,
+    "longitude": 10.65151,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622433,
+    "name": "Eskilsø",
+    "latitude": 55.73402,
+    "longitude": 12.07754,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622418,
+    "name": "Espergærde",
+    "latitude": 55.99464,
+    "longitude": 12.54733,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622414,
+    "name": "Esrum Sø",
+    "latitude": 56.00558,
+    "longitude": 12.38236,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622383,
+    "name": "Faaborg",
+    "latitude": 55.0951,
+    "longitude": 10.24226,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622044,
+    "name": "Fænø",
+    "latitude": 55.48614,
+    "longitude": 9.69279,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622043,
+    "name": "Fænø Kalv",
+    "latitude": 55.49231,
+    "longitude": 9.66042,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621840,
+    "name": "Færøn",
+    "latitude": 57.23806,
+    "longitude": 10.9643,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622351,
+    "name": "Falster",
+    "latitude": 54.8,
+    "longitude": 11.96667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622340,
+    "name": "Fanø",
+    "latitude": 55.41417,
+    "longitude": 8.41022,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622319,
+    "name": "Farø",
+    "latitude": 54.95155,
+    "longitude": 11.99129,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622306,
+    "name": "Farum",
+    "latitude": 55.80858,
+    "longitude": 12.36066,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622304,
+    "name": "Farum Sø",
+    "latitude": 55.80242,
+    "longitude": 12.36205,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622292,
+    "name": "Fårup Sø",
+    "latitude": 55.73304,
+    "longitude": 9.40134,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622254,
+    "name": "Feggerøn",
+    "latitude": 56.98202,
+    "longitude": 8.94015,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622251,
+    "name": "Fejø",
+    "latitude": 54.94374,
+    "longitude": 11.41186,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622234,
+    "name": "Femø",
+    "latitude": 54.97583,
+    "longitude": 11.53517,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622208,
+    "name": "Filsø",
+    "latitude": 55.69123,
+    "longitude": 8.21898,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622168,
+    "name": "Fjandø",
+    "latitude": 56.34085,
+    "longitude": 8.18279,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622055,
+    "name": "Flæskholm",
+    "latitude": 55.00523,
+    "longitude": 10.37551,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622115,
+    "name": "Flakfort",
+    "latitude": 55.70351,
+    "longitude": 12.73154,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622103,
+    "name": "Flatø",
+    "latitude": 54.73095,
+    "longitude": 11.86368,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8556242,
+    "name": "Flensborg Sø",
+    "latitude": 56.12178,
+    "longitude": 8.97849,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622078,
+    "name": "Flintholm",
+    "latitude": 55.48069,
+    "longitude": 10.54263,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622061,
+    "name": "Fløng",
+    "latitude": 55.66212,
+    "longitude": 12.18698,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622046,
+    "name": "Flyndersø",
+    "latitude": 56.52068,
+    "longitude": 8.92766,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621956,
+    "name": "Fredensborg",
+    "latitude": 55.97558,
+    "longitude": 12.40314,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621951,
+    "name": "Fredericia",
+    "latitude": 55.56568,
+    "longitude": 9.75257,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621942,
+    "name": "Frederiksberg",
+    "latitude": 55.67938,
+    "longitude": 12.53463,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6461771,
+    "name": "Frederiksberg Have",
+    "latitude": 55.67524,
+    "longitude": 12.52583,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621927,
+    "name": "Frederikshavn",
+    "latitude": 57.44073,
+    "longitude": 10.53661,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621924,
+    "name": "Frederiksholm",
+    "latitude": 55.68054,
+    "longitude": 12.60552,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621913,
+    "name": "Frederiksø",
+    "latitude": 55.32035,
+    "longitude": 15.18431,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621912,
+    "name": "Frederikssund",
+    "latitude": 55.83956,
+    "longitude": 12.06896,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621910,
+    "name": "Frederiksværk",
+    "latitude": 55.97073,
+    "longitude": 12.0225,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621868,
+    "name": "Friholme",
+    "latitude": 54.6,
+    "longitude": 11.56667,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7910825,
+    "name": "Fruelundparken",
+    "latitude": 56.79162,
+    "longitude": 10.27316,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621823,
+    "name": "Fruens Holm",
+    "latitude": 57.07574,
+    "longitude": 9.78453,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3229232,
+    "name": "Fugleholm",
+    "latitude": 54.57119,
+    "longitude": 11.8318,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621800,
+    "name": "Fuglepold",
+    "latitude": 55.89721,
+    "longitude": 8.23882,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621796,
+    "name": "Fuglholm",
+    "latitude": 56.67823,
+    "longitude": 8.5956,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621763,
+    "name": "Fur",
+    "latitude": 56.82725,
+    "longitude": 9.01643,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621762,
+    "name": "Furesø",
+    "latitude": 55.79877,
+    "longitude": 12.41386,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621755,
+    "name": "Fussing Sø",
+    "latitude": 56.47035,
+    "longitude": 9.87381,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621748,
+    "name": "Fyn",
+    "latitude": 55.33333,
+    "longitude": 10.5,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621565,
+    "name": "Gavnø",
+    "latitude": 55.18914,
+    "longitude": 11.70935,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621471,
+    "name": "Gilleleje",
+    "latitude": 56.12196,
+    "longitude": 12.31056,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621435,
+    "name": "Gjellerup",
+    "latitude": 56.15683,
+    "longitude": 10.13008,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621365,
+    "name": "Glænø",
+    "latitude": 55.19548,
+    "longitude": 11.43431,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621379,
+    "name": "Glenstrup Sø",
+    "latitude": 56.59522,
+    "longitude": 9.84849,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621364,
+    "name": "Glombæk",
+    "latitude": 57.03806,
+    "longitude": 9.0656,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621356,
+    "name": "Glostrup",
+    "latitude": 55.6666,
+    "longitude": 12.40377,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621321,
+    "name": "Gødelen",
+    "latitude": 55.83223,
+    "longitude": 8.1916,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621317,
+    "name": "Gødsholm",
+    "latitude": 55.2,
+    "longitude": 11.71667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621104,
+    "name": "Græsholm",
+    "latitude": 57.49202,
+    "longitude": 10.60895,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617895,
+    "name": "Grane Langsø",
+    "latitude": 56.01805,
+    "longitude": 9.45235,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621230,
+    "name": "Grenaa",
+    "latitude": 56.41578,
+    "longitude": 10.87825,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621221,
+    "name": "Grensholm",
+    "latitude": 54.89772,
+    "longitude": 10.55108,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621215,
+    "name": "Greve",
+    "latitude": 55.58333,
+    "longitude": 12.3,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621193,
+    "name": "Grindsted",
+    "latitude": 55.75726,
+    "longitude": 8.9275,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621082,
+    "name": "Gryderne",
+    "latitude": 55.064,
+    "longitude": 10.27368,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621080,
+    "name": "Grydholm",
+    "latitude": 54.9932,
+    "longitude": 10.42638,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621073,
+    "name": "Gudensø",
+    "latitude": 56.05868,
+    "longitude": 9.76215,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620996,
+    "name": "Gundsømagle Sø",
+    "latitude": 55.73333,
+    "longitude": 12.2,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620986,
+    "name": "Gurre Sø",
+    "latitude": 56.0307,
+    "longitude": 12.4833,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620970,
+    "name": "Gyrstinge Sø",
+    "latitude": 55.5088,
+    "longitude": 11.68103,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620964,
+    "name": "Haderslev",
+    "latitude": 55.24943,
+    "longitude": 9.48771,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620963,
+    "name": "Haderslev Dam",
+    "latitude": 55.23679,
+    "longitude": 9.44898,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620956,
+    "name": "Hadsten",
+    "latitude": 56.32819,
+    "longitude": 10.04931,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620952,
+    "name": "Hadsund",
+    "latitude": 56.71482,
+    "longitude": 10.11682,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619690,
+    "name": "Hærup Sø",
+    "latitude": 56.56542,
+    "longitude": 9.59233,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620907,
+    "name": "Hald Sø",
+    "latitude": 56.38443,
+    "longitude": 9.36002,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620903,
+    "name": "Halesø",
+    "latitude": 56.61059,
+    "longitude": 9.58744,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620883,
+    "name": "Halle Sø",
+    "latitude": 55.98766,
+    "longitude": 9.47541,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620874,
+    "name": "Halmø",
+    "latitude": 54.88844,
+    "longitude": 10.49549,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620835,
+    "name": "Hammel",
+    "latitude": 56.25762,
+    "longitude": 9.86316,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620723,
+    "name": "Hartsø",
+    "latitude": 54.86924,
+    "longitude": 9.91755,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620712,
+    "name": "Haslev",
+    "latitude": 55.32346,
+    "longitude": 11.96389,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620704,
+    "name": "Hasselager",
+    "latitude": 56.10555,
+    "longitude": 10.10003,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620629,
+    "name": "Havneø",
+    "latitude": 54.84079,
+    "longitude": 11.49602,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620587,
+    "name": "Hedehusene",
+    "latitude": 55.64951,
+    "longitude": 12.19827,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620583,
+    "name": "Hedensted",
+    "latitude": 55.77043,
+    "longitude": 9.7011,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620552,
+    "name": "Hejls Nor",
+    "latitude": 55.36642,
+    "longitude": 9.58377,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620528,
+    "name": "Hellebæk",
+    "latitude": 56.06823,
+    "longitude": 12.55782,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620511,
+    "name": "Hellesø",
+    "latitude": 56.46156,
+    "longitude": 8.89092,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620480,
+    "name": "Helnæs",
+    "latitude": 55.14219,
+    "longitude": 10.01097,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620476,
+    "name": "Helsinge",
+    "latitude": 56.02283,
+    "longitude": 12.19752,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620473,
+    "name": "Helsingør",
+    "latitude": 56.03606,
+    "longitude": 12.6136,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620431,
+    "name": "Herlev",
+    "latitude": 55.72366,
+    "longitude": 12.43998,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620425,
+    "name": "Herning",
+    "latitude": 56.13615,
+    "longitude": 8.97662,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620367,
+    "name": "Hesselø",
+    "latitude": 56.19607,
+    "longitude": 11.70668,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620320,
+    "name": "Hillerød",
+    "latitude": 55.92791,
+    "longitude": 12.30081,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620298,
+    "name": "Hindø",
+    "latitude": 56.14953,
+    "longitude": 8.20654,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620289,
+    "name": "Hinge Sø",
+    "latitude": 56.25691,
+    "longitude": 9.50284,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620287,
+    "name": "Hinnerup",
+    "latitude": 56.7347,
+    "longitude": 9.05874,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620282,
+    "name": "Hirsholm",
+    "latitude": 57.48542,
+    "longitude": 10.62366,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620281,
+    "name": "Hirsholmene",
+    "latitude": 57.48886,
+    "longitude": 10.6153,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620279,
+    "name": "Hirtshals",
+    "latitude": 57.58812,
+    "longitude": 9.95922,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620262,
+    "name": "Hjarnø",
+    "latitude": 55.82899,
+    "longitude": 10.07592,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3205277,
+    "name": "Hjellen",
+    "latitude": 57.45096,
+    "longitude": 10.56452,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620252,
+    "name": "Hjelm",
+    "latitude": 56.13323,
+    "longitude": 10.80385,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620240,
+    "name": "Hjelm Ø",
+    "latitude": 54.83915,
+    "longitude": 11.77022,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620239,
+    "name": "Hjelmshoved",
+    "latitude": 54.97297,
+    "longitude": 10.49712,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620214,
+    "name": "Hjørring",
+    "latitude": 57.46417,
+    "longitude": 9.98229,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620196,
+    "name": "Hjortholm",
+    "latitude": 55.89234,
+    "longitude": 10.63866,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620190,
+    "name": "Hjortø",
+    "latitude": 54.96219,
+    "longitude": 10.48653,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620167,
+    "name": "Hobro",
+    "latitude": 56.64306,
+    "longitude": 9.79029,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619965,
+    "name": "Højby",
+    "latitude": 55.91148,
+    "longitude": 11.59756,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619945,
+    "name": "Høje Sande",
+    "latitude": 55.90384,
+    "longitude": 8.36696,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620147,
+    "name": "Holbæk",
+    "latitude": 55.7175,
+    "longitude": 11.71279,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620084,
+    "name": "Holmene",
+    "latitude": 55.05534,
+    "longitude": 10.2702,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620069,
+    "name": "Holmgård Sø",
+    "latitude": 56.42004,
+    "longitude": 8.75466,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620046,
+    "name": "Holstebro",
+    "latitude": 56.36009,
+    "longitude": 8.61607,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620030,
+    "name": "Holte",
+    "latitude": 55.81667,
+    "longitude": 12.46667,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619874,
+    "name": "Hønsepold",
+    "latitude": 55.90973,
+    "longitude": 10.67936,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619807,
+    "name": "Hornbæk",
+    "latitude": 56.09027,
+    "longitude": 12.45693,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619797,
+    "name": "Hornfiskrøn",
+    "latitude": 57.20748,
+    "longitude": 11.01589,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619859,
+    "name": "Hørning",
+    "latitude": 56.412,
+    "longitude": 10.20018,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619787,
+    "name": "Hornslet",
+    "latitude": 56.3155,
+    "longitude": 10.32041,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619777,
+    "name": "Hornum Sø",
+    "latitude": 56.90242,
+    "longitude": 9.74825,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619772,
+    "name": "Horsehoved",
+    "latitude": 55.13948,
+    "longitude": 10.10253,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619771,
+    "name": "Horsens",
+    "latitude": 55.86066,
+    "longitude": 9.85034,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619856,
+    "name": "Hørsholm",
+    "latitude": 55.88098,
+    "longitude": 12.50111,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619746,
+    "name": "Hostrup Sø",
+    "latitude": 54.96538,
+    "longitude": 9.42818,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619696,
+    "name": "Hovvig",
+    "latitude": 55.91917,
+    "longitude": 11.71471,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619669,
+    "name": "Humlebæk",
+    "latitude": 55.9618,
+    "longitude": 12.5341,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619650,
+    "name": "Hundested",
+    "latitude": 55.96397,
+    "longitude": 11.85044,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619604,
+    "name": "Husby Sø",
+    "latitude": 56.26174,
+    "longitude": 8.20938,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619528,
+    "name": "Hvidovre",
+    "latitude": 55.64297,
+    "longitude": 12.47708,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619478,
+    "name": "Hykær",
+    "latitude": 57.05539,
+    "longitude": 8.59911,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619476,
+    "name": "Hyldeholm",
+    "latitude": 55.79382,
+    "longitude": 12.0625,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619466,
+    "name": "Hylleholm",
+    "latitude": 54.65108,
+    "longitude": 11.57747,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619464,
+    "name": "Hyllekrog",
+    "latitude": 54.59631,
+    "longitude": 11.50113,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619454,
+    "name": "Hylteholme",
+    "latitude": 55.09084,
+    "longitude": 11.75274,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619429,
+    "name": "Iholm",
+    "latitude": 55.03392,
+    "longitude": 10.56617,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619426,
+    "name": "Ikast",
+    "latitude": 56.13883,
+    "longitude": 9.15768,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619410,
+    "name": "Illum",
+    "latitude": 55.13167,
+    "longitude": 10.08596,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619398,
+    "name": "Indfjorden",
+    "latitude": 56.41054,
+    "longitude": 8.20998,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619377,
+    "name": "Ishøj",
+    "latitude": 55.61543,
+    "longitude": 12.35182,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619289,
+    "name": "Jægersborg Dyrehave",
+    "latitude": 55.78443,
+    "longitude": 12.56811,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619288,
+    "name": "Jægersborg Hegn",
+    "latitude": 55.8172,
+    "longitude": 12.55955,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619347,
+    "name": "Jegindø",
+    "latitude": 56.64793,
+    "longitude": 8.61595,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11818371,
+    "name": "Julius Thomsens Plads",
+    "latitude": 55.6803,
+    "longitude": 12.55305,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619237,
+    "name": "Julsø",
+    "latitude": 56.11884,
+    "longitude": 9.67888,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619216,
+    "name": "Jyllinge",
+    "latitude": 55.75295,
+    "longitude": 12.10315,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619215,
+    "name": "Jyllinge Holme",
+    "latitude": 55.75345,
+    "longitude": 12.07048,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619154,
+    "name": "Kalundborg",
+    "latitude": 55.67954,
+    "longitude": 11.08864,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619141,
+    "name": "Kalveholm",
+    "latitude": 54.65349,
+    "longitude": 11.59902,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619138,
+    "name": "Kalvø",
+    "latitude": 55.11957,
+    "longitude": 9.46714,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619105,
+    "name": "Kåreholm",
+    "latitude": 54.82066,
+    "longitude": 11.05264,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619088,
+    "name": "Karlsgarde Sø",
+    "latitude": 55.64717,
+    "longitude": 8.58431,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619050,
+    "name": "Kås Sø",
+    "latitude": 56.61652,
+    "longitude": 8.70245,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619014,
+    "name": "Katholm",
+    "latitude": 54.97165,
+    "longitude": 9.83183,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618980,
+    "name": "Kejlsø",
+    "latitude": 54.71557,
+    "longitude": 11.83329,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11821599,
+    "name": "Kennedy Parken",
+    "latitude": 57.4408,
+    "longitude": 10.5252,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618944,
+    "name": "Kerteminde",
+    "latitude": 55.44903,
+    "longitude": 10.65769,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618927,
+    "name": "Kidholm",
+    "latitude": 55.0515,
+    "longitude": 10.32417,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618926,
+    "name": "Kidholme",
+    "latitude": 55.51154,
+    "longitude": 9.59414,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618872,
+    "name": "Kirke Hvalsø",
+    "latitude": 55.5917,
+    "longitude": 11.86253,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618758,
+    "name": "Klægbanke",
+    "latitude": 55.996,
+    "longitude": 8.28473,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618768,
+    "name": "Klejtrup Sø",
+    "latitude": 56.5969,
+    "longitude": 9.64443,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618741,
+    "name": "Klinteby Frihed",
+    "latitude": 55.19705,
+    "longitude": 11.59603,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618605,
+    "name": "Knudsø",
+    "latitude": 56.10222,
+    "longitude": 9.76679,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618415,
+    "name": "Køge",
+    "latitude": 55.45802,
+    "longitude": 12.18214,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618545,
+    "name": "Kokkedal",
+    "latitude": 55.91179,
+    "longitude": 12.49952,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618528,
+    "name": "Kolding",
+    "latitude": 55.4904,
+    "longitude": 9.47216,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618409,
+    "name": "Kølholm",
+    "latitude": 55.80493,
+    "longitude": 12.05981,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618404,
+    "name": "Kølpen",
+    "latitude": 57.4731,
+    "longitude": 10.60478,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618489,
+    "name": "Kolt",
+    "latitude": 56.10845,
+    "longitude": 10.06986,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618468,
+    "name": "Kongens Lyngby",
+    "latitude": 55.77044,
+    "longitude": 12.50378,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618469,
+    "name": "Kongenshus Mindepark",
+    "latitude": 56.38806,
+    "longitude": 9.13176,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7910839,
+    "name": "Kongstedlund sight View",
+    "latitude": 56.86303,
+    "longitude": 10.14188,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618361,
+    "name": "Korsør",
+    "latitude": 55.32993,
+    "longitude": 11.13857,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618305,
+    "name": "Kragsø",
+    "latitude": 56.29129,
+    "longitude": 9.09154,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618242,
+    "name": "Kringelrøn",
+    "latitude": 57.22946,
+    "longitude": 11.00573,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618140,
+    "name": "Kuddeholm",
+    "latitude": 54.83011,
+    "longitude": 11.08796,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618128,
+    "name": "Kulsø",
+    "latitude": 55.93549,
+    "longitude": 9.31589,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618111,
+    "name": "Kveldsø",
+    "latitude": 56.41,
+    "longitude": 10.51337,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618105,
+    "name": "Kvie Sø",
+    "latitude": 55.72498,
+    "longitude": 8.76952,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618066,
+    "name": "Kyholm",
+    "latitude": 55.93272,
+    "longitude": 10.67199,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617379,
+    "name": "Læsø Island",
+    "latitude": 57.26667,
+    "longitude": 11.01667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617956,
+    "name": "Langeland",
+    "latitude": 54.94252,
+    "longitude": 10.78572,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8604654,
+    "name": "Langelandsplads",
+    "latitude": 55.68522,
+    "longitude": 12.52967,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617940,
+    "name": "Langesand",
+    "latitude": 55.2135,
+    "longitude": 10.8809,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617933,
+    "name": "Langesø",
+    "latitude": 55.48532,
+    "longitude": 11.79287,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617925,
+    "name": "Langholm",
+    "latitude": 56.99294,
+    "longitude": 9.22969,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617914,
+    "name": "Langli",
+    "latitude": 55.512,
+    "longitude": 8.31502,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617909,
+    "name": "Langø",
+    "latitude": 55.8021,
+    "longitude": 11.85925,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617893,
+    "name": "Langsø",
+    "latitude": 56.447,
+    "longitude": 10.49868,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617860,
+    "name": "Leammer",
+    "latitude": 55.53001,
+    "longitude": 10.48668,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617812,
+    "name": "Lemvig",
+    "latitude": 56.54856,
+    "longitude": 8.31019,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8693027,
+    "name": "Lergravsparken",
+    "latitude": 55.66179,
+    "longitude": 12.61819,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617712,
+    "name": "Lille Egholm",
+    "latitude": 54.91179,
+    "longitude": 10.49683,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617736,
+    "name": "Lilleager",
+    "latitude": 54.62721,
+    "longitude": 11.51356,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617665,
+    "name": "Lilleø",
+    "latitude": 55.75417,
+    "longitude": 12.0959,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617658,
+    "name": "Lillerød",
+    "latitude": 55.87496,
+    "longitude": 12.34579,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617601,
+    "name": "Linderum",
+    "latitude": 55.28905,
+    "longitude": 9.71401,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6461770,
+    "name": "Lindevangsparken",
+    "latitude": 55.68031,
+    "longitude": 12.51131,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617577,
+    "name": "Lindholm",
+    "latitude": 56.70074,
+    "longitude": 8.53782,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617564,
+    "name": "Lindø",
+    "latitude": 54.87908,
+    "longitude": 10.70473,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617520,
+    "name": "Livø",
+    "latitude": 56.89366,
+    "longitude": 9.08446,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617463,
+    "name": "Løgten",
+    "latitude": 56.27459,
+    "longitude": 10.31181,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617455,
+    "name": "Løje Sø",
+    "latitude": 55.74658,
+    "longitude": 12.22574,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617443,
+    "name": "Løkken",
+    "latitude": 57.37047,
+    "longitude": 9.71466,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617488,
+    "name": "Loldrup Sø",
+    "latitude": 56.48883,
+    "longitude": 9.44711,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617487,
+    "name": "Lolland",
+    "latitude": 54.76667,
+    "longitude": 11.5,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617423,
+    "name": "Løsning",
+    "latitude": 55.80236,
+    "longitude": 9.69539,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617308,
+    "name": "Lund Fjord",
+    "latitude": 57.1093,
+    "longitude": 9.04229,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617228,
+    "name": "Lyngby Sø",
+    "latitude": 55.77194,
+    "longitude": 12.48699,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6947453,
+    "name": "Lyngsoe Lake",
+    "latitude": 56.15894,
+    "longitude": 9.54394,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617201,
+    "name": "Lyø",
+    "latitude": 55.04386,
+    "longitude": 10.14728,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617175,
+    "name": "Lystrup",
+    "latitude": 56.49839,
+    "longitude": 10.46887,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617168,
+    "name": "Maderne",
+    "latitude": 55.12961,
+    "longitude": 12.10821,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617165,
+    "name": "Madesø",
+    "latitude": 55.61869,
+    "longitude": 11.32107,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617160,
+    "name": "Madstedborg",
+    "latitude": 56.87206,
+    "longitude": 8.40431,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617155,
+    "name": "Madum Sø",
+    "latitude": 56.80277,
+    "longitude": 9.93667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617134,
+    "name": "Maglesø",
+    "latitude": 55.47265,
+    "longitude": 11.50718,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617132,
+    "name": "Maglevands Fald",
+    "latitude": 54.96667,
+    "longitude": 12.56667,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617114,
+    "name": "Malling",
+    "latitude": 56.03632,
+    "longitude": 10.19632,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617112,
+    "name": "Måløv",
+    "latitude": 55.75528,
+    "longitude": 12.32327,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617102,
+    "name": "Mandø",
+    "latitude": 55.28136,
+    "longitude": 8.55688,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617072,
+    "name": "Maribo",
+    "latitude": 54.77662,
+    "longitude": 11.50017,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13665075,
+    "name": "Marselisborg Deer Park",
+    "latitude": 56.12141,
+    "longitude": 10.21845,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617034,
+    "name": "Mårslet",
+    "latitude": 56.0669,
+    "longitude": 10.16112,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617015,
+    "name": "Masnedø",
+    "latitude": 54.98914,
+    "longitude": 11.88685,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617014,
+    "name": "Masnedø Kalv",
+    "latitude": 54.97836,
+    "longitude": 11.88022,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616988,
+    "name": "Mejlesholm",
+    "latitude": 55.8991,
+    "longitude": 10.64648,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616985,
+    "name": "Mejlholm",
+    "latitude": 54.96316,
+    "longitude": 10.5146,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616983,
+    "name": "Mejlø",
+    "latitude": 55.59004,
+    "longitude": 10.61385,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616982,
+    "name": "Mejlplet",
+    "latitude": 56.68333,
+    "longitude": 10.33333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616959,
+    "name": "Mellempolde",
+    "latitude": 56.61332,
+    "longitude": 10.32474,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616933,
+    "name": "Middelfart",
+    "latitude": 55.50591,
+    "longitude": 9.73054,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616892,
+    "name": "Mindepark",
+    "latitude": 56.12948,
+    "longitude": 10.20647,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8644238,
+    "name": "Minebådsgraven",
+    "latitude": 55.68575,
+    "longitude": 12.61112,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3222100,
+    "name": "Mjang Dam",
+    "latitude": 54.95012,
+    "longitude": 9.91629,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13664937,
+    "name": "Mølleparken",
+    "latitude": 56.15599,
+    "longitude": 10.20044,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616851,
+    "name": "Mollerup Sø",
+    "latitude": 56.67363,
+    "longitude": 8.80915,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616789,
+    "name": "Møllesø",
+    "latitude": 55.37112,
+    "longitude": 12.38836,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616780,
+    "name": "Møn",
+    "latitude": 55,
+    "longitude": 12.33333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616759,
+    "name": "Mors",
+    "latitude": 56.83333,
+    "longitude": 8.75,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616724,
+    "name": "Mossø",
+    "latitude": 56.80751,
+    "longitude": 9.88608,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616672,
+    "name": "Munkebo",
+    "latitude": 55.45553,
+    "longitude": 10.55433,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616664,
+    "name": "Munkholm",
+    "latitude": 55.6754,
+    "longitude": 11.80484,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616659,
+    "name": "Musholm",
+    "latitude": 55.47639,
+    "longitude": 11.07697,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13664962,
+    "name": "Musikhusparken",
+    "latitude": 56.15237,
+    "longitude": 10.2005,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616656,
+    "name": "Mussø",
+    "latitude": 55.66419,
+    "longitude": 8.16947,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616038,
+    "name": "Næstved",
+    "latitude": 55.22992,
+    "longitude": 11.76092,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616599,
+    "name": "Nakskov",
+    "latitude": 54.83038,
+    "longitude": 11.13567,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616579,
+    "name": "Navnsø",
+    "latitude": 56.88069,
+    "longitude": 9.44894,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616540,
+    "name": "Neder Holluf",
+    "latitude": 55.36451,
+    "longitude": 10.44824,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616507,
+    "name": "Nekselø",
+    "latitude": 55.78217,
+    "longitude": 11.28915,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616483,
+    "name": "Nibe",
+    "latitude": 56.9815,
+    "longitude": 9.63917,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616463,
+    "name": "Nipgård Sø",
+    "latitude": 56.30987,
+    "longitude": 9.34975,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616450,
+    "name": "Nivå",
+    "latitude": 55.93405,
+    "longitude": 12.50485,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616176,
+    "name": "Nordborg",
+    "latitude": 55.05732,
+    "longitude": 9.7408,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616172,
+    "name": "Nordby",
+    "latitude": 55.44603,
+    "longitude": 8.39786,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616147,
+    "name": "Nordholm",
+    "latitude": 55.48487,
+    "longitude": 11.09025,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616121,
+    "name": "Nordre Rønner",
+    "latitude": 57.36017,
+    "longitude": 10.92558,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616106,
+    "name": "Noret",
+    "latitude": 56.58932,
+    "longitude": 8.1664,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616243,
+    "name": "Nørresø",
+    "latitude": 56.45887,
+    "longitude": 9.42757,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616235,
+    "name": "Nørresundby",
+    "latitude": 57.05877,
+    "longitude": 9.92284,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616083,
+    "name": "Nors Sø",
+    "latitude": 57.03164,
+    "longitude": 8.60952,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616015,
+    "name": "Nyborg",
+    "latitude": 55.31274,
+    "longitude": 10.78964,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615975,
+    "name": "Nyholm",
+    "latitude": 55.68639,
+    "longitude": 12.60703,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615961,
+    "name": "Nykøbing Falster",
+    "latitude": 54.76906,
+    "longitude": 11.87425,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615964,
+    "name": "Nykøbing Mors",
+    "latitude": 56.79334,
+    "longitude": 8.85282,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615962,
+    "name": "Nykøbing Sjælland",
+    "latitude": 55.92491,
+    "longitude": 11.67109,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615937,
+    "name": "Nyord",
+    "latitude": 55.04522,
+    "longitude": 12.21224,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615890,
+    "name": "Odden",
+    "latitude": 54.96091,
+    "longitude": 10.52224,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615886,
+    "name": "Odder",
+    "latitude": 55.97313,
+    "longitude": 10.153,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615876,
+    "name": "Odense",
+    "latitude": 55.39594,
+    "longitude": 10.38831,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615776,
+    "name": "Øjesø",
+    "latitude": 56.28677,
+    "longitude": 10.60524,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615852,
+    "name": "Okseøer",
+    "latitude": 54.85759,
+    "longitude": 9.50875,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615760,
+    "name": "Øksneholm",
+    "latitude": 55.87585,
+    "longitude": 12.01052,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615730,
+    "name": "Ølstykke",
+    "latitude": 55.79567,
+    "longitude": 12.15509,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615812,
+    "name": "Omø",
+    "latitude": 55.162,
+    "longitude": 11.15897,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615393,
+    "name": "Øregårdsparken",
+    "latitude": 55.73919,
+    "longitude": 12.57398,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615379,
+    "name": "Ormø",
+    "latitude": 55.20373,
+    "longitude": 11.45735,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615680,
+    "name": "Ørnsø",
+    "latitude": 56.1553,
+    "longitude": 9.52025,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615373,
+    "name": "Orø",
+    "latitude": 55.77182,
+    "longitude": 11.81633,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615636,
+    "name": "Ørum Sø",
+    "latitude": 56.80252,
+    "longitude": 8.30734,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615528,
+    "name": "Østerild Fjord",
+    "latitude": 57.01437,
+    "longitude": 8.86749,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615351,
+    "name": "Otterup",
+    "latitude": 55.51527,
+    "longitude": 10.39756,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615274,
+    "name": "Ovesø",
+    "latitude": 56.86415,
+    "longitude": 8.412,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615244,
+    "name": "Pabsø",
+    "latitude": 56.31578,
+    "longitude": 9.33729,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615206,
+    "name": "Peblinge Sø",
+    "latitude": 55.6845,
+    "longitude": 12.56149,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615185,
+    "name": "Peter Meyers Sand",
+    "latitude": 55.31052,
+    "longitude": 8.45304,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11821613,
+    "name": "Plantagen",
+    "latitude": 57.44938,
+    "longitude": 10.53602,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615152,
+    "name": "Pletten",
+    "latitude": 56.70467,
+    "longitude": 10.27862,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13664946,
+    "name": "Rådhusparken",
+    "latitude": 56.15168,
+    "longitude": 10.20185,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615035,
+    "name": "Rågø",
+    "latitude": 54.96709,
+    "longitude": 11.30976,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615034,
+    "name": "Rågø Kalv",
+    "latitude": 54.97159,
+    "longitude": 11.29316,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615024,
+    "name": "Rallen",
+    "latitude": 54.95414,
+    "longitude": 10.63339,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615006,
+    "name": "Randers",
+    "latitude": 56.4607,
+    "longitude": 10.03639,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614995,
+    "name": "Rands Fjord",
+    "latitude": 55.61274,
+    "longitude": 9.71403,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614921,
+    "name": "Ravnsø",
+    "latitude": 56.10536,
+    "longitude": 9.84289,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614833,
+    "name": "Revshaleøen",
+    "latitude": 55.69316,
+    "longitude": 12.6164,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614813,
+    "name": "Ribe",
+    "latitude": 55.33051,
+    "longitude": 8.76966,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614790,
+    "name": "Ringe",
+    "latitude": 55.23828,
+    "longitude": 10.4786,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614776,
+    "name": "Ringkøbing",
+    "latitude": 56.09006,
+    "longitude": 8.24402,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614764,
+    "name": "Ringsted",
+    "latitude": 55.4426,
+    "longitude": 11.79011,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614611,
+    "name": "Rødekro",
+    "latitude": 55.07076,
+    "longitude": 9.33531,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614600,
+    "name": "Rødovre",
+    "latitude": 55.68062,
+    "longitude": 12.45373,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614597,
+    "name": "Rødsø",
+    "latitude": 56.53663,
+    "longitude": 9.53478,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614594,
+    "name": "Røgbølle Sø",
+    "latitude": 54.72341,
+    "longitude": 11.56854,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614664,
+    "name": "Roholm",
+    "latitude": 55.48131,
+    "longitude": 10.51695,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614642,
+    "name": "Rommerholm",
+    "latitude": 54.84456,
+    "longitude": 11.03573,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614572,
+    "name": "Rømø",
+    "latitude": 55.14487,
+    "longitude": 8.52343,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614641,
+    "name": "Romsø",
+    "latitude": 55.51358,
+    "longitude": 10.78971,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614565,
+    "name": "Rønde",
+    "latitude": 56.30145,
+    "longitude": 10.47505,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614559,
+    "name": "Rønholm",
+    "latitude": 57.02512,
+    "longitude": 9.61032,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614556,
+    "name": "Rønland",
+    "latitude": 56.65859,
+    "longitude": 8.20318,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614553,
+    "name": "Rønne",
+    "latitude": 55.10091,
+    "longitude": 14.70664,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614543,
+    "name": "Rønnen",
+    "latitude": 56.1668,
+    "longitude": 10.50993,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614534,
+    "name": "Rønø",
+    "latitude": 55.74487,
+    "longitude": 11.83451,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614526,
+    "name": "Rørbæk Sø",
+    "latitude": 55.9331,
+    "longitude": 9.36437,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614481,
+    "name": "Roskilde",
+    "latitude": 55.64152,
+    "longitude": 12.08035,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614464,
+    "name": "Rotholme",
+    "latitude": 56.68578,
+    "longitude": 8.63115,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614432,
+    "name": "Rudkøbing",
+    "latitude": 54.93639,
+    "longitude": 10.71019,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614404,
+    "name": "Rumpen",
+    "latitude": 55.93206,
+    "longitude": 10.7108,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614387,
+    "name": "Ry",
+    "latitude": 56.09038,
+    "longitude": 9.76505,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614172,
+    "name": "Sæby",
+    "latitude": 57.33188,
+    "longitude": 10.52251,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613424,
+    "name": "Sælhundeholm",
+    "latitude": 56.68333,
+    "longitude": 8.23333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614300,
+    "name": "Salten Langsø",
+    "latitude": 56.06745,
+    "longitude": 9.62581,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614298,
+    "name": "Saltholm",
+    "latitude": 55.6396,
+    "longitude": 12.76421,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614280,
+    "name": "Samsø",
+    "latitude": 55.86667,
+    "longitude": 10.61667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614233,
+    "name": "Sandholm",
+    "latitude": 55.20142,
+    "longitude": 11.40181,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614197,
+    "name": "Sankt Jørgens Sø",
+    "latitude": 55.67623,
+    "longitude": 12.55729,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614120,
+    "name": "Sejerø",
+    "latitude": 55.88987,
+    "longitude": 11.14598,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614067,
+    "name": "Sevedø",
+    "latitude": 55.19587,
+    "longitude": 11.30931,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614030,
+    "name": "Silkeborg",
+    "latitude": 56.1697,
+    "longitude": 9.54508,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614028,
+    "name": "Silkeborg Langsø",
+    "latitude": 56.17346,
+    "longitude": 9.55029,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613994,
+    "name": "Siø",
+    "latitude": 54.95617,
+    "longitude": 10.68872,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613979,
+    "name": "Sjælland",
+    "latitude": 55.5,
+    "longitude": 11.75,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613975,
+    "name": "Sjælsø",
+    "latitude": 55.86563,
+    "longitude": 12.44355,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613960,
+    "name": "Sjørup Sø",
+    "latitude": 56.86765,
+    "longitude": 9.39581,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613694,
+    "name": "Skælskør",
+    "latitude": 55.25058,
+    "longitude": 11.29352,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613506,
+    "name": "Skærsø",
+    "latitude": 55.58327,
+    "longitude": 9.27619,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613939,
+    "name": "Skagen",
+    "latitude": 57.72093,
+    "longitude": 10.58394,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613902,
+    "name": "Skallesø",
+    "latitude": 56.4967,
+    "longitude": 8.86383,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613897,
+    "name": "Skalø",
+    "latitude": 54.96272,
+    "longitude": 11.35813,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613887,
+    "name": "Skanderborg",
+    "latitude": 56.03434,
+    "longitude": 9.93177,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613885,
+    "name": "Skanderborg Sø",
+    "latitude": 56.02561,
+    "longitude": 9.94711,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6940413,
+    "name": "Skansen",
+    "latitude": 56.14549,
+    "longitude": 10.20689,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613877,
+    "name": "Skånsø",
+    "latitude": 56.50975,
+    "longitude": 8.82903,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613863,
+    "name": "Skarø",
+    "latitude": 55.00586,
+    "longitude": 10.46704,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613852,
+    "name": "Skarresø",
+    "latitude": 55.65131,
+    "longitude": 11.37228,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613731,
+    "name": "Skive",
+    "latitude": 56.56699,
+    "longitude": 9.02707,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613715,
+    "name": "Skjern",
+    "latitude": 55.95,
+    "longitude": 8.5,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613665,
+    "name": "Skørsø",
+    "latitude": 56.54809,
+    "longitude": 8.85355,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613462,
+    "name": "Slåensø",
+    "latitude": 56.12263,
+    "longitude": 9.62003,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613460,
+    "name": "Slagelse",
+    "latitude": 55.40276,
+    "longitude": 11.35459,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613451,
+    "name": "Slangerup",
+    "latitude": 55.85,
+    "longitude": 12.18333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613420,
+    "name": "Slivsø",
+    "latitude": 55.17303,
+    "longitude": 9.4721,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613413,
+    "name": "Slotø",
+    "latitude": 54.84021,
+    "longitude": 11.05722,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3222008,
+    "name": "Småholme",
+    "latitude": 55.27855,
+    "longitude": 9.76655,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613370,
+    "name": "Smedeholm",
+    "latitude": 54.80681,
+    "longitude": 11.06491,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613345,
+    "name": "Smørumnedre",
+    "latitude": 55.74232,
+    "longitude": 12.30276,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612883,
+    "name": "Sø Torup Sø",
+    "latitude": 55.29842,
+    "longitude": 11.98624,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613185,
+    "name": "Søby Sø",
+    "latitude": 56.04928,
+    "longitude": 9.07023,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613188,
+    "name": "Søbygård Sø",
+    "latitude": 56.25505,
+    "longitude": 9.80802,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613246,
+    "name": "Solbjerg Sø",
+    "latitude": 56.05356,
+    "longitude": 10.0674,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613234,
+    "name": "Solrød",
+    "latitude": 55.53628,
+    "longitude": 12.1827,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612997,
+    "name": "Sønder Nyland",
+    "latitude": 57.24192,
+    "longitude": 10.90496,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613102,
+    "name": "Sønderborg",
+    "latitude": 54.90896,
+    "longitude": 9.78917,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6461772,
+    "name": "Søndermarken",
+    "latitude": 55.66926,
+    "longitude": 12.52424,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612956,
+    "name": "Søndersø",
+    "latitude": 56.44078,
+    "longitude": 9.41334,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612862,
+    "name": "Sorø",
+    "latitude": 55.43184,
+    "longitude": 11.55547,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612859,
+    "name": "Sortedams Sø",
+    "latitude": 55.69239,
+    "longitude": 12.57162,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612872,
+    "name": "Søvig Sund",
+    "latitude": 55.67785,
+    "longitude": 8.28004,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612817,
+    "name": "Spirholm",
+    "latitude": 57.36002,
+    "longitude": 10.92277,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612794,
+    "name": "Sprogø",
+    "latitude": 55.33523,
+    "longitude": 10.96881,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612774,
+    "name": "Stadil Fjord",
+    "latitude": 56.16667,
+    "longitude": 8.21667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612773,
+    "name": "Stadilø",
+    "latitude": 56.16667,
+    "longitude": 8.16667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612710,
+    "name": "Stavnsholt",
+    "latitude": 55.81479,
+    "longitude": 12.40545,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612629,
+    "name": "Stenløse",
+    "latitude": 55.76828,
+    "longitude": 12.19723,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612623,
+    "name": "Stenø",
+    "latitude": 55.8139,
+    "longitude": 12.04894,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612546,
+    "name": "Stigsholm Sø",
+    "latitude": 55.97834,
+    "longitude": 9.48971,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612539,
+    "name": "Stilling Sø",
+    "latitude": 56.05661,
+    "longitude": 10.01039,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612439,
+    "name": "Store Egholm",
+    "latitude": 54.91833,
+    "longitude": 10.48383,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612421,
+    "name": "Store Gribsø",
+    "latitude": 55.98492,
+    "longitude": 12.30323,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612411,
+    "name": "Store Heddinge",
+    "latitude": 55.30965,
+    "longitude": 12.38885,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612400,
+    "name": "Store Kattinge Sø",
+    "latitude": 55.66008,
+    "longitude": 12.01353,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612370,
+    "name": "Store Økssø",
+    "latitude": 56.80499,
+    "longitude": 9.8688,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612368,
+    "name": "Store Øresø",
+    "latitude": 55.11931,
+    "longitude": 10.29728,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612355,
+    "name": "Store Rotholm",
+    "latitude": 56.72314,
+    "longitude": 9.19702,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612344,
+    "name": "Store Svelmø",
+    "latitude": 55.03893,
+    "longitude": 10.32782,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612461,
+    "name": "Storeager",
+    "latitude": 54.62367,
+    "longitude": 11.50846,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612406,
+    "name": "Storeholm",
+    "latitude": 55.13396,
+    "longitude": 12.06427,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612500,
+    "name": "Støvring",
+    "latitude": 56.88536,
+    "longitude": 9.83839,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612204,
+    "name": "Struer",
+    "latitude": 56.49205,
+    "longitude": 8.59397,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612201,
+    "name": "Strynø",
+    "latitude": 54.90085,
+    "longitude": 10.61178,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612198,
+    "name": "Strynø Kalv",
+    "latitude": 54.89902,
+    "longitude": 10.57732,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612168,
+    "name": "Stubbe Sø",
+    "latitude": 56.25794,
+    "longitude": 10.68918,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612187,
+    "name": "Stubbergård Sø",
+    "latitude": 56.43816,
+    "longitude": 8.91475,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612142,
+    "name": "Suderø",
+    "latitude": 54.94378,
+    "longitude": 11.70065,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612096,
+    "name": "Sunds Sø",
+    "latitude": 56.21332,
+    "longitude": 9.02406,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611973,
+    "name": "Sværm",
+    "latitude": 55.90235,
+    "longitude": 10.61954,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612077,
+    "name": "Svaneklapperne",
+    "latitude": 55.61093,
+    "longitude": 12.80779,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612045,
+    "name": "Svendborg",
+    "latitude": 55.05982,
+    "longitude": 10.60677,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612021,
+    "name": "Svenstrup",
+    "latitude": 56.9723,
+    "longitude": 9.84806,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611828,
+    "name": "Taastrup",
+    "latitude": 55.65006,
+    "longitude": 12.3016,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611206,
+    "name": "Tærø",
+    "latitude": 54.95359,
+    "longitude": 12.08602,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611925,
+    "name": "Tagholme",
+    "latitude": 57.08216,
+    "longitude": 9.83112,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611882,
+    "name": "Tange Sø",
+    "latitude": 56.33223,
+    "longitude": 9.58446,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611879,
+    "name": "Tangsø",
+    "latitude": 56.40843,
+    "longitude": 8.25098,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611862,
+    "name": "Tårnby",
+    "latitude": 55.6303,
+    "longitude": 12.60035,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611837,
+    "name": "Tåsinge",
+    "latitude": 55,
+    "longitude": 10.6,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611823,
+    "name": "Tåstrup Sø",
+    "latitude": 56.12843,
+    "longitude": 9.97421,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611818,
+    "name": "Tat",
+    "latitude": 55.3303,
+    "longitude": 15.17455,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611802,
+    "name": "Teglsø",
+    "latitude": 56.7891,
+    "longitude": 9.80508,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611755,
+    "name": "Thisted",
+    "latitude": 56.95523,
+    "longitude": 8.69491,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611744,
+    "name": "Thurø",
+    "latitude": 55.04767,
+    "longitude": 10.69703,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611720,
+    "name": "Tilst",
+    "latitude": 56.19376,
+    "longitude": 10.11283,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611655,
+    "name": "Tissø",
+    "latitude": 55.57718,
+    "longitude": 11.29326,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611640,
+    "name": "Tjele Langsø",
+    "latitude": 56.5365,
+    "longitude": 9.64695,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611629,
+    "name": "Tjørneholm",
+    "latitude": 54.6456,
+    "longitude": 11.59935,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611504,
+    "name": "Tømmerby Fjord",
+    "latitude": 57.05636,
+    "longitude": 8.96862,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611497,
+    "name": "Tønder",
+    "latitude": 54.93306,
+    "longitude": 8.86674,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611447,
+    "name": "Tormål",
+    "latitude": 57.06267,
+    "longitude": 8.62128,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611432,
+    "name": "Tornø",
+    "latitude": 55.4581,
+    "longitude": 10.4835,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611428,
+    "name": "Torø",
+    "latitude": 55.24871,
+    "longitude": 9.87791,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611316,
+    "name": "Tranbjerg",
+    "latitude": 56.09519,
+    "longitude": 10.13605,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611311,
+    "name": "Tranebjerg",
+    "latitude": 55.8326,
+    "longitude": 10.59723,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611307,
+    "name": "Tranekær",
+    "latitude": 54.9976,
+    "longitude": 10.84381,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611219,
+    "name": "Troldholme",
+    "latitude": 57.03274,
+    "longitude": 9.50698,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611189,
+    "name": "Trørød",
+    "latitude": 55.83946,
+    "longitude": 12.54432,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611154,
+    "name": "Tuelsø",
+    "latitude": 55.44943,
+    "longitude": 11.58131,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611132,
+    "name": "Tune",
+    "latitude": 55.59287,
+    "longitude": 12.16968,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611121,
+    "name": "Tunø",
+    "latitude": 55.95285,
+    "longitude": 10.43198,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611039,
+    "name": "Tyreholm",
+    "latitude": 55.03036,
+    "longitude": 12.23512,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611022,
+    "name": "Tystrup Sø",
+    "latitude": 55.36214,
+    "longitude": 11.57856,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611019,
+    "name": "Tyvholm",
+    "latitude": 57.49857,
+    "longitude": 10.60376,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610924,
+    "name": "Ulse Sø",
+    "latitude": 55.29834,
+    "longitude": 12.01117,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610599,
+    "name": "Ulvedybet",
+    "latitude": 57.08326,
+    "longitude": 9.64266,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617626,
+    "name": "Værløse",
+    "latitude": 55.78251,
+    "longitude": 12.36856,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610789,
+    "name": "Vallensbæk",
+    "latitude": 55.62199,
+    "longitude": 12.38511,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610778,
+    "name": "Vallum Sø",
+    "latitude": 56.38292,
+    "longitude": 10.53006,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610752,
+    "name": "Vandet Sø",
+    "latitude": 57.01415,
+    "longitude": 8.55486,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610733,
+    "name": "Vansø",
+    "latitude": 56.48095,
+    "longitude": 9.50476,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610726,
+    "name": "Varde",
+    "latitude": 55.62112,
+    "longitude": 8.48069,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610655,
+    "name": "Vedsø",
+    "latitude": 56.39978,
+    "longitude": 9.41366,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610634,
+    "name": "Vejen",
+    "latitude": 55.48117,
+    "longitude": 9.13795,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610613,
+    "name": "Vejle",
+    "latitude": 55.70927,
+    "longitude": 9.5357,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610597,
+    "name": "Vejlø",
+    "latitude": 55.57377,
+    "longitude": 10.62612,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610592,
+    "name": "Vejlsø",
+    "latitude": 56.15105,
+    "longitude": 9.55819,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610587,
+    "name": "Vejrø",
+    "latitude": 55.94547,
+    "longitude": 10.75906,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13664949,
+    "name": "Vennelystparken",
+    "latitude": 56.16473,
+    "longitude": 10.2075,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610521,
+    "name": "Venø",
+    "latitude": 56.55898,
+    "longitude": 8.63011,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610515,
+    "name": "Vensholm",
+    "latitude": 54.92972,
+    "longitude": 11.0472,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610502,
+    "name": "Vessø",
+    "latitude": 56.07065,
+    "longitude": 9.78745,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610319,
+    "name": "Viborg",
+    "latitude": 56.45319,
+    "longitude": 9.40201,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610310,
+    "name": "Viby",
+    "latitude": 56.12259,
+    "longitude": 10.15145,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610283,
+    "name": "Vigelsø",
+    "latitude": 55.47103,
+    "longitude": 10.46407,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610276,
+    "name": "Vigø",
+    "latitude": 55.14583,
+    "longitude": 10.11748,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610274,
+    "name": "Vigsø",
+    "latitude": 54.90866,
+    "longitude": 11.63615,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610076,
+    "name": "Vogterholm",
+    "latitude": 54.92297,
+    "longitude": 10.59047,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610075,
+    "name": "Vojens",
+    "latitude": 55.24639,
+    "longitude": 9.30603,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610020,
+    "name": "Vordingborg",
+    "latitude": 55.00801,
+    "longitude": 11.91057,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610003,
+    "name": "Vorsø",
+    "latitude": 55.86811,
+    "longitude": 10.00325,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610002,
+    "name": "Vorsø Kalv",
+    "latitude": 55.86289,
+    "longitude": 9.99028,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2609967,
+    "name": "Vresen",
+    "latitude": 55.2199,
+    "longitude": 10.88776,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2609941,
+    "name": "Vullum Sø",
+    "latitude": 57.0817,
+    "longitude": 8.79543,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  }
+]

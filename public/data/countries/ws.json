@@ -1,0 +1,1032 @@
+[
+  {
+    "geonameId": 4035432,
+    "name": "Afega",
+    "latitude": -13.79726,
+    "longitude": -171.85308,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7109466,
+    "name": "Afu Aau Falls",
+    "latitude": -13.74428,
+    "longitude": -172.314,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7046421,
+    "name": "Afulilo Dam",
+    "latitude": -13.97127,
+    "longitude": -171.55028,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035422,
+    "name": "Albatross Island",
+    "latitude": -13.88063,
+    "longitude": -171.61811,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035413,
+    "name": "Apia",
+    "latitude": -13.83333,
+    "longitude": -171.76666,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7109445,
+    "name": "Apia Park",
+    "latitude": -13.83795,
+    "longitude": -171.75125,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035411,
+    "name": "Apolima Island",
+    "latitude": -13.82377,
+    "longitude": -172.15118,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7106456,
+    "name": "Asau",
+    "latitude": -13.51963,
+    "longitude": -172.63784,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035405,
+    "name": "Asi",
+    "latitude": -13.66667,
+    "longitude": -172.1,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035398,
+    "name": "Avalua",
+    "latitude": -13.7,
+    "longitude": -172.13333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035357,
+    "name": "Falefa Falls",
+    "latitude": -13.89669,
+    "longitude": -171.59101,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035339,
+    "name": "Fanuatapu Island",
+    "latitude": -14.01392,
+    "longitude": -171.40042,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035317,
+    "name": "Fatuanava Island",
+    "latitude": -13.8495,
+    "longitude": -172.09727,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035287,
+    "name": "Lataiuta",
+    "latitude": -13.73333,
+    "longitude": -172.5,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7109413,
+    "name": "Le Mata Pass",
+    "latitude": -13.95564,
+    "longitude": -171.60005,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7106324,
+    "name": "Lepuia’i Island",
+    "latitude": -13.85966,
+    "longitude": -172.11501,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035260,
+    "name": "Leulumoega",
+    "latitude": -13.82297,
+    "longitude": -171.96127,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035249,
+    "name": "Lufilufi",
+    "latitude": -13.87449,
+    "longitude": -171.59857,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035238,
+    "name": "Malaulano See",
+    "latitude": -13.6,
+    "longitude": -172.3,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035228,
+    "name": "Manono Island",
+    "latitude": -13.84956,
+    "longitude": -172.11039,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7109457,
+    "name": "Mata’afa Island",
+    "latitude": -13.78698,
+    "longitude": -171.80212,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034944,
+    "name": "Mauga Tele",
+    "latitude": -13.92073,
+    "longitude": -171.65993,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7109471,
+    "name": "Mount Ailao",
+    "latitude": -13.72606,
+    "longitude": -172.51065,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7106402,
+    "name": "Mount Elietoga",
+    "latitude": -13.59664,
+    "longitude": -172.63696,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035384,
+    "name": "Mount Fa’ani",
+    "latitude": -13.58517,
+    "longitude": -172.44825,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035338,
+    "name": "Mount Fao",
+    "latitude": -13.92264,
+    "longitude": -171.56625,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7106379,
+    "name": "Mount Fatuafie",
+    "latitude": -13.72765,
+    "longitude": -172.50485,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7044076,
+    "name": "Mount Fealofani",
+    "latitude": -13.97777,
+    "longitude": -171.62126,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7046388,
+    "name": "Mount Fito",
+    "latitude": -13.95179,
+    "longitude": -171.68354,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7090906,
+    "name": "Mount Fogalepulu",
+    "latitude": -13.97967,
+    "longitude": -171.56321,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035293,
+    "name": "Mount Lanotai",
+    "latitude": -14.02016,
+    "longitude": -171.47256,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035291,
+    "name": "Mount Lanutata",
+    "latitude": -13.88333,
+    "longitude": -171.81667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035282,
+    "name": "Mount Lauti",
+    "latitude": -13.87916,
+    "longitude": -171.98739,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035266,
+    "name": "Mount Le Pu’e",
+    "latitude": -13.93586,
+    "longitude": -171.75209,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7109472,
+    "name": "Mount Leele",
+    "latitude": -13.72438,
+    "longitude": -172.50006,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7109468,
+    "name": "Mount Lelua",
+    "latitude": -13.7406,
+    "longitude": -172.4967,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7109490,
+    "name": "Mount Ma’asina",
+    "latitude": -13.53391,
+    "longitude": -172.37883,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035245,
+    "name": "Mount Mafane",
+    "latitude": -13.66322,
+    "longitude": -172.33558,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035232,
+    "name": "Mount Mana’omia",
+    "latitude": -13.62943,
+    "longitude": -172.38735,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7106452,
+    "name": "Mount Mariota",
+    "latitude": -13.88806,
+    "longitude": -171.90763,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035225,
+    "name": "Mount Mata’aga",
+    "latitude": -13.62092,
+    "longitude": -172.44735,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7106440,
+    "name": "Mount Mataulano",
+    "latitude": -13.62884,
+    "longitude": -172.33983,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7046420,
+    "name": "Mount Mauga Sa",
+    "latitude": -13.98262,
+    "longitude": -171.61445,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7090907,
+    "name": "Mount Mauga-o-Alii",
+    "latitude": -13.97111,
+    "longitude": -171.58075,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7106461,
+    "name": "Mount Maugafolau",
+    "latitude": -13.85877,
+    "longitude": -171.80167,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035203,
+    "name": "Mount Maugaloa",
+    "latitude": -13.59747,
+    "longitude": -172.61809,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7109486,
+    "name": "Mount Mua",
+    "latitude": -13.62125,
+    "longitude": -172.43463,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035193,
+    "name": "Mount Mulimauga",
+    "latitude": -13.55947,
+    "longitude": -172.39596,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7106371,
+    "name": "Mount Nei",
+    "latitude": -13.66494,
+    "longitude": -172.27181,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035158,
+    "name": "Mount Olomanu",
+    "latitude": -13.73459,
+    "longitude": -172.52186,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035162,
+    "name": "Mount Olomauga",
+    "latitude": -14.01652,
+    "longitude": -171.48091,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7106380,
+    "name": "Mount Olotane",
+    "latitude": -13.72782,
+    "longitude": -172.52232,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7106354,
+    "name": "Mount Oloulu",
+    "latitude": -13.69146,
+    "longitude": -172.27825,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035143,
+    "name": "Mount Parasit",
+    "latitude": -13.56667,
+    "longitude": -172.46667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7045200,
+    "name": "Mount Poutavai",
+    "latitude": -13.957,
+    "longitude": -171.60836,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035131,
+    "name": "Mount Puna",
+    "latitude": -13.58855,
+    "longitude": -172.32092,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7106458,
+    "name": "Mount Punaiseesee",
+    "latitude": -13.6246,
+    "longitude": -172.28304,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7106387,
+    "name": "Mount Sama’au",
+    "latitude": -13.54123,
+    "longitude": -172.69466,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7090905,
+    "name": "Mount Seuga",
+    "latitude": -13.99356,
+    "longitude": -171.54459,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035030,
+    "name": "Mount Siga’ele",
+    "latitude": -13.90151,
+    "longitude": -171.86885,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035026,
+    "name": "Mount Siope",
+    "latitude": -13.62717,
+    "longitude": -172.47021,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035002,
+    "name": "Mount Tafatafao",
+    "latitude": -13.9,
+    "longitude": -171.95,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034955,
+    "name": "Mount Tafua Upolu",
+    "latitude": -13.87808,
+    "longitude": -171.96398,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034997,
+    "name": "Mount Talito’elau",
+    "latitude": -13.89923,
+    "longitude": -171.90114,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034986,
+    "name": "Mount Teelagi",
+    "latitude": -13.61667,
+    "longitude": -172.4,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7106381,
+    "name": "Mount Tiafue",
+    "latitude": -13.74523,
+    "longitude": -172.48939,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7046409,
+    "name": "Mount Tiatala",
+    "latitude": -13.99767,
+    "longitude": -171.5212,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034980,
+    "name": "Mount To’iave’a",
+    "latitude": -13.61875,
+    "longitude": -172.33955,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7106356,
+    "name": "Mount Ulivaa",
+    "latitude": -13.70189,
+    "longitude": -172.26691,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034942,
+    "name": "Mount Vaea",
+    "latitude": -13.86369,
+    "longitude": -171.77372,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034906,
+    "name": "Mount Vaitoa",
+    "latitude": -13.91667,
+    "longitude": -171.73333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7106362,
+    "name": "Mount Valusia",
+    "latitude": -13.71944,
+    "longitude": -172.22171,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7106439,
+    "name": "Mount Ve’a",
+    "latitude": -13.62977,
+    "longitude": -172.3322,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035196,
+    "name": "Mulifanua",
+    "latitude": -13.83183,
+    "longitude": -172.03602,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035180,
+    "name": "Namu’a Island",
+    "latitude": -14.02248,
+    "longitude": -171.41572,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035178,
+    "name": "Nautilus Bank",
+    "latitude": -13.83333,
+    "longitude": -171.58333,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7106246,
+    "name": "Nu’uavasa Island",
+    "latitude": -14.00567,
+    "longitude": -171.89965,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035168,
+    "name": "Nu’ulua Island",
+    "latitude": -14.07286,
+    "longitude": -171.4105,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7109476,
+    "name": "Nu’umasaga Islands",
+    "latitude": -13.69758,
+    "longitude": -172.18923,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7106448,
+    "name": "Nu’unefu Island",
+    "latitude": -13.6872,
+    "longitude": -172.18543,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7106359,
+    "name": "Nu’upulu Island",
+    "latitude": -13.73699,
+    "longitude": -172.21456,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035167,
+    "name": "Nu’usafe’e Island",
+    "latitude": -14.04697,
+    "longitude": -171.69007,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035165,
+    "name": "Nu’utele Island",
+    "latitude": -14.06347,
+    "longitude": -171.42346,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035169,
+    "name": "Nulopa Island",
+    "latitude": -13.84219,
+    "longitude": -172.12935,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11185900,
+    "name": "O le Pupu-Pue Natoinal Park",
+    "latitude": -13.96939,
+    "longitude": -171.72352,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035153,
+    "name": "Palauli",
+    "latitude": -13.75859,
+    "longitude": -172.29858,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7106320,
+    "name": "Papapapaitai Falls",
+    "latitude": -13.93941,
+    "longitude": -171.77763,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035140,
+    "name": "Penafu",
+    "latitude": -13.5,
+    "longitude": -172.28333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7109474,
+    "name": "Prince Edward Park",
+    "latitude": -13.70973,
+    "longitude": -172.20968,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035118,
+    "name": "Safotu",
+    "latitude": -13.45132,
+    "longitude": -172.40177,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035117,
+    "name": "Safotulafai",
+    "latitude": -13.67147,
+    "longitude": -172.17768,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035078,
+    "name": "Samamea",
+    "latitude": -13.93375,
+    "longitude": -171.53122,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035072,
+    "name": "Samoa Islands",
+    "latitude": -14,
+    "longitude": -171,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035045,
+    "name": "Satupa‘itea",
+    "latitude": -13.76593,
+    "longitude": -172.32686,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035036,
+    "name": "Savai’i",
+    "latitude": -13.61019,
+    "longitude": -172.44128,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7109418,
+    "name": "So’agu Falls",
+    "latitude": -13.92347,
+    "longitude": -171.7355,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7046422,
+    "name": "Sopoaga Falls",
+    "latitude": -14.00771,
+    "longitude": -171.58647,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7106309,
+    "name": "Taumeasina Island",
+    "latitude": -13.8291,
+    "longitude": -171.74647,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034987,
+    "name": "Tavalagi Pass",
+    "latitude": -13.95841,
+    "longitude": -171.62842,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034956,
+    "name": "Upolu",
+    "latitude": -13.91893,
+    "longitude": -171.7582,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034950,
+    "name": "Utuie",
+    "latitude": -13.85,
+    "longitude": -172.08333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034938,
+    "name": "Vailoa",
+    "latitude": -13.75551,
+    "longitude": -172.30698,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034908,
+    "name": "Vaitele",
+    "latitude": -13.82933,
+    "longitude": -171.80604,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  }
+]

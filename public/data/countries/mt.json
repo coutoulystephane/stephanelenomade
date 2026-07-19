@@ -1,0 +1,912 @@
+[
+  {
+    "geonameId": 2563232,
+    "name": "Attard",
+    "latitude": 35.88967,
+    "longitude": 14.4425,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2563217,
+    "name": "Balzan",
+    "latitude": 35.90215,
+    "longitude": 14.45213,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2563195,
+    "name": "Binġemma Gap",
+    "latitude": 35.90278,
+    "longitude": 14.37778,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2563191,
+    "name": "Birkirkara",
+    "latitude": 35.89706,
+    "longitude": 14.46115,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2563189,
+    "name": "Birżebbuġa",
+    "latitude": 35.82546,
+    "longitude": 14.52685,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2563169,
+    "name": "Buskett",
+    "latitude": 35.86028,
+    "longitude": 14.39778,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2563158,
+    "name": "Chadwick Lakes",
+    "latitude": 35.89222,
+    "longitude": 14.39,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562820,
+    "name": "Comino Island",
+    "latitude": 36.01226,
+    "longitude": 14.33669,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2563181,
+    "name": "Cospicua",
+    "latitude": 35.88556,
+    "longitude": 14.5275,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2563140,
+    "name": "Dingli",
+    "latitude": 35.8615,
+    "longitude": 14.38213,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2563139,
+    "name": "Dingli Reservoir",
+    "latitude": 35.85639,
+    "longitude": 14.38306,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2563122,
+    "name": "Falka Gap",
+    "latitude": 35.91028,
+    "longitude": 14.40139,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2563115,
+    "name": "Fgura",
+    "latitude": 35.87028,
+    "longitude": 14.51333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562955,
+    "name": "Floriana",
+    "latitude": 35.89583,
+    "longitude": 14.50833,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8337342,
+    "name": "Fontana",
+    "latitude": 36.03804,
+    "longitude": 14.23595,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2563081,
+    "name": "Għajnsielem",
+    "latitude": 36.02572,
+    "longitude": 14.2864,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2563063,
+    "name": "Għarb",
+    "latitude": 36.05966,
+    "longitude": 14.20917,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2563046,
+    "name": "Għaxaq",
+    "latitude": 35.84931,
+    "longitude": 14.51695,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2563049,
+    "name": "Gozo",
+    "latitude": 36.04944,
+    "longitude": 14.25,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2563020,
+    "name": "Gudja",
+    "latitude": 35.85055,
+    "longitude": 14.50593,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562508,
+    "name": "Gżejjer Selmunett",
+    "latitude": 35.9662,
+    "longitude": 14.40236,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562946,
+    "name": "Gżira",
+    "latitude": 35.90583,
+    "longitude": 14.48806,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2563062,
+    "name": "Hal Gharghur",
+    "latitude": 35.92409,
+    "longitude": 14.45118,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562998,
+    "name": "Ħamrun",
+    "latitude": 35.88452,
+    "longitude": 14.48498,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562261,
+    "name": "Haz-Zebbug",
+    "latitude": 35.87194,
+    "longitude": 14.44111,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562973,
+    "name": "Iċ-Ċirku",
+    "latitude": 35.86667,
+    "longitude": 14.55,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562958,
+    "name": "Il-Fawwara",
+    "latitude": 35.93083,
+    "longitude": 14.35,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2563112,
+    "name": "Il-Ġibjun tas-Sentini",
+    "latitude": 35.88861,
+    "longitude": 14.37639,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2563104,
+    "name": "Il-Gżira ta’ Forti Manoel",
+    "latitude": 35.90389,
+    "longitude": 14.50278,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562746,
+    "name": "Imdina",
+    "latitude": 35.88636,
+    "longitude": 14.40312,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562735,
+    "name": "Imġarr",
+    "latitude": 35.92148,
+    "longitude": 14.365,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562698,
+    "name": "Imsida",
+    "latitude": 35.8925,
+    "longitude": 14.48278,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562694,
+    "name": "Imtarfa",
+    "latitude": 35.89243,
+    "longitude": 14.39819,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2565209,
+    "name": "Ix-Xquq",
+    "latitude": 35.96083,
+    "longitude": 14.34111,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562830,
+    "name": "Kalkara",
+    "latitude": 35.88917,
+    "longitude": 14.53278,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562818,
+    "name": "Kemmunett",
+    "latitude": 36.01361,
+    "longitude": 14.31944,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2563543,
+    "name": "Kennedy Grove",
+    "latitude": 35.94417,
+    "longitude": 14.41917,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562816,
+    "name": "Kerċem",
+    "latitude": 36.04162,
+    "longitude": 14.22694,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562815,
+    "name": "Kirkop",
+    "latitude": 35.84233,
+    "longitude": 14.48557,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562800,
+    "name": "L-Iklin",
+    "latitude": 35.90414,
+    "longitude": 14.45415,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562801,
+    "name": "Lija",
+    "latitude": 35.90048,
+    "longitude": 14.44628,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8015438,
+    "name": "Lower Barracca Gardens",
+    "latitude": 35.89751,
+    "longitude": 14.51755,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562788,
+    "name": "Luqa",
+    "latitude": 35.85985,
+    "longitude": 14.48895,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562772,
+    "name": "Malta",
+    "latitude": 35.88182,
+    "longitude": 14.44908,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562768,
+    "name": "Maltese Islands",
+    "latitude": 35.91667,
+    "longitude": 14.43333,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562755,
+    "name": "Marsa",
+    "latitude": 35.87925,
+    "longitude": 14.49462,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562750,
+    "name": "Marsaskala",
+    "latitude": 35.8622,
+    "longitude": 14.56701,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562247,
+    "name": "Marsaxlokk",
+    "latitude": 35.84214,
+    "longitude": 14.54296,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562744,
+    "name": "Mellieħa",
+    "latitude": 35.95663,
+    "longitude": 14.36259,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2563416,
+    "name": "Menqa",
+    "latitude": 36.07222,
+    "longitude": 14.26028,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562704,
+    "name": "Mosta",
+    "latitude": 35.90942,
+    "longitude": 14.42566,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562701,
+    "name": "Mqabba",
+    "latitude": 35.84763,
+    "longitude": 14.46824,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562693,
+    "name": "Munxar",
+    "latitude": 36.03048,
+    "longitude": 14.23469,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562687,
+    "name": "Nadur",
+    "latitude": 36.0379,
+    "longitude": 14.29382,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562683,
+    "name": "Naxxar",
+    "latitude": 35.91368,
+    "longitude": 14.44382,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562682,
+    "name": "Naxxar Gap",
+    "latitude": 35.92528,
+    "longitude": 14.44,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562617,
+    "name": "Paola",
+    "latitude": 35.87297,
+    "longitude": 14.49897,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8337353,
+    "name": "Pembroke",
+    "latitude": 35.93024,
+    "longitude": 14.47793,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562664,
+    "name": "Pietà",
+    "latitude": 35.89297,
+    "longitude": 14.49362,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562629,
+    "name": "Qormi",
+    "latitude": 35.87601,
+    "longitude": 14.472,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562622,
+    "name": "Qrendi",
+    "latitude": 35.83446,
+    "longitude": 14.45783,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562620,
+    "name": "Rabat",
+    "latitude": 35.88152,
+    "longitude": 14.39872,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562618,
+    "name": "Rabat Reservoirs",
+    "latitude": 35.87361,
+    "longitude": 14.39472,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562598,
+    "name": "Safi",
+    "latitude": 35.83306,
+    "longitude": 14.48486,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562557,
+    "name": "San Ġiljan",
+    "latitude": 35.91839,
+    "longitude": 14.48977,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2567539,
+    "name": "San Ġwann",
+    "latitude": 35.90556,
+    "longitude": 14.47611,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562552,
+    "name": "San Lawrenz",
+    "latitude": 36.05538,
+    "longitude": 14.20388,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2564366,
+    "name": "San Niklaw Reservoir",
+    "latitude": 35.83722,
+    "longitude": 14.44778,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562541,
+    "name": "San Pawl il-Baħar",
+    "latitude": 35.95064,
+    "longitude": 14.41561,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562545,
+    "name": "Sannat",
+    "latitude": 36.02451,
+    "longitude": 14.24283,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562518,
+    "name": "Santa Venera",
+    "latitude": 35.88998,
+    "longitude": 14.47291,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562509,
+    "name": "Schinas Reservoirs",
+    "latitude": 35.84722,
+    "longitude": 14.48333,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562792,
+    "name": "Senglea",
+    "latitude": 35.88777,
+    "longitude": 14.51588,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562504,
+    "name": "Siġġiewi",
+    "latitude": 35.85547,
+    "longitude": 14.43611,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562501,
+    "name": "Sliema",
+    "latitude": 35.91247,
+    "longitude": 14.50175,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562850,
+    "name": "Swieqi",
+    "latitude": 35.92154,
+    "longitude": 14.47998,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562361,
+    "name": "Ta’ Qali",
+    "latitude": 35.89278,
+    "longitude": 14.42694,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562320,
+    "name": "Ta’ Xbiex",
+    "latitude": 35.89907,
+    "longitude": 14.49456,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562354,
+    "name": "Tarġa Gap",
+    "latitude": 35.9175,
+    "longitude": 14.41389,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562349,
+    "name": "Tarxien",
+    "latitude": 35.8656,
+    "longitude": 14.51506,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562305,
+    "name": "Valletta",
+    "latitude": 35.89968,
+    "longitude": 14.5148,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562619,
+    "name": "Victoria",
+    "latitude": 36.04473,
+    "longitude": 14.24118,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2564135,
+    "name": "Villa Rundle",
+    "latitude": 36.04333,
+    "longitude": 14.2425,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562966,
+    "name": "Vittoriosa",
+    "latitude": 35.89157,
+    "longitude": 14.51765,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562280,
+    "name": "Xagħra",
+    "latitude": 36.05003,
+    "longitude": 14.26421,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562274,
+    "name": "Xewkija",
+    "latitude": 36.03413,
+    "longitude": 14.25591,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562273,
+    "name": "Xgħajra",
+    "latitude": 35.88556,
+    "longitude": 14.5475,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562266,
+    "name": "Żabbar",
+    "latitude": 35.87687,
+    "longitude": 14.53592,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562260,
+    "name": "Żebbuġ",
+    "latitude": 36.07187,
+    "longitude": 14.23705,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562258,
+    "name": "Żejtun",
+    "latitude": 35.85547,
+    "longitude": 14.53341,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2562250,
+    "name": "Żurrieq",
+    "latitude": 35.8296,
+    "longitude": 14.47588,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  }
+]

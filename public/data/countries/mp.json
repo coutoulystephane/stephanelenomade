@@ -1,0 +1,532 @@
+[
+  {
+    "geonameId": 4041113,
+    "name": "Agrihan",
+    "latitude": 18.745,
+    "longitude": 145.669,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041115,
+    "name": "Aguijan Island",
+    "latitude": 14.85,
+    "longitude": 145.559,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041123,
+    "name": "Alamagan Island",
+    "latitude": 17.595,
+    "longitude": 145.822,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041127,
+    "name": "American Memorial Park",
+    "latitude": 15.21726,
+    "longitude": 145.72066,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041128,
+    "name": "Anatahan Island",
+    "latitude": 16.362,
+    "longitude": 145.642,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041142,
+    "name": "Asuncion Island",
+    "latitude": 19.682,
+    "longitude": 145.4,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7778913,
+    "name": "Bandeera Peak",
+    "latitude": 17.602,
+    "longitude": 145.8367,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7778746,
+    "name": "Barren Landslides Areas",
+    "latitude": 19.69326,
+    "longitude": 145.41212,
+    "category": "Desert",
+    "subcategory": "Desert",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7779016,
+    "name": "Caldera Lake",
+    "latitude": 16.35803,
+    "longitude": 145.67502,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041320,
+    "name": "Chenchon Bird Sanctuary",
+    "latitude": 14.15289,
+    "longitude": 145.26731,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041188,
+    "name": "Civic Center Park",
+    "latitude": 15.16111,
+    "longitude": 145.70444,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7838869,
+    "name": "Court of Honor and Flag Circle",
+    "latitude": 15.21668,
+    "longitude": 145.72179,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7779021,
+    "name": "East Crater Lake 2009",
+    "latitude": 16.34683,
+    "longitude": 145.69841,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041238,
+    "name": "East Island",
+    "latitude": 20.0167,
+    "longitude": 145.23164,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041262,
+    "name": "Farallon de Medinilla",
+    "latitude": 16.024,
+    "longitude": 146.0615,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041263,
+    "name": "Farallon de Pajaros",
+    "latitude": 20.54,
+    "longitude": 144.891,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041299,
+    "name": "Guguan Island",
+    "latitude": 17.32,
+    "longitude": 145.838,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041301,
+    "name": "Hagoi Lake",
+    "latitude": 15.06815,
+    "longitude": 145.62444,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7838731,
+    "name": "Kalabera Pass",
+    "latitude": 15.24726,
+    "longitude": 145.79143,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041351,
+    "name": "Kutake Yashi",
+    "latitude": 18.058,
+    "longitude": 145.724,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041356,
+    "name": "Laguna Sanhalom - Brackish Water",
+    "latitude": 18.14969,
+    "longitude": 145.77334,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041302,
+    "name": "Lake Susupe - slightly brackish",
+    "latitude": 15.15262,
+    "longitude": 145.71194,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7778921,
+    "name": "Large Southwest Graben",
+    "latitude": 17.5931,
+    "longitude": 145.82952,
+    "category": "Mountain",
+    "subcategory": "Canyon",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041436,
+    "name": "Maug Islands",
+    "latitude": 20.015,
+    "longitude": 145.221,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7779077,
+    "name": "Melchor Memorial Park",
+    "latitude": 14.14137,
+    "longitude": 145.14151,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041192,
+    "name": "Memorial Park Amphitheater",
+    "latitude": 15.21646,
+    "longitude": 145.72008,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7778996,
+    "name": "Mount Anatahan",
+    "latitude": 16.355,
+    "longitude": 145.6564,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7778942,
+    "name": "Mount Asuncion",
+    "latitude": 19.6947,
+    "longitude": 145.4042,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041426,
+    "name": "Mount Maru",
+    "latitude": 18.0878,
+    "longitude": 145.7497,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041485,
+    "name": "Mount Pagan - Active Volcano",
+    "latitude": 18.141,
+    "longitude": 145.7889,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041535,
+    "name": "Mount Sabana",
+    "latitude": 14.1447,
+    "longitude": 145.1881,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7778978,
+    "name": "Mount Sarigan",
+    "latitude": 16.6988,
+    "longitude": 145.7798,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041606,
+    "name": "Mount Takpochao",
+    "latitude": 15.18603,
+    "longitude": 145.74418,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041652,
+    "name": "Mount Togari",
+    "latitude": 18.0839,
+    "longitude": 145.745,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7778941,
+    "name": "Mount Uracas",
+    "latitude": 20.546,
+    "longitude": 144.8928,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7778956,
+    "name": "North Guguan Volcano",
+    "latitude": 17.31297,
+    "longitude": 145.83903,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041466,
+    "name": "North Island",
+    "latitude": 20.03406,
+    "longitude": 145.22072,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041467,
+    "name": "Northern Mariana Islands",
+    "latitude": 15.214,
+    "longitude": 145.7565,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041651,
+    "name": "Okso Tipo Poli",
+    "latitude": 15.18576,
+    "longitude": 145.73433,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041484,
+    "name": "Pagan Island",
+    "latitude": 18.11,
+    "longitude": 145.773,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041505,
+    "name": "Pinatang Seawater Park",
+    "latitude": 14.1466,
+    "longitude": 145.14304,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041523,
+    "name": "Rota Island",
+    "latitude": 14.154,
+    "longitude": 145.202,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7828758,
+    "name": "Saipan",
+    "latitude": 15.21233,
+    "longitude": 145.7545,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7802716,
+    "name": "Saipan Botanical Garden",
+    "latitude": 15.17244,
+    "longitude": 145.74922,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041550,
+    "name": "Saipan Island",
+    "latitude": 15.19434,
+    "longitude": 145.74829,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7267949,
+    "name": "San Jose Village",
+    "latitude": 14.96823,
+    "longitude": 145.61998,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041567,
+    "name": "Sarigan Island",
+    "latitude": 16.694,
+    "longitude": 145.7825,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7778946,
+    "name": "South Guguan Volcano",
+    "latitude": 17.29982,
+    "longitude": 145.84155,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7778944,
+    "name": "South Pagan Top",
+    "latitude": 18.0797,
+    "longitude": 145.7424,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7778893,
+    "name": "South Pagan Volcano",
+    "latitude": 18.0729,
+    "longitude": 145.72585,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041582,
+    "name": "Sugar King Park",
+    "latitude": 15.20181,
+    "longitude": 145.72029,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041647,
+    "name": "Tinian Island",
+    "latitude": 15.01756,
+    "longitude": 145.62731,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041669,
+    "name": "West Island",
+    "latitude": 20.01637,
+    "longitude": 145.21089,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  }
+]

@@ -1,0 +1,1731 @@
+{
+  "AF": {
+    "id": 1,
+    "name": "Afghanistan",
+    "continent": "Asia",
+    "latitude": 33,
+    "longitude": 65
+  },
+  "AX": {
+    "id": 2,
+    "name": "Aland Islands",
+    "continent": "Europe",
+    "latitude": 60.116667,
+    "longitude": 19.9
+  },
+  "AL": {
+    "id": 3,
+    "name": "Albania",
+    "continent": "Europe",
+    "latitude": 41,
+    "longitude": 20
+  },
+  "DZ": {
+    "id": 4,
+    "name": "Algeria",
+    "continent": "Africa",
+    "latitude": 28,
+    "longitude": 3
+  },
+  "AS": {
+    "id": 5,
+    "name": "American Samoa",
+    "continent": "Oceania",
+    "latitude": -14.33333333,
+    "longitude": -170
+  },
+  "AD": {
+    "id": 6,
+    "name": "Andorra",
+    "continent": "Europe",
+    "latitude": 42.5,
+    "longitude": 1.5
+  },
+  "AO": {
+    "id": 7,
+    "name": "Angola",
+    "continent": "Africa",
+    "latitude": -12.5,
+    "longitude": 18.5
+  },
+  "AI": {
+    "id": 8,
+    "name": "Anguilla",
+    "continent": "North America",
+    "latitude": 18.25,
+    "longitude": -63.16666666
+  },
+  "AG": {
+    "id": 9,
+    "name": "Antigua and Barbuda",
+    "continent": "North America",
+    "latitude": 17.05,
+    "longitude": -61.8
+  },
+  "AR": {
+    "id": 10,
+    "name": "Argentina",
+    "continent": "South America",
+    "latitude": -34,
+    "longitude": -64
+  },
+  "AM": {
+    "id": 11,
+    "name": "Armenia",
+    "continent": "Asia",
+    "latitude": 40,
+    "longitude": 45
+  },
+  "AW": {
+    "id": 12,
+    "name": "Aruba",
+    "continent": "North America",
+    "latitude": 12.5,
+    "longitude": -69.96666666
+  },
+  "AU": {
+    "id": 13,
+    "name": "Australia",
+    "continent": "Oceania",
+    "latitude": -27,
+    "longitude": 133
+  },
+  "AT": {
+    "id": 14,
+    "name": "Austria",
+    "continent": "Europe",
+    "latitude": 47.33333333,
+    "longitude": 13.33333333
+  },
+  "AZ": {
+    "id": 15,
+    "name": "Azerbaijan",
+    "continent": "Asia",
+    "latitude": 40.5,
+    "longitude": 47.5
+  },
+  "BH": {
+    "id": 16,
+    "name": "Bahrain",
+    "continent": "Asia",
+    "latitude": 26,
+    "longitude": 50.55
+  },
+  "BD": {
+    "id": 17,
+    "name": "Bangladesh",
+    "continent": "Asia",
+    "latitude": 24,
+    "longitude": 90
+  },
+  "BB": {
+    "id": 18,
+    "name": "Barbados",
+    "continent": "North America",
+    "latitude": 13.16666666,
+    "longitude": -59.53333333
+  },
+  "BY": {
+    "id": 19,
+    "name": "Belarus",
+    "continent": "Europe",
+    "latitude": 53,
+    "longitude": 28
+  },
+  "BE": {
+    "id": 20,
+    "name": "Belgium",
+    "continent": "Europe",
+    "latitude": 50.83333333,
+    "longitude": 4
+  },
+  "BZ": {
+    "id": 21,
+    "name": "Belize",
+    "continent": "North America",
+    "latitude": 17.25,
+    "longitude": -88.75
+  },
+  "BJ": {
+    "id": 22,
+    "name": "Benin",
+    "continent": "Africa",
+    "latitude": 9.5,
+    "longitude": 2.25
+  },
+  "BM": {
+    "id": 23,
+    "name": "Bermuda",
+    "continent": "North America",
+    "latitude": 32.33333333,
+    "longitude": -64.75
+  },
+  "BT": {
+    "id": 24,
+    "name": "Bhutan",
+    "continent": "Asia",
+    "latitude": 27.5,
+    "longitude": 90.5
+  },
+  "BO": {
+    "id": 25,
+    "name": "Bolivia",
+    "continent": "South America",
+    "latitude": -17,
+    "longitude": -65
+  },
+  " SINT EUSTATIUS AND SABA\"": {
+    "id": 26,
+    "name": "\"Bonaire",
+    "continent": "North America",
+    "latitude": 0,
+    "longitude": 12.15
+  },
+  "BA": {
+    "id": 27,
+    "name": "Bosnia and Herzegovina",
+    "continent": "Europe",
+    "latitude": 44,
+    "longitude": 18
+  },
+  "BW": {
+    "id": 28,
+    "name": "Botswana",
+    "continent": "Africa",
+    "latitude": -22,
+    "longitude": 24
+  },
+  "BR": {
+    "id": 29,
+    "name": "Brazil",
+    "continent": "South America",
+    "latitude": -10,
+    "longitude": -55
+  },
+  "IO": {
+    "id": 30,
+    "name": "British Indian Ocean Territory",
+    "continent": "Africa",
+    "latitude": -6,
+    "longitude": 71.5
+  },
+  "BN": {
+    "id": 31,
+    "name": "Brunei",
+    "continent": "Asia",
+    "latitude": 4.5,
+    "longitude": 114.66666666
+  },
+  "BG": {
+    "id": 32,
+    "name": "Bulgaria",
+    "continent": "Europe",
+    "latitude": 43,
+    "longitude": 25
+  },
+  "BF": {
+    "id": 33,
+    "name": "Burkina Faso",
+    "continent": "Africa",
+    "latitude": 13,
+    "longitude": -2
+  },
+  "BI": {
+    "id": 34,
+    "name": "Burundi",
+    "continent": "Africa",
+    "latitude": -3.5,
+    "longitude": 30
+  },
+  "KH": {
+    "id": 35,
+    "name": "Cambodia",
+    "continent": "Asia",
+    "latitude": 13,
+    "longitude": 105
+  },
+  "CM": {
+    "id": 36,
+    "name": "Cameroon",
+    "continent": "Africa",
+    "latitude": 6,
+    "longitude": 12
+  },
+  "CA": {
+    "id": 37,
+    "name": "Canada",
+    "continent": "North America",
+    "latitude": 60,
+    "longitude": -95
+  },
+  "CV": {
+    "id": 38,
+    "name": "Cape Verde",
+    "continent": "Africa",
+    "latitude": 16,
+    "longitude": -24
+  },
+  "KY": {
+    "id": 39,
+    "name": "Cayman Islands",
+    "continent": "North America",
+    "latitude": 19.5,
+    "longitude": -80.5
+  },
+  "CF": {
+    "id": 40,
+    "name": "Central African Republic",
+    "continent": "Africa",
+    "latitude": 7,
+    "longitude": 21
+  },
+  "TD": {
+    "id": 41,
+    "name": "Chad",
+    "continent": "Africa",
+    "latitude": 15,
+    "longitude": 19
+  },
+  "CL": {
+    "id": 42,
+    "name": "Chile",
+    "continent": "South America",
+    "latitude": -30,
+    "longitude": -71
+  },
+  "CN": {
+    "id": 43,
+    "name": "China",
+    "continent": "Asia",
+    "latitude": 35,
+    "longitude": 105
+  },
+  "CX": {
+    "id": 44,
+    "name": "Christmas Island",
+    "continent": "Oceania",
+    "latitude": -10.5,
+    "longitude": 105.66666666
+  },
+  "CC": {
+    "id": 45,
+    "name": "Cocos (Keeling) Islands",
+    "continent": "Oceania",
+    "latitude": -12.5,
+    "longitude": 96.83333333
+  },
+  "CO": {
+    "id": 46,
+    "name": "Colombia",
+    "continent": "South America",
+    "latitude": 4,
+    "longitude": -72
+  },
+  "KM": {
+    "id": 47,
+    "name": "Comoros",
+    "continent": "Africa",
+    "latitude": -12.16666666,
+    "longitude": 44.25
+  },
+  "CG": {
+    "id": 48,
+    "name": "Congo",
+    "continent": "Africa",
+    "latitude": -1,
+    "longitude": 15
+  },
+  "CK": {
+    "id": 49,
+    "name": "Cook Islands",
+    "continent": "Oceania",
+    "latitude": -21.23333333,
+    "longitude": -159.76666666
+  },
+  "CR": {
+    "id": 50,
+    "name": "Costa Rica",
+    "continent": "North America",
+    "latitude": 10,
+    "longitude": -84
+  },
+  "HR": {
+    "id": 51,
+    "name": "Croatia",
+    "continent": "Europe",
+    "latitude": 45.16666666,
+    "longitude": 15.5
+  },
+  "CU": {
+    "id": 52,
+    "name": "Cuba",
+    "continent": "North America",
+    "latitude": 21.5,
+    "longitude": -80
+  },
+  "CW": {
+    "id": 53,
+    "name": "Curaçao",
+    "continent": "North America",
+    "latitude": 12.116667,
+    "longitude": -68.933333
+  },
+  "CY": {
+    "id": 54,
+    "name": "Cyprus",
+    "continent": "Europe",
+    "latitude": 35,
+    "longitude": 33
+  },
+  "CZ": {
+    "id": 55,
+    "name": "Czech Republic",
+    "continent": "Europe",
+    "latitude": 49.75,
+    "longitude": 15.5
+  },
+  "CD": {
+    "id": 56,
+    "name": "Democratic Republic of the Congo",
+    "continent": "Africa",
+    "latitude": 0,
+    "longitude": 25
+  },
+  "DK": {
+    "id": 57,
+    "name": "Denmark",
+    "continent": "Europe",
+    "latitude": 56,
+    "longitude": 10
+  },
+  "DJ": {
+    "id": 58,
+    "name": "Djibouti",
+    "continent": "Africa",
+    "latitude": 11.5,
+    "longitude": 43
+  },
+  "DM": {
+    "id": 59,
+    "name": "Dominica",
+    "continent": "North America",
+    "latitude": 15.41666666,
+    "longitude": -61.33333333
+  },
+  "DO": {
+    "id": 60,
+    "name": "Dominican Republic",
+    "continent": "North America",
+    "latitude": 19,
+    "longitude": -70.66666666
+  },
+  "EC": {
+    "id": 61,
+    "name": "Ecuador",
+    "continent": "South America",
+    "latitude": -2,
+    "longitude": -77.5
+  },
+  "EG": {
+    "id": 62,
+    "name": "Egypt",
+    "continent": "Africa",
+    "latitude": 27,
+    "longitude": 30
+  },
+  "SV": {
+    "id": 63,
+    "name": "El Salvador",
+    "continent": "North America",
+    "latitude": 13.83333333,
+    "longitude": -88.91666666
+  },
+  "GQ": {
+    "id": 64,
+    "name": "Equatorial Guinea",
+    "continent": "Africa",
+    "latitude": 2,
+    "longitude": 10
+  },
+  "ER": {
+    "id": 65,
+    "name": "Eritrea",
+    "continent": "Africa",
+    "latitude": 15,
+    "longitude": 39
+  },
+  "EE": {
+    "id": 66,
+    "name": "Estonia",
+    "continent": "Europe",
+    "latitude": 59,
+    "longitude": 26
+  },
+  "SZ": {
+    "id": 67,
+    "name": "Eswatini",
+    "continent": "Africa",
+    "latitude": -26.5,
+    "longitude": 31.5
+  },
+  "ET": {
+    "id": 68,
+    "name": "Ethiopia",
+    "continent": "Africa",
+    "latitude": 8,
+    "longitude": 38
+  },
+  "FK": {
+    "id": 69,
+    "name": "Falkland Islands",
+    "continent": "South America",
+    "latitude": -51.75,
+    "longitude": -59
+  },
+  "FO": {
+    "id": 70,
+    "name": "Faroe Islands",
+    "continent": "Europe",
+    "latitude": 62,
+    "longitude": -7
+  },
+  "FJ": {
+    "id": 71,
+    "name": "Fiji Islands",
+    "continent": "Oceania",
+    "latitude": -18,
+    "longitude": 175
+  },
+  "FI": {
+    "id": 72,
+    "name": "Finland",
+    "continent": "Europe",
+    "latitude": 64,
+    "longitude": 26
+  },
+  "FR": {
+    "id": 73,
+    "name": "France",
+    "continent": "Europe",
+    "latitude": 46,
+    "longitude": 2
+  },
+  "GF": {
+    "id": 74,
+    "name": "French Guiana",
+    "continent": "South America",
+    "latitude": 4,
+    "longitude": -53
+  },
+  "PF": {
+    "id": 75,
+    "name": "French Polynesia",
+    "continent": "Oceania",
+    "latitude": -15,
+    "longitude": -140
+  },
+  "TF": {
+    "id": 76,
+    "name": "French Southern Territories",
+    "continent": "Africa",
+    "latitude": -49.25,
+    "longitude": 69.167
+  },
+  "GA": {
+    "id": 77,
+    "name": "Gabon",
+    "continent": "Africa",
+    "latitude": -1,
+    "longitude": 11.75
+  },
+  "GE": {
+    "id": 78,
+    "name": "Georgia",
+    "continent": "Asia",
+    "latitude": 42,
+    "longitude": 43.5
+  },
+  "DE": {
+    "id": 79,
+    "name": "Germany",
+    "continent": "Europe",
+    "latitude": 51,
+    "longitude": 9
+  },
+  "GH": {
+    "id": 80,
+    "name": "Ghana",
+    "continent": "Africa",
+    "latitude": 8,
+    "longitude": -2
+  },
+  "GI": {
+    "id": 81,
+    "name": "Gibraltar",
+    "continent": "Europe",
+    "latitude": 36.13333333,
+    "longitude": -5.35
+  },
+  "GR": {
+    "id": 82,
+    "name": "Greece",
+    "continent": "Europe",
+    "latitude": 39,
+    "longitude": 22
+  },
+  "GL": {
+    "id": 83,
+    "name": "Greenland",
+    "continent": "North America",
+    "latitude": 72,
+    "longitude": -40
+  },
+  "GD": {
+    "id": 84,
+    "name": "Grenada",
+    "continent": "North America",
+    "latitude": 12.11666666,
+    "longitude": -61.66666666
+  },
+  "GP": {
+    "id": 85,
+    "name": "Guadeloupe",
+    "continent": "North America",
+    "latitude": 16.25,
+    "longitude": -61.583333
+  },
+  "GU": {
+    "id": 86,
+    "name": "Guam",
+    "continent": "Oceania",
+    "latitude": 13.46666666,
+    "longitude": 144.78333333
+  },
+  "GT": {
+    "id": 87,
+    "name": "Guatemala",
+    "continent": "North America",
+    "latitude": 15.5,
+    "longitude": -90.25
+  },
+  "GG": {
+    "id": 88,
+    "name": "Guernsey",
+    "continent": "Europe",
+    "latitude": 49.46666666,
+    "longitude": -2.58333333
+  },
+  "GN": {
+    "id": 89,
+    "name": "Guinea",
+    "continent": "Africa",
+    "latitude": 11,
+    "longitude": -10
+  },
+  "GW": {
+    "id": 90,
+    "name": "Guinea-Bissau",
+    "continent": "Africa",
+    "latitude": 12,
+    "longitude": -15
+  },
+  "GY": {
+    "id": 91,
+    "name": "Guyana",
+    "continent": "South America",
+    "latitude": 5,
+    "longitude": -59
+  },
+  "HT": {
+    "id": 92,
+    "name": "Haiti",
+    "continent": "North America",
+    "latitude": 19,
+    "longitude": -72.41666666
+  },
+  "HN": {
+    "id": 93,
+    "name": "Honduras",
+    "continent": "North America",
+    "latitude": 15,
+    "longitude": -86.5
+  },
+  "HK": {
+    "id": 94,
+    "name": "Hong Kong S.A.R.",
+    "continent": "Asia",
+    "latitude": 22.25,
+    "longitude": 114.16666666
+  },
+  "HU": {
+    "id": 95,
+    "name": "Hungary",
+    "continent": "Europe",
+    "latitude": 47,
+    "longitude": 20
+  },
+  "IS": {
+    "id": 96,
+    "name": "Iceland",
+    "continent": "Europe",
+    "latitude": 65,
+    "longitude": -18
+  },
+  "IN": {
+    "id": 97,
+    "name": "India",
+    "continent": "Asia",
+    "latitude": 20,
+    "longitude": 77
+  },
+  "ID": {
+    "id": 98,
+    "name": "Indonesia",
+    "continent": "Asia",
+    "latitude": -5,
+    "longitude": 120
+  },
+  "IR": {
+    "id": 99,
+    "name": "Iran",
+    "continent": "Asia",
+    "latitude": 32,
+    "longitude": 53
+  },
+  "IQ": {
+    "id": 100,
+    "name": "Iraq",
+    "continent": "Asia",
+    "latitude": 33,
+    "longitude": 44
+  },
+  "IE": {
+    "id": 101,
+    "name": "Ireland",
+    "continent": "Europe",
+    "latitude": 53,
+    "longitude": -8
+  },
+  "IL": {
+    "id": 102,
+    "name": "Israel",
+    "continent": "Asia",
+    "latitude": 31.5,
+    "longitude": 34.75
+  },
+  "IT": {
+    "id": 103,
+    "name": "Italy",
+    "continent": "Europe",
+    "latitude": 42.83333333,
+    "longitude": 12.83333333
+  },
+  "CI": {
+    "id": 104,
+    "name": "Ivory Coast",
+    "continent": "Africa",
+    "latitude": 8,
+    "longitude": -5
+  },
+  "JM": {
+    "id": 105,
+    "name": "Jamaica",
+    "continent": "North America",
+    "latitude": 18.25,
+    "longitude": -77.5
+  },
+  "JP": {
+    "id": 106,
+    "name": "Japan",
+    "continent": "Asia",
+    "latitude": 36,
+    "longitude": 138
+  },
+  "JE": {
+    "id": 107,
+    "name": "Jersey",
+    "continent": "Europe",
+    "latitude": 49.25,
+    "longitude": -2.16666666
+  },
+  "JO": {
+    "id": 108,
+    "name": "Jordan",
+    "continent": "Asia",
+    "latitude": 31,
+    "longitude": 36
+  },
+  "KZ": {
+    "id": 109,
+    "name": "Kazakhstan",
+    "continent": "Asia",
+    "latitude": 48,
+    "longitude": 68
+  },
+  "KE": {
+    "id": 110,
+    "name": "Kenya",
+    "continent": "Africa",
+    "latitude": 1,
+    "longitude": 38
+  },
+  "KI": {
+    "id": 111,
+    "name": "Kiribati",
+    "continent": "Oceania",
+    "latitude": 1.41666666,
+    "longitude": 173
+  },
+  "XK": {
+    "id": 112,
+    "name": "Kosovo",
+    "continent": "Europe",
+    "latitude": 42.5612909,
+    "longitude": 20.3403035
+  },
+  "KW": {
+    "id": 113,
+    "name": "Kuwait",
+    "continent": "Asia",
+    "latitude": 29.5,
+    "longitude": 45.75
+  },
+  "KG": {
+    "id": 114,
+    "name": "Kyrgyzstan",
+    "continent": "Asia",
+    "latitude": 41,
+    "longitude": 75
+  },
+  "LA": {
+    "id": 115,
+    "name": "Laos",
+    "continent": "Asia",
+    "latitude": 18,
+    "longitude": 105
+  },
+  "LV": {
+    "id": 116,
+    "name": "Latvia",
+    "continent": "Europe",
+    "latitude": 57,
+    "longitude": 25
+  },
+  "LB": {
+    "id": 117,
+    "name": "Lebanon",
+    "continent": "Asia",
+    "latitude": 33.83333333,
+    "longitude": 35.83333333
+  },
+  "LS": {
+    "id": 118,
+    "name": "Lesotho",
+    "continent": "Africa",
+    "latitude": -29.5,
+    "longitude": 28.5
+  },
+  "LR": {
+    "id": 119,
+    "name": "Liberia",
+    "continent": "Africa",
+    "latitude": 6.5,
+    "longitude": -9.5
+  },
+  "LY": {
+    "id": 120,
+    "name": "Libya",
+    "continent": "Africa",
+    "latitude": 25,
+    "longitude": 17
+  },
+  "LI": {
+    "id": 121,
+    "name": "Liechtenstein",
+    "continent": "Europe",
+    "latitude": 47.26666666,
+    "longitude": 9.53333333
+  },
+  "LT": {
+    "id": 122,
+    "name": "Lithuania",
+    "continent": "Europe",
+    "latitude": 56,
+    "longitude": 24
+  },
+  "LU": {
+    "id": 123,
+    "name": "Luxembourg",
+    "continent": "Europe",
+    "latitude": 49.75,
+    "longitude": 6.16666666
+  },
+  "MO": {
+    "id": 124,
+    "name": "Macau S.A.R.",
+    "continent": "Asia",
+    "latitude": 22.16666666,
+    "longitude": 113.55
+  },
+  "MG": {
+    "id": 125,
+    "name": "Madagascar",
+    "continent": "Africa",
+    "latitude": -20,
+    "longitude": 47
+  },
+  "MW": {
+    "id": 126,
+    "name": "Malawi",
+    "continent": "Africa",
+    "latitude": -13.5,
+    "longitude": 34
+  },
+  "MY": {
+    "id": 127,
+    "name": "Malaysia",
+    "continent": "Asia",
+    "latitude": 2.5,
+    "longitude": 112.5
+  },
+  "MV": {
+    "id": 128,
+    "name": "Maldives",
+    "continent": "Asia",
+    "latitude": 3.25,
+    "longitude": 73
+  },
+  "ML": {
+    "id": 129,
+    "name": "Mali",
+    "continent": "Africa",
+    "latitude": 17,
+    "longitude": -4
+  },
+  "MT": {
+    "id": 130,
+    "name": "Malta",
+    "continent": "Europe",
+    "latitude": 35.83333333,
+    "longitude": 14.58333333
+  },
+  "IM": {
+    "id": 131,
+    "name": "Man (Isle of)",
+    "continent": "Europe",
+    "latitude": 54.25,
+    "longitude": -4.5
+  },
+  "MH": {
+    "id": 132,
+    "name": "Marshall Islands",
+    "continent": "Oceania",
+    "latitude": 9,
+    "longitude": 168
+  },
+  "MQ": {
+    "id": 133,
+    "name": "Martinique",
+    "continent": "North America",
+    "latitude": 14.666667,
+    "longitude": -61
+  },
+  "MR": {
+    "id": 134,
+    "name": "Mauritania",
+    "continent": "Africa",
+    "latitude": 20,
+    "longitude": -12
+  },
+  "MU": {
+    "id": 135,
+    "name": "Mauritius",
+    "continent": "Africa",
+    "latitude": -20.28333333,
+    "longitude": 57.55
+  },
+  "YT": {
+    "id": 136,
+    "name": "Mayotte",
+    "continent": "Africa",
+    "latitude": -12.83333333,
+    "longitude": 45.16666666
+  },
+  "MX": {
+    "id": 137,
+    "name": "Mexico",
+    "continent": "North America",
+    "latitude": 23,
+    "longitude": -102
+  },
+  "FM": {
+    "id": 138,
+    "name": "Micronesia",
+    "continent": "Oceania",
+    "latitude": 6.91666666,
+    "longitude": 158.25
+  },
+  "MD": {
+    "id": 139,
+    "name": "Moldova",
+    "continent": "Europe",
+    "latitude": 47,
+    "longitude": 29
+  },
+  "MC": {
+    "id": 140,
+    "name": "Monaco",
+    "continent": "Europe",
+    "latitude": 43.73333333,
+    "longitude": 7.4
+  },
+  "MN": {
+    "id": 141,
+    "name": "Mongolia",
+    "continent": "Asia",
+    "latitude": 46,
+    "longitude": 105
+  },
+  "ME": {
+    "id": 142,
+    "name": "Montenegro",
+    "continent": "Europe",
+    "latitude": 42.5,
+    "longitude": 19.3
+  },
+  "MS": {
+    "id": 143,
+    "name": "Montserrat",
+    "continent": "North America",
+    "latitude": 16.75,
+    "longitude": -62.2
+  },
+  "MA": {
+    "id": 144,
+    "name": "Morocco",
+    "continent": "Africa",
+    "latitude": 32,
+    "longitude": -5
+  },
+  "MZ": {
+    "id": 145,
+    "name": "Mozambique",
+    "continent": "Africa",
+    "latitude": -18.25,
+    "longitude": 35
+  },
+  "MM": {
+    "id": 146,
+    "name": "Myanmar",
+    "continent": "Asia",
+    "latitude": 22,
+    "longitude": 98
+  },
+  "NA": {
+    "id": 147,
+    "name": "Namibia",
+    "continent": "Africa",
+    "latitude": -22,
+    "longitude": 17
+  },
+  "NR": {
+    "id": 148,
+    "name": "Nauru",
+    "continent": "Oceania",
+    "latitude": -0.53333333,
+    "longitude": 166.91666666
+  },
+  "NP": {
+    "id": 149,
+    "name": "Nepal",
+    "continent": "Asia",
+    "latitude": 28,
+    "longitude": 84
+  },
+  "NL": {
+    "id": 150,
+    "name": "Netherlands",
+    "continent": "Europe",
+    "latitude": 52.5,
+    "longitude": 5.75
+  },
+  "NC": {
+    "id": 151,
+    "name": "New Caledonia",
+    "continent": "Oceania",
+    "latitude": -21.5,
+    "longitude": 165.5
+  },
+  "NZ": {
+    "id": 152,
+    "name": "New Zealand",
+    "continent": "Oceania",
+    "latitude": -41,
+    "longitude": 174
+  },
+  "NI": {
+    "id": 153,
+    "name": "Nicaragua",
+    "continent": "North America",
+    "latitude": 13,
+    "longitude": -85
+  },
+  "NE": {
+    "id": 154,
+    "name": "Niger",
+    "continent": "Africa",
+    "latitude": 16,
+    "longitude": 8
+  },
+  "NG": {
+    "id": 155,
+    "name": "Nigeria",
+    "continent": "Africa",
+    "latitude": 10,
+    "longitude": 8
+  },
+  "NU": {
+    "id": 156,
+    "name": "Niue",
+    "continent": "Oceania",
+    "latitude": -19.03333333,
+    "longitude": -169.86666666
+  },
+  "NF": {
+    "id": 157,
+    "name": "Norfolk Island",
+    "continent": "Oceania",
+    "latitude": -29.03333333,
+    "longitude": 167.95
+  },
+  "KP": {
+    "id": 158,
+    "name": "North Korea",
+    "continent": "Asia",
+    "latitude": 40,
+    "longitude": 127
+  },
+  "MK": {
+    "id": 159,
+    "name": "North Macedonia",
+    "continent": "Europe",
+    "latitude": 41.83333333,
+    "longitude": 22
+  },
+  "MP": {
+    "id": 160,
+    "name": "Northern Mariana Islands",
+    "continent": "Oceania",
+    "latitude": 15.2,
+    "longitude": 145.75
+  },
+  "NO": {
+    "id": 161,
+    "name": "Norway",
+    "continent": "Europe",
+    "latitude": 62,
+    "longitude": 10
+  },
+  "OM": {
+    "id": 162,
+    "name": "Oman",
+    "continent": "Asia",
+    "latitude": 21,
+    "longitude": 57
+  },
+  "PK": {
+    "id": 163,
+    "name": "Pakistan",
+    "continent": "Asia",
+    "latitude": 30,
+    "longitude": 70
+  },
+  "PW": {
+    "id": 164,
+    "name": "Palau",
+    "continent": "Oceania",
+    "latitude": 7.5,
+    "longitude": 134.5
+  },
+  "PS": {
+    "id": 165,
+    "name": "Palestinian Territory Occupied",
+    "continent": "Asia",
+    "latitude": 31.9,
+    "longitude": 35.2
+  },
+  "PA": {
+    "id": 166,
+    "name": "Panama",
+    "continent": "North America",
+    "latitude": 9,
+    "longitude": -80
+  },
+  "PG": {
+    "id": 167,
+    "name": "Papua New Guinea",
+    "continent": "Oceania",
+    "latitude": -6,
+    "longitude": 147
+  },
+  "PY": {
+    "id": 168,
+    "name": "Paraguay",
+    "continent": "South America",
+    "latitude": -23,
+    "longitude": -58
+  },
+  "PE": {
+    "id": 169,
+    "name": "Peru",
+    "continent": "South America",
+    "latitude": -10,
+    "longitude": -76
+  },
+  "PH": {
+    "id": 170,
+    "name": "Philippines",
+    "continent": "Asia",
+    "latitude": 13,
+    "longitude": 122
+  },
+  "PN": {
+    "id": 171,
+    "name": "Pitcairn Island",
+    "continent": "Oceania",
+    "latitude": -25.06666666,
+    "longitude": -130.1
+  },
+  "PL": {
+    "id": 172,
+    "name": "Poland",
+    "continent": "Europe",
+    "latitude": 52,
+    "longitude": 20
+  },
+  "PT": {
+    "id": 173,
+    "name": "Portugal",
+    "continent": "Europe",
+    "latitude": 39.5,
+    "longitude": -8
+  },
+  "PR": {
+    "id": 174,
+    "name": "Puerto Rico",
+    "continent": "North America",
+    "latitude": 18.25,
+    "longitude": -66.5
+  },
+  "QA": {
+    "id": 175,
+    "name": "Qatar",
+    "continent": "Asia",
+    "latitude": 25.5,
+    "longitude": 51.25
+  },
+  "RE": {
+    "id": 176,
+    "name": "Reunion",
+    "continent": "Africa",
+    "latitude": -21.15,
+    "longitude": 55.5
+  },
+  "RO": {
+    "id": 177,
+    "name": "Romania",
+    "continent": "Europe",
+    "latitude": 46,
+    "longitude": 25
+  },
+  "RU": {
+    "id": 178,
+    "name": "Russia",
+    "continent": "Europe",
+    "latitude": 60,
+    "longitude": 100
+  },
+  "RW": {
+    "id": 179,
+    "name": "Rwanda",
+    "continent": "Africa",
+    "latitude": -2,
+    "longitude": 30
+  },
+  "SH": {
+    "id": 180,
+    "name": "Saint Helena",
+    "continent": "Africa",
+    "latitude": -15.95,
+    "longitude": -5.7
+  },
+  "KN": {
+    "id": 181,
+    "name": "Saint Kitts and Nevis",
+    "continent": "North America",
+    "latitude": 17.33333333,
+    "longitude": -62.75
+  },
+  "LC": {
+    "id": 182,
+    "name": "Saint Lucia",
+    "continent": "North America",
+    "latitude": 13.88333333,
+    "longitude": -60.96666666
+  },
+  "PM": {
+    "id": 183,
+    "name": "Saint Pierre and Miquelon",
+    "continent": "North America",
+    "latitude": 46.83333333,
+    "longitude": -56.33333333
+  },
+  "VC": {
+    "id": 184,
+    "name": "Saint Vincent and the Grenadines",
+    "continent": "North America",
+    "latitude": 13.25,
+    "longitude": -61.2
+  },
+  "BL": {
+    "id": 185,
+    "name": "Saint-Barthelemy",
+    "continent": "North America",
+    "latitude": 18.5,
+    "longitude": -63.41666666
+  },
+  "MF": {
+    "id": 186,
+    "name": "Saint-Martin (French part)",
+    "continent": "North America",
+    "latitude": 18.08333333,
+    "longitude": -63.95
+  },
+  "WS": {
+    "id": 187,
+    "name": "Samoa",
+    "continent": "Oceania",
+    "latitude": -13.58333333,
+    "longitude": -172.33333333
+  },
+  "SM": {
+    "id": 188,
+    "name": "San Marino",
+    "continent": "Europe",
+    "latitude": 43.76666666,
+    "longitude": 12.41666666
+  },
+  "ST": {
+    "id": 189,
+    "name": "Sao Tome and Principe",
+    "continent": "Africa",
+    "latitude": 1,
+    "longitude": 7
+  },
+  "SA": {
+    "id": 190,
+    "name": "Saudi Arabia",
+    "continent": "Asia",
+    "latitude": 25,
+    "longitude": 45
+  },
+  "SN": {
+    "id": 191,
+    "name": "Senegal",
+    "continent": "Africa",
+    "latitude": 14,
+    "longitude": -14
+  },
+  "RS": {
+    "id": 192,
+    "name": "Serbia",
+    "continent": "Europe",
+    "latitude": 44,
+    "longitude": 21
+  },
+  "SC": {
+    "id": 193,
+    "name": "Seychelles",
+    "continent": "Africa",
+    "latitude": -4.6574977,
+    "longitude": 55.4540146
+  },
+  "SL": {
+    "id": 194,
+    "name": "Sierra Leone",
+    "continent": "Africa",
+    "latitude": 8.5,
+    "longitude": -11.5
+  },
+  "SG": {
+    "id": 195,
+    "name": "Singapore",
+    "continent": "Asia",
+    "latitude": 1.36666666,
+    "longitude": 103.8
+  },
+  "SX": {
+    "id": 196,
+    "name": "Sint Maarten (Dutch part)",
+    "continent": "North America",
+    "latitude": 18.033333,
+    "longitude": -63.05
+  },
+  "SK": {
+    "id": 197,
+    "name": "Slovakia",
+    "continent": "Europe",
+    "latitude": 48.66666666,
+    "longitude": 19.5
+  },
+  "SI": {
+    "id": 198,
+    "name": "Slovenia",
+    "continent": "Europe",
+    "latitude": 46.11666666,
+    "longitude": 14.81666666
+  },
+  "SB": {
+    "id": 199,
+    "name": "Solomon Islands",
+    "continent": "Oceania",
+    "latitude": -8,
+    "longitude": 159
+  },
+  "SO": {
+    "id": 200,
+    "name": "Somalia",
+    "continent": "Africa",
+    "latitude": 10,
+    "longitude": 49
+  },
+  "ZA": {
+    "id": 201,
+    "name": "South Africa",
+    "continent": "Africa",
+    "latitude": -29,
+    "longitude": 24
+  },
+  "GS": {
+    "id": 202,
+    "name": "South Georgia",
+    "continent": "South America",
+    "latitude": -54.5,
+    "longitude": -37
+  },
+  "KR": {
+    "id": 203,
+    "name": "South Korea",
+    "continent": "Asia",
+    "latitude": 37,
+    "longitude": 127.5
+  },
+  "SS": {
+    "id": 204,
+    "name": "South Sudan",
+    "continent": "Africa",
+    "latitude": 7,
+    "longitude": 30
+  },
+  "ES": {
+    "id": 205,
+    "name": "Spain",
+    "continent": "Europe",
+    "latitude": 40,
+    "longitude": -4
+  },
+  "LK": {
+    "id": 206,
+    "name": "Sri Lanka",
+    "continent": "Asia",
+    "latitude": 7,
+    "longitude": 81
+  },
+  "SD": {
+    "id": 207,
+    "name": "Sudan",
+    "continent": "Africa",
+    "latitude": 15,
+    "longitude": 30
+  },
+  "SR": {
+    "id": 208,
+    "name": "Suriname",
+    "continent": "South America",
+    "latitude": 4,
+    "longitude": -56
+  },
+  "SJ": {
+    "id": 209,
+    "name": "Svalbard and Jan Mayen Islands",
+    "continent": "Europe",
+    "latitude": 78,
+    "longitude": 20
+  },
+  "SE": {
+    "id": 210,
+    "name": "Sweden",
+    "continent": "Europe",
+    "latitude": 62,
+    "longitude": 15
+  },
+  "CH": {
+    "id": 211,
+    "name": "Switzerland",
+    "continent": "Europe",
+    "latitude": 47,
+    "longitude": 8
+  },
+  "SY": {
+    "id": 212,
+    "name": "Syria",
+    "continent": "Asia",
+    "latitude": 35,
+    "longitude": 38
+  },
+  "TW": {
+    "id": 213,
+    "name": "Taiwan",
+    "continent": "Asia",
+    "latitude": 23.5,
+    "longitude": 121
+  },
+  "TJ": {
+    "id": 214,
+    "name": "Tajikistan",
+    "continent": "Asia",
+    "latitude": 39,
+    "longitude": 71
+  },
+  "TZ": {
+    "id": 215,
+    "name": "Tanzania",
+    "continent": "Africa",
+    "latitude": -6,
+    "longitude": 35
+  },
+  "TH": {
+    "id": 216,
+    "name": "Thailand",
+    "continent": "Asia",
+    "latitude": 15,
+    "longitude": 100
+  },
+  "BS": {
+    "id": 217,
+    "name": "The Bahamas",
+    "continent": "North America",
+    "latitude": 24.25,
+    "longitude": -76
+  },
+  "GM": {
+    "id": 218,
+    "name": "The Gambia",
+    "continent": "Africa",
+    "latitude": 13.46666666,
+    "longitude": -16.56666666
+  },
+  "TL": {
+    "id": 219,
+    "name": "Timor-Leste",
+    "continent": "Asia",
+    "latitude": -8.83333333,
+    "longitude": 125.91666666
+  },
+  "TG": {
+    "id": 220,
+    "name": "Togo",
+    "continent": "Africa",
+    "latitude": 8,
+    "longitude": 1.16666666
+  },
+  "TK": {
+    "id": 221,
+    "name": "Tokelau",
+    "continent": "Oceania",
+    "latitude": -9,
+    "longitude": -172
+  },
+  "TO": {
+    "id": 222,
+    "name": "Tonga",
+    "continent": "Oceania",
+    "latitude": -20,
+    "longitude": -175
+  },
+  "TT": {
+    "id": 223,
+    "name": "Trinidad and Tobago",
+    "continent": "North America",
+    "latitude": 11,
+    "longitude": -61
+  },
+  "TN": {
+    "id": 224,
+    "name": "Tunisia",
+    "continent": "Africa",
+    "latitude": 34,
+    "longitude": 9
+  },
+  "TR": {
+    "id": 225,
+    "name": "Turkey",
+    "continent": "Asia",
+    "latitude": 39,
+    "longitude": 35
+  },
+  "TM": {
+    "id": 226,
+    "name": "Turkmenistan",
+    "continent": "Asia",
+    "latitude": 40,
+    "longitude": 60
+  },
+  "TC": {
+    "id": 227,
+    "name": "Turks and Caicos Islands",
+    "continent": "North America",
+    "latitude": 21.75,
+    "longitude": -71.58333333
+  },
+  "TV": {
+    "id": 228,
+    "name": "Tuvalu",
+    "continent": "Oceania",
+    "latitude": -8,
+    "longitude": 178
+  },
+  "UG": {
+    "id": 229,
+    "name": "Uganda",
+    "continent": "Africa",
+    "latitude": 1,
+    "longitude": 32
+  },
+  "UA": {
+    "id": 230,
+    "name": "Ukraine",
+    "continent": "Europe",
+    "latitude": 49,
+    "longitude": 32
+  },
+  "AE": {
+    "id": 231,
+    "name": "United Arab Emirates",
+    "continent": "Asia",
+    "latitude": 24,
+    "longitude": 54
+  },
+  "GB": {
+    "id": 232,
+    "name": "United Kingdom",
+    "continent": "Europe",
+    "latitude": 54,
+    "longitude": -2
+  },
+  "US": {
+    "id": 233,
+    "name": "United States",
+    "continent": "North America",
+    "latitude": 38,
+    "longitude": -97
+  },
+  "UM": {
+    "id": 234,
+    "name": "United States Minor Outlying Islands",
+    "continent": "North America",
+    "latitude": 0,
+    "longitude": 0
+  },
+  "UY": {
+    "id": 235,
+    "name": "Uruguay",
+    "continent": "South America",
+    "latitude": -33,
+    "longitude": -56
+  },
+  "UZ": {
+    "id": 236,
+    "name": "Uzbekistan",
+    "continent": "Asia",
+    "latitude": 41,
+    "longitude": 64
+  },
+  "VU": {
+    "id": 237,
+    "name": "Vanuatu",
+    "continent": "Oceania",
+    "latitude": -16,
+    "longitude": 167
+  },
+  "VA": {
+    "id": 238,
+    "name": "Vatican City State (Holy See)",
+    "continent": "Europe",
+    "latitude": 41.9,
+    "longitude": 12.45
+  },
+  "VE": {
+    "id": 239,
+    "name": "Venezuela",
+    "continent": "South America",
+    "latitude": 8,
+    "longitude": -66
+  },
+  "VN": {
+    "id": 240,
+    "name": "Vietnam",
+    "continent": "Asia",
+    "latitude": 16.16666666,
+    "longitude": 107.83333333
+  },
+  "VG": {
+    "id": 241,
+    "name": "Virgin Islands (British)",
+    "continent": "North America",
+    "latitude": 18.431383,
+    "longitude": -64.62305
+  },
+  "VI": {
+    "id": 242,
+    "name": "Virgin Islands (US)",
+    "continent": "North America",
+    "latitude": 18.34,
+    "longitude": -64.93
+  },
+  "WF": {
+    "id": 243,
+    "name": "Wallis and Futuna Islands",
+    "continent": "Oceania",
+    "latitude": -13.3,
+    "longitude": -176.2
+  },
+  "EH": {
+    "id": 244,
+    "name": "Western Sahara",
+    "continent": "Africa",
+    "latitude": 24.5,
+    "longitude": -13
+  },
+  "YE": {
+    "id": 245,
+    "name": "Yemen",
+    "continent": "Asia",
+    "latitude": 15,
+    "longitude": 48
+  },
+  "ZM": {
+    "id": 246,
+    "name": "Zambia",
+    "continent": "Africa",
+    "latitude": -15,
+    "longitude": 30
+  },
+  "ZW": {
+    "id": 247,
+    "name": "Zimbabwe",
+    "continent": "Africa",
+    "latitude": -20,
+    "longitude": 30
+  }
+}

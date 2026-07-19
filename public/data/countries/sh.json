@@ -1,0 +1,862 @@
+[
+  {
+    "geonameId": 2411429,
+    "name": "Ascension Island",
+    "latitude": -7.95,
+    "longitude": -14.36667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371065,
+    "name": "Bencoolen",
+    "latitude": -15.96976,
+    "longitude": -5.6568,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371056,
+    "name": "Bird Island",
+    "latitude": -16.00187,
+    "longitude": -5.78043,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371055,
+    "name": "Black Horse Island",
+    "latitude": -16,
+    "longitude": -5.71667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371050,
+    "name": "Blue Point",
+    "latitude": -16.01235,
+    "longitude": -5.74279,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411423,
+    "name": "Boatswainbird Island",
+    "latitude": -7.93559,
+    "longitude": -14.30715,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371045,
+    "name": "Botleys Point",
+    "latitude": -15.99807,
+    "longitude": -5.75361,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371044,
+    "name": "Boxwood Hill",
+    "latitude": -15.98134,
+    "longitude": -5.66618,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371254,
+    "name": "Centre Rowett",
+    "latitude": -40.3288,
+    "longitude": -9.92641,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371009,
+    "name": "Cone Islet",
+    "latitude": -40.27575,
+    "longitude": -9.96005,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371005,
+    "name": "Cuckhold’s Point",
+    "latitude": -15.97545,
+    "longitude": -5.69914,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370998,
+    "name": "Devils Cap",
+    "latitude": -16.00841,
+    "longitude": -5.74673,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370993,
+    "name": "Diana’s Peak",
+    "latitude": -15.97229,
+    "longitude": -5.70008,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370726,
+    "name": "Edinburgh of the Seven Seas",
+    "latitude": -37.06757,
+    "longitude": -12.31155,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371222,
+    "name": "Edinburgh Peak",
+    "latitude": -40.30909,
+    "longitude": -9.94573,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370981,
+    "name": "Egg Island",
+    "latitude": -15.97057,
+    "longitude": -5.77232,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370976,
+    "name": "Expedition Peak",
+    "latitude": -40.29997,
+    "longitude": -9.96529,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371264,
+    "name": "False Peak",
+    "latitude": -40.31524,
+    "longitude": -9.96521,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370967,
+    "name": "Flagstaff Hill",
+    "latitude": -15.91982,
+    "longitude": -5.67996,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370966,
+    "name": "Flat Rock",
+    "latitude": -15.99108,
+    "longitude": -5.66493,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370954,
+    "name": "George Island",
+    "latitude": -15.98077,
+    "longitude": -5.6321,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411397,
+    "name": "Georgetown",
+    "latitude": -7.92861,
+    "longitude": -14.41194,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370948,
+    "name": "Gough Island",
+    "latitude": -40.30571,
+    "longitude": -9.99687,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370945,
+    "name": "Great Stone Top",
+    "latitude": -15.98074,
+    "longitude": -5.65372,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370938,
+    "name": "Hag’s Tooth",
+    "latitude": -40.322,
+    "longitude": -9.92096,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370934,
+    "name": "Halley’s Mount",
+    "latitude": -15.96253,
+    "longitude": -5.69941,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370925,
+    "name": "High Hill",
+    "latitude": -15.9785,
+    "longitude": -5.7595,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370922,
+    "name": "High Peak",
+    "latitude": -15.9797,
+    "longitude": -5.73423,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370905,
+    "name": "Inaccessible Island",
+    "latitude": -37.29946,
+    "longitude": -12.67779,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370903,
+    "name": "Jamestown",
+    "latitude": -15.92488,
+    "longitude": -5.71816,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371257,
+    "name": "Kern Crag",
+    "latitude": -40.31294,
+    "longitude": -9.91559,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370876,
+    "name": "Little Stone Top",
+    "latitude": -15.97832,
+    "longitude": -5.66206,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370870,
+    "name": "Long Range",
+    "latitude": -15.98881,
+    "longitude": -5.68836,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370856,
+    "name": "Lower Black Rock",
+    "latitude": -16.02319,
+    "longitude": -5.75223,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370854,
+    "name": "Luff Islet",
+    "latitude": -40.33874,
+    "longitude": -9.87614,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370847,
+    "name": "Middle Island",
+    "latitude": -37.41111,
+    "longitude": -12.47957,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371094,
+    "name": "Mount Actaeon",
+    "latitude": -15.97196,
+    "longitude": -5.70163,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371276,
+    "name": "Mount Argus",
+    "latitude": -40.28421,
+    "longitude": -9.93355,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371230,
+    "name": "Mount Olav",
+    "latitude": -37.11503,
+    "longitude": -12.28859,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370763,
+    "name": "Mount Rowett",
+    "latitude": -40.32867,
+    "longitude": -9.92643,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370675,
+    "name": "Mount Vesey",
+    "latitude": -15.98023,
+    "longitude": -5.73153,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371221,
+    "name": "Nigel’s Cap",
+    "latitude": -40.2932,
+    "longitude": -9.96283,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370827,
+    "name": "Nightingale Island",
+    "latitude": -37.42437,
+    "longitude": -12.48339,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371255,
+    "name": "North Rowett",
+    "latitude": -40.32181,
+    "longitude": -9.93075,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370812,
+    "name": "Peaked Island",
+    "latitude": -15.97371,
+    "longitude": -5.77543,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370807,
+    "name": "Penguin Islet",
+    "latitude": -40.298,
+    "longitude": -9.8982,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411361,
+    "name": "Powers Peak",
+    "latitude": -7.95,
+    "longitude": -14.31667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371231,
+    "name": "Queen Mary’s Peak",
+    "latitude": -37.11168,
+    "longitude": -12.28865,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370777,
+    "name": "Robert Rock",
+    "latitude": -16.02931,
+    "longitude": -5.74722,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370765,
+    "name": "Rough Rock Island",
+    "latitude": -15.98889,
+    "longitude": -5.65622,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370764,
+    "name": "Round Island",
+    "latitude": -40.275,
+    "longitude": -9.97326,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370752,
+    "name": "Saddle Island",
+    "latitude": -40.35651,
+    "longitude": -9.93408,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370750,
+    "name": "Saint Helena Island",
+    "latitude": -15.96463,
+    "longitude": -5.70671,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370746,
+    "name": "Salt Rock",
+    "latitude": -16.03146,
+    "longitude": -5.75275,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370740,
+    "name": "Sandy Bay Island",
+    "latitude": -16.00614,
+    "longitude": -5.7073,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371267,
+    "name": "Sea-hen Crag",
+    "latitude": -40.29657,
+    "longitude": -9.97893,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370724,
+    "name": "Sheep Knoll",
+    "latitude": -15.98384,
+    "longitude": -5.70166,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370721,
+    "name": "Shore Island",
+    "latitude": -15.97521,
+    "longitude": -5.63635,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411348,
+    "name": "Sisters Peak",
+    "latitude": -7.93333,
+    "longitude": -14.36667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371218,
+    "name": "South Peak",
+    "latitude": -40.33856,
+    "longitude": -9.9082,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371251,
+    "name": "South Rowett",
+    "latitude": -40.33238,
+    "longitude": -9.92508,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370717,
+    "name": "South West Islet",
+    "latitude": -40.3699,
+    "longitude": -9.91872,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370715,
+    "name": "Speery Island",
+    "latitude": -16.0297,
+    "longitude": -5.75421,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371258,
+    "name": "Spire Crag",
+    "latitude": -40.32861,
+    "longitude": -9.96021,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370707,
+    "name": "Stoltenhoff Island",
+    "latitude": -37.40209,
+    "longitude": -12.48993,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371275,
+    "name": "Tavistock Crag",
+    "latitude": -40.29146,
+    "longitude": -9.93539,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371093,
+    "name": "The Admiral",
+    "latitude": -40.34341,
+    "longitude": -9.87555,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371010,
+    "name": "The Commodore",
+    "latitude": -40.34201,
+    "longitude": -9.87657,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370999,
+    "name": "The Depot",
+    "latitude": -15.98604,
+    "longitude": -5.73778,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370929,
+    "name": "The Haystack",
+    "latitude": -15.91913,
+    "longitude": -5.66065,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411367,
+    "name": "The Peak",
+    "latitude": -7.95154,
+    "longitude": -14.34265,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370691,
+    "name": "Thompsons Hill",
+    "latitude": -15.95,
+    "longitude": -5.73333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370689,
+    "name": "Thompsons Valley Island",
+    "latitude": -15.98089,
+    "longitude": -5.77901,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371281,
+    "name": "Triple Peak",
+    "latitude": -40.28758,
+    "longitude": -9.97921,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370682,
+    "name": "Tristan da Cunha",
+    "latitude": -37.10573,
+    "longitude": -12.28284,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370683,
+    "name": "Tristan da Cunha Group",
+    "latitude": -37.25,
+    "longitude": -12.5,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370678,
+    "name": "Two Gun Saddle",
+    "latitude": -15.93333,
+    "longitude": -5.7,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370677,
+    "name": "Upper Black Rock",
+    "latitude": -16.02181,
+    "longitude": -5.75379,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370671,
+    "name": "Waterfall",
+    "latitude": -15.95,
+    "longitude": -5.71667,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411321,
+    "name": "Weather Post",
+    "latitude": -7.95,
+    "longitude": -14.33333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370667,
+    "name": "West Point",
+    "latitude": -15.99795,
+    "longitude": -5.77603,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371252,
+    "name": "West Rowett",
+    "latitude": -40.33526,
+    "longitude": -9.9306,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370663,
+    "name": "White Bird Island",
+    "latitude": -16.01855,
+    "longitude": -5.73426,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370658,
+    "name": "White Point",
+    "latitude": -15.99396,
+    "longitude": -5.76136,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370655,
+    "name": "Wild Ram Hill",
+    "latitude": -16.0016,
+    "longitude": -5.76193,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370647,
+    "name": "Woodlands Hill",
+    "latitude": -15.96667,
+    "longitude": -5.75,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  }
+]

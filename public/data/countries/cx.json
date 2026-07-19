@@ -1,0 +1,52 @@
+[
+  {
+    "geonameId": 2078139,
+    "name": "Christmas Island",
+    "latitude": -10.48358,
+    "longitude": 105.62775,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11185875,
+    "name": "Christmas Island National Park",
+    "latitude": -10.4852,
+    "longitude": 105.62964,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2078127,
+    "name": "Flying Fish Cove",
+    "latitude": -10.42172,
+    "longitude": 105.67912,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2078124,
+    "name": "Grants Well",
+    "latitude": -10.47967,
+    "longitude": 105.65402,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2078073,
+    "name": "The Waterfall",
+    "latitude": -10.45914,
+    "longitude": 105.70551,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  }
+]

@@ -1,0 +1,4802 @@
+[
+  {
+    "geonameId": 1820050,
+    "name": "A Chau",
+    "latitude": 22.43912,
+    "longitude": 114.22221,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819757,
+    "name": "Aberdeen",
+    "latitude": 22.24802,
+    "longitude": 114.15289,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719790,
+    "name": "Aberdeen Centre",
+    "latitude": 22.24842,
+    "longitude": 114.15406,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820051,
+    "name": "Aberdeen Reservoir",
+    "latitude": 22.25788,
+    "longitude": 114.16543,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719542,
+    "name": "Aldrich Bay",
+    "latitude": 22.28203,
+    "longitude": 114.22474,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719617,
+    "name": "Aldrich Garden",
+    "latitude": 22.28082,
+    "longitude": 114.22857,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820040,
+    "name": "Ap Chau",
+    "latitude": 22.55167,
+    "longitude": 114.26956,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820039,
+    "name": "Ap Lei Chau",
+    "latitude": 22.24129,
+    "longitude": 114.15482,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719431,
+    "name": "Ap Lei Chau Estate",
+    "latitude": 22.24473,
+    "longitude": 114.15052,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820038,
+    "name": "Ap Lei Pai",
+    "latitude": 22.2313,
+    "longitude": 114.16061,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719800,
+    "name": "Baguio Villa",
+    "latitude": 22.26234,
+    "longitude": 114.13364,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719561,
+    "name": "Banyan Garden",
+    "latitude": 22.3346,
+    "longitude": 114.14797,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819856,
+    "name": "Basalt Island",
+    "latitude": 22.31544,
+    "longitude": 114.36554,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819938,
+    "name": "Bay Islet",
+    "latitude": 22.33566,
+    "longitude": 114.33416,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819121,
+    "name": "Beacon Hill",
+    "latitude": 22.34971,
+    "longitude": 114.16892,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819496,
+    "name": "Beaufort Island",
+    "latitude": 22.18526,
+    "longitude": 114.25059,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820021,
+    "name": "Ben Nevis",
+    "latitude": 22.55,
+    "longitude": 114.2,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820020,
+    "name": "Birds Pass",
+    "latitude": 22.48333,
+    "longitude": 114.16667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818914,
+    "name": "Bluff Island",
+    "latitude": 22.31784,
+    "longitude": 114.35163,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719438,
+    "name": "Braemar Hill",
+    "latitude": 22.28282,
+    "longitude": 114.20034,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820016,
+    "name": "Braemar Reservoir",
+    "latitude": 22.28333,
+    "longitude": 114.2,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818807,
+    "name": "Buffalo Hill",
+    "latitude": 22.37537,
+    "longitude": 114.23443,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12689065,
+    "name": "Butterfly",
+    "latitude": 22.37591,
+    "longitude": 113.96251,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820013,
+    "name": "Byewash Reservoir",
+    "latitude": 22.35064,
+    "longitude": 114.15131,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820009,
+    "name": "Castle Peak",
+    "latitude": 22.38835,
+    "longitude": 113.95344,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818428,
+    "name": "Causeway Bay",
+    "latitude": 22.28189,
+    "longitude": 114.18515,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820005,
+    "name": "Cemetery Gap",
+    "latitude": 22.48333,
+    "longitude": 114.13333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8223932,
+    "name": "Central",
+    "latitude": 22.28299,
+    "longitude": 114.15846,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819997,
+    "name": "Cham Shan",
+    "latitude": 22.38673,
+    "longitude": 114.16074,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819996,
+    "name": "Cham Tau Chau",
+    "latitude": 22.37913,
+    "longitude": 114.28887,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819995,
+    "name": "Cham Tin Shan",
+    "latitude": 22.34979,
+    "longitude": 114.22789,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719809,
+    "name": "Charming Garden",
+    "latitude": 22.31382,
+    "longitude": 114.1647,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819985,
+    "name": "Chau Tsai",
+    "latitude": 22.35319,
+    "longitude": 114.35064,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819983,
+    "name": "Che Ha",
+    "latitude": 22.43021,
+    "longitude": 114.26264,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818665,
+    "name": "Che Kwu Shan",
+    "latitude": 22.33333,
+    "longitude": 114.25,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719612,
+    "name": "Cheerful Garden",
+    "latitude": 22.263,
+    "longitude": 114.25063,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819980,
+    "name": "Chek Chue",
+    "latitude": 22.21849,
+    "longitude": 114.21241,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819973,
+    "name": "Chek Lap Kok",
+    "latitude": 22.31129,
+    "longitude": 113.92909,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819967,
+    "name": "Cheung Chau",
+    "latitude": 22.20868,
+    "longitude": 114.0297,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819960,
+    "name": "Cheung Muk Tau",
+    "latitude": 22.17894,
+    "longitude": 113.92495,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819952,
+    "name": "Cheung Sha Wan",
+    "latitude": 22.33447,
+    "longitude": 114.1558,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819949,
+    "name": "Cheung Shek Tsui",
+    "latitude": 22.54557,
+    "longitude": 114.26097,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819947,
+    "name": "Cheung Shue Tan",
+    "latitude": 22.42714,
+    "longitude": 114.18839,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719795,
+    "name": "Chi Fu Fa Yuen",
+    "latitude": 22.25582,
+    "longitude": 114.13928,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819932,
+    "name": "Choi Hung",
+    "latitude": 22.33548,
+    "longitude": 114.20638,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12746531,
+    "name": "Choi Hung Estate",
+    "latitude": 22.33636,
+    "longitude": 114.20581,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12689060,
+    "name": "Choi Wan",
+    "latitude": 22.33385,
+    "longitude": 114.21368,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12746532,
+    "name": "Choi Wan Estate (I & II)",
+    "latitude": 22.33337,
+    "longitude": 114.21331,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719836,
+    "name": "Chong Chien Court - Wyler Gardens",
+    "latitude": 22.31811,
+    "longitude": 114.19205,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819923,
+    "name": "Chuk Yuen",
+    "latitude": 22.34544,
+    "longitude": 114.19327,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12746517,
+    "name": "Chuk Yuen North Estate",
+    "latitude": 22.34592,
+    "longitude": 114.19197,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12746518,
+    "name": "Chuk Yuen South Estate",
+    "latitude": 22.34457,
+    "longitude": 114.19282,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719544,
+    "name": "City Garden",
+    "latitude": 22.28997,
+    "longitude": 114.19259,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12640679,
+    "name": "City One",
+    "latitude": 22.38679,
+    "longitude": 114.20275,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819870,
+    "name": "Conic Island",
+    "latitude": 22.36391,
+    "longitude": 114.39156,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719550,
+    "name": "Cosmopolitan Estate",
+    "latitude": 22.32161,
+    "longitude": 114.16162,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819233,
+    "name": "Crescent Island",
+    "latitude": 22.52713,
+    "longitude": 114.31601,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819676,
+    "name": "Crooked Island",
+    "latitude": 22.54959,
+    "longitude": 114.29927,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12689054,
+    "name": "Discovery Park",
+    "latitude": 22.37621,
+    "longitude": 114.11141,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818298,
+    "name": "Double Island",
+    "latitude": 22.51328,
+    "longitude": 114.31085,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818431,
+    "name": "East Ninepin Island",
+    "latitude": 22.2654,
+    "longitude": 114.36991,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12689069,
+    "name": "Fairview Park",
+    "latitude": 22.46738,
+    "longitude": 114.04766,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819884,
+    "name": "Fan Kwai Lun Chau",
+    "latitude": 22.32213,
+    "longitude": 114.36592,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819873,
+    "name": "Fanling",
+    "latitude": 22.49487,
+    "longitude": 114.13949,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819865,
+    "name": "Fat Tong Chau",
+    "latitude": 22.27782,
+    "longitude": 114.26837,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819278,
+    "name": "Flat Island",
+    "latitude": 22.47881,
+    "longitude": 114.33127,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819855,
+    "name": "Fo Tan",
+    "latitude": 22.39846,
+    "longitude": 114.19293,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7778986,
+    "name": "Fortress Hill",
+    "latitude": 22.28858,
+    "longitude": 114.19417,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719572,
+    "name": "Fu Cheong Estate",
+    "latitude": 22.32891,
+    "longitude": 114.15399,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12746536,
+    "name": "Fu Shan Estate",
+    "latitude": 22.34278,
+    "longitude": 114.20865,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819830,
+    "name": "Fu Tau Fan Chau",
+    "latitude": 22.33323,
+    "longitude": 114.36262,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819823,
+    "name": "Fu Yung Fit",
+    "latitude": 22.38998,
+    "longitude": 114.25999,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12689053,
+    "name": "Fuk Loi",
+    "latitude": 22.37405,
+    "longitude": 114.11352,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719614,
+    "name": "Fullview Garden",
+    "latitude": 22.26251,
+    "longitude": 114.25191,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12746545,
+    "name": "Fung Tak Estate",
+    "latitude": 22.34432,
+    "longitude": 114.20087,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12746528,
+    "name": "Galaxia",
+    "latitude": 22.34121,
+    "longitude": 114.20218,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12746519,
+    "name": "Grand View Garden",
+    "latitude": 22.34132,
+    "longitude": 114.20779,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818591,
+    "name": "Grass Island",
+    "latitude": 22.47725,
+    "longitude": 114.36116,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818465,
+    "name": "Grassy Hill",
+    "latitude": 22.41667,
+    "longitude": 114.16667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818498,
+    "name": "Green Island",
+    "latitude": 22.28481,
+    "longitude": 114.11267,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719610,
+    "name": "Greenwood Terrace",
+    "latitude": 22.26718,
+    "longitude": 114.23492,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819775,
+    "name": "Ha Tsuen",
+    "latitude": 22.44724,
+    "longitude": 113.9916,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819791,
+    "name": "Hang Hau",
+    "latitude": 22.31811,
+    "longitude": 114.26994,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819783,
+    "name": "Happy Valley",
+    "latitude": 22.26912,
+    "longitude": 114.18619,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719831,
+    "name": "Harbour Place",
+    "latitude": 22.30323,
+    "longitude": 114.18619,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719613,
+    "name": "Harmony Garden",
+    "latitude": 22.26573,
+    "longitude": 114.2487,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719608,
+    "name": "Healthy Village",
+    "latitude": 22.29117,
+    "longitude": 114.20624,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819761,
+    "name": "Hei Ling Chau",
+    "latitude": 22.25353,
+    "longitude": 114.03869,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719592,
+    "name": "Heng Fa Chuen",
+    "latitude": 22.27668,
+    "longitude": 114.24077,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819513,
+    "name": "High Island",
+    "latitude": 22.35875,
+    "longitude": 114.35204,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819751,
+    "name": "High Island Reservoir",
+    "latitude": 22.37395,
+    "longitude": 114.3533,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818547,
+    "name": "High Junk Peak",
+    "latitude": 22.29561,
+    "longitude": 114.28601,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819750,
+    "name": "High West",
+    "latitude": 22.27218,
+    "longitude": 114.13679,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719627,
+    "name": "Hing Man Estate",
+    "latitude": 22.26682,
+    "longitude": 114.2327,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719628,
+    "name": "Hing Tung Estate",
+    "latitude": 22.28151,
+    "longitude": 114.21943,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719629,
+    "name": "Hing Wah Estate (I & II)",
+    "latitude": 22.26309,
+    "longitude": 114.23506,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819731,
+    "name": "Ho Man Tin",
+    "latitude": 22.31584,
+    "longitude": 114.18181,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719822,
+    "name": "Ho Man Tin Estate",
+    "latitude": 22.3149,
+    "longitude": 114.18252,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719808,
+    "name": "Hoi Fu Court",
+    "latitude": 22.31631,
+    "longitude": 114.16466,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719569,
+    "name": "Hoi Lai Estate",
+    "latitude": 22.33182,
+    "longitude": 114.14667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719571,
+    "name": "Hoi Lok Court",
+    "latitude": 22.32781,
+    "longitude": 114.14913,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819736,
+    "name": "Hok Tsui Shan",
+    "latitude": 22.21677,
+    "longitude": 114.24893,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719439,
+    "name": "Hok Yuen",
+    "latitude": 22.31027,
+    "longitude": 114.18816,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819729,
+    "name": "Hong Kong",
+    "latitude": 22.27832,
+    "longitude": 114.17469,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819727,
+    "name": "Hong Kong Island",
+    "latitude": 22.26686,
+    "longitude": 114.17885,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7733353,
+    "name": "Hong Kong Park",
+    "latitude": 22.27685,
+    "longitude": 114.16111,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819726,
+    "name": "Hong Lok Yuen",
+    "latitude": 22.46315,
+    "longitude": 114.1552,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819718,
+    "name": "Hung Hom",
+    "latitude": 22.30715,
+    "longitude": 114.18532,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719825,
+    "name": "Hung Hom Estate",
+    "latitude": 22.308,
+    "longitude": 114.18929,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12640694,
+    "name": "Hung Shui Kiu",
+    "latitude": 22.43163,
+    "longitude": 113.98815,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6621505,
+    "name": "Hutchison Park",
+    "latitude": 22.30753,
+    "longitude": 114.19092,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719813,
+    "name": "Island Harbourview",
+    "latitude": 22.31842,
+    "longitude": 114.15745,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719632,
+    "name": "Island Resort",
+    "latitude": 22.26665,
+    "longitude": 114.2508,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819706,
+    "name": "Jardine's Lookout",
+    "latitude": 22.26857,
+    "longitude": 114.19252,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819707,
+    "name": "Jardines Lookout",
+    "latitude": 22.26734,
+    "longitude": 114.19855,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719548,
+    "name": "Jat Min Chuen",
+    "latitude": 22.37609,
+    "longitude": 114.1914,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818552,
+    "name": "Jin Island",
+    "latitude": 22.33333,
+    "longitude": 114.31667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8224045,
+    "name": "Jordan",
+    "latitude": 22.30539,
+    "longitude": 114.17001,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719828,
+    "name": "Ka Wai Chuen",
+    "latitude": 22.30791,
+    "longitude": 114.18648,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12640682,
+    "name": "Kadoorie",
+    "latitude": 22.32247,
+    "longitude": 114.17556,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 9972731,
+    "name": "Kadoorie Farm and Botanic Garden",
+    "latitude": 22.43342,
+    "longitude": 114.11806,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819704,
+    "name": "Kai Chau",
+    "latitude": 22.36696,
+    "longitude": 114.32457,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719838,
+    "name": "Kai Ching Estate",
+    "latitude": 22.33289,
+    "longitude": 114.20304,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819702,
+    "name": "Kai Kung Leng",
+    "latitude": 22.46375,
+    "longitude": 114.0841,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12640684,
+    "name": "Kai Tak",
+    "latitude": 22.32425,
+    "longitude": 114.19741,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819689,
+    "name": "Kam Shan",
+    "latitude": 22.36667,
+    "longitude": 114.15,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819685,
+    "name": "Kam Tin",
+    "latitude": 22.44123,
+    "longitude": 114.06019,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719445,
+    "name": "Kam Ying",
+    "latitude": 22.42285,
+    "longitude": 114.23664,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819667,
+    "name": "Kau Lung Hang Shan",
+    "latitude": 22.47586,
+    "longitude": 114.1705,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819665,
+    "name": "Kau Pei Chau",
+    "latitude": 22.20566,
+    "longitude": 114.25941,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819663,
+    "name": "Kau Sai Chau",
+    "latitude": 22.35908,
+    "longitude": 114.31452,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819654,
+    "name": "Kau To Shan",
+    "latitude": 22.4221,
+    "longitude": 114.1915,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819652,
+    "name": "Kau Wa Keng",
+    "latitude": 22.3459,
+    "longitude": 114.13684,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819650,
+    "name": "Kau Yi Chau",
+    "latitude": 22.28435,
+    "longitude": 114.07712,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819640,
+    "name": "Kellett Island",
+    "latitude": 22.28426,
+    "longitude": 114.18254,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719547,
+    "name": "Keng Hau",
+    "latitude": 22.36507,
+    "longitude": 114.17472,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819638,
+    "name": "Kennedy Town",
+    "latitude": 22.28277,
+    "longitude": 114.12953,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12746540,
+    "name": "Kingsford Terrace",
+    "latitude": 22.34031,
+    "longitude": 114.21125,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819627,
+    "name": "Kiu Tsui Chau",
+    "latitude": 22.36487,
+    "longitude": 114.29408,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819620,
+    "name": "Kong Tau Pai",
+    "latitude": 22.33893,
+    "longitude": 114.375,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719543,
+    "name": "Kornhill",
+    "latitude": 22.28213,
+    "longitude": 114.21566,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719609,
+    "name": "Kornhill Garden",
+    "latitude": 22.2853,
+    "longitude": 114.21601,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8504415,
+    "name": "Kowloon Bay",
+    "latitude": 22.32662,
+    "longitude": 114.20777,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819607,
+    "name": "Kowloon City",
+    "latitude": 22.33047,
+    "longitude": 114.19222,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6621500,
+    "name": "Kowloon Park",
+    "latitude": 22.30033,
+    "longitude": 114.17021,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819861,
+    "name": "Kowloon Peak",
+    "latitude": 22.33333,
+    "longitude": 114.21667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819604,
+    "name": "Kowloon Reservoirs",
+    "latitude": 22.35423,
+    "longitude": 114.15472,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819602,
+    "name": "Kowloon Tong",
+    "latitude": 22.33312,
+    "longitude": 114.17969,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6621503,
+    "name": "Kowloon Walled City Park",
+    "latitude": 22.33167,
+    "longitude": 114.18932,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819598,
+    "name": "Kung Chau",
+    "latitude": 22.48328,
+    "longitude": 114.37094,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819114,
+    "name": "Kwai Au Shan",
+    "latitude": 22.34609,
+    "longitude": 114.24078,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819595,
+    "name": "Kwai Chung",
+    "latitude": 22.36828,
+    "longitude": 114.13877,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819590,
+    "name": "Kwai Tau Leng",
+    "latitude": 22.50626,
+    "longitude": 114.19399,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719441,
+    "name": "Kwong Yuen",
+    "latitude": 22.38005,
+    "longitude": 114.21361,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819581,
+    "name": "Kwun Cham Wan",
+    "latitude": 22.37385,
+    "longitude": 114.30125,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719585,
+    "name": "Kwun Lung Lau",
+    "latitude": 22.28044,
+    "longitude": 114.12758,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819577,
+    "name": "Kwun Tong",
+    "latitude": 22.31184,
+    "longitude": 114.22176,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819575,
+    "name": "Kwun Tsai",
+    "latitude": 22.26501,
+    "longitude": 114.27963,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12689059,
+    "name": "Laguna City",
+    "latitude": 22.30554,
+    "longitude": 114.22861,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719440,
+    "name": "Laguna Verde",
+    "latitude": 22.30719,
+    "longitude": 114.19071,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719830,
+    "name": "Laguna Verde (Estate)",
+    "latitude": 22.30767,
+    "longitude": 114.19288,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719580,
+    "name": "Lai Kok Estate",
+    "latitude": 22.33227,
+    "longitude": 114.15691,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719586,
+    "name": "Lai Tak Tsuen",
+    "latitude": 22.27789,
+    "longitude": 114.1947,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719579,
+    "name": "Lai Tsui Court",
+    "latitude": 22.33376,
+    "longitude": 114.15506,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10346387,
+    "name": "Lake Ad Excellentiam",
+    "latitude": 22.41601,
+    "longitude": 114.20962,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819554,
+    "name": "Lam Tin",
+    "latitude": 22.30933,
+    "longitude": 114.23634,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819557,
+    "name": "Lamma Island",
+    "latitude": 22.20827,
+    "longitude": 114.12374,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818609,
+    "name": "Lantau Island",
+    "latitude": 22.26137,
+    "longitude": 113.94072,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819835,
+    "name": "Lantau Peak",
+    "latitude": 22.24933,
+    "longitude": 113.92,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819539,
+    "name": "Lap Sap Chau",
+    "latitude": 22.38609,
+    "longitude": 114.28231,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818229,
+    "name": "Lead Mine Pass",
+    "latitude": 22.41667,
+    "longitude": 114.15,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819530,
+    "name": "Lecky Pass",
+    "latitude": 22.53333,
+    "longitude": 114.1,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719444,
+    "name": "Lee On",
+    "latitude": 22.42635,
+    "longitude": 114.24133,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719557,
+    "name": "Lei Cheng Uk Estate",
+    "latitude": 22.33937,
+    "longitude": 114.15921,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719634,
+    "name": "Lei King Wan",
+    "latitude": 22.28389,
+    "longitude": 114.22328,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12640693,
+    "name": "Lei Tung",
+    "latitude": 22.24052,
+    "longitude": 114.15757,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719787,
+    "name": "Lei Tung Estate",
+    "latitude": 22.24115,
+    "longitude": 114.15523,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819529,
+    "name": "Leighton Hill",
+    "latitude": 22.2761,
+    "longitude": 114.18398,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819517,
+    "name": "Leng Shan",
+    "latitude": 22.49097,
+    "longitude": 114.16005,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719560,
+    "name": "Liberte",
+    "latitude": 22.33465,
+    "longitude": 114.14886,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819507,
+    "name": "Lin Fa Shan",
+    "latitude": 22.38966,
+    "longitude": 114.08489,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819495,
+    "name": "Lo Chau Island",
+    "latitude": 22.20699,
+    "longitude": 114.22275,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719433,
+    "name": "LOHAS Park",
+    "latitude": 22.29315,
+    "longitude": 114.27245,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719429,
+    "name": "Lok Fu",
+    "latitude": 22.33727,
+    "longitude": 114.18725,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12746546,
+    "name": "Lok Fu Estate",
+    "latitude": 22.33719,
+    "longitude": 114.18672,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719849,
+    "name": "Lok Man Sun Chuen",
+    "latitude": 22.3163,
+    "longitude": 114.18616,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819462,
+    "name": "Lower Shing Mun Reservoir",
+    "latitude": 22.37282,
+    "longitude": 114.1607,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12746539,
+    "name": "Lower Wong Tai Sin Estate (I & II)",
+    "latitude": 22.33923,
+    "longitude": 114.19441,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819454,
+    "name": "Luk Chau",
+    "latitude": 22.22452,
+    "longitude": 114.1349,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12689050,
+    "name": "Luk Yeung",
+    "latitude": 22.37371,
+    "longitude": 114.11917,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819441,
+    "name": "Lung Kwu Chau",
+    "latitude": 22.37807,
+    "longitude": 113.88297,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12746548,
+    "name": "Lung Poon Court",
+    "latitude": 22.34239,
+    "longitude": 114.19987,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819426,
+    "name": "Ma Chau",
+    "latitude": 22.17203,
+    "longitude": 113.90026,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819400,
+    "name": "Ma On Shan",
+    "latitude": 22.40613,
+    "longitude": 114.24079,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819397,
+    "name": "Ma Shi Chau",
+    "latitude": 22.4553,
+    "longitude": 114.23079,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819395,
+    "name": "Ma Tau Kok",
+    "latitude": 22.3215,
+    "longitude": 114.1905,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819394,
+    "name": "Ma Tau Wai",
+    "latitude": 22.32074,
+    "longitude": 114.18743,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819374,
+    "name": "Ma Wan",
+    "latitude": 22.3523,
+    "longitude": 114.06002,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819425,
+    "name": "Magazine Gap",
+    "latitude": 22.26809,
+    "longitude": 114.16543,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819853,
+    "name": "Magazine Island",
+    "latitude": 22.24341,
+    "longitude": 114.13941,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819393,
+    "name": "Mat Chau",
+    "latitude": 22.16042,
+    "longitude": 114.2504,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12640681,
+    "name": "Mei Foo",
+    "latitude": 22.33719,
+    "longitude": 114.13856,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719566,
+    "name": "Mei Foo Sun Chuen",
+    "latitude": 22.33636,
+    "longitude": 114.14018,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719810,
+    "name": "Metro Harbour",
+    "latitude": 22.32447,
+    "longitude": 114.16028,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819361,
+    "name": "Mid Levels",
+    "latitude": 22.28399,
+    "longitude": 114.14958,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819363,
+    "name": "Middle Gap",
+    "latitude": 22.2604,
+    "longitude": 114.17843,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719596,
+    "name": "Ming Wah Dai Ha",
+    "latitude": 22.27778,
+    "longitude": 114.23108,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819345,
+    "name": "Mo Shek Pai",
+    "latitude": 22.4849,
+    "longitude": 114.33755,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818579,
+    "name": "Mo To Chau",
+    "latitude": 22.33188,
+    "longitude": 113.97521,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819353,
+    "name": "Mong Kok",
+    "latitude": 22.31935,
+    "longitude": 114.17136,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819120,
+    "name": "Mount Butler",
+    "latitude": 22.26833,
+    "longitude": 114.21099,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820012,
+    "name": "Mount Cameron",
+    "latitude": 22.26225,
+    "longitude": 114.17379,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819906,
+    "name": "Mount Collinson",
+    "latitude": 22.25177,
+    "longitude": 114.23529,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819339,
+    "name": "Mount Davis",
+    "latitude": 22.27862,
+    "longitude": 114.11777,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819819,
+    "name": "Mount Gough",
+    "latitude": 22.2676,
+    "longitude": 114.16066,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818713,
+    "name": "Mount Hallowes",
+    "latitude": 22.45803,
+    "longitude": 114.3149,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819641,
+    "name": "Mount Kellett",
+    "latitude": 22.26181,
+    "longitude": 114.14838,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819218,
+    "name": "Mount Nicholson",
+    "latitude": 22.25968,
+    "longitude": 114.18515,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819187,
+    "name": "Mount Parker",
+    "latitude": 22.26602,
+    "longitude": 114.21994,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818756,
+    "name": "Mount Stenhouse",
+    "latitude": 22.19166,
+    "longitude": 114.1276,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819338,
+    "name": "Mouse Island",
+    "latitude": 22.38333,
+    "longitude": 113.96667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819333,
+    "name": "Mui Wo Kau Tsuen",
+    "latitude": 22.26886,
+    "longitude": 113.98609,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819326,
+    "name": "Nai Chung",
+    "latitude": 22.43116,
+    "longitude": 114.25753,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12689055,
+    "name": "Nam Cheong",
+    "latitude": 22.32799,
+    "longitude": 114.15389,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819315,
+    "name": "Nam Fung Chau",
+    "latitude": 22.34228,
+    "longitude": 114.35178,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719603,
+    "name": "Nam Fung Sun Chuen",
+    "latitude": 22.28247,
+    "longitude": 114.21475,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719564,
+    "name": "Nam Shan Estate",
+    "latitude": 22.33477,
+    "longitude": 114.17182,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819237,
+    "name": "Ng Fan Chau",
+    "latitude": 22.22596,
+    "longitude": 114.25772,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819242,
+    "name": "Nga Ying Pai",
+    "latitude": 22.24258,
+    "longitude": 114.28063,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819271,
+    "name": "Ngau Au Shan",
+    "latitude": 22.37082,
+    "longitude": 114.21948,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819256,
+    "name": "Ngau Mei Chau",
+    "latitude": 22.32616,
+    "longitude": 114.29628,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819229,
+    "name": "Ngong Ping",
+    "latitude": 22.39001,
+    "longitude": 114.25117,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819228,
+    "name": "Ngong Ping Shan",
+    "latitude": 22.4,
+    "longitude": 114.25,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819583,
+    "name": "Ninepin Group",
+    "latitude": 22.26128,
+    "longitude": 114.36056,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819175,
+    "name": "North Ninepin Island",
+    "latitude": 22.26719,
+    "longitude": 114.34766,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819208,
+    "name": "Nui Po Au",
+    "latitude": 22.38831,
+    "longitude": 114.22668,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719847,
+    "name": "Oi Man Estate",
+    "latitude": 22.31197,
+    "longitude": 114.17853,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719616,
+    "name": "Oi Tung Estate",
+    "latitude": 22.28173,
+    "longitude": 114.22786,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12689056,
+    "name": "Olympic",
+    "latitude": 22.31939,
+    "longitude": 114.15736,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818522,
+    "name": "Pak Chau",
+    "latitude": 22.35,
+    "longitude": 113.86667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819161,
+    "name": "Pak Sha Chau",
+    "latitude": 22.5412,
+    "longitude": 114.33063,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819157,
+    "name": "Pak Sha Tau Chau",
+    "latitude": 22.45548,
+    "longitude": 114.25184,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819142,
+    "name": "Pak Shek Kok",
+    "latitude": 22.42734,
+    "longitude": 114.20366,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819139,
+    "name": "Pak Tai To Yan",
+    "latitude": 22.46439,
+    "longitude": 114.12511,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719553,
+    "name": "Pak Tin Estate",
+    "latitude": 22.33713,
+    "longitude": 114.16673,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719549,
+    "name": "Parc Oasis",
+    "latitude": 22.33332,
+    "longitude": 114.17488,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12689063,
+    "name": "Pat Heung",
+    "latitude": 22.4461,
+    "longitude": 114.09226,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819113,
+    "name": "Pearl Island",
+    "latitude": 22.36573,
+    "longitude": 113.98911,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819111,
+    "name": "Peng Chau",
+    "latitude": 22.28527,
+    "longitude": 114.03919,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819102,
+    "name": "Ping Min Chau",
+    "latitude": 22.31179,
+    "longitude": 114.31873,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819101,
+    "name": "Ping Shan",
+    "latitude": 22.44111,
+    "longitude": 114.00608,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819095,
+    "name": "Plover Cove",
+    "latitude": 22.47603,
+    "longitude": 114.25824,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819083,
+    "name": "Po Pin Chau",
+    "latitude": 22.35836,
+    "longitude": 114.37843,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819080,
+    "name": "Po Toi",
+    "latitude": 22.17034,
+    "longitude": 114.26329,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819081,
+    "name": "Po Toi Islands",
+    "latitude": 22.17562,
+    "longitude": 114.27374,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819091,
+    "name": "Pok Fu Lam",
+    "latitude": 22.26861,
+    "longitude": 114.12924,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819090,
+    "name": "Pok Fu Lam Reservoir",
+    "latitude": 22.26538,
+    "longitude": 114.13775,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12687141,
+    "name": "Pok Hong",
+    "latitude": 22.37558,
+    "longitude": 114.19584,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819982,
+    "name": "Port Island",
+    "latitude": 22.50026,
+    "longitude": 114.35885,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819077,
+    "name": "Pottinger Peak",
+    "latitude": 22.25544,
+    "longitude": 114.2467,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12687144,
+    "name": "Prince Edward",
+    "latitude": 22.3236,
+    "longitude": 114.17938,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819072,
+    "name": "Pui O",
+    "latitude": 22.24597,
+    "longitude": 113.97817,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819064,
+    "name": "Quarry Bay",
+    "latitude": 22.28768,
+    "longitude": 114.2135,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819057,
+    "name": "Reception Reservoir",
+    "latitude": 22.35,
+    "longitude": 114.15,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719788,
+    "name": "Residence Bel-air",
+    "latitude": 22.25466,
+    "longitude": 114.13289,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12746526,
+    "name": "Rhythm Garden",
+    "latitude": 22.33617,
+    "longitude": 114.20272,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819055,
+    "name": "Robins Nest",
+    "latitude": 22.54138,
+    "longitude": 114.19,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819054,
+    "name": "Rocky Islet",
+    "latitude": 22.21491,
+    "longitude": 113.94599,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819279,
+    "name": "Round Island",
+    "latitude": 22.21577,
+    "longitude": 114.1855,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819053,
+    "name": "Saddle Pass",
+    "latitude": 22.5,
+    "longitude": 114.08333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819052,
+    "name": "Sai Ap Chau",
+    "latitude": 22.55175,
+    "longitude": 114.26174,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819050,
+    "name": "Sai Kung",
+    "latitude": 22.38333,
+    "longitude": 114.26667,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819031,
+    "name": "Sai Wan",
+    "latitude": 22.28124,
+    "longitude": 114.12554,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819029,
+    "name": "Sai Wan Ho",
+    "latitude": 22.28449,
+    "longitude": 114.2232,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819028,
+    "name": "Sai Wan Shan",
+    "latitude": 22.38688,
+    "longitude": 114.37809,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819026,
+    "name": "Sai Ying Pun",
+    "latitude": 22.28998,
+    "longitude": 114.14223,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819016,
+    "name": "Sam Pui Chau",
+    "latitude": 22.43258,
+    "longitude": 114.27199,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719540,
+    "name": "Sam Shing",
+    "latitude": 22.38128,
+    "longitude": 113.97872,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819003,
+    "name": "San Po Kong",
+    "latitude": 22.33546,
+    "longitude": 114.19669,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818992,
+    "name": "San Tin",
+    "latitude": 22.37193,
+    "longitude": 114.18385,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819283,
+    "name": "San Tung Chung Hang",
+    "latitude": 22.27875,
+    "longitude": 113.94307,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818972,
+    "name": "Sau Mau Ping",
+    "latitude": 22.3202,
+    "longitude": 114.23497,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818971,
+    "name": "Sha Chau",
+    "latitude": 22.34558,
+    "longitude": 113.8902,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818923,
+    "name": "Sha Tau Kok",
+    "latitude": 22.54569,
+    "longitude": 114.22379,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818920,
+    "name": "Sha Tin",
+    "latitude": 22.38333,
+    "longitude": 114.18333,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818916,
+    "name": "Sha Tin Wai",
+    "latitude": 22.37756,
+    "longitude": 114.19753,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818953,
+    "name": "Sham Shui Po",
+    "latitude": 22.33023,
+    "longitude": 114.15945,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818950,
+    "name": "Sham Tseng",
+    "latitude": 22.36667,
+    "longitude": 114.05,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818949,
+    "name": "Sham Tseng Settlement Basin",
+    "latitude": 22.36667,
+    "longitude": 114.05,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719430,
+    "name": "Shap Pat Heung",
+    "latitude": 22.4248,
+    "longitude": 114.03581,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819294,
+    "name": "Sharp Peak",
+    "latitude": 22.4306,
+    "longitude": 114.37639,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818911,
+    "name": "Shau Kei Wan",
+    "latitude": 22.27771,
+    "longitude": 114.22864,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818909,
+    "name": "Shek Chau",
+    "latitude": 22.17338,
+    "longitude": 113.90724,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818905,
+    "name": "Shek Kip Mei",
+    "latitude": 22.33146,
+    "longitude": 114.16799,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719555,
+    "name": "Shek Kip Mei Estate",
+    "latitude": 22.33412,
+    "longitude": 114.16531,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818899,
+    "name": "Shek Kwu Chau",
+    "latitude": 22.19527,
+    "longitude": 113.98843,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818892,
+    "name": "Shek Lei",
+    "latitude": 22.36613,
+    "longitude": 114.13982,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818891,
+    "name": "Shek Lei Pui Reservoir",
+    "latitude": 22.35,
+    "longitude": 114.15,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818890,
+    "name": "Shek Lung Kung",
+    "latitude": 22.38135,
+    "longitude": 114.08756,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818886,
+    "name": "Shek Nga Pui",
+    "latitude": 22.37144,
+    "longitude": 114.22714,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818885,
+    "name": "Shek Ngau Chau",
+    "latitude": 22.46605,
+    "longitude": 114.42783,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818883,
+    "name": "Shek O",
+    "latitude": 22.23344,
+    "longitude": 114.25121,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818884,
+    "name": "Shek O Peak",
+    "latitude": 22.23575,
+    "longitude": 114.24365,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818880,
+    "name": "Shek Pai Wan Estate",
+    "latitude": 22.2493,
+    "longitude": 114.15812,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818877,
+    "name": "Shek Pik Reservoir",
+    "latitude": 22.23172,
+    "longitude": 113.89865,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818869,
+    "name": "Shek Uk Shan",
+    "latitude": 22.43561,
+    "longitude": 114.30602,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818868,
+    "name": "Shek Wai Kok",
+    "latitude": 22.37546,
+    "longitude": 114.12411,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818845,
+    "name": "Sheung Shui",
+    "latitude": 22.51667,
+    "longitude": 114.11667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818823,
+    "name": "Shing Mun Reservoir",
+    "latitude": 22.38609,
+    "longitude": 114.14802,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818817,
+    "name": "Shuen Wan",
+    "latitude": 22.46767,
+    "longitude": 114.20812,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818813,
+    "name": "Shui Chuen O",
+    "latitude": 22.36667,
+    "longitude": 114.2,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818793,
+    "name": "Siu A Chau",
+    "latitude": 22.18255,
+    "longitude": 113.9123,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818789,
+    "name": "Siu Chik Sha",
+    "latitude": 22.30086,
+    "longitude": 114.27471,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12689067,
+    "name": "Siu Hei",
+    "latitude": 22.37359,
+    "longitude": 113.9671,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818783,
+    "name": "Siu Kau Yi Chau",
+    "latitude": 22.28875,
+    "longitude": 114.05908,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818781,
+    "name": "Siu Lek Yuen",
+    "latitude": 22.38174,
+    "longitude": 114.21256,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818780,
+    "name": "Siu Mo To",
+    "latitude": 22.33729,
+    "longitude": 113.98208,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719587,
+    "name": "Siu Sai Wan Estate",
+    "latitude": 22.26155,
+    "longitude": 114.24881,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819499,
+    "name": "Siu Tsing Chau",
+    "latitude": 22.28559,
+    "longitude": 114.11677,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719846,
+    "name": "Sky Tower",
+    "latitude": 22.3235,
+    "longitude": 114.18982,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818777,
+    "name": "Snowdon",
+    "latitude": 22.48333,
+    "longitude": 114.08333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818771,
+    "name": "So Kwun Wat",
+    "latitude": 22.37594,
+    "longitude": 114.00682,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818770,
+    "name": "So Kwun Wat Tsuen",
+    "latitude": 22.3849,
+    "longitude": 114.00448,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12640674,
+    "name": "So Uk",
+    "latitude": 22.34131,
+    "longitude": 114.15679,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719581,
+    "name": "So Uk Estate",
+    "latitude": 22.34153,
+    "longitude": 114.15653,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818775,
+    "name": "Sok Kwu Wan",
+    "latitude": 22.20453,
+    "longitude": 114.13159,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818774,
+    "name": "Soko Islands",
+    "latitude": 22.17333,
+    "longitude": 113.91385,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719814,
+    "name": "Sorrento",
+    "latitude": 22.30641,
+    "longitude": 114.16226,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719432,
+    "name": "South Horizons",
+    "latitude": 22.24383,
+    "longitude": 114.14828,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719791,
+    "name": "South Horizons (Estate)",
+    "latitude": 22.24411,
+    "longitude": 114.14616,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819306,
+    "name": "South Ninepin Island",
+    "latitude": 22.25616,
+    "longitude": 114.35016,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818763,
+    "name": "Stanley Gap",
+    "latitude": 22.26667,
+    "longitude": 114.2,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818762,
+    "name": "Stanley Mound",
+    "latitude": 22.23068,
+    "longitude": 114.20568,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819649,
+    "name": "Steep Island",
+    "latitude": 22.27599,
+    "longitude": 114.31431,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819226,
+    "name": "Stonecutters Island",
+    "latitude": 22.32177,
+    "longitude": 114.13718,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12689062,
+    "name": "Sun Tin Wai",
+    "latitude": 22.37058,
+    "longitude": 114.18696,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818752,
+    "name": "Sung Kong",
+    "latitude": 22.1851,
+    "longitude": 114.28671,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12640671,
+    "name": "Sung Wong Toi",
+    "latitude": 22.32466,
+    "longitude": 114.19149,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819990,
+    "name": "Sunshine Island",
+    "latitude": 22.26107,
+    "longitude": 114.05129,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818743,
+    "name": "Tai A Chau",
+    "latitude": 22.16327,
+    "longitude": 113.91073,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818741,
+    "name": "Tai Chau",
+    "latitude": 22.3899,
+    "longitude": 114.28419,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818734,
+    "name": "Tai Hang",
+    "latitude": 22.27851,
+    "longitude": 114.1922,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719551,
+    "name": "Tai Hang Estate (East & West)",
+    "latitude": 22.33209,
+    "longitude": 114.17068,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818721,
+    "name": "Tai Kok Tsui",
+    "latitude": 22.32146,
+    "longitude": 114.163,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10170102,
+    "name": "Tai Koo",
+    "latitude": 22.2841,
+    "longitude": 114.21631,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818714,
+    "name": "Tai Lam Chung Reservoir",
+    "latitude": 22.38333,
+    "longitude": 114.01667,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818707,
+    "name": "Tai Lei",
+    "latitude": 22.28942,
+    "longitude": 114.03304,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818705,
+    "name": "Tai Lo Au",
+    "latitude": 22.3727,
+    "longitude": 114.23735,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818696,
+    "name": "Tai Lo Shan",
+    "latitude": 22.35769,
+    "longitude": 114.2179,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818695,
+    "name": "Tai Mei Tuk",
+    "latitude": 22.47447,
+    "longitude": 114.23458,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818691,
+    "name": "Tai Mo Shan",
+    "latitude": 22.41127,
+    "longitude": 114.1246,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818690,
+    "name": "Tai Mo To",
+    "latitude": 22.33078,
+    "longitude": 113.96646,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818692,
+    "name": "Tai Mong Tsai",
+    "latitude": 22.40034,
+    "longitude": 114.30249,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818689,
+    "name": "Tai Mun Shan",
+    "latitude": 22.41469,
+    "longitude": 114.36439,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818687,
+    "name": "Tai Nim Chau",
+    "latitude": 22.54205,
+    "longitude": 114.26566,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818673,
+    "name": "Tai Po",
+    "latitude": 22.45007,
+    "longitude": 114.16877,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 9973387,
+    "name": "Tai Po Waterfront Park",
+    "latitude": 22.45268,
+    "longitude": 114.18852,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818656,
+    "name": "Tai Sheung Tok",
+    "latitude": 22.33333,
+    "longitude": 114.23333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818654,
+    "name": "Tai Shui Hang",
+    "latitude": 22.40631,
+    "longitude": 114.22385,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818648,
+    "name": "Tai Tam Gap",
+    "latitude": 22.26687,
+    "longitude": 114.21335,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818646,
+    "name": "Tai Tam Intermediate Reservoir",
+    "latitude": 22.2466,
+    "longitude": 114.21045,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818644,
+    "name": "Tai Tam Reservoir",
+    "latitude": 22.25923,
+    "longitude": 114.21003,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818643,
+    "name": "Tai Tam Tuk Reservoir",
+    "latitude": 22.24471,
+    "longitude": 114.2199,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818639,
+    "name": "Tai Tau Chau",
+    "latitude": 22.37398,
+    "longitude": 114.32677,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818634,
+    "name": "Tai To Yan",
+    "latitude": 22.45038,
+    "longitude": 114.11956,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818750,
+    "name": "Tai Tung Shan",
+    "latitude": 22.25723,
+    "longitude": 113.95288,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818628,
+    "name": "Tai Wai",
+    "latitude": 22.37286,
+    "longitude": 114.17897,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818616,
+    "name": "Tai Wo",
+    "latitude": 22.45151,
+    "longitude": 114.16115,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818614,
+    "name": "Tai Wo Hau",
+    "latitude": 22.36718,
+    "longitude": 114.12347,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6691573,
+    "name": "Tai Yuen Estate",
+    "latitude": 22.45574,
+    "longitude": 114.16971,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719589,
+    "name": "Taikoo Shing",
+    "latitude": 22.28613,
+    "longitude": 114.2187,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719848,
+    "name": "Tak Long Estate",
+    "latitude": 22.3302,
+    "longitude": 114.20338,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818599,
+    "name": "Tang Lung Chau",
+    "latitude": 22.34014,
+    "longitude": 114.06257,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818585,
+    "name": "Tates Pass",
+    "latitude": 22.35,
+    "longitude": 114.21667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818583,
+    "name": "Tau Chau",
+    "latitude": 22.22448,
+    "longitude": 114.19162,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818582,
+    "name": "Tau Lo Chau",
+    "latitude": 22.155,
+    "longitude": 113.92285,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719584,
+    "name": "The Belcher's",
+    "latitude": 22.28481,
+    "longitude": 114.13329,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719556,
+    "name": "The Pacifica",
+    "latitude": 22.33448,
+    "longitude": 114.14988,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12640687,
+    "name": "The Peak",
+    "latitude": 22.26202,
+    "longitude": 114.15649,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719546,
+    "name": "Tin Hau",
+    "latitude": 22.28093,
+    "longitude": 114.1924,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12746516,
+    "name": "Tin Ma Court",
+    "latitude": 22.34321,
+    "longitude": 114.18691,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818558,
+    "name": "Tin Shui Wai",
+    "latitude": 22.45679,
+    "longitude": 114.00234,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818557,
+    "name": "Tin Wan",
+    "latitude": 22.25113,
+    "longitude": 114.14726,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719785,
+    "name": "Tin Wan Estate",
+    "latitude": 22.25073,
+    "longitude": 114.1487,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818574,
+    "name": "Ting Kau",
+    "latitude": 22.36956,
+    "longitude": 114.07907,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818556,
+    "name": "Tit Cham Chau",
+    "latitude": 22.26337,
+    "longitude": 114.2765,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818551,
+    "name": "Tiu Chung Pai",
+    "latitude": 22.33368,
+    "longitude": 114.32332,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818550,
+    "name": "Tiu Keng Leng",
+    "latitude": 22.29853,
+    "longitude": 114.25115,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818548,
+    "name": "Tiu Tso Ngam",
+    "latitude": 22.35,
+    "longitude": 114.2,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818544,
+    "name": "To Kwa Wan",
+    "latitude": 22.31693,
+    "longitude": 114.19052,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818532,
+    "name": "Tong Po Chau",
+    "latitude": 22.23451,
+    "longitude": 114.18564,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819561,
+    "name": "Trio Island",
+    "latitude": 22.30097,
+    "longitude": 114.32007,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818514,
+    "name": "Tsau Sz Au",
+    "latitude": 22.36667,
+    "longitude": 114.15,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818506,
+    "name": "Tseung Kwan O",
+    "latitude": 22.32789,
+    "longitude": 114.24992,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818505,
+    "name": "Tsim Chau",
+    "latitude": 22.40154,
+    "longitude": 114.38641,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818504,
+    "name": "Tsim Fung Shan",
+    "latitude": 22.33333,
+    "longitude": 114.23333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818503,
+    "name": "Tsim Mei Fung",
+    "latitude": 22.36929,
+    "longitude": 114.22604,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818501,
+    "name": "Tsim Sha Tsui",
+    "latitude": 22.3,
+    "longitude": 114.16667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818502,
+    "name": "Tsim Shan",
+    "latitude": 22.35,
+    "longitude": 114.15,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818497,
+    "name": "Tsing Chau",
+    "latitude": 22.53257,
+    "longitude": 114.28045,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818485,
+    "name": "Tsing Yi",
+    "latitude": 22.35,
+    "longitude": 114.1,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818483,
+    "name": "Tsing Yi Town",
+    "latitude": 22.35,
+    "longitude": 114.1,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818209,
+    "name": "Tsuen Wan",
+    "latitude": 22.37137,
+    "longitude": 114.11329,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12746544,
+    "name": "Tsui Chuk Garden",
+    "latitude": 22.34639,
+    "longitude": 114.18766,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719624,
+    "name": "Tsui Wan Estate",
+    "latitude": 22.2682,
+    "longitude": 114.24028,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12746541,
+    "name": "Tsz Ching Estate",
+    "latitude": 22.35099,
+    "longitude": 114.20056,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12746543,
+    "name": "Tsz Hong Estate",
+    "latitude": 22.34747,
+    "longitude": 114.20274,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819056,
+    "name": "Tsz Kan Chau",
+    "latitude": 22.32667,
+    "longitude": 113.97917,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818452,
+    "name": "Tsz Lo Lan Shan",
+    "latitude": 22.24903,
+    "longitude": 114.20005,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12746542,
+    "name": "Tsz Man Estate",
+    "latitude": 22.34816,
+    "longitude": 114.20287,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818447,
+    "name": "Tsz Wan Shan",
+    "latitude": 22.35247,
+    "longitude": 114.20016,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818446,
+    "name": "Tuen Mun",
+    "latitude": 22.39175,
+    "longitude": 113.97157,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818444,
+    "name": "Tuen Mun San Hui",
+    "latitude": 22.39877,
+    "longitude": 113.97596,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818443,
+    "name": "Tuen Tau Chau",
+    "latitude": 22.3709,
+    "longitude": 114.29561,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818440,
+    "name": "Tui Min Chau",
+    "latitude": 22.53333,
+    "longitude": 114.3,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11101593,
+    "name": "Tung Chung",
+    "latitude": 22.28783,
+    "longitude": 113.94243,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719599,
+    "name": "Tung Hei Court",
+    "latitude": 22.28031,
+    "longitude": 114.21886,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818427,
+    "name": "Tung Lung Island",
+    "latitude": 22.24871,
+    "longitude": 114.28933,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819108,
+    "name": "Tung Ping Chau Island",
+    "latitude": 22.5434,
+    "longitude": 114.43042,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818419,
+    "name": "Tung Shan",
+    "latitude": 22.35,
+    "longitude": 114.21667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818416,
+    "name": "Tung Tau Chau",
+    "latitude": 22.45639,
+    "longitude": 114.25825,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12746524,
+    "name": "Tung Tau Estate",
+    "latitude": 22.33212,
+    "longitude": 114.19277,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818413,
+    "name": "Tung Tau Tsuen",
+    "latitude": 22.45291,
+    "longitude": 114.02873,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12746523,
+    "name": "Tung Wui Estate",
+    "latitude": 22.33228,
+    "longitude": 114.19393,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818401,
+    "name": "Tung Yeung Shan",
+    "latitude": 22.35,
+    "longitude": 114.21667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719598,
+    "name": "Tung Yuk Court",
+    "latitude": 22.2824,
+    "longitude": 114.22681,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1819207,
+    "name": "Turret Hill",
+    "latitude": 22.39135,
+    "longitude": 114.22401,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719552,
+    "name": "Un Chau Estate",
+    "latitude": 22.33633,
+    "longitude": 114.15616,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12746538,
+    "name": "Upper Wong Tai Sin Estate",
+    "latitude": 22.3433,
+    "longitude": 114.19193,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818395,
+    "name": "Vernon Pass",
+    "latitude": 22.51667,
+    "longitude": 114.11667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1931681,
+    "name": "Victoria",
+    "latitude": 22.2875,
+    "longitude": 114.14417,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818394,
+    "name": "Victoria Gap",
+    "latitude": 22.27074,
+    "longitude": 114.14834,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818392,
+    "name": "Victoria Park",
+    "latitude": 22.28264,
+    "longitude": 114.18885,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818391,
+    "name": "Victoria Peak",
+    "latitude": 22.27325,
+    "longitude": 114.14443,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818385,
+    "name": "Wah Fu",
+    "latitude": 22.25474,
+    "longitude": 114.13622,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719541,
+    "name": "Wah Kwai",
+    "latitude": 22.25097,
+    "longitude": 114.14005,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719793,
+    "name": "Wah Kwai Estate",
+    "latitude": 22.25044,
+    "longitude": 114.13964,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818379,
+    "name": "Wan Chai",
+    "latitude": 22.28142,
+    "longitude": 114.17258,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818378,
+    "name": "Wan Chai Gap",
+    "latitude": 22.26904,
+    "longitude": 114.17151,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818362,
+    "name": "Wan Hau Chau",
+    "latitude": 22.17796,
+    "longitude": 113.91051,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719630,
+    "name": "Wan Tsui Estate",
+    "latitude": 22.26123,
+    "longitude": 114.2374,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818376,
+    "name": "Wang Chau",
+    "latitude": 22.32961,
+    "longitude": 114.3736,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818371,
+    "name": "Wang Lang Island",
+    "latitude": 22.18435,
+    "longitude": 114.30496,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818365,
+    "name": "Wang Tau Hom",
+    "latitude": 22.3401,
+    "longitude": 114.18732,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12746547,
+    "name": "Wang Tau Hom Estate",
+    "latitude": 22.34009,
+    "longitude": 114.18673,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12689057,
+    "name": "Whampoa",
+    "latitude": 22.30504,
+    "longitude": 114.19021,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719844,
+    "name": "Whampoa Estate",
+    "latitude": 22.30624,
+    "longitude": 114.18819,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719843,
+    "name": "Whampoa Garden",
+    "latitude": 22.30534,
+    "longitude": 114.18936,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818349,
+    "name": "Wo Che",
+    "latitude": 22.39016,
+    "longitude": 114.19217,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818339,
+    "name": "Wong Chau Tsai",
+    "latitude": 22.36667,
+    "longitude": 114.3,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818316,
+    "name": "Wong Mau Chau",
+    "latitude": 22.44853,
+    "longitude": 114.39468,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818312,
+    "name": "Wong Nai Chau",
+    "latitude": 22.34492,
+    "longitude": 114.36959,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818311,
+    "name": "Wong Nai Chung Gap",
+    "latitude": 22.25712,
+    "longitude": 114.19297,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818310,
+    "name": "Wong Nai Chung Reservoir",
+    "latitude": 22.25654,
+    "longitude": 114.19518,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818305,
+    "name": "Wong Ngau Shan",
+    "latitude": 22.37294,
+    "longitude": 114.23223,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818304,
+    "name": "Wong Tai Sin",
+    "latitude": 22.35,
+    "longitude": 114.18333,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719443,
+    "name": "Wu Kai Sha",
+    "latitude": 22.43016,
+    "longitude": 114.24212,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12689066,
+    "name": "Wu King",
+    "latitude": 22.37607,
+    "longitude": 113.96537,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818280,
+    "name": "Wu Yeung Chau",
+    "latitude": 22.51667,
+    "longitude": 114.28333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818276,
+    "name": "Yan Chau",
+    "latitude": 22.52631,
+    "longitude": 114.28786,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818275,
+    "name": "Yan Chau Tsai",
+    "latitude": 22.53333,
+    "longitude": 114.28333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818268,
+    "name": "Yau Ma Tei",
+    "latitude": 22.3138,
+    "longitude": 114.16857,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818266,
+    "name": "Yau Tong",
+    "latitude": 22.29569,
+    "longitude": 114.23599,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818264,
+    "name": "Yau Yat Chuen",
+    "latitude": 22.33101,
+    "longitude": 114.17413,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818261,
+    "name": "Yeung Chau",
+    "latitude": 22.46153,
+    "longitude": 114.22149,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818259,
+    "name": "Yeung Uk Tsuen",
+    "latitude": 22.45,
+    "longitude": 114.01667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818250,
+    "name": "Yim Tin Tsai",
+    "latitude": 22.45265,
+    "longitude": 114.21439,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719635,
+    "name": "Yiu Tung Estate",
+    "latitude": 22.27849,
+    "longitude": 114.22299,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719442,
+    "name": "Yu Chui",
+    "latitude": 22.38059,
+    "longitude": 114.2053,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719798,
+    "name": "Yue On Court",
+    "latitude": 22.24304,
+    "longitude": 114.15746,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12719623,
+    "name": "Yue Wan Estate",
+    "latitude": 22.26592,
+    "longitude": 114.24129,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818235,
+    "name": "Yuen Chau",
+    "latitude": 22.17385,
+    "longitude": 113.90484,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818232,
+    "name": "Yuen Chau Tsai",
+    "latitude": 22.44778,
+    "longitude": 114.17533,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818228,
+    "name": "Yuen Kong Chau",
+    "latitude": 22.16255,
+    "longitude": 113.91656,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818225,
+    "name": "Yuen Long",
+    "latitude": 22.44518,
+    "longitude": 114.02621,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818223,
+    "name": "Yuen Long Kau Hui",
+    "latitude": 22.44831,
+    "longitude": 114.03199,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818222,
+    "name": "Yuen Long San Hui",
+    "latitude": 22.43333,
+    "longitude": 114.03333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6691570,
+    "name": "Yuen Shin Park",
+    "latitude": 22.45225,
+    "longitude": 114.17684,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12689068,
+    "name": "Yuet Wu",
+    "latitude": 22.37529,
+    "longitude": 113.96814,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1818211,
+    "name": "Yung Shue Wan",
+    "latitude": 22.22623,
+    "longitude": 114.11241,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  }
+]

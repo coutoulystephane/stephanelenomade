@@ -1,0 +1,5632 @@
+[
+  {
+    "geonameId": 380766,
+    "name": "Abū Jaww",
+    "latitude": 11.76667,
+    "longitude": 33.16667,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 380501,
+    "name": "Abū Shanab",
+    "latitude": 12.03333,
+    "longitude": 33.08333,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382324,
+    "name": "Achila",
+    "latitude": 4.06988,
+    "longitude": 32.22611,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8595489,
+    "name": "Achumu-Ukvar",
+    "latitude": 6.7236,
+    "longitude": 34.54022,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382550,
+    "name": "Adogoteshe",
+    "latitude": 4.51838,
+    "longitude": 32.11701,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 380037,
+    "name": "Aga Falls",
+    "latitude": 3.78415,
+    "longitude": 30.62992,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 379981,
+    "name": "Agolo",
+    "latitude": 3.87195,
+    "longitude": 32.81955,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 235450,
+    "name": "Agu",
+    "latitude": 3.76593,
+    "longitude": 32.7202,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8647165,
+    "name": "Ajago",
+    "latitude": 3.93965,
+    "longitude": 32.66395,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 379884,
+    "name": "Ajak Cheng Korok",
+    "latitude": 7.18846,
+    "longitude": 31.7266,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 379828,
+    "name": "Akid Island",
+    "latitude": 9.38626,
+    "longitude": 31.56096,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382678,
+    "name": "Akileng",
+    "latitude": 4.24617,
+    "longitude": 33.87311,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 379803,
+    "name": "Akoru",
+    "latitude": 3.84676,
+    "longitude": 33.49196,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 379770,
+    "name": "Akwero",
+    "latitude": 3.80092,
+    "longitude": 32.65835,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 379173,
+    "name": "Allo",
+    "latitude": 3.83093,
+    "longitude": 32.76442,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382667,
+    "name": "Aloka",
+    "latitude": 4.35872,
+    "longitude": 33.93172,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382316,
+    "name": "Alue",
+    "latitude": 4.2126,
+    "longitude": 32.32677,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382248,
+    "name": "Amalakpa",
+    "latitude": 4.70842,
+    "longitude": 29.37911,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382085,
+    "name": "Amer",
+    "latitude": 6.75161,
+    "longitude": 30.89114,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382664,
+    "name": "Apetotou",
+    "latitude": 4.44194,
+    "longitude": 33.90861,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382369,
+    "name": "Aripewi",
+    "latitude": 4.16628,
+    "longitude": 33.11273,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 381382,
+    "name": "Atelli",
+    "latitude": 4.66215,
+    "longitude": 33.28831,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382326,
+    "name": "Awajo",
+    "latitude": 4.04996,
+    "longitude": 32.14605,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 364367,
+    "name": "Aweil",
+    "latitude": 8.76194,
+    "longitude": 27.39194,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 378066,
+    "name": "Awong",
+    "latitude": 10.96053,
+    "longitude": 32.94843,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8310139,
+    "name": "Ayum",
+    "latitude": 3.97471,
+    "longitude": 32.12294,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 377945,
+    "name": "Badalayn",
+    "latitude": 12.05,
+    "longitude": 32.75,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 377916,
+    "name": "Bagategella",
+    "latitude": 4.45654,
+    "longitude": 32.26874,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8646223,
+    "name": "Baghori",
+    "latitude": 4.65044,
+    "longitude": 32.80308,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 381412,
+    "name": "Bala",
+    "latitude": 3.84611,
+    "longitude": 30.85333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8647018,
+    "name": "Bamboo",
+    "latitude": 3.77452,
+    "longitude": 32.7002,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382458,
+    "name": "Banj",
+    "latitude": 4.05454,
+    "longitude": 32.55045,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 377720,
+    "name": "Baraka",
+    "latitude": 4.41557,
+    "longitude": 31.04534,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 377497,
+    "name": "Bejunu",
+    "latitude": 6.0843,
+    "longitude": 34.52423,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 381381,
+    "name": "Beleu",
+    "latitude": 4.68304,
+    "longitude": 33.26978,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382456,
+    "name": "Belibeli",
+    "latitude": 4.00757,
+    "longitude": 32.62254,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 377472,
+    "name": "Bentiu",
+    "latitude": 9.25722,
+    "longitude": 29.79833,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 377471,
+    "name": "Bera",
+    "latitude": 3.82431,
+    "longitude": 32.81707,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382350,
+    "name": "Bertimani",
+    "latitude": 4.06766,
+    "longitude": 33.43004,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8067802,
+    "name": "Birkat Rao",
+    "latitude": 10.86834,
+    "longitude": 32.84252,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8058912,
+    "name": "Bolas Island",
+    "latitude": 8.66851,
+    "longitude": 28.95845,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 381384,
+    "name": "Bolongitat",
+    "latitude": 4.72849,
+    "longitude": 33.28387,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382271,
+    "name": "Bongoriok",
+    "latitude": 4.3447,
+    "longitude": 31.03812,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382255,
+    "name": "Bongwa",
+    "latitude": 4.45892,
+    "longitude": 31.15986,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 377241,
+    "name": "Bor",
+    "latitude": 6.20889,
+    "longitude": 31.55861,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 377203,
+    "name": "Brugo",
+    "latitude": 4.32081,
+    "longitude": 30.91833,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 377158,
+    "name": "Bulai Koije",
+    "latitude": 10.08357,
+    "longitude": 30.1693,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 377143,
+    "name": "Bulli Island",
+    "latitude": 12.2,
+    "longitude": 32.75,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382395,
+    "name": "Burung",
+    "latitude": 4.32193,
+    "longitude": 33.05571,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 377014,
+    "name": "Buthi",
+    "latitude": 4.25214,
+    "longitude": 33.52952,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382670,
+    "name": "Chairong",
+    "latitude": 4.35085,
+    "longitude": 33.68792,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8646291,
+    "name": "Chalamni",
+    "latitude": 4.51464,
+    "longitude": 32.88836,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 376968,
+    "name": "Chawa",
+    "latitude": 4.73906,
+    "longitude": 33.23648,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8647164,
+    "name": "Chinemara",
+    "latitude": 3.78903,
+    "longitude": 32.78406,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 376945,
+    "name": "Chito",
+    "latitude": 6.78333,
+    "longitude": 26.5,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 381380,
+    "name": "Chivon",
+    "latitude": 4.65264,
+    "longitude": 33.30747,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382671,
+    "name": "Chulokbileth",
+    "latitude": 4.3932,
+    "longitude": 33.66335,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8058996,
+    "name": "Daloweit Island",
+    "latitude": 8.4911,
+    "longitude": 29.29265,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 376343,
+    "name": "Dogora",
+    "latitude": 5.39303,
+    "longitude": 31.71457,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 376330,
+    "name": "Dokdok Agba",
+    "latitude": 11.95,
+    "longitude": 33.05,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382683,
+    "name": "Dole",
+    "latitude": 4.17402,
+    "longitude": 33.67952,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382693,
+    "name": "Dologha",
+    "latitude": 4.18376,
+    "longitude": 33.54203,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8374390,
+    "name": "Donyiro Central",
+    "latitude": 5.29035,
+    "longitude": 35.46039,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 376288,
+    "name": "Donyiro East",
+    "latitude": 5.33752,
+    "longitude": 35.54299,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 376287,
+    "name": "Donyiro West",
+    "latitude": 5.2566,
+    "longitude": 35.27356,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 376282,
+    "name": "Dora",
+    "latitude": 4.13178,
+    "longitude": 32.24448,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382223,
+    "name": "Dukalalu",
+    "latitude": 5.24576,
+    "longitude": 29.43946,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382215,
+    "name": "Dukanzow",
+    "latitude": 5.31148,
+    "longitude": 29.34853,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382224,
+    "name": "Dukuyanzi",
+    "latitude": 5.24464,
+    "longitude": 29.46014,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382655,
+    "name": "Dula",
+    "latitude": 4.44056,
+    "longitude": 33.60944,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382687,
+    "name": "Durok",
+    "latitude": 4.22457,
+    "longitude": 33.59698,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382176,
+    "name": "Duvvo",
+    "latitude": 5.59154,
+    "longitude": 30.3867,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382396,
+    "name": "Echuagi",
+    "latitude": 4.34705,
+    "longitude": 33.07132,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 380177,
+    "name": "Ed Dahal Island",
+    "latitude": 11.91667,
+    "longitude": 32.75,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382292,
+    "name": "Ediri",
+    "latitude": 4.40523,
+    "longitude": 32.05623,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382302,
+    "name": "Edo",
+    "latitude": 4.37058,
+    "longitude": 32.41121,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382293,
+    "name": "Edori",
+    "latitude": 4.4581,
+    "longitude": 32.12555,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 376009,
+    "name": "Efoiya",
+    "latitude": 3.96829,
+    "longitude": 32.62374,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382303,
+    "name": "Egwi",
+    "latitude": 4.36362,
+    "longitude": 32.08343,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8374385,
+    "name": "Emenyem",
+    "latitude": 5.20935,
+    "longitude": 34.48565,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 375823,
+    "name": "Emogadong",
+    "latitude": 4.19653,
+    "longitude": 33.12967,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8715908,
+    "name": "Erosha",
+    "latitude": 4.1878,
+    "longitude": 33.15789,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8646977,
+    "name": "Ewala",
+    "latitude": 3.97041,
+    "longitude": 32.76536,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 375602,
+    "name": "Fakwar",
+    "latitude": 4.00996,
+    "longitude": 32.24494,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 375594,
+    "name": "Falangari",
+    "latitude": 3.97525,
+    "longitude": 32.81288,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 381729,
+    "name": "Famyr",
+    "latitude": 8.59152,
+    "longitude": 30.84127,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382392,
+    "name": "Firiabit",
+    "latitude": 4.32276,
+    "longitude": 33.09735,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382319,
+    "name": "Fogha",
+    "latitude": 4.16867,
+    "longitude": 32.33364,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8646492,
+    "name": "Fomo",
+    "latitude": 3.9821,
+    "longitude": 32.96482,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 381896,
+    "name": "Fula Megok Malok",
+    "latitude": 7.21574,
+    "longitude": 29.70919,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8146202,
+    "name": "Fundi",
+    "latitude": 9.61646,
+    "longitude": 25.63391,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8595530,
+    "name": "Galant Rock",
+    "latitude": 6.25215,
+    "longitude": 34.47295,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382012,
+    "name": "Gama",
+    "latitude": 5.59161,
+    "longitude": 30.61434,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8372903,
+    "name": "Gamael Island",
+    "latitude": 11.09096,
+    "longitude": 32.65976,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382465,
+    "name": "Garia",
+    "latitude": 4.10557,
+    "longitude": 32.84746,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8167046,
+    "name": "Garuji",
+    "latitude": 3.80049,
+    "longitude": 30.85772,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 376238,
+    "name": "Gezirat ed Dibeiker",
+    "latitude": 10.92583,
+    "longitude": 32.53966,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382523,
+    "name": "Ghali",
+    "latitude": 5.54111,
+    "longitude": 31.86306,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382489,
+    "name": "Ghalia",
+    "latitude": 4.34905,
+    "longitude": 32.58374,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382444,
+    "name": "Ghoding",
+    "latitude": 4.42885,
+    "longitude": 32.91187,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382375,
+    "name": "Ghoru",
+    "latitude": 4.22823,
+    "longitude": 33.06556,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382397,
+    "name": "Ghugum",
+    "latitude": 4.37275,
+    "longitude": 33.06755,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382259,
+    "name": "Girualo",
+    "latitude": 4.45823,
+    "longitude": 31.07268,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 374739,
+    "name": "Gogrial",
+    "latitude": 8.53324,
+    "longitude": 28.10037,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 374711,
+    "name": "Gomia",
+    "latitude": 4.05424,
+    "longitude": 32.60444,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8173930,
+    "name": "Goralon",
+    "latitude": 3.96368,
+    "longitude": 32.11976,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382374,
+    "name": "Guma",
+    "latitude": 4.18232,
+    "longitude": 33.0188,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 374600,
+    "name": "Gumbiri",
+    "latitude": 4.30373,
+    "longitude": 30.96823,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 374566,
+    "name": "Gurbi",
+    "latitude": 6.18333,
+    "longitude": 34.66783,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 374560,
+    "name": "Gurgo",
+    "latitude": 6.21936,
+    "longitude": 34.67504,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382349,
+    "name": "Iak",
+    "latitude": 4.00426,
+    "longitude": 33.21464,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382304,
+    "name": "Ibeli",
+    "latitude": 4.35569,
+    "longitude": 32.46325,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 373633,
+    "name": "Ibrogang",
+    "latitude": 4.14134,
+    "longitude": 32.24151,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 373631,
+    "name": "Ichomo",
+    "latitude": 3.90547,
+    "longitude": 33.02243,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8646210,
+    "name": "Idali",
+    "latitude": 4.74962,
+    "longitude": 32.69855,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382339,
+    "name": "Idigo",
+    "latitude": 4.26891,
+    "longitude": 32.31725,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382442,
+    "name": "Idumeli",
+    "latitude": 4.44281,
+    "longitude": 32.91058,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382335,
+    "name": "Ifiria",
+    "latitude": 4.29514,
+    "longitude": 32.23255,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382385,
+    "name": "Igoria",
+    "latitude": 4.26239,
+    "longitude": 33.13111,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382314,
+    "name": "Ikaya",
+    "latitude": 4.24758,
+    "longitude": 32.37501,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382387,
+    "name": "Ikodi",
+    "latitude": 4.28258,
+    "longitude": 33.1554,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382309,
+    "name": "Ikolong",
+    "latitude": 4.22088,
+    "longitude": 32.4754,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 373567,
+    "name": "Ilang",
+    "latitude": 4.39379,
+    "longitude": 32.40328,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382306,
+    "name": "Ileri",
+    "latitude": 4.30233,
+    "longitude": 32.46444,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 373563,
+    "name": "Iliu",
+    "latitude": 4.51053,
+    "longitude": 32.97595,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382368,
+    "name": "Iloghok",
+    "latitude": 4.1458,
+    "longitude": 33.14483,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8646222,
+    "name": "Ilongi",
+    "latitude": 4.6272,
+    "longitude": 32.81641,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382715,
+    "name": "Iloro",
+    "latitude": 4.10597,
+    "longitude": 33.65822,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8647013,
+    "name": "Ilungi",
+    "latitude": 4.04208,
+    "longitude": 32.82987,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8646220,
+    "name": "Imadok",
+    "latitude": 4.62086,
+    "longitude": 32.76423,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8167216,
+    "name": "Imbo",
+    "latitude": 3.62076,
+    "longitude": 30.79912,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382488,
+    "name": "Imodongi",
+    "latitude": 4.34671,
+    "longitude": 32.64202,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382342,
+    "name": "Imurok",
+    "latitude": 4.30384,
+    "longitude": 32.39963,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382321,
+    "name": "Inanuga",
+    "latitude": 4.14322,
+    "longitude": 32.32786,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8646495,
+    "name": "Ingwok",
+    "latitude": 3.93827,
+    "longitude": 32.87263,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382307,
+    "name": "Ipo",
+    "latitude": 4.27299,
+    "longitude": 32.46809,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 373521,
+    "name": "Irabi",
+    "latitude": 3.77912,
+    "longitude": 33.51952,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382317,
+    "name": "Iro",
+    "latitude": 4.19006,
+    "longitude": 32.33484,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 373513,
+    "name": "Irum",
+    "latitude": 4.51084,
+    "longitude": 33.37743,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382390,
+    "name": "Isebow",
+    "latitude": 4.27488,
+    "longitude": 33.09414,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382478,
+    "name": "Isewianga",
+    "latitude": 4.16193,
+    "longitude": 32.76995,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382389,
+    "name": "Isiga",
+    "latitude": 4.27982,
+    "longitude": 33.10719,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382453,
+    "name": "Isubhak",
+    "latitude": 4.08855,
+    "longitude": 32.82764,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382370,
+    "name": "Isuluk",
+    "latitude": 4.14125,
+    "longitude": 33.06731,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8646221,
+    "name": "Itato",
+    "latitude": 4.59838,
+    "longitude": 32.76966,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 373486,
+    "name": "Itibol",
+    "latitude": 4.02387,
+    "longitude": 32.88438,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8701804,
+    "name": "Itiru",
+    "latitude": 3.84285,
+    "longitude": 33.47194,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382325,
+    "name": "Iweri",
+    "latitude": 4.02674,
+    "longitude": 32.15118,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8173902,
+    "name": "Jabal Abilamo",
+    "latitude": 3.97698,
+    "longitude": 30.34459,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 381065,
+    "name": "Jabal Aboij",
+    "latitude": 3.8431,
+    "longitude": 32.60406,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 380724,
+    "name": "Jabal Abu Kuchu",
+    "latitude": 9.58026,
+    "longitude": 25.39039,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8033714,
+    "name": "Jabal Afi",
+    "latitude": 4.72842,
+    "longitude": 29.48125,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 379958,
+    "name": "Jabal Aguma",
+    "latitude": 6.60427,
+    "longitude": 34.48371,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 378887,
+    "name": "Jabal Amberingu",
+    "latitude": 4.68793,
+    "longitude": 29.38894,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 378901,
+    "name": "Jabal Ambi",
+    "latitude": 3.97484,
+    "longitude": 30.29163,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 378890,
+    "name": "Jabal Ambofo",
+    "latitude": 8.76565,
+    "longitude": 24.34444,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 378888,
+    "name": "Jabal Ambuji",
+    "latitude": 3.96217,
+    "longitude": 30.3386,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 377914,
+    "name": "Jabal Bagbaiya",
+    "latitude": 8.61922,
+    "longitude": 24.56999,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 377870,
+    "name": "Jabal Bakawiru",
+    "latitude": 5.23402,
+    "longitude": 29.10062,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 377348,
+    "name": "Jabal Biring",
+    "latitude": 5.86187,
+    "longitude": 34.83598,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 376790,
+    "name": "Jabal Dana",
+    "latitude": 8.85357,
+    "longitude": 24.31641,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 376446,
+    "name": "Jabal Dim",
+    "latitude": 6.54801,
+    "longitude": 34.4805,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 375608,
+    "name": "Jabal Fakongo",
+    "latitude": 3.98488,
+    "longitude": 32.34158,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 374996,
+    "name": "Jabal Gellikop",
+    "latitude": 9,
+    "longitude": 34.1,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 374928,
+    "name": "Jabal Ghabaiya",
+    "latitude": 4.29758,
+    "longitude": 32.69678,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 374857,
+    "name": "Jabal Ghucherr",
+    "latitude": 6.34091,
+    "longitude": 34.07303,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 374783,
+    "name": "Jabal Giri",
+    "latitude": 4.01827,
+    "longitude": 31.51412,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 374545,
+    "name": "Jabal Guruku",
+    "latitude": 8.93576,
+    "longitude": 24.41361,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 373577,
+    "name": "Jabal Iguda",
+    "latitude": 4.73671,
+    "longitude": 32.32585,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 373532,
+    "name": "Jabal Inid",
+    "latitude": 6.47864,
+    "longitude": 34.09033,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382553,
+    "name": "Jabal Kajabo",
+    "latitude": 4.65307,
+    "longitude": 32.02291,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 373032,
+    "name": "Jabal Kalālah",
+    "latitude": 8.85,
+    "longitude": 23.71667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 372874,
+    "name": "Jabal Karach",
+    "latitude": 4.91667,
+    "longitude": 35.08333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 372860,
+    "name": "Jabal Karakoda",
+    "latitude": 3.90019,
+    "longitude": 30.90391,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 372730,
+    "name": "Jabal Kathangor",
+    "latitude": 5.75408,
+    "longitude": 33.98323,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 372671,
+    "name": "Jabal Kedong",
+    "latitude": 4.03802,
+    "longitude": 32.62831,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8173903,
+    "name": "Jabal Kiakasuk",
+    "latitude": 3.92332,
+    "longitude": 30.3594,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 372021,
+    "name": "Jabal Kudupi",
+    "latitude": 3.60077,
+    "longitude": 30.86345,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371990,
+    "name": "Jabal Kula",
+    "latitude": 4.83219,
+    "longitude": 32.30833,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371825,
+    "name": "Jabal Kurmu North",
+    "latitude": 5.60124,
+    "longitude": 34.71934,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371824,
+    "name": "Jabal Kurmu South",
+    "latitude": 5.54086,
+    "longitude": 34.80003,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8169073,
+    "name": "Jabal Kusuba",
+    "latitude": 3.62051,
+    "longitude": 30.91857,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371629,
+    "name": "Jabal Lado",
+    "latitude": 5.09785,
+    "longitude": 31.58221,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371615,
+    "name": "Jabal Lagura",
+    "latitude": 4.13109,
+    "longitude": 31.08905,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8033644,
+    "name": "Jabal Landa Kulu",
+    "latitude": 4.92615,
+    "longitude": 29.47203,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382552,
+    "name": "Jabal Lingeri",
+    "latitude": 4.55982,
+    "longitude": 32.07348,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8033712,
+    "name": "Jabal Longlongwa",
+    "latitude": 4.73635,
+    "longitude": 29.46877,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371129,
+    "name": "Jabal Lowe",
+    "latitude": 4.5,
+    "longitude": 32.13333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371092,
+    "name": "Jabal Lufogo",
+    "latitude": 3.84129,
+    "longitude": 30.69778,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371078,
+    "name": "Jabal Lujulu",
+    "latitude": 3.68107,
+    "longitude": 30.65716,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8033842,
+    "name": "Jabal Madi Buku",
+    "latitude": 4.58969,
+    "longitude": 29.21662,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 370893,
+    "name": "Jabal Magurra",
+    "latitude": 4.42487,
+    "longitude": 30.55863,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 370850,
+    "name": "Jabal Maia",
+    "latitude": 3.88595,
+    "longitude": 31.26655,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 370617,
+    "name": "Jabal Manda",
+    "latitude": 8.6574,
+    "longitude": 24.44515,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 370080,
+    "name": "Jabal Migi",
+    "latitude": 8.86156,
+    "longitude": 24.29949,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 369937,
+    "name": "Jabal Mogira",
+    "latitude": 4.83368,
+    "longitude": 29.35011,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 369912,
+    "name": "Jabal Moiyungo",
+    "latitude": 8.67024,
+    "longitude": 24.62848,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8033643,
+    "name": "Jabal Mokki",
+    "latitude": 4.92112,
+    "longitude": 29.48121,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382240,
+    "name": "Jabal Mudu",
+    "latitude": 4.85832,
+    "longitude": 29.32231,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 381427,
+    "name": "Jabal Mugwa",
+    "latitude": 3.92312,
+    "longitude": 30.72899,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382554,
+    "name": "Jabal Ogoro",
+    "latitude": 4.63046,
+    "longitude": 32.0524,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8033711,
+    "name": "Jabal Olidua",
+    "latitude": 4.61397,
+    "longitude": 29.20428,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 368690,
+    "name": "Jabal Otogo",
+    "latitude": 3.95899,
+    "longitude": 30.58306,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 368570,
+    "name": "Jabal Pauki",
+    "latitude": 4.61463,
+    "longitude": 32.13665,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382290,
+    "name": "Jabal Rebur",
+    "latitude": 4.0948,
+    "longitude": 31.46216,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 368102,
+    "name": "Jabal Remo",
+    "latitude": 3.85391,
+    "longitude": 32.02795,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 365975,
+    "name": "Jabal Tindalo",
+    "latitude": 5.66383,
+    "longitude": 31.08092,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 377511,
+    "name": "Jabal Tombak",
+    "latitude": 10.1557,
+    "longitude": 33.92511,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 365613,
+    "name": "Jabal Tumrogo",
+    "latitude": 8.78691,
+    "longitude": 24.37989,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382243,
+    "name": "Jabal Zario",
+    "latitude": 4.75528,
+    "longitude": 29.30211,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8033778,
+    "name": "Jabal Zingad",
+    "latitude": 4.4621,
+    "longitude": 28.93955,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382195,
+    "name": "Jabel Asiche",
+    "latitude": 5.15675,
+    "longitude": 29.53646,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382209,
+    "name": "Jabel Biamanzinzo",
+    "latitude": 5.38898,
+    "longitude": 29.26018,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382197,
+    "name": "Jabel Damkada",
+    "latitude": 5.33097,
+    "longitude": 29.77974,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 376379,
+    "name": "Jabel Diru",
+    "latitude": 5.83697,
+    "longitude": 30.38231,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 376000,
+    "name": "Jabel Egwa",
+    "latitude": 5.2774,
+    "longitude": 29.80871,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382196,
+    "name": "Jabel Erri",
+    "latitude": 5.30497,
+    "longitude": 29.78598,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382170,
+    "name": "Jabel Jeri",
+    "latitude": 5.74429,
+    "longitude": 30.32068,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 372744,
+    "name": "Jabel Katai",
+    "latitude": 5.35071,
+    "longitude": 29.78672,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371944,
+    "name": "Jabel Kuloi",
+    "latitude": 5.84868,
+    "longitude": 30.29758,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371933,
+    "name": "Jabel Kulubu",
+    "latitude": 5.35543,
+    "longitude": 29.93462,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371578,
+    "name": "Jabel Landamundu",
+    "latitude": 5.28396,
+    "longitude": 29.38883,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382222,
+    "name": "Jabel Landayakuba",
+    "latitude": 5.24034,
+    "longitude": 29.36284,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 369303,
+    "name": "Jabel Ndazu",
+    "latitude": 5.17354,
+    "longitude": 29.47827,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382015,
+    "name": "Jabel Ndilo",
+    "latitude": 5.5028,
+    "longitude": 30.60538,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382218,
+    "name": "Jabel Ndingo",
+    "latitude": 5.21895,
+    "longitude": 29.27453,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7432460,
+    "name": "Jabel Panh Yany",
+    "latitude": 6.1615,
+    "longitude": 31.31326,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382188,
+    "name": "Jabel Riku",
+    "latitude": 5.4824,
+    "longitude": 29.97212,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382193,
+    "name": "Jabel Rovo",
+    "latitude": 5.22075,
+    "longitude": 29.51634,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382194,
+    "name": "Jabel Rovotoko",
+    "latitude": 5.18602,
+    "longitude": 29.49736,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382189,
+    "name": "Jabel Sarlako",
+    "latitude": 5.34998,
+    "longitude": 29.80412,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 365696,
+    "name": "Jabel Tubé",
+    "latitude": 5.59301,
+    "longitude": 29.83473,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 363855,
+    "name": "Jabel Wemmi",
+    "latitude": 5.24747,
+    "longitude": 29.83369,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 379881,
+    "name": "Jebel Ajarbacha",
+    "latitude": 8.91667,
+    "longitude": 23.6,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 378753,
+    "name": "Jebel Angwawa",
+    "latitude": 8.98333,
+    "longitude": 23.71667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 377121,
+    "name": "Jebel Bunkuku",
+    "latitude": 9.13968,
+    "longitude": 23.61634,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 377020,
+    "name": "Jebel Busu",
+    "latitude": 8.98333,
+    "longitude": 23.61667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7465384,
+    "name": "Jebel Gudamara",
+    "latitude": 9.5761,
+    "longitude": 23.71698,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371301,
+    "name": "Jebel Logotiafan",
+    "latitude": 4.58752,
+    "longitude": 33.53476,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 370999,
+    "name": "Jebel Maba",
+    "latitude": 9.36246,
+    "longitude": 23.66337,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 370140,
+    "name": "Jebel Merijen",
+    "latitude": 8.95,
+    "longitude": 23.66667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 369184,
+    "name": "Jebel Nibi",
+    "latitude": 8.9,
+    "longitude": 23.8,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 368245,
+    "name": "Jebel Raga",
+    "latitude": 9.59923,
+    "longitude": 23.72588,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7465383,
+    "name": "Jebel Raja",
+    "latitude": 9.61627,
+    "longitude": 23.75661,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 373305,
+    "name": "Jual",
+    "latitude": 8.83762,
+    "longitude": 31.02904,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 373303,
+    "name": "Juba",
+    "latitude": 4.85165,
+    "longitude": 31.58247,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382409,
+    "name": "Juri",
+    "latitude": 4.38416,
+    "longitude": 33.40324,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8047720,
+    "name": "Kabada",
+    "latitude": 4.44141,
+    "longitude": 31.18252,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8374373,
+    "name": "Kachawthin Pass",
+    "latitude": 5.27777,
+    "longitude": 35.38666,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 373175,
+    "name": "Kachekakinei",
+    "latitude": 4.95,
+    "longitude": 35.38333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 373161,
+    "name": "Kadegoin",
+    "latitude": 4.27455,
+    "longitude": 33.51317,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382310,
+    "name": "Kafai",
+    "latitude": 4.15913,
+    "longitude": 32.48333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 373130,
+    "name": "Kafia Kingi",
+    "latitude": 9.27345,
+    "longitude": 24.41701,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 373118,
+    "name": "Kagethi",
+    "latitude": 5.28339,
+    "longitude": 35.22122,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8167040,
+    "name": "Kagiba",
+    "latitude": 3.85254,
+    "longitude": 30.90638,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 373072,
+    "name": "Kaitherin",
+    "latitude": 4.78333,
+    "longitude": 35.26667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382461,
+    "name": "Kakeiri",
+    "latitude": 4.10676,
+    "longitude": 32.59596,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8374384,
+    "name": "Kalego",
+    "latitude": 5.76257,
+    "longitude": 34.48171,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 373015,
+    "name": "Kaligum",
+    "latitude": 6.44271,
+    "longitude": 34.49324,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 381326,
+    "name": "Kalio",
+    "latitude": 4.51676,
+    "longitude": 31.93684,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 372996,
+    "name": "Kaloko",
+    "latitude": 4.37738,
+    "longitude": 31.08474,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 372988,
+    "name": "Kalowath",
+    "latitude": 5.49185,
+    "longitude": 34.95311,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382477,
+    "name": "Kamia",
+    "latitude": 4.14151,
+    "longitude": 32.763,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 372934,
+    "name": "Kamuri",
+    "latitude": 4.39822,
+    "longitude": 31.23687,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382665,
+    "name": "Kapedo",
+    "latitude": 4.35695,
+    "longitude": 33.97041,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 372884,
+    "name": "Kapoeta",
+    "latitude": 4.77222,
+    "longitude": 33.59139,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 372843,
+    "name": "Karawuli",
+    "latitude": 4.72098,
+    "longitude": 33.27458,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8167055,
+    "name": "Karigo",
+    "latitude": 3.75392,
+    "longitude": 30.80466,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8374383,
+    "name": "Kartabok",
+    "latitude": 5.80193,
+    "longitude": 34.48876,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382663,
+    "name": "Kauwi",
+    "latitude": 4.38753,
+    "longitude": 33.92532,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382484,
+    "name": "Kedurik",
+    "latitude": 4.23032,
+    "longitude": 32.71319,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 372648,
+    "name": "Keiro",
+    "latitude": 4.29929,
+    "longitude": 30.85675,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 372623,
+    "name": "Kemiru",
+    "latitude": 4.31589,
+    "longitude": 30.89792,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382457,
+    "name": "Kerifi",
+    "latitude": 4.02138,
+    "longitude": 32.57846,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8167039,
+    "name": "Keripagi",
+    "latitude": 3.85977,
+    "longitude": 30.88882,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382443,
+    "name": "Khamugi",
+    "latitude": 4.42992,
+    "longitude": 32.89852,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 381379,
+    "name": "Kidali",
+    "latitude": 4.61378,
+    "longitude": 33.28414,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382348,
+    "name": "Kilay",
+    "latitude": 4.07705,
+    "longitude": 33.24556,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382486,
+    "name": "Kiliu",
+    "latitude": 4.26712,
+    "longitude": 32.63258,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 372399,
+    "name": "Kiluri",
+    "latitude": 4.6168,
+    "longitude": 33.32075,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382296,
+    "name": "Kilyu",
+    "latitude": 4.49739,
+    "longitude": 32.26038,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 372379,
+    "name": "Kinyeti",
+    "latitude": 3.94638,
+    "longitude": 32.91049,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 381375,
+    "name": "Kirungu",
+    "latitude": 4.53232,
+    "longitude": 33.37211,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 372352,
+    "name": "Kishika",
+    "latitude": 4.34784,
+    "longitude": 32.25703,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 372348,
+    "name": "Kisina",
+    "latitude": 3.90936,
+    "longitude": 32.901,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382423,
+    "name": "Kitimo",
+    "latitude": 4.24747,
+    "longitude": 33.40082,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 372340,
+    "name": "Kitinga",
+    "latitude": 4.32641,
+    "longitude": 32.60224,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382487,
+    "name": "Kiyeili",
+    "latitude": 4.31986,
+    "longitude": 32.67207,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 372308,
+    "name": "Kochol",
+    "latitude": 4.40397,
+    "longitude": 33.52406,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 372306,
+    "name": "Kodagoda",
+    "latitude": 4.41943,
+    "longitude": 32.06077,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8374374,
+    "name": "Kodirin Pass",
+    "latitude": 5.28261,
+    "longitude": 35.40135,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 372299,
+    "name": "Kodok",
+    "latitude": 9.88889,
+    "longitude": 32.10944,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382680,
+    "name": "Komoria",
+    "latitude": 4.22004,
+    "longitude": 33.66121,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 372196,
+    "name": "Kong’omo",
+    "latitude": 4.91667,
+    "longitude": 35.46667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382451,
+    "name": "Konoro",
+    "latitude": 4.05134,
+    "longitude": 32.90028,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382684,
+    "name": "Korao",
+    "latitude": 4.17912,
+    "longitude": 33.61191,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 372133,
+    "name": "Korobi",
+    "latitude": 3.96146,
+    "longitude": 30.87043,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382686,
+    "name": "Koroma",
+    "latitude": 4.23625,
+    "longitude": 33.60122,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382084,
+    "name": "Koryom",
+    "latitude": 6.69481,
+    "longitude": 30.51846,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 372102,
+    "name": "Kosodek",
+    "latitude": 4.32148,
+    "longitude": 33.3404,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 372087,
+    "name": "Kothokan",
+    "latitude": 5.23614,
+    "longitude": 35.47849,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382714,
+    "name": "Kotili",
+    "latitude": 4.13385,
+    "longitude": 33.76713,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382482,
+    "name": "Kotokeinyang",
+    "latitude": 4.21846,
+    "longitude": 32.79536,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371712,
+    "name": "Kuacjok",
+    "latitude": 8.30278,
+    "longitude": 27.98,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 381409,
+    "name": "Kuduri",
+    "latitude": 3.78737,
+    "longitude": 30.89216,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382254,
+    "name": "Kukudu",
+    "latitude": 4.51134,
+    "longitude": 31.14449,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382297,
+    "name": "Kulomi",
+    "latitude": 4.42832,
+    "longitude": 32.21426,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371923,
+    "name": "Kuluru",
+    "latitude": 4.22243,
+    "longitude": 33.43445,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 381422,
+    "name": "Kuriju",
+    "latitude": 3.94401,
+    "longitude": 30.84136,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371645,
+    "name": "Labalwa",
+    "latitude": 4.44501,
+    "longitude": 32.63539,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382386,
+    "name": "Labok",
+    "latitude": 4.26825,
+    "longitude": 33.14963,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 380500,
+    "name": "Lake Abu Shanab",
+    "latitude": 8.6483,
+    "longitude": 29.31326,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 378909,
+    "name": "Lake Ambadi",
+    "latitude": 8.71482,
+    "longitude": 29.3203,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 378668,
+    "name": "Lake Anyi",
+    "latitude": 6.42291,
+    "longitude": 30.57649,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 378555,
+    "name": "Lake Areng",
+    "latitude": 8.80342,
+    "longitude": 28.55847,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7428469,
+    "name": "Lake Arirk",
+    "latitude": 9.14452,
+    "longitude": 28.01041,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7428412,
+    "name": "Lake Awshier",
+    "latitude": 9.18327,
+    "longitude": 27.03387,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 377982,
+    "name": "Lake Ba",
+    "latitude": 8.95705,
+    "longitude": 28.58629,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7428411,
+    "name": "Lake Bar",
+    "latitude": 9.18104,
+    "longitude": 28.11513,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8038766,
+    "name": "Lake Bayer",
+    "latitude": 5.3465,
+    "longitude": 31.73272,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8038772,
+    "name": "Lake Bojo Kolik",
+    "latitude": 5.52208,
+    "longitude": 31.72839,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382515,
+    "name": "Lake Dijeir",
+    "latitude": 5.96503,
+    "longitude": 31.56713,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 376300,
+    "name": "Lake Dong",
+    "latitude": 6.19313,
+    "longitude": 31.30418,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 375647,
+    "name": "Lake Fajarial",
+    "latitude": 6.3488,
+    "longitude": 31.43185,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 374509,
+    "name": "Lake Gwer",
+    "latitude": 8.77035,
+    "longitude": 28.51098,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8038767,
+    "name": "Lake Jalarei",
+    "latitude": 5.28441,
+    "longitude": 31.75516,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 372599,
+    "name": "Lake Kerik",
+    "latitude": 8.95,
+    "longitude": 28.1,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 372583,
+    "name": "Lake Kerrita",
+    "latitude": 9.45,
+    "longitude": 28.8,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382018,
+    "name": "Lake Liainy",
+    "latitude": 7.35332,
+    "longitude": 30.52824,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371291,
+    "name": "Lake Loing",
+    "latitude": 8.81667,
+    "longitude": 28.6,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 381997,
+    "name": "Lake Maithin",
+    "latitude": 6.32389,
+    "longitude": 31.3782,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 370714,
+    "name": "Lake Maleit",
+    "latitude": 7.91667,
+    "longitude": 28.58333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 369130,
+    "name": "Lake No",
+    "latitude": 9.49219,
+    "longitude": 30.45385,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 369074,
+    "name": "Lake Nuong",
+    "latitude": 7.43333,
+    "longitude": 30.56667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382001,
+    "name": "Lake Nyidhuor",
+    "latitude": 6.48738,
+    "longitude": 31.35746,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 368913,
+    "name": "Lake Nyiropo",
+    "latitude": 6.13409,
+    "longitude": 30.19349,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 368900,
+    "name": "Lake Nyubor",
+    "latitude": 6.87731,
+    "longitude": 30.24951,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 381996,
+    "name": "Lake Panhyany",
+    "latitude": 6.18154,
+    "longitude": 31.30531,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382000,
+    "name": "Lake Papiu",
+    "latitude": 6.49417,
+    "longitude": 31.35111,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 368568,
+    "name": "Lake Pawar Jak",
+    "latitude": 8.98333,
+    "longitude": 29.35,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 363646,
+    "name": "Lake Yangyom",
+    "latitude": 9.04022,
+    "longitude": 27.93269,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 363593,
+    "name": "Lake Yirol",
+    "latitude": 6.57016,
+    "longitude": 30.49418,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8646491,
+    "name": "Lakiding",
+    "latitude": 3.98497,
+    "longitude": 32.7843,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8646224,
+    "name": "Lalanga",
+    "latitude": 4.55179,
+    "longitude": 32.89519,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382709,
+    "name": "Lalutin",
+    "latitude": 4.14156,
+    "longitude": 33.63405,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382377,
+    "name": "Langur",
+    "latitude": 4.21943,
+    "longitude": 33.00612,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371521,
+    "name": "Latafor",
+    "latitude": 3.92607,
+    "longitude": 32.9464,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8701620,
+    "name": "Latomme",
+    "latitude": 4.00183,
+    "longitude": 33.44228,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8647010,
+    "name": "Lauorot",
+    "latitude": 3.95857,
+    "longitude": 32.82484,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382411,
+    "name": "Lebeli",
+    "latitude": 4.35084,
+    "longitude": 33.34127,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371466,
+    "name": "Leer",
+    "latitude": 8.30306,
+    "longitude": 30.14056,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382418,
+    "name": "Legading",
+    "latitude": 4.27589,
+    "longitude": 33.36532,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382360,
+    "name": "Letir",
+    "latitude": 4.14374,
+    "longitude": 33.22481,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382334,
+    "name": "Lifa",
+    "latitude": 4.28003,
+    "longitude": 32.19295,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382398,
+    "name": "Loalilo",
+    "latitude": 4.44976,
+    "longitude": 33.02302,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382481,
+    "name": "Lobeke",
+    "latitude": 4.19203,
+    "longitude": 32.7538,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8647014,
+    "name": "Loberika",
+    "latitude": 3.94132,
+    "longitude": 32.76027,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371350,
+    "name": "Lobira",
+    "latitude": 4.4127,
+    "longitude": 33.0535,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371346,
+    "name": "Lobo",
+    "latitude": 4.14937,
+    "longitude": 32.73142,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382459,
+    "name": "Lobolla",
+    "latitude": 4.09711,
+    "longitude": 32.52659,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382305,
+    "name": "Lobono",
+    "latitude": 4.32394,
+    "longitude": 32.48635,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382656,
+    "name": "Loboret",
+    "latitude": 4.39698,
+    "longitude": 33.48544,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371342,
+    "name": "Lobuli",
+    "latitude": 4.39495,
+    "longitude": 33.43982,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382270,
+    "name": "Lobwek",
+    "latitude": 4.3767,
+    "longitude": 31.01802,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 381348,
+    "name": "Lochekka",
+    "latitude": 4.57188,
+    "longitude": 33.79663,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8646227,
+    "name": "Lodil",
+    "latitude": 4.62282,
+    "longitude": 32.84776,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371327,
+    "name": "Lodio",
+    "latitude": 4.59969,
+    "longitude": 32.86577,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382710,
+    "name": "Loeka",
+    "latitude": 4.16111,
+    "longitude": 33.61955,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382446,
+    "name": "Lof",
+    "latitude": 4.23954,
+    "longitude": 32.98674,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382315,
+    "name": "Loghobok",
+    "latitude": 4.20956,
+    "longitude": 32.36895,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371319,
+    "name": "Loghoding",
+    "latitude": 4.36075,
+    "longitude": 33.49864,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382308,
+    "name": "Loghonyik",
+    "latitude": 4.25069,
+    "longitude": 32.49205,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382340,
+    "name": "Loghopi",
+    "latitude": 4.30468,
+    "longitude": 32.36166,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382384,
+    "name": "Loghoro",
+    "latitude": 4.24959,
+    "longitude": 33.16989,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382426,
+    "name": "Logidomok",
+    "latitude": 4.22564,
+    "longitude": 33.31007,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382379,
+    "name": "Logira",
+    "latitude": 4.27824,
+    "longitude": 33.06347,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382312,
+    "name": "Lognori",
+    "latitude": 4.23009,
+    "longitude": 32.40242,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371312,
+    "name": "Logoda",
+    "latitude": 5.92334,
+    "longitude": 34.82644,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8167049,
+    "name": "Logodo",
+    "latitude": 3.78854,
+    "longitude": 30.83264,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371309,
+    "name": "Logofero",
+    "latitude": 3.88019,
+    "longitude": 32.88515,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371307,
+    "name": "Logogwa",
+    "latitude": 3.97688,
+    "longitude": 32.93224,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382485,
+    "name": "Logok",
+    "latitude": 4.23745,
+    "longitude": 32.74825,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8700094,
+    "name": "Logotuli",
+    "latitude": 3.9226,
+    "longitude": 33.04623,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 381411,
+    "name": "Loguduba",
+    "latitude": 3.83709,
+    "longitude": 30.87377,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382681,
+    "name": "Lohajok",
+    "latitude": 4.19656,
+    "longitude": 33.67662,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382694,
+    "name": "Loiolo",
+    "latitude": 4.17085,
+    "longitude": 33.57674,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382696,
+    "name": "Loiria",
+    "latitude": 4.14806,
+    "longitude": 33.5169,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382695,
+    "name": "Loiro",
+    "latitude": 4.15919,
+    "longitude": 33.57787,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382564,
+    "name": "Loka Forest Reserve",
+    "latitude": 4.2726,
+    "longitude": 30.93247,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 381383,
+    "name": "Loki",
+    "latitude": 4.68624,
+    "longitude": 33.30115,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371269,
+    "name": "Lokilokaka",
+    "latitude": 3.796,
+    "longitude": 33.48647,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371268,
+    "name": "Lokiri",
+    "latitude": 4.23881,
+    "longitude": 32.33782,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371267,
+    "name": "Lokirik",
+    "latitude": 4.18466,
+    "longitude": 32.47687,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8646983,
+    "name": "Lokofari",
+    "latitude": 3.95296,
+    "longitude": 32.77628,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8646494,
+    "name": "Lokogwo",
+    "latitude": 3.96514,
+    "longitude": 32.90245,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371262,
+    "name": "Lokolingero",
+    "latitude": 4.35103,
+    "longitude": 33.56528,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8701619,
+    "name": "Lokomme",
+    "latitude": 3.88489,
+    "longitude": 33.40932,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371259,
+    "name": "Lokongori",
+    "latitude": 3.90598,
+    "longitude": 33.0646,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382275,
+    "name": "Lokuruba",
+    "latitude": 4.31346,
+    "longitude": 31.0523,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382660,
+    "name": "Lokwamur",
+    "latitude": 4.45371,
+    "longitude": 33.70651,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382470,
+    "name": "Lokyelaro",
+    "latitude": 4.20039,
+    "longitude": 32.82603,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382364,
+    "name": "Lolimo",
+    "latitude": 4.16303,
+    "longitude": 33.21478,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382354,
+    "name": "Lolinga",
+    "latitude": 4.11243,
+    "longitude": 33.15173,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382429,
+    "name": "Lomeyo",
+    "latitude": 4.1759,
+    "longitude": 33.38633,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382337,
+    "name": "Lomilong",
+    "latitude": 4.319,
+    "longitude": 32.29084,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382471,
+    "name": "Lomode",
+    "latitude": 4.19051,
+    "longitude": 32.82762,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382460,
+    "name": "Lomolong",
+    "latitude": 4.11796,
+    "longitude": 32.52902,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382662,
+    "name": "Lomulimoru",
+    "latitude": 4.4172,
+    "longitude": 33.73514,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371207,
+    "name": "Lomwaga",
+    "latitude": 3.8156,
+    "longitude": 32.90116,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8646252,
+    "name": "Longonal",
+    "latitude": 3.80461,
+    "longitude": 32.84777,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382410,
+    "name": "Lonyan",
+    "latitude": 4.37476,
+    "longitude": 33.31006,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230022,
+    "name": "Lonyili",
+    "latitude": 3.74998,
+    "longitude": 33.51277,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382549,
+    "name": "Loodlens",
+    "latitude": 4.508,
+    "longitude": 32.25127,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371181,
+    "name": "Lopeiratilo",
+    "latitude": 4.27109,
+    "longitude": 32.71676,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382361,
+    "name": "Loperi",
+    "latitude": 4.12676,
+    "longitude": 33.20903,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371179,
+    "name": "Lopi",
+    "latitude": 4.35696,
+    "longitude": 31.284,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371174,
+    "name": "Lopoghoni",
+    "latitude": 4.20788,
+    "longitude": 32.61122,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382668,
+    "name": "Lopothir",
+    "latitude": 4.38001,
+    "longitude": 33.7204,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371165,
+    "name": "Lorienetom",
+    "latitude": 4.81667,
+    "longitude": 35.48333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382469,
+    "name": "Lorkumo",
+    "latitude": 4.14394,
+    "longitude": 32.84764,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371162,
+    "name": "Loro",
+    "latitude": 4.20686,
+    "longitude": 33.47928,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382679,
+    "name": "Lorola",
+    "latitude": 4.22142,
+    "longitude": 33.87396,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8647016,
+    "name": "Loromo",
+    "latitude": 3.89578,
+    "longitude": 32.88775,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371149,
+    "name": "Losili",
+    "latitude": 4.40857,
+    "longitude": 32.70492,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382301,
+    "name": "Loswara",
+    "latitude": 4.40348,
+    "longitude": 32.44896,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382415,
+    "name": "Lothegr",
+    "latitude": 4.29983,
+    "longitude": 33.42936,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382427,
+    "name": "Lothimidik",
+    "latitude": 4.19946,
+    "longitude": 33.4514,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382712,
+    "name": "Lotiathi",
+    "latitude": 4.14907,
+    "longitude": 33.71128,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371138,
+    "name": "Lotolu",
+    "latitude": 4.1804,
+    "longitude": 32.59566,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371135,
+    "name": "Lotuke",
+    "latitude": 4.12659,
+    "longitude": 33.80007,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8700093,
+    "name": "Lotum",
+    "latitude": 3.96238,
+    "longitude": 33.02293,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382391,
+    "name": "Lotyogo",
+    "latitude": 4.30321,
+    "longitude": 33.10431,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371130,
+    "name": "Lourum",
+    "latitude": 4.68333,
+    "longitude": 35.5,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382454,
+    "name": "Lowele",
+    "latitude": 4.06066,
+    "longitude": 32.79291,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382480,
+    "name": "Lowilok",
+    "latitude": 4.18343,
+    "longitude": 32.78843,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8646253,
+    "name": "Loyoro",
+    "latitude": 3.98663,
+    "longitude": 32.59704,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382565,
+    "name": "Luga",
+    "latitude": 4.2721,
+    "longitude": 30.89804,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382445,
+    "name": "Lugerren",
+    "latitude": 4.39447,
+    "longitude": 32.90713,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371065,
+    "name": "Lukwatuk Pass",
+    "latitude": 5.31989,
+    "longitude": 35.30904,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371060,
+    "name": "Luli",
+    "latitude": 4.66006,
+    "longitude": 30.89242,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 370977,
+    "name": "Madaghabi",
+    "latitude": 4.11135,
+    "longitude": 32.24723,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382320,
+    "name": "Magwe",
+    "latitude": 4.15751,
+    "longitude": 32.30662,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 370737,
+    "name": "Malakal",
+    "latitude": 9.53342,
+    "longitude": 31.66049,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 370733,
+    "name": "Malakwa",
+    "latitude": 4.64496,
+    "longitude": 31.13442,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382685,
+    "name": "Malala",
+    "latitude": 4.24764,
+    "longitude": 33.61108,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 370719,
+    "name": "Maldo Pass",
+    "latitude": 5.33333,
+    "longitude": 34.85,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382358,
+    "name": "Marakong",
+    "latitude": 4.116,
+    "longitude": 33.24582,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 370457,
+    "name": "Maridi",
+    "latitude": 4.91667,
+    "longitude": 29.46944,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382417,
+    "name": "Mathegi",
+    "latitude": 4.28375,
+    "longitude": 33.31255,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 370104,
+    "name": "Meyun",
+    "latitude": 6.25207,
+    "longitude": 34.67236,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382351,
+    "name": "Minigini",
+    "latitude": 4.08778,
+    "longitude": 33.44924,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382298,
+    "name": "Miriaji",
+    "latitude": 4.40073,
+    "longitude": 32.29457,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382462,
+    "name": "Mobo",
+    "latitude": 4.14604,
+    "longitude": 32.64346,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 369955,
+    "name": "Modole",
+    "latitude": 3.89095,
+    "longitude": 33.02726,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382407,
+    "name": "Moimoi",
+    "latitude": 4.03571,
+    "longitude": 33.20571,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8167041,
+    "name": "Mongoia",
+    "latitude": 3.81939,
+    "longitude": 30.90635,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382244,
+    "name": "Mont Yango",
+    "latitude": 4.72414,
+    "longitude": 29.22065,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 369872,
+    "name": "Morkorro",
+    "latitude": 5.11775,
+    "longitude": 34.61468,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382661,
+    "name": "Morongole",
+    "latitude": 4.42946,
+    "longitude": 33.71186,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 369862,
+    "name": "Moru Abab",
+    "latitude": 4.93333,
+    "longitude": 35.36667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382419,
+    "name": "Moru Eta",
+    "latitude": 4.26654,
+    "longitude": 33.48758,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382672,
+    "name": "Moru Kerith",
+    "latitude": 4.36708,
+    "longitude": 33.66527,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382677,
+    "name": "Moru Kwaris",
+    "latitude": 4.26058,
+    "longitude": 33.72014,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382676,
+    "name": "Moru Puth",
+    "latitude": 4.30829,
+    "longitude": 33.74353,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 371370,
+    "name": "Mount Liria",
+    "latitude": 4.65763,
+    "longitude": 32.06024,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 366155,
+    "name": "Mount Tereteinia",
+    "latitude": 3.82301,
+    "longitude": 33.19779,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8033713,
+    "name": "Mungwa",
+    "latitude": 4.69755,
+    "longitude": 29.3897,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8646211,
+    "name": "Mura",
+    "latitude": 4.77704,
+    "longitude": 32.71292,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382441,
+    "name": "Muraloli",
+    "latitude": 4.45345,
+    "longitude": 32.88722,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8701802,
+    "name": "Muruguren",
+    "latitude": 3.86809,
+    "longitude": 33.42474,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382352,
+    "name": "Murukimwa",
+    "latitude": 4.06629,
+    "longitude": 33.18168,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 369564,
+    "name": "Muturu",
+    "latitude": 4.34732,
+    "longitude": 30.86586,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 369554,
+    "name": "Mwanyakapin",
+    "latitude": 5.39351,
+    "longitude": 34.87997,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 381352,
+    "name": "Nagi",
+    "latitude": 4.53711,
+    "longitude": 33.49708,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382421,
+    "name": "Nagithinga",
+    "latitude": 4.24456,
+    "longitude": 33.44388,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 369450,
+    "name": "Nakapiyan",
+    "latitude": 4.88333,
+    "longitude": 35.5,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 369435,
+    "name": "Nakithilet",
+    "latitude": 4.85,
+    "longitude": 35.31667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382682,
+    "name": "Naligedi",
+    "latitude": 4.17273,
+    "longitude": 33.7039,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382713,
+    "name": "Napatanipethi",
+    "latitude": 4.15643,
+    "longitude": 33.7474,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382657,
+    "name": "Napetawi",
+    "latitude": 4.38022,
+    "longitude": 33.57544,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382716,
+    "name": "Naterada",
+    "latitude": 4.0935,
+    "longitude": 33.64549,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 369340,
+    "name": "Naterikeki",
+    "latitude": 4.38584,
+    "longitude": 33.51949,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 369337,
+    "name": "Nathiti",
+    "latitude": 4.24248,
+    "longitude": 33.50558,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382673,
+    "name": "Naturua",
+    "latitude": 4.33802,
+    "longitude": 33.50583,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 369270,
+    "name": "Nelichu",
+    "latitude": 6.12546,
+    "longitude": 34.43974,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8167047,
+    "name": "Neupir",
+    "latitude": 3.77885,
+    "longitude": 30.87171,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382548,
+    "name": "Ngariwa",
+    "latitude": 4.5464,
+    "longitude": 32.30056,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8646109,
+    "name": "Ngoboli",
+    "latitude": 4.90587,
+    "longitude": 32.60369,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 381350,
+    "name": "Ngokhore",
+    "latitude": 4.57139,
+    "longitude": 33.73361,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382277,
+    "name": "Niaporo",
+    "latitude": 4.3203,
+    "longitude": 31.01226,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 369155,
+    "name": "Nimule",
+    "latitude": 3.61667,
+    "longitude": 32.05,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 369153,
+    "name": "Nimule National Park",
+    "latitude": 3.65,
+    "longitude": 31.96667,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 381349,
+    "name": "Nmoropus",
+    "latitude": 4.57135,
+    "longitude": 33.84379,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8167031,
+    "name": "Nodupi",
+    "latitude": 3.97456,
+    "longitude": 30.88748,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8058999,
+    "name": "Nwang Islands",
+    "latitude": 8.49206,
+    "longitude": 29.32708,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382555,
+    "name": "Nyake",
+    "latitude": 4.63243,
+    "longitude": 32.08668,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 368935,
+    "name": "Nyibodo",
+    "latitude": 9.48333,
+    "longitude": 31.01667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382402,
+    "name": "Nylum",
+    "latitude": 4.48161,
+    "longitude": 33.27338,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 368879,
+    "name": "Obeli",
+    "latitude": 3.93825,
+    "longitude": 32.6941,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382323,
+    "name": "Oboru",
+    "latitude": 4.04847,
+    "longitude": 32.24872,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 368853,
+    "name": "Odumi",
+    "latitude": 4.24944,
+    "longitude": 32.22526,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 368834,
+    "name": "Ogiragi",
+    "latitude": 4.26523,
+    "longitude": 32.59711,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382019,
+    "name": "Ok",
+    "latitude": 7.37918,
+    "longitude": 30.52967,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 368787,
+    "name": "Oleng",
+    "latitude": 6.87872,
+    "longitude": 34.49033,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382294,
+    "name": "Omiki",
+    "latitude": 4.48235,
+    "longitude": 32.14904,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 368754,
+    "name": "Onderi",
+    "latitude": 4.18437,
+    "longitude": 32.29548,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 368742,
+    "name": "Opalas",
+    "latitude": 4.48975,
+    "longitude": 32.05228,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 368729,
+    "name": "Oreira",
+    "latitude": 3.98321,
+    "longitude": 32.91565,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8646493,
+    "name": "Otolo",
+    "latitude": 3.96375,
+    "longitude": 32.97576,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 368678,
+    "name": "Owerak",
+    "latitude": 4.29928,
+    "longitude": 33.38167,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382181,
+    "name": "Paia",
+    "latitude": 5.53246,
+    "longitude": 30.41054,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 375495,
+    "name": "Pajok",
+    "latitude": 3.86512,
+    "longitude": 32.48212,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382463,
+    "name": "Pongaliro",
+    "latitude": 4.11496,
+    "longitude": 32.76267,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382393,
+    "name": "Rathet",
+    "latitude": 4.33527,
+    "longitude": 33.09682,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382289,
+    "name": "Ribi Hill",
+    "latitude": 4.0419,
+    "longitude": 31.16175,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 368079,
+    "name": "Rierle",
+    "latitude": 7.96435,
+    "longitude": 32.65122,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8047719,
+    "name": "Rogolo",
+    "latitude": 4.48938,
+    "longitude": 31.05842,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 367927,
+    "name": "Rumbek",
+    "latitude": 6.80619,
+    "longitude": 29.67742,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8715919,
+    "name": "Sarua",
+    "latitude": 4.1008,
+    "longitude": 33.14996,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 367558,
+    "name": "Sasai",
+    "latitude": 3.9837,
+    "longitude": 32.83519,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382440,
+    "name": "Sauwo",
+    "latitude": 4.49805,
+    "longitude": 32.57614,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10344731,
+    "name": "Southern National Park",
+    "latitude": 6.76997,
+    "longitude": 28.48755,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 366558,
+    "name": "Tadfuri",
+    "latitude": 4.47769,
+    "longitude": 31.06568,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 381351,
+    "name": "Takaninyang",
+    "latitude": 4.5428,
+    "longitude": 33.63763,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 366495,
+    "name": "Tala",
+    "latitude": 7.16006,
+    "longitude": 26.30191,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 366444,
+    "name": "Tambura",
+    "latitude": 5.6,
+    "longitude": 27.46667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 366218,
+    "name": "Telech",
+    "latitude": 4.47901,
+    "longitude": 33.39446,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382692,
+    "name": "Telechi",
+    "latitude": 4.19592,
+    "longitude": 33.53874,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8595519,
+    "name": "Teligwon",
+    "latitude": 6.15493,
+    "longitude": 34.45077,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382381,
+    "name": "Terebiu",
+    "latitude": 4.21152,
+    "longitude": 33.18573,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382428,
+    "name": "Terling",
+    "latitude": 4.18511,
+    "longitude": 33.4426,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8715907,
+    "name": "Tetela",
+    "latitude": 4.20645,
+    "longitude": 33.08871,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382654,
+    "name": "Thang",
+    "latitude": 4.47899,
+    "longitude": 33.49674,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382413,
+    "name": "Thigora",
+    "latitude": 4.33693,
+    "longitude": 33.44401,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8646110,
+    "name": "Tibitin",
+    "latitude": 4.897,
+    "longitude": 32.65826,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8166826,
+    "name": "Tidu",
+    "latitude": 3.90251,
+    "longitude": 30.73462,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 381385,
+    "name": "Toboret",
+    "latitude": 4.74428,
+    "longitude": 33.24521,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 381309,
+    "name": "Toli",
+    "latitude": 4.53509,
+    "longitude": 31.01354,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382472,
+    "name": "Tolok",
+    "latitude": 4.17819,
+    "longitude": 32.82935,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 365763,
+    "name": "Tonj",
+    "latitude": 7.27389,
+    "longitude": 28.6775,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 365746,
+    "name": "Torgath",
+    "latitude": 8.82917,
+    "longitude": 31.05819,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 365742,
+    "name": "Torit",
+    "latitude": 4.41177,
+    "longitude": 32.57046,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 365708,
+    "name": "Towat",
+    "latitude": 6.18564,
+    "longitude": 34.44632,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382376,
+    "name": "Towelo",
+    "latitude": 4.23055,
+    "longitude": 33.10813,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8646225,
+    "name": "Tuba",
+    "latitude": 4.585,
+    "longitude": 32.78685,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382341,
+    "name": "Ulau",
+    "latitude": 4.33165,
+    "longitude": 32.35143,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7031686,
+    "name": "Umm Hadeida",
+    "latitude": 11.4102,
+    "longitude": 32.6829,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382424,
+    "name": "Uri",
+    "latitude": 4.24288,
+    "longitude": 33.35291,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 364356,
+    "name": "Vandel",
+    "latitude": 7.1734,
+    "longitude": 26.30208,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8646284,
+    "name": "Walanja",
+    "latitude": 4.54253,
+    "longitude": 32.96457,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7880813,
+    "name": "Wan Alel",
+    "latitude": 7.52427,
+    "longitude": 28.92762,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 363928,
+    "name": "Wargar",
+    "latitude": 8.97369,
+    "longitude": 31.08996,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 363885,
+    "name": "Wau",
+    "latitude": 7.70111,
+    "longitude": 27.98972,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 363827,
+    "name": "Wia",
+    "latitude": 4.6496,
+    "longitude": 31.37113,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 363807,
+    "name": "Winejok",
+    "latitude": 9.01222,
+    "longitude": 27.57081,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382328,
+    "name": "Womer",
+    "latitude": 4.07286,
+    "longitude": 32.15876,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 382336,
+    "name": "Yala",
+    "latitude": 4.29367,
+    "longitude": 32.27385,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 363656,
+    "name": "Yambio",
+    "latitude": 4.57083,
+    "longitude": 28.39417,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 363651,
+    "name": "Yandu",
+    "latitude": 6.76667,
+    "longitude": 26.48333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 381806,
+    "name": "Yedu Island",
+    "latitude": 9.43402,
+    "longitude": 31.60037,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 363619,
+    "name": "Yei",
+    "latitude": 4.09444,
+    "longitude": 30.67639,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 363594,
+    "name": "Yirol",
+    "latitude": 6.5525,
+    "longitude": 30.49806,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8146201,
+    "name": "Zarek",
+    "latitude": 9.62431,
+    "longitude": 25.63856,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  }
+]

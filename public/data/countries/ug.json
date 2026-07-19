@@ -1,0 +1,8592 @@
+[
+  {
+    "geonameId": 235591,
+    "name": "Abchekwess",
+    "latitude": 1.36667,
+    "longitude": 34.53333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 235575,
+    "name": "Abiba",
+    "latitude": 2.53641,
+    "longitude": 31.07293,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 235574,
+    "name": "Abim",
+    "latitude": 2.70167,
+    "longitude": 33.67611,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 235489,
+    "name": "Adjumani",
+    "latitude": 3.37786,
+    "longitude": 31.7909,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8261528,
+    "name": "Agago",
+    "latitude": 2.83383,
+    "longitude": 33.33361,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 235443,
+    "name": "Agirigiryoi Island",
+    "latitude": 1.51667,
+    "longitude": 34.21667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 235368,
+    "name": "Akarundi",
+    "latitude": -0.85,
+    "longitude": 30.18333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 235365,
+    "name": "Akatozo",
+    "latitude": -0.86667,
+    "longitude": 31.15,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8694130,
+    "name": "Aki",
+    "latitude": 3.3987,
+    "longitude": 33.60779,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8695754,
+    "name": "Akidoyi",
+    "latitude": 3.71131,
+    "longitude": 33.60147,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 235350,
+    "name": "Akika Island",
+    "latitude": -0.05,
+    "longitude": 30.16667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 235344,
+    "name": "Akisim",
+    "latitude": 2.11667,
+    "longitude": 34.2,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 235335,
+    "name": "Akor",
+    "latitude": 2.68333,
+    "longitude": 33.63333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 235319,
+    "name": "Akur",
+    "latitude": 2.68333,
+    "longitude": 33.68333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 235293,
+    "name": "Alebtong",
+    "latitude": 2.24472,
+    "longitude": 33.25472,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7909178,
+    "name": "Alexandra",
+    "latitude": 0.38417,
+    "longitude": 29.87198,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 235203,
+    "name": "Amolatar",
+    "latitude": 1.61556,
+    "longitude": 32.83972,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 235191,
+    "name": "Amudat",
+    "latitude": 1.95,
+    "longitude": 34.95,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 235186,
+    "name": "Amuria",
+    "latitude": 2.00361,
+    "longitude": 33.65111,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8015635,
+    "name": "Amuru",
+    "latitude": 2.81388,
+    "longitude": 31.93868,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 235183,
+    "name": "Amusiata Island",
+    "latitude": 1.51667,
+    "longitude": 34.2,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 235178,
+    "name": "Anaka",
+    "latitude": 2.60114,
+    "longitude": 31.94749,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 235163,
+    "name": "Angolebwal",
+    "latitude": 2.56667,
+    "longitude": 33.83333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11525215,
+    "name": "Anok Island",
+    "latitude": 1.76129,
+    "longitude": 32.69676,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8142381,
+    "name": "Anyi Island",
+    "latitude": 3.50772,
+    "longitude": 31.72246,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 235130,
+    "name": "Apac",
+    "latitude": 1.97556,
+    "longitude": 32.53861,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 235065,
+    "name": "Arebe",
+    "latitude": 3.11289,
+    "longitude": 31.92866,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 235039,
+    "name": "Arua",
+    "latitude": 3.02013,
+    "longitude": 30.91105,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234924,
+    "name": "Ayass",
+    "latitude": 1.8,
+    "longitude": 34.81667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8142249,
+    "name": "Ayugi",
+    "latitude": 3.14475,
+    "longitude": 31.77798,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234898,
+    "name": "Baga Island",
+    "latitude": -0.08333,
+    "longitude": 33.36667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234893,
+    "name": "Bagwe Island",
+    "latitude": 0.36667,
+    "longitude": 31.91667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234887,
+    "name": "Baker",
+    "latitude": 0.3655,
+    "longitude": 29.89281,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234886,
+    "name": "Bakers View",
+    "latitude": 1.23333,
+    "longitude": 30.76667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234853,
+    "name": "Banda Island",
+    "latitude": -0.25,
+    "longitude": 32.4,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234834,
+    "name": "Batoda",
+    "latitude": 0.28333,
+    "longitude": 29.86667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11357760,
+    "name": "Batwala",
+    "latitude": -0.00022,
+    "longitude": 32.75067,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234815,
+    "name": "Bichuba",
+    "latitude": -0.93333,
+    "longitude": 30.73333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234797,
+    "name": "Bihangire",
+    "latitude": -1.03333,
+    "longitude": 29.88333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234792,
+    "name": "Bikari",
+    "latitude": -1.35,
+    "longitude": 30.08333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234776,
+    "name": "Biniga",
+    "latitude": -1.06667,
+    "longitude": 29.61667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234769,
+    "name": "Binyiny",
+    "latitude": 1.41667,
+    "longitude": 34.53333,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234765,
+    "name": "Birala",
+    "latitude": -1.2,
+    "longitude": 29.73333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234734,
+    "name": "Bituntu",
+    "latitude": -0.83333,
+    "longitude": 30.5,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234733,
+    "name": "Bivungu",
+    "latitude": -0.96667,
+    "longitude": 30.58333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234717,
+    "name": "Bombo",
+    "latitude": 0.57387,
+    "longitude": 32.51545,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7909187,
+    "name": "Bottego",
+    "latitude": 0.42916,
+    "longitude": 29.9152,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234475,
+    "name": "Bu Island",
+    "latitude": 0.00098,
+    "longitude": 32.93874,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234697,
+    "name": "Bubale",
+    "latitude": -1.1,
+    "longitude": 29.71667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234686,
+    "name": "Bubeke Island",
+    "latitude": -0.29944,
+    "longitude": 32.57028,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234685,
+    "name": "Bubembe Island",
+    "latitude": -0.42417,
+    "longitude": 32.30806,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234660,
+    "name": "Budadiri",
+    "latitude": 1.14806,
+    "longitude": 34.32611,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234658,
+    "name": "Budaka",
+    "latitude": 1.00389,
+    "longitude": 33.92556,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234637,
+    "name": "Bududa",
+    "latitude": 1.01118,
+    "longitude": 34.33112,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234624,
+    "name": "Bufumira Island",
+    "latitude": -0.33972,
+    "longitude": 32.42417,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234619,
+    "name": "Bugaba Island",
+    "latitude": -0.37861,
+    "longitude": 32.34694,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234612,
+    "name": "Bugaia Island",
+    "latitude": 0.04591,
+    "longitude": 33.26958,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234609,
+    "name": "Bugala Island",
+    "latitude": -0.63861,
+    "longitude": 32.31194,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234603,
+    "name": "Bugamba",
+    "latitude": -0.75,
+    "longitude": 30.46667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234595,
+    "name": "Bugana Island",
+    "latitude": 1.18333,
+    "longitude": 33.81667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234578,
+    "name": "Bugembe",
+    "latitude": 0.48213,
+    "longitude": 33.24065,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234559,
+    "name": "Bugiri",
+    "latitude": -1.16667,
+    "longitude": 29.9,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11401728,
+    "name": "Buhamya",
+    "latitude": 0.69513,
+    "longitude": 30.15023,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234497,
+    "name": "Buhesi",
+    "latitude": 0.58105,
+    "longitude": 30.21011,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234496,
+    "name": "Buhimba",
+    "latitude": 1.34722,
+    "longitude": 31.30806,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234485,
+    "name": "Buhungurua",
+    "latitude": -0.83333,
+    "longitude": 30.75,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8261527,
+    "name": "Buhweju",
+    "latitude": -0.35027,
+    "longitude": 30.30029,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234481,
+    "name": "Buiga Island",
+    "latitude": 0.09176,
+    "longitude": 32.33072,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234480,
+    "name": "Buikwe",
+    "latitude": 0.3375,
+    "longitude": 33.01056,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234419,
+    "name": "Bukasa Island",
+    "latitude": -0.40722,
+    "longitude": 32.47806,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234412,
+    "name": "Bukedea",
+    "latitude": 1.31694,
+    "longitude": 34.05056,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234371,
+    "name": "Bukomansimbi",
+    "latitude": -0.15778,
+    "longitude": 31.60417,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234368,
+    "name": "Bukomero",
+    "latitude": 0.6975,
+    "longitude": 32.02861,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234363,
+    "name": "Bukone Island",
+    "latitude": -0.23333,
+    "longitude": 32.33333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234334,
+    "name": "Bukusu",
+    "latitude": 0.87097,
+    "longitude": 34.27095,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234329,
+    "name": "Bukuya",
+    "latitude": 0.67861,
+    "longitude": 31.81972,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234328,
+    "name": "Bukwa",
+    "latitude": 1.25917,
+    "longitude": 34.75389,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234323,
+    "name": "Bukwaya Island",
+    "latitude": 0.16528,
+    "longitude": 33.15833,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234317,
+    "name": "Bulago Island",
+    "latitude": -0.06417,
+    "longitude": 32.58361,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234306,
+    "name": "Bulambuli",
+    "latitude": 1.309,
+    "longitude": 34.283,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11356294,
+    "name": "Bulanku Island",
+    "latitude": 0.17717,
+    "longitude": 33.15463,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234259,
+    "name": "Buliisa",
+    "latitude": 2.11781,
+    "longitude": 31.41163,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234260,
+    "name": "Bulingugwe Island",
+    "latitude": 0.22392,
+    "longitude": 32.63052,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11865274,
+    "name": "Bulongo Island",
+    "latitude": 1.62244,
+    "longitude": 33.23325,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234194,
+    "name": "Bumondo",
+    "latitude": -0.95,
+    "longitude": 30.33333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234179,
+    "name": "Bunamwaya",
+    "latitude": 0.25344,
+    "longitude": 32.55723,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234178,
+    "name": "Bundibugyo",
+    "latitude": 0.71117,
+    "longitude": 30.06469,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234164,
+    "name": "Bunjako Island",
+    "latitude": 0.00278,
+    "longitude": 32.13444,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234162,
+    "name": "Bunjazi Island",
+    "latitude": -0.35,
+    "longitude": 32.51667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234155,
+    "name": "Bunyama Island",
+    "latitude": -0.39224,
+    "longitude": 32.30667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234140,
+    "name": "Bupoto",
+    "latitude": 0.90611,
+    "longitude": 34.35778,
+    "category": "City",
+    "subcategory": "Local Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234132,
+    "name": "Buranga Pass",
+    "latitude": 0.83701,
+    "longitude": 30.20846,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234127,
+    "name": "Burimbi",
+    "latitude": -0.98333,
+    "longitude": 29.83333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234092,
+    "name": "Busembatia",
+    "latitude": 0.77725,
+    "longitude": 33.62364,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234088,
+    "name": "Busesa",
+    "latitude": 0.62631,
+    "longitude": 33.60027,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234081,
+    "name": "Bushenyi",
+    "latitude": -0.53695,
+    "longitude": 30.18579,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234077,
+    "name": "Busia",
+    "latitude": 0.46588,
+    "longitude": 34.09221,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234043,
+    "name": "Busolwe",
+    "latitude": 0.85007,
+    "longitude": 33.92624,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234035,
+    "name": "Busowa Falls",
+    "latitude": 0.58333,
+    "longitude": 33.07444,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234034,
+    "name": "Bussi Island",
+    "latitude": 0.04917,
+    "longitude": 32.32667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11401774,
+    "name": "Busunga",
+    "latitude": 0.64071,
+    "longitude": 29.9642,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234021,
+    "name": "Busungwe Island",
+    "latitude": -0.95,
+    "longitude": 31.78333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234004,
+    "name": "Butaleja",
+    "latitude": 0.91194,
+    "longitude": 33.95111,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233982,
+    "name": "Butebo",
+    "latitude": 1.19417,
+    "longitude": 33.92222,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233975,
+    "name": "Butemba",
+    "latitude": 1.15944,
+    "longitude": 31.61083,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233954,
+    "name": "Butimba",
+    "latitude": -0.71667,
+    "longitude": 30.5,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233946,
+    "name": "Butobole",
+    "latitude": -1.2,
+    "longitude": 29.9,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13132713,
+    "name": "Butunduzi",
+    "latitude": 0.55473,
+    "longitude": 30.85485,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233931,
+    "name": "Buturume Island",
+    "latitude": -0.59333,
+    "longitude": 32.22583,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233923,
+    "name": "Buvu Island",
+    "latitude": -0.14972,
+    "longitude": 32.24944,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233918,
+    "name": "Buvuma Island",
+    "latitude": 0.22444,
+    "longitude": 33.27333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233886,
+    "name": "Buwenge",
+    "latitude": 0.64996,
+    "longitude": 33.17128,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8261621,
+    "name": "Buyale",
+    "latitude": 1.93421,
+    "longitude": 32.11643,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233851,
+    "name": "Buyange Island",
+    "latitude": -0.33139,
+    "longitude": 32.54944,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233840,
+    "name": "Buyende",
+    "latitude": 1.15167,
+    "longitude": 33.155,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233822,
+    "name": "Buyovu Island",
+    "latitude": -0.3275,
+    "longitude": 32.50139,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233806,
+    "name": "Buziranjovu Island",
+    "latitude": 0.28119,
+    "longitude": 32.72819,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233805,
+    "name": "Buziri Island",
+    "latitude": 0.14483,
+    "longitude": 33.16847,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233800,
+    "name": "Bwahwa",
+    "latitude": -0.21667,
+    "longitude": 30.5,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233788,
+    "name": "Bwamba Pass",
+    "latitude": 0.6701,
+    "longitude": 30.13461,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233781,
+    "name": "Bwangyiro",
+    "latitude": -1.01667,
+    "longitude": 29.76667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233768,
+    "name": "Bwema Island",
+    "latitude": 0.09887,
+    "longitude": 33.09818,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233738,
+    "name": "Bweyogerere",
+    "latitude": 0.35773,
+    "longitude": 32.66332,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233736,
+    "name": "Bwigi Island",
+    "latitude": -0.48333,
+    "longitude": 32.33333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6940507,
+    "name": "Bwindi Impenetrable National Park",
+    "latitude": -1.08056,
+    "longitude": 29.66139,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233730,
+    "name": "Bwizibwera",
+    "latitude": -0.59167,
+    "longitude": 30.62861,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233725,
+    "name": "Byakabanda",
+    "latitude": -0.7425,
+    "longitude": 31.40639,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7909200,
+    "name": "Cagni",
+    "latitude": 0.36117,
+    "longitude": 29.91927,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233714,
+    "name": "Calyabong",
+    "latitude": 2.6,
+    "longitude": 33.7,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233694,
+    "name": "Chamsokera",
+    "latitude": -1.08333,
+    "longitude": 30.05,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233660,
+    "name": "Chikunda",
+    "latitude": -0.8,
+    "longitude": 30.55,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233659,
+    "name": "Chimondo",
+    "latitude": -0.8,
+    "longitude": 30.33333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233657,
+    "name": "Chirongu",
+    "latitude": -0.88333,
+    "longitude": 30.55,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233621,
+    "name": "Dagusi Island",
+    "latitude": 0.13552,
+    "longitude": 33.5751,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233613,
+    "name": "Damba Island",
+    "latitude": 0.01356,
+    "longitude": 32.79516,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233589,
+    "name": "Dinzira Island",
+    "latitude": -0.46667,
+    "longitude": 32.38333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233563,
+    "name": "Dokolo",
+    "latitude": 1.89833,
+    "longitude": 33.1775,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233588,
+    "name": "Duwach",
+    "latitude": -0.85,
+    "longitude": 30.65,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233586,
+    "name": "Duweru Island",
+    "latitude": -0.33333,
+    "longitude": 33.06667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233582,
+    "name": "Dwanga Mukulu",
+    "latitude": -0.08333,
+    "longitude": 32.81667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233581,
+    "name": "Dwanga Muto",
+    "latitude": -0.05,
+    "longitude": 32.81667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233580,
+    "name": "Dwasendwe Island",
+    "latitude": -0.05,
+    "longitude": 32.81667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233576,
+    "name": "Dyabalume Island",
+    "latitude": 0.09718,
+    "longitude": 32.86183,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8695874,
+    "name": "Echku",
+    "latitude": 3.51977,
+    "longitude": 33.7181,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7909192,
+    "name": "Edward",
+    "latitude": 0.36113,
+    "longitude": 29.89299,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233508,
+    "name": "Entebbe",
+    "latitude": 0.05621,
+    "longitude": 32.47949,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233494,
+    "name": "Erusi",
+    "latitude": 2.33089,
+    "longitude": 31.08771,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233495,
+    "name": "Erusi East",
+    "latitude": 2.33399,
+    "longitude": 31.1213,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233476,
+    "name": "Fort Portal",
+    "latitude": 0.66174,
+    "longitude": 30.2748,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7909195,
+    "name": "Freshfield Pass",
+    "latitude": 0.34611,
+    "longitude": 29.89331,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233474,
+    "name": "Fuluma",
+    "latitude": 0.92097,
+    "longitude": 34.26273,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233469,
+    "name": "Funve Island",
+    "latitude": -0.47861,
+    "longitude": 32.28583,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11357692,
+    "name": "Galo Island",
+    "latitude": 0.07031,
+    "longitude": 32.92556,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233382,
+    "name": "Gombe",
+    "latitude": 0.20333,
+    "longitude": 32.08806,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233364,
+    "name": "Gortheg",
+    "latitude": 1.31667,
+    "longitude": 34.68333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233359,
+    "name": "Goula",
+    "latitude": 3.79758,
+    "longitude": 32.85392,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11357160,
+    "name": "Griffin Falls",
+    "latitude": 0.44677,
+    "longitude": 32.95343,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233346,
+    "name": "Gulu",
+    "latitude": 2.77457,
+    "longitude": 32.29899,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233322,
+    "name": "Hambuga",
+    "latitude": -0.33333,
+    "longitude": 30.46667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233315,
+    "name": "Hima",
+    "latitude": 0.34889,
+    "longitude": 30.16222,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233312,
+    "name": "Hoima",
+    "latitude": 1.43314,
+    "longitude": 31.35241,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 448339,
+    "name": "Holic",
+    "latitude": 3.78167,
+    "longitude": 32.91944,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233297,
+    "name": "Ibanda",
+    "latitude": -0.11667,
+    "longitude": 30.48333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233291,
+    "name": "Ibok",
+    "latitude": 3.22011,
+    "longitude": 34.39856,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233288,
+    "name": "Iborogya Falls",
+    "latitude": 1.60316,
+    "longitude": 31.19187,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233275,
+    "name": "Iganga",
+    "latitude": 0.60917,
+    "longitude": 33.46861,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233270,
+    "name": "Igisi",
+    "latitude": 1.98747,
+    "longitude": 31.73498,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233267,
+    "name": "Igorora",
+    "latitude": -0.86667,
+    "longitude": 30.41667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233265,
+    "name": "Igurua",
+    "latitude": -0.95,
+    "longitude": 30.36667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233253,
+    "name": "Ihunga",
+    "latitude": -1.11667,
+    "longitude": 29.78333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11525302,
+    "name": "Ijinga Island",
+    "latitude": 1.54559,
+    "longitude": 32.7867,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227152,
+    "name": "Ikolong",
+    "latitude": 3.61097,
+    "longitude": 33.18023,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 383364,
+    "name": "Ikunyu Island",
+    "latitude": 0.35694,
+    "longitude": 33.35583,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233236,
+    "name": "Ilo",
+    "latitude": 3.66667,
+    "longitude": 31.9,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233220,
+    "name": "Iramba Island",
+    "latitude": -0.11667,
+    "longitude": 33.21667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233218,
+    "name": "Irangara Island",
+    "latitude": 0.05,
+    "longitude": 30.13333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233217,
+    "name": "Irashagye",
+    "latitude": -0.73333,
+    "longitude": 30.28333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233216,
+    "name": "Irembezi",
+    "latitude": -0.5,
+    "longitude": 30.23333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233194,
+    "name": "Iryango",
+    "latitude": -0.96667,
+    "longitude": 30.6,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233190,
+    "name": "Isamba Island",
+    "latitude": -0.13333,
+    "longitude": 33.21667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 448001,
+    "name": "Ishaka",
+    "latitude": -0.54306,
+    "longitude": 30.13694,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7911405,
+    "name": "Isingiro",
+    "latitude": -0.86864,
+    "longitude": 30.83019,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233174,
+    "name": "Isioro",
+    "latitude": 3.70125,
+    "longitude": 33.56796,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233172,
+    "name": "Isozi",
+    "latitude": -0.83333,
+    "longitude": 30.81667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233136,
+    "name": "Izinga Island",
+    "latitude": -0.16667,
+    "longitude": 29.86667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233132,
+    "name": "Jacksons Summit",
+    "latitude": 1.10278,
+    "longitude": 34.52583,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233129,
+    "name": "Jana Island",
+    "latitude": -0.19806,
+    "longitude": 32.55222,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233122,
+    "name": "Jatat",
+    "latitude": 3.77002,
+    "longitude": 34.2197,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233114,
+    "name": "Jinja",
+    "latitude": 0.43902,
+    "longitude": 33.20317,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233093,
+    "name": "Kaabong",
+    "latitude": 3.48361,
+    "longitude": 34.14917,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233088,
+    "name": "Kabaganja Island",
+    "latitude": 0.32333,
+    "longitude": 33.45778,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233070,
+    "name": "Kabale",
+    "latitude": -1.24857,
+    "longitude": 29.98993,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233061,
+    "name": "Kabale Island",
+    "latitude": -0.26667,
+    "longitude": 32.43333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233062,
+    "name": "Kabalega Falls National Park",
+    "latitude": 2.16003,
+    "longitude": 31.75909,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233029,
+    "name": "Kabazimu Island",
+    "latitude": -0.16667,
+    "longitude": 29.86667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233019,
+    "name": "Kaberamaido",
+    "latitude": 1.73889,
+    "longitude": 33.15944,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232971,
+    "name": "Kabuga",
+    "latitude": -1.01667,
+    "longitude": 29.96667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232966,
+    "name": "Kabuguza Islets",
+    "latitude": -0.16667,
+    "longitude": 33.18333,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11357763,
+    "name": "Kabulataka Island",
+    "latitude": 0.12511,
+    "longitude": 32.64058,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232926,
+    "name": "Kabutim",
+    "latitude": 1.43333,
+    "longitude": 34.58333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8695870,
+    "name": "Kachera",
+    "latitude": 3.53131,
+    "longitude": 33.68473,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232882,
+    "name": "Kadam",
+    "latitude": 1.72194,
+    "longitude": 34.71361,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232834,
+    "name": "Kagadi",
+    "latitude": 0.93778,
+    "longitude": 30.80889,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232816,
+    "name": "Kagarama",
+    "latitude": -0.78333,
+    "longitude": 30.75,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232774,
+    "name": "Kagulumu Island",
+    "latitude": 0.9,
+    "longitude": 32.15,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232733,
+    "name": "Kaiirere",
+    "latitude": -0.43333,
+    "longitude": 30.3,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232727,
+    "name": "Kaina Island",
+    "latitude": -0.15,
+    "longitude": 33.9,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232719,
+    "name": "Kaivali Island",
+    "latitude": 0.40132,
+    "longitude": 33.27627,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232713,
+    "name": "Kajansi",
+    "latitude": 0.21548,
+    "longitude": 32.53453,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232698,
+    "name": "Kakaka",
+    "latitude": 0.50406,
+    "longitude": 30.04181,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232694,
+    "name": "Kakal",
+    "latitude": 2.8,
+    "longitude": 33.73333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232661,
+    "name": "Kakira",
+    "latitude": 0.50833,
+    "longitude": 33.28778,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232652,
+    "name": "Kakiri",
+    "latitude": 0.41989,
+    "longitude": 32.39127,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232624,
+    "name": "Kakuka",
+    "latitude": 0.43678,
+    "longitude": 29.95264,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232619,
+    "name": "Kakumiro",
+    "latitude": 0.78056,
+    "longitude": 31.32361,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232613,
+    "name": "Kakunyu",
+    "latitude": -0.58333,
+    "longitude": 30.88333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232575,
+    "name": "Kalambide Island",
+    "latitude": -0.46667,
+    "longitude": 32.31667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232571,
+    "name": "Kalangala",
+    "latitude": -0.30889,
+    "longitude": 32.225,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232552,
+    "name": "Kalengili",
+    "latitude": 0.48333,
+    "longitude": 30.01667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232545,
+    "name": "Kaleri",
+    "latitude": 3.59136,
+    "longitude": 33.6023,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232542,
+    "name": "Kaleveru",
+    "latitude": 0.22542,
+    "longitude": 29.95625,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232536,
+    "name": "Kalimon",
+    "latitude": 3.7,
+    "longitude": 33.85,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232526,
+    "name": "Kaliro",
+    "latitude": 0.89444,
+    "longitude": 33.49944,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232522,
+    "name": "Kalisizo",
+    "latitude": -0.53639,
+    "longitude": 31.62139,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232583,
+    "name": "Kalokoliputh",
+    "latitude": 3.84418,
+    "longitude": 34.20369,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232513,
+    "name": "Kalonge",
+    "latitude": 0.19806,
+    "longitude": 29.9545,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8695794,
+    "name": "Kalukuloyi",
+    "latitude": 3.70379,
+    "longitude": 33.61069,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232490,
+    "name": "Kalungu",
+    "latitude": -0.16969,
+    "longitude": 31.75847,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232454,
+    "name": "Kamalinyang",
+    "latitude": 3.39423,
+    "longitude": 33.76249,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232441,
+    "name": "Kamena",
+    "latitude": -1.15,
+    "longitude": 29.73333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232422,
+    "name": "Kampala",
+    "latitude": 0.31628,
+    "longitude": 32.58219,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8629026,
+    "name": "Kampala Central Division",
+    "latitude": 0.32467,
+    "longitude": 32.5747,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232409,
+    "name": "Kamuge Island",
+    "latitude": 1.53333,
+    "longitude": 34.21667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232404,
+    "name": "Kamukulu Island",
+    "latitude": -0.48333,
+    "longitude": 32.48333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232397,
+    "name": "Kamuli",
+    "latitude": 0.94722,
+    "longitude": 33.11972,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232377,
+    "name": "Kamusiri",
+    "latitude": 1.33333,
+    "longitude": 30.85,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11401725,
+    "name": "Kamutebe",
+    "latitude": 0.68006,
+    "longitude": 30.21753,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232376,
+    "name": "Kamutenga Island",
+    "latitude": -0.05,
+    "longitude": 32.21667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232371,
+    "name": "Kamwenge",
+    "latitude": 0.1866,
+    "longitude": 30.45393,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232362,
+    "name": "Kanachom",
+    "latitude": 3.64512,
+    "longitude": 34.44018,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232361,
+    "name": "Kanadap",
+    "latitude": 3.63553,
+    "longitude": 34.37293,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232357,
+    "name": "Kanakapamor",
+    "latitude": 3.27818,
+    "longitude": 34.40036,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232332,
+    "name": "Kangathep",
+    "latitude": 3.54889,
+    "longitude": 34.33501,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11357752,
+    "name": "Kankindu",
+    "latitude": 0.04578,
+    "longitude": 32.79678,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232313,
+    "name": "Kankuranga Island",
+    "latitude": 0,
+    "longitude": 30.15,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232307,
+    "name": "Kanoni",
+    "latitude": 0.17722,
+    "longitude": 31.88111,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232293,
+    "name": "Kansove Islets",
+    "latitude": -0.55,
+    "longitude": 32.18333,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232287,
+    "name": "Kanungu",
+    "latitude": -0.9575,
+    "longitude": 29.78972,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232235,
+    "name": "Kapchorwa",
+    "latitude": 1.40096,
+    "longitude": 34.45038,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8695891,
+    "name": "Kapedo",
+    "latitude": 3.69012,
+    "longitude": 33.96448,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230639,
+    "name": "Kapoth",
+    "latitude": 3.71312,
+    "longitude": 33.55421,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232197,
+    "name": "Karangora",
+    "latitude": 0.6336,
+    "longitude": 30.12213,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8695872,
+    "name": "Karapochomo",
+    "latitude": 3.52269,
+    "longitude": 33.67735,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8695861,
+    "name": "Karenga",
+    "latitude": 3.57089,
+    "longitude": 33.68925,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232177,
+    "name": "Karuma Falls",
+    "latitude": 2.24414,
+    "longitude": 32.23171,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232146,
+    "name": "Kasaali",
+    "latitude": -0.61667,
+    "longitude": 31.55,
+    "category": "City",
+    "subcategory": "Local Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232137,
+    "name": "Kasambya",
+    "latitude": 0.43333,
+    "longitude": 31.23333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232115,
+    "name": "Kasanda",
+    "latitude": 0.55667,
+    "longitude": 31.80222,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232110,
+    "name": "Kasangati",
+    "latitude": 0.43803,
+    "longitude": 32.60246,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232107,
+    "name": "Kasanje",
+    "latitude": 0.15334,
+    "longitude": 32.40088,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232092,
+    "name": "Kasatora",
+    "latitude": -1.06667,
+    "longitude": 29.65,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232067,
+    "name": "Kaserwa Island",
+    "latitude": -0.58333,
+    "longitude": 32.28333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232066,
+    "name": "Kasese",
+    "latitude": 0.18333,
+    "longitude": 30.08333,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232051,
+    "name": "Kashasha",
+    "latitude": -0.76667,
+    "longitude": 30.41667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232046,
+    "name": "Kashekye",
+    "latitude": -1.11667,
+    "longitude": 29.95,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232022,
+    "name": "Kasiru",
+    "latitude": -1.03333,
+    "longitude": 29.65,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231993,
+    "name": "Kasoni",
+    "latitude": -1.16667,
+    "longitude": 29.71667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231990,
+    "name": "Kasozi",
+    "latitude": 0.02,
+    "longitude": 30.49861,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231969,
+    "name": "Kasunju",
+    "latitude": -0.32292,
+    "longitude": 30.08208,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231968,
+    "name": "Kasuro",
+    "latitude": -0.73333,
+    "longitude": 30.35,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231963,
+    "name": "Kataba",
+    "latitude": 2.66667,
+    "longitude": 33.68333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231957,
+    "name": "Katabarua",
+    "latitude": 0.41667,
+    "longitude": 30.03333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231954,
+    "name": "Katabi",
+    "latitude": 0.08411,
+    "longitude": 32.46972,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231951,
+    "name": "Katabwa",
+    "latitude": 0.54094,
+    "longitude": 30.07184,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231947,
+    "name": "Katakwi",
+    "latitude": 1.89111,
+    "longitude": 33.96611,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231937,
+    "name": "Katanga Island",
+    "latitude": -0.58333,
+    "longitude": 32.2,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231931,
+    "name": "Katanzi",
+    "latitude": -0.93333,
+    "longitude": 30.68333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231911,
+    "name": "Katendere",
+    "latitude": -1.08333,
+    "longitude": 29.91667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231908,
+    "name": "Katenga",
+    "latitude": -1.36667,
+    "longitude": 29.93333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8695776,
+    "name": "Kathelem",
+    "latitude": 3.67097,
+    "longitude": 33.50458,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231848,
+    "name": "Katoke",
+    "latitude": 0.75833,
+    "longitude": 30.6825,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231835,
+    "name": "Katoma",
+    "latitude": -1.08333,
+    "longitude": 29.86667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7870036,
+    "name": "Katonga Game Reserve",
+    "latitude": 0.238,
+    "longitude": 30.782,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231828,
+    "name": "Katorosa",
+    "latitude": 3.59866,
+    "longitude": 34.39196,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231797,
+    "name": "Katunguru",
+    "latitude": 0.3,
+    "longitude": 30.01667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231787,
+    "name": "Katwekembwa",
+    "latitude": -0.96667,
+    "longitude": 29.9,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231770,
+    "name": "Kawalakol",
+    "latitude": 3.8021,
+    "longitude": 33.90562,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231757,
+    "name": "Kaweri Island",
+    "latitude": 1.63501,
+    "longitude": 33.2419,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231728,
+    "name": "Kayanja Island",
+    "latitude": -0.21667,
+    "longitude": 32.35,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231696,
+    "name": "Kayunga",
+    "latitude": 0.7025,
+    "longitude": 32.88861,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231692,
+    "name": "Kaza Island",
+    "latitude": 0.10945,
+    "longitude": 33.60112,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231687,
+    "name": "Kazikizi",
+    "latitude": -1.13333,
+    "longitude": 29.98333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231670,
+    "name": "Kazo",
+    "latitude": -0.07444,
+    "longitude": 30.78528,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231667,
+    "name": "Kebisoni",
+    "latitude": -0.92111,
+    "longitude": 30.03667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231652,
+    "name": "Kem",
+    "latitude": 2.66667,
+    "longitude": 33.78333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231639,
+    "name": "Kerenge Island",
+    "latitude": 0.06351,
+    "longitude": 33.00583,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231630,
+    "name": "Kianamo",
+    "latitude": 0.31667,
+    "longitude": 29.96667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231626,
+    "name": "Kiara",
+    "latitude": -0.71667,
+    "longitude": 30.21667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231617,
+    "name": "Kibale",
+    "latitude": 0.8,
+    "longitude": 31.06667,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7839168,
+    "name": "Kibale National Park",
+    "latitude": 0.5,
+    "longitude": 30.4,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231570,
+    "name": "Kibengo",
+    "latitude": 0.63333,
+    "longitude": 30.78333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231565,
+    "name": "Kibibi Island",
+    "latitude": 0.0974,
+    "longitude": 33.03785,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231564,
+    "name": "Kibibi North Island",
+    "latitude": -0.23333,
+    "longitude": 32.3,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231563,
+    "name": "Kibibi South Island",
+    "latitude": -0.38333,
+    "longitude": 32.2,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231562,
+    "name": "Kibiito",
+    "latitude": 0.47722,
+    "longitude": 30.1925,
+    "category": "City",
+    "subcategory": "Local Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231554,
+    "name": "Kibingo",
+    "latitude": -0.62602,
+    "longitude": 30.43594,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231550,
+    "name": "Kiboga",
+    "latitude": 0.91611,
+    "longitude": 31.77417,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231532,
+    "name": "Kibuku",
+    "latitude": 1.04333,
+    "longitude": 33.7975,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231520,
+    "name": "Kibuzige",
+    "latitude": -1.16667,
+    "longitude": 29.88333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231512,
+    "name": "Kichok",
+    "latitude": 3.45764,
+    "longitude": 33.74772,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231497,
+    "name": "Kidepo National Park",
+    "latitude": 3.80919,
+    "longitude": 33.63187,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231426,
+    "name": "Kigorobya",
+    "latitude": 1.6162,
+    "longitude": 31.3089,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11865273,
+    "name": "Kigoti Island",
+    "latitude": 1.62738,
+    "longitude": 33.23264,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231406,
+    "name": "Kigumba",
+    "latitude": 1.80838,
+    "longitude": 32.00502,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231384,
+    "name": "Kihate",
+    "latitude": -1.18333,
+    "longitude": 29.71667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231383,
+    "name": "Kihihi",
+    "latitude": -0.75,
+    "longitude": 29.7,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7909188,
+    "name": "Kihuma",
+    "latitude": 0.40409,
+    "longitude": 29.95869,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231280,
+    "name": "Kikube",
+    "latitude": 1.35639,
+    "longitude": 31.22222,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230175,
+    "name": "Kilak",
+    "latitude": 3.0357,
+    "longitude": 31.97326,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8142252,
+    "name": "Kilak I",
+    "latitude": 3.0424,
+    "longitude": 31.9752,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8142253,
+    "name": "Kilak II",
+    "latitude": 3.03018,
+    "longitude": 31.97715,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231250,
+    "name": "Kilembe",
+    "latitude": 0.19835,
+    "longitude": 30.01302,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231228,
+    "name": "Kimi Island",
+    "latitude": -0.08333,
+    "longitude": 32.65,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230797,
+    "name": "Kinera",
+    "latitude": 0.56855,
+    "longitude": 30.08017,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231197,
+    "name": "Kinoni",
+    "latitude": -0.70111,
+    "longitude": 30.49389,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231192,
+    "name": "Kinoni Island",
+    "latitude": -0.68333,
+    "longitude": 31.3,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7909189,
+    "name": "Kinyangoma",
+    "latitude": 0.36673,
+    "longitude": 29.92638,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231165,
+    "name": "Kira",
+    "latitude": 0.4,
+    "longitude": 32.63333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231144,
+    "name": "Kiraza Island",
+    "latitude": 0.35,
+    "longitude": 31.93333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231140,
+    "name": "Kiregi Island",
+    "latitude": 0.10159,
+    "longitude": 33.47446,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231139,
+    "name": "Kireka",
+    "latitude": 0.3475,
+    "longitude": 32.64917,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231104,
+    "name": "Kirugu Island",
+    "latitude": -0.62028,
+    "longitude": 32.28694,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231103,
+    "name": "Kiruhura",
+    "latitude": -0.19664,
+    "longitude": 30.84446,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231083,
+    "name": "Kiryandongo",
+    "latitude": 1.87633,
+    "longitude": 32.06225,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13132714,
+    "name": "Kiryandongo Refugee Camp",
+    "latitude": 1.9399,
+    "longitude": 32.16605,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231057,
+    "name": "Kisana",
+    "latitude": -0.68333,
+    "longitude": 30.4,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231053,
+    "name": "Kisasa",
+    "latitude": -1.38333,
+    "longitude": 30.01667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11401834,
+    "name": "Kisengerwa",
+    "latitude": 0.67302,
+    "longitude": 30.24626,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231032,
+    "name": "Kishasha II",
+    "latitude": -0.5,
+    "longitude": 30.68333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231025,
+    "name": "Kisima Island",
+    "latitude": -0.03333,
+    "longitude": 32.63333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8629023,
+    "name": "Kisinga",
+    "latitude": 0.07684,
+    "longitude": 29.86832,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11430049,
+    "name": "Kisiro Island",
+    "latitude": 0.9412,
+    "longitude": 33.78303,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230993,
+    "name": "Kisoro",
+    "latitude": -1.28538,
+    "longitude": 29.68497,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230984,
+    "name": "Kisozi Island",
+    "latitude": -0.68333,
+    "longitude": 31.26667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230949,
+    "name": "Kitako Island",
+    "latitude": -0.15,
+    "longitude": 29.9,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8051533,
+    "name": "Kitamilo",
+    "latitude": 0.22215,
+    "longitude": 33.20608,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7909197,
+    "name": "Kitandara Lakes",
+    "latitude": 0.35016,
+    "longitude": 29.88655,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230907,
+    "name": "Kiteny",
+    "latitude": 3.53991,
+    "longitude": 33.40616,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230893,
+    "name": "Kitgum",
+    "latitude": 3.27833,
+    "longitude": 32.88667,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230883,
+    "name": "Kitobo Island",
+    "latitude": -0.25,
+    "longitude": 32.43333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230835,
+    "name": "Kitwa",
+    "latitude": -0.98333,
+    "longitude": 29.78333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230811,
+    "name": "Kiwa Island",
+    "latitude": 0.04782,
+    "longitude": 33.04264,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230769,
+    "name": "Kiyebe",
+    "latitude": -1.05,
+    "longitude": 29.83333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230756,
+    "name": "Kizhuro",
+    "latitude": -0.76667,
+    "longitude": 30.23333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230753,
+    "name": "Kiziba",
+    "latitude": 0.51389,
+    "longitude": 32.35056,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230725,
+    "name": "Koboko",
+    "latitude": 3.41364,
+    "longitude": 30.95994,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230717,
+    "name": "Kochemaluk",
+    "latitude": 2.18333,
+    "longitude": 34.35,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230708,
+    "name": "Kochomin",
+    "latitude": 2.04472,
+    "longitude": 34.31167,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230706,
+    "name": "Kodiakori",
+    "latitude": 2.11667,
+    "longitude": 34.33333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230687,
+    "name": "Kokoro",
+    "latitude": 3.75898,
+    "longitude": 33.96813,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8051535,
+    "name": "Kole",
+    "latitude": 2.40015,
+    "longitude": 32.80034,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230668,
+    "name": "Kome Island",
+    "latitude": -0.06139,
+    "longitude": 32.73417,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230663,
+    "name": "Komogwe Island",
+    "latitude": -0.2,
+    "longitude": 33.9,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230642,
+    "name": "Kopiyo",
+    "latitude": 2.55,
+    "longitude": 33.9,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8694134,
+    "name": "Korkopyo",
+    "latitude": 3.34099,
+    "longitude": 33.56976,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230621,
+    "name": "Koten",
+    "latitude": 3.08044,
+    "longitude": 34.44303,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230617,
+    "name": "Kotido",
+    "latitude": 2.98056,
+    "longitude": 34.13306,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230603,
+    "name": "Kuiye Island",
+    "latitude": -0.61194,
+    "longitude": 32.33417,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230584,
+    "name": "Kumi",
+    "latitude": 1.46083,
+    "longitude": 33.93611,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11356516,
+    "name": "Kyabirwa Falls",
+    "latitude": 0.49001,
+    "longitude": 33.15011,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230519,
+    "name": "Kyabwageya",
+    "latitude": 0.58333,
+    "longitude": 30.08333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13132715,
+    "name": "Kyaka II Refugee Camp",
+    "latitude": 0.36738,
+    "longitude": 31.10817,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230476,
+    "name": "Kyamahungu",
+    "latitude": -0.45139,
+    "longitude": 30.11333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11357716,
+    "name": "Kyanga Island",
+    "latitude": 0.04422,
+    "longitude": 32.98761,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230413,
+    "name": "Kyangabo",
+    "latitude": -1.21667,
+    "longitude": 30.05,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13132716,
+    "name": "Kyangwali Refugee Camp",
+    "latitude": 1.18807,
+    "longitude": 30.78281,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8051534,
+    "name": "Kyankwanzi",
+    "latitude": 1.20061,
+    "longitude": 31.80063,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230370,
+    "name": "Kyarusozi",
+    "latitude": 0.78417,
+    "longitude": 30.53111,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230348,
+    "name": "Kyazanga",
+    "latitude": -0.38333,
+    "longitude": 31.35,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230331,
+    "name": "Kyegegwa",
+    "latitude": 0.50222,
+    "longitude": 31.04139,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10858926,
+    "name": "Kyengera",
+    "latitude": 0.29517,
+    "longitude": 32.50159,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230299,
+    "name": "Kyenjojo",
+    "latitude": 0.63278,
+    "longitude": 30.62139,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230256,
+    "name": "Kyotera",
+    "latitude": -0.61556,
+    "longitude": 31.5175,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230235,
+    "name": "Lagorlukuju",
+    "latitude": 3.81871,
+    "longitude": 32.94318,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230231,
+    "name": "Lakalale",
+    "latitude": 2.65,
+    "longitude": 33.86667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 235484,
+    "name": "Lake Adois",
+    "latitude": 1.35,
+    "longitude": 33.55,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 235410,
+    "name": "Lake Aibapet",
+    "latitude": 1.84579,
+    "longitude": 33.87814,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 235399,
+    "name": "Lake Ajama",
+    "latitude": 1.6425,
+    "longitude": 33.74109,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226414,
+    "name": "Lake Bisina",
+    "latitude": 1.64618,
+    "longitude": 33.91487,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 234144,
+    "name": "Lake Bunyonyi",
+    "latitude": -1.28333,
+    "longitude": 29.91806,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233776,
+    "name": "Lake Bwara",
+    "latitude": -0.66667,
+    "longitude": 31.05,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233705,
+    "name": "Lake Chahafi",
+    "latitude": -1.35,
+    "longitude": 29.78333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233684,
+    "name": "Lake Chazhengye",
+    "latitude": -1.25,
+    "longitude": 29.76667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233438,
+    "name": "Lake Gawa",
+    "latitude": 1.43333,
+    "longitude": 33.7,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233418,
+    "name": "Lake Geme",
+    "latitude": 1.28333,
+    "longitude": 33.6,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233416,
+    "name": "Lake George",
+    "latitude": 0.04389,
+    "longitude": 30.14944,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233408,
+    "name": "Lake Gigati",
+    "latitude": 1.3,
+    "longitude": 33.53333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233060,
+    "name": "Lake Kabaleka",
+    "latitude": 0.25,
+    "longitude": 30.25,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232904,
+    "name": "Lake Kachira",
+    "latitude": -0.55892,
+    "longitude": 31.13182,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232871,
+    "name": "Lake Kadiko",
+    "latitude": 1.29278,
+    "longitude": 33.51722,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232190,
+    "name": "Lake Karengye",
+    "latitude": -0.90583,
+    "longitude": 30.12972,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232183,
+    "name": "Lake Karitima",
+    "latitude": -0.71667,
+    "longitude": 31.03333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232175,
+    "name": "Lake Karunga",
+    "latitude": -0.71667,
+    "longitude": 31.16667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232160,
+    "name": "Lake Kasago",
+    "latitude": 1.57048,
+    "longitude": 33.74746,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 232097,
+    "name": "Lake Kasasa",
+    "latitude": -0.73333,
+    "longitude": 30.95,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231753,
+    "name": "Lake Kawi",
+    "latitude": 1.18611,
+    "longitude": 33.63056,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231730,
+    "name": "Lake Kayanja",
+    "latitude": -0.28333,
+    "longitude": 31.86667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231700,
+    "name": "Lake Kayumba",
+    "latitude": -1.33333,
+    "longitude": 29.78333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231669,
+    "name": "Lake Kazuma",
+    "latitude": -0.68333,
+    "longitude": 31.01667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231361,
+    "name": "Lake Kijanebalola",
+    "latitude": -0.69417,
+    "longitude": 31.29694,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231169,
+    "name": "Lake Kiondo",
+    "latitude": 1.38333,
+    "longitude": 33.4,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231157,
+    "name": "Lake Kiretwa",
+    "latitude": -0.73333,
+    "longitude": 30.93333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 231113,
+    "name": "Lake Kirkpatrick",
+    "latitude": 2.38333,
+    "longitude": 33.9,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230841,
+    "name": "Lake Kitunda",
+    "latitude": -0.63333,
+    "longitude": 31.73333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11357749,
+    "name": "Lake Kizzi",
+    "latitude": 0.01903,
+    "longitude": 32.80461,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230715,
+    "name": "Lake Kochobo",
+    "latitude": 1.49263,
+    "longitude": 33.70983,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230696,
+    "name": "Lake Kojweri",
+    "latitude": 1.66667,
+    "longitude": 33.35,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230654,
+    "name": "Lake Komunua",
+    "latitude": 1.28333,
+    "longitude": 33.65,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230611,
+    "name": "Lake Kowidi",
+    "latitude": 1.73333,
+    "longitude": 33.41667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230564,
+    "name": "Lake Kwania",
+    "latitude": 1.71583,
+    "longitude": 32.70056,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230268,
+    "name": "Lake Kyoga",
+    "latitude": 1.4875,
+    "longitude": 32.845,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230182,
+    "name": "Lake Lemwa",
+    "latitude": 1.10944,
+    "longitude": 33.68722,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229572,
+    "name": "Lake Mabira",
+    "latitude": -0.48333,
+    "longitude": 30.55,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229399,
+    "name": "Lake Manywa",
+    "latitude": -0.33333,
+    "longitude": 31.83333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229235,
+    "name": "Lake Mburo",
+    "latitude": -0.65889,
+    "longitude": 30.93139,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7839148,
+    "name": "Lake Mburo National Park",
+    "latitude": -0.61349,
+    "longitude": 30.94174,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229228,
+    "name": "Lake Meito",
+    "latitude": 1.33333,
+    "longitude": 33.58333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229161,
+    "name": "Lake Mishera",
+    "latitude": -0.73333,
+    "longitude": 30.98333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228821,
+    "name": "Lake Mulehe",
+    "latitude": -1.21806,
+    "longitude": 29.72139,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228777,
+    "name": "Lake Murlu",
+    "latitude": 1.3,
+    "longitude": 33.4,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228713,
+    "name": "Lake Mutanda",
+    "latitude": -1.20861,
+    "longitude": 29.67528,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228697,
+    "name": "Lake Mutukura",
+    "latitude": -0.68333,
+    "longitude": 30.98333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228600,
+    "name": "Lake Nabigaga",
+    "latitude": 1.23333,
+    "longitude": 33.01667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228551,
+    "name": "Lake Nabugabo",
+    "latitude": -0.35705,
+    "longitude": 31.91254,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228432,
+    "name": "Lake Nakasanda",
+    "latitude": -0.83333,
+    "longitude": 30,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228415,
+    "name": "Lake Nakatenga",
+    "latitude": 1.16667,
+    "longitude": 33.55,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228344,
+    "name": "Lake Nakivali",
+    "latitude": -0.79374,
+    "longitude": 30.87364,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228329,
+    "name": "Lake Nakuwa",
+    "latitude": 1.16667,
+    "longitude": 33.46667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228236,
+    "name": "Lake Namasajeri",
+    "latitude": 1.35,
+    "longitude": 33.38333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228040,
+    "name": "Lake Nansonko",
+    "latitude": 1.03333,
+    "longitude": 33.71667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228021,
+    "name": "Lake Naragaga",
+    "latitude": 1.36778,
+    "longitude": 33.44806,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227973,
+    "name": "Lake Nawampasa",
+    "latitude": 1.26667,
+    "longitude": 33.35,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10375719,
+    "name": "Lake Nkuruba",
+    "latitude": 0.51679,
+    "longitude": 30.30297,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11401703,
+    "name": "Lake Nyabikora",
+    "latitude": 0.69573,
+    "longitude": 30.22206,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227526,
+    "name": "Lake Nyaguo",
+    "latitude": 1.325,
+    "longitude": 33.72278,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11402552,
+    "name": "Lake Nyahirya",
+    "latitude": 0.49895,
+    "longitude": 30.28644,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11402512,
+    "name": "Lake Nyamirima",
+    "latitude": 0.51959,
+    "longitude": 30.31842,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227390,
+    "name": "Lake Nyamunuka",
+    "latitude": -0.08333,
+    "longitude": 29.98333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11402550,
+    "name": "Lake Nyanswiga",
+    "latitude": 0.50656,
+    "longitude": 30.2875,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227338,
+    "name": "Lake Nyasala",
+    "latitude": 1.33333,
+    "longitude": 33.65,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11402555,
+    "name": "Lake Nyinabulita",
+    "latitude": 0.51072,
+    "longitude": 30.32337,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227223,
+    "name": "Lake Odwali",
+    "latitude": 1.61521,
+    "longitude": 33.75154,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11498004,
+    "name": "Lake Ojonga",
+    "latitude": 1.79761,
+    "longitude": 33.81096,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226988,
+    "name": "Lake Opare",
+    "latitude": 1.57083,
+    "longitude": 33.66471,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226984,
+    "name": "Lake Opeta",
+    "latitude": 1.625,
+    "longitude": 34.19167,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226896,
+    "name": "Lake Owapet",
+    "latitude": 1.75567,
+    "longitude": 33.88914,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226868,
+    "name": "Lake Pachoto",
+    "latitude": 1.35,
+    "longitude": 33.48333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226680,
+    "name": "Lake Rubi",
+    "latitude": 2.65142,
+    "longitude": 31.43512,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226672,
+    "name": "Lake Rubondo",
+    "latitude": -0.7,
+    "longitude": 31.06667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226598,
+    "name": "Lake Ruma",
+    "latitude": -0.71667,
+    "longitude": 31.01667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226426,
+    "name": "Lake Saka",
+    "latitude": 0.69188,
+    "longitude": 30.243,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226359,
+    "name": "Lake Semere",
+    "latitude": 1.63692,
+    "longitude": 33.76983,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 225943,
+    "name": "Lake Wamala",
+    "latitude": 0.32833,
+    "longitude": 31.84056,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230224,
+    "name": "Lalak",
+    "latitude": 3.61648,
+    "longitude": 32.76714,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230219,
+    "name": "Lambu Island",
+    "latitude": -0.31667,
+    "longitude": 32.03333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230184,
+    "name": "Lamej",
+    "latitude": 3.76368,
+    "longitude": 33.82533,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230211,
+    "name": "Lamwo",
+    "latitude": 3.64999,
+    "longitude": 32.89252,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11433199,
+    "name": "Laso Falls",
+    "latitude": 0.89411,
+    "longitude": 34.39646,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230189,
+    "name": "Lebu Island",
+    "latitude": -0.25,
+    "longitude": 33.08333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230173,
+    "name": "Limaiba Island",
+    "latitude": -0.31667,
+    "longitude": 32.46667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230170,
+    "name": "Linga Island",
+    "latitude": -0.58333,
+    "longitude": 32.2,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230169,
+    "name": "Lingira Island",
+    "latitude": 0.31831,
+    "longitude": 33.34615,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230166,
+    "name": "Lira",
+    "latitude": 2.2499,
+    "longitude": 32.89985,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230161,
+    "name": "Liru",
+    "latitude": 3.34915,
+    "longitude": 31.02278,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230160,
+    "name": "Lobaale",
+    "latitude": 3.11768,
+    "longitude": 34.4694,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230157,
+    "name": "Lobeluna",
+    "latitude": 3.68874,
+    "longitude": 33.97801,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8695793,
+    "name": "Lochibil",
+    "latitude": 3.69361,
+    "longitude": 33.56376,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8694126,
+    "name": "Lochomo",
+    "latitude": 3.43746,
+    "longitude": 33.64542,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230141,
+    "name": "Lodaja",
+    "latitude": 3.80169,
+    "longitude": 32.94239,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8715457,
+    "name": "Lodwa",
+    "latitude": 3.36495,
+    "longitude": 33.65038,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230110,
+    "name": "Lokapel",
+    "latitude": 3.46761,
+    "longitude": 33.76409,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230089,
+    "name": "Lokinene",
+    "latitude": 3.66073,
+    "longitude": 34.28348,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8695875,
+    "name": "Lokopel",
+    "latitude": 3.51558,
+    "longitude": 33.72105,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230075,
+    "name": "Lokoromilia",
+    "latitude": 3.61015,
+    "longitude": 33.63398,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8695868,
+    "name": "Lokukyamani",
+    "latitude": 3.53944,
+    "longitude": 33.67318,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8695873,
+    "name": "Lolem",
+    "latitude": 3.52097,
+    "longitude": 33.71473,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230050,
+    "name": "Lolim",
+    "latitude": 3.64996,
+    "longitude": 33.20424,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230047,
+    "name": "Lolui Island",
+    "latitude": -0.09694,
+    "longitude": 33.69306,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8695890,
+    "name": "Lomekede",
+    "latitude": 3.69785,
+    "longitude": 33.96684,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230038,
+    "name": "Lomil",
+    "latitude": 3.93333,
+    "longitude": 34.06667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8694131,
+    "name": "Lomina",
+    "latitude": 3.39799,
+    "longitude": 33.69277,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8694148,
+    "name": "Lomithink",
+    "latitude": 3.4086,
+    "longitude": 33.75167,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8699008,
+    "name": "Long",
+    "latitude": 3.79002,
+    "longitude": 33.85258,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230015,
+    "name": "Lopeichubei",
+    "latitude": 3.86987,
+    "longitude": 33.81912,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8698985,
+    "name": "Lopulia",
+    "latitude": 3.94741,
+    "longitude": 34.00075,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 230002,
+    "name": "Lorem",
+    "latitude": 3.81632,
+    "longitude": 32.97994,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229999,
+    "name": "Lorero",
+    "latitude": 3.2,
+    "longitude": 34.43333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229996,
+    "name": "Lorigem",
+    "latitude": 3.41675,
+    "longitude": 33.56733,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8695777,
+    "name": "Loruk",
+    "latitude": 3.70075,
+    "longitude": 33.55084,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229988,
+    "name": "Losil",
+    "latitude": 3.83744,
+    "longitude": 34.15011,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229979,
+    "name": "Lotim",
+    "latitude": 3.71986,
+    "longitude": 34.1158,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229972,
+    "name": "Lowakuj",
+    "latitude": 3.57342,
+    "longitude": 33.92804,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229971,
+    "name": "Lowapet",
+    "latitude": 3.91667,
+    "longitude": 34.06667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8695892,
+    "name": "Lowola",
+    "latitude": 3.69017,
+    "longitude": 33.97594,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229968,
+    "name": "Loychuka",
+    "latitude": 3.96667,
+    "longitude": 34.03333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229950,
+    "name": "Lubare",
+    "latitude": -0.36667,
+    "longitude": 30.15,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229933,
+    "name": "Lufu Island",
+    "latitude": 0.20616,
+    "longitude": 33.41638,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229911,
+    "name": "Lugazi",
+    "latitude": 0.36788,
+    "longitude": 32.9376,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229885,
+    "name": "Luhizha",
+    "latitude": -1.03333,
+    "longitude": 29.78333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229879,
+    "name": "Lujabwa Island",
+    "latitude": -0.68333,
+    "longitude": 32.18333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229874,
+    "name": "Lukalu Island",
+    "latitude": 0.04522,
+    "longitude": 33.00736,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229872,
+    "name": "Lukaya",
+    "latitude": -0.11306,
+    "longitude": 31.85389,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229870,
+    "name": "Luke Island",
+    "latitude": -0.18333,
+    "longitude": 32.3,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229865,
+    "name": "Lukiusa Island",
+    "latitude": -0.71667,
+    "longitude": 32.31667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8695755,
+    "name": "Lukole",
+    "latitude": 3.7039,
+    "longitude": 33.60045,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229848,
+    "name": "Luku",
+    "latitude": 2.88952,
+    "longitude": 31.08477,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229830,
+    "name": "Lula Island",
+    "latitude": -0.66667,
+    "longitude": 32.31667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229829,
+    "name": "Lulamba Island",
+    "latitude": -0.18556,
+    "longitude": 32.31194,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11357714,
+    "name": "Lulanda Island",
+    "latitude": 0.08069,
+    "longitude": 32.96442,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229824,
+    "name": "Lulengyeri",
+    "latitude": -1.16667,
+    "longitude": 30.01667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229811,
+    "name": "Lumva Island",
+    "latitude": -0.23333,
+    "longitude": 32.21667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229809,
+    "name": "Lunfuwa Island",
+    "latitude": -0.11667,
+    "longitude": 32.7,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11357615,
+    "name": "Lunkulu Island",
+    "latitude": 0.17644,
+    "longitude": 32.88597,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229807,
+    "name": "Luntwa Island",
+    "latitude": -0.28333,
+    "longitude": 32.06667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11401985,
+    "name": "Lusenene",
+    "latitude": 0.57255,
+    "longitude": 30.21934,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229789,
+    "name": "Luserera Island",
+    "latitude": -0.45,
+    "longitude": 32.46667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8051538,
+    "name": "Luuka Town",
+    "latitude": 0.70076,
+    "longitude": 33.3002,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229759,
+    "name": "Luvangu Island",
+    "latitude": 0.17622,
+    "longitude": 33.6994,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229758,
+    "name": "Luvia Island",
+    "latitude": 0.04615,
+    "longitude": 33.47466,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229746,
+    "name": "Luwero",
+    "latitude": 0.84917,
+    "longitude": 32.47306,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229737,
+    "name": "Luwungulu Island",
+    "latitude": -0.41667,
+    "longitude": 32.16667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11357717,
+    "name": "Lwabagenge Island",
+    "latitude": 0.04208,
+    "longitude": 32.98427,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229723,
+    "name": "Lwabalega Island",
+    "latitude": -0.5,
+    "longitude": 32.2,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229722,
+    "name": "Lwabana Island",
+    "latitude": -0.31667,
+    "longitude": 32.05,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229713,
+    "name": "Lwaji Island",
+    "latitude": 0.04306,
+    "longitude": 32.895,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229708,
+    "name": "Lwakyomba",
+    "latitude": 1.11667,
+    "longitude": 31.4,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229704,
+    "name": "Lwala",
+    "latitude": 3.7,
+    "longitude": 34.01667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229657,
+    "name": "Lwantete Island",
+    "latitude": -0.25,
+    "longitude": 32.46667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229630,
+    "name": "Lwengo",
+    "latitude": -0.41611,
+    "longitude": 31.40806,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229607,
+    "name": "Lyabana Island",
+    "latitude": -0.2,
+    "longitude": 33.16667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229599,
+    "name": "Lyantonde",
+    "latitude": -0.40306,
+    "longitude": 31.15722,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229587,
+    "name": "Mabanda Islets",
+    "latitude": -0.5,
+    "longitude": 32.28333,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229580,
+    "name": "Mabare",
+    "latitude": -0.96667,
+    "longitude": 30.45,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229547,
+    "name": "Madi Opei",
+    "latitude": 3.68632,
+    "longitude": 33.09905,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229541,
+    "name": "Mafuga",
+    "latitude": -1.01667,
+    "longitude": 29.86667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229530,
+    "name": "Magamaga",
+    "latitude": 0.5196,
+    "longitude": 33.34687,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11401829,
+    "name": "Magunu",
+    "latitude": 0.64717,
+    "longitude": 30.23601,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229479,
+    "name": "Makalugi Island",
+    "latitude": 0.0723,
+    "longitude": 33.47276,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229450,
+    "name": "Makusu Island",
+    "latitude": 0.15146,
+    "longitude": 32.63418,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11356209,
+    "name": "Mala Island",
+    "latitude": 0.24318,
+    "longitude": 33.38426,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8629414,
+    "name": "Malaba",
+    "latitude": 0.64444,
+    "longitude": 34.26056,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7911406,
+    "name": "Manafwa",
+    "latitude": 0.952,
+    "longitude": 34.27,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229415,
+    "name": "Manda",
+    "latitude": -0.71667,
+    "longitude": 30.31667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229397,
+    "name": "Maracha",
+    "latitude": 3.27042,
+    "longitude": 30.95532,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229394,
+    "name": "Marangara",
+    "latitude": -0.23333,
+    "longitude": 30.36667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229392,
+    "name": "Marija Island",
+    "latitude": 0.07009,
+    "longitude": 33.08738,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229380,
+    "name": "Masaka",
+    "latitude": -0.33379,
+    "longitude": 31.73409,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229362,
+    "name": "Masindi",
+    "latitude": 1.67444,
+    "longitude": 31.715,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229361,
+    "name": "Masindi Port",
+    "latitude": 1.69606,
+    "longitude": 32.08608,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229357,
+    "name": "Masiwa Island",
+    "latitude": -0.03333,
+    "longitude": 33.61667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11357680,
+    "name": "Masovwi Island",
+    "latitude": 0.10629,
+    "longitude": 32.85934,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229317,
+    "name": "Maundu Islands",
+    "latitude": 0.41864,
+    "longitude": 33.2722,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229316,
+    "name": "Maungwe Island",
+    "latitude": -0.01667,
+    "longitude": 32.86667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229315,
+    "name": "Mavi Island",
+    "latitude": 0.17195,
+    "longitude": 33.32751,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229307,
+    "name": "Mawe Island",
+    "latitude": -0.55,
+    "longitude": 32.25,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229293,
+    "name": "Mayinja Island",
+    "latitude": 0.14163,
+    "longitude": 32.60569,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229292,
+    "name": "Mayuge",
+    "latitude": 0.45972,
+    "longitude": 33.48028,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229278,
+    "name": "Mbale",
+    "latitude": 1.08209,
+    "longitude": 34.17503,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229268,
+    "name": "Mbarara",
+    "latitude": -0.60467,
+    "longitude": 30.64851,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229254,
+    "name": "Mbirubuziba Island",
+    "latitude": 0.03306,
+    "longitude": 32.58828,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229252,
+    "name": "Mbive Island",
+    "latitude": -0.6,
+    "longitude": 32.25,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229237,
+    "name": "Mbulamwalo Island",
+    "latitude": -0.1,
+    "longitude": 33.23333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11401827,
+    "name": "Mbuzi",
+    "latitude": 0.6636,
+    "longitude": 30.24659,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8173979,
+    "name": "Meri",
+    "latitude": 3.51824,
+    "longitude": 32.30527,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11356264,
+    "name": "Meru Islets",
+    "latitude": 0.15767,
+    "longitude": 33.23219,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7839167,
+    "name": "Mgahinga Gorilla National Park",
+    "latitude": -1.36667,
+    "longitude": 29.65,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229193,
+    "name": "Milimba",
+    "latitude": 0.33333,
+    "longitude": 30.03333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229187,
+    "name": "Mingaro",
+    "latitude": 3.76684,
+    "longitude": 32.91812,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229144,
+    "name": "Mitoma",
+    "latitude": -0.68417,
+    "longitude": 30.07,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11401707,
+    "name": "Mitomi",
+    "latitude": 0.69206,
+    "longitude": 30.20724,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229141,
+    "name": "Mitusi Islets",
+    "latitude": -0.61667,
+    "longitude": 32.3,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229139,
+    "name": "Mityana",
+    "latitude": 0.4175,
+    "longitude": 32.02278,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229134,
+    "name": "Mkovu Island",
+    "latitude": -0.53333,
+    "longitude": 32.28333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229132,
+    "name": "Mogandu",
+    "latitude": -1.43333,
+    "longitude": 29.93333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7909190,
+    "name": "Moore",
+    "latitude": 0.36902,
+    "longitude": 29.90541,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229111,
+    "name": "Moroto",
+    "latitude": 2.52601,
+    "longitude": 34.77443,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8695869,
+    "name": "Morukoyani",
+    "latitude": 3.53843,
+    "longitude": 33.67961,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229081,
+    "name": "Morungole",
+    "latitude": 3.81667,
+    "longitude": 34.03333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229067,
+    "name": "Motoro",
+    "latitude": 3.19139,
+    "longitude": 34.41056,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 448235,
+    "name": "Mount Elgon",
+    "latitude": 1.13712,
+    "longitude": 34.54061,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7839150,
+    "name": "Mount Elgon National Park (Uganda)",
+    "latitude": 1.19082,
+    "longitude": 34.41982,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233414,
+    "name": "Mount Gessi",
+    "latitude": 0.42209,
+    "longitude": 29.91786,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229880,
+    "name": "Mount Luigi di Savoia",
+    "latitude": 0.33449,
+    "longitude": 29.89109,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226220,
+    "name": "Mount Speke",
+    "latitude": 0.40182,
+    "longitude": 29.89223,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229059,
+    "name": "Moyo",
+    "latitude": 3.66088,
+    "longitude": 31.72474,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229045,
+    "name": "Mpande Island",
+    "latitude": -0.06667,
+    "longitude": 33.15,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229040,
+    "name": "Mpanga",
+    "latitude": 1.25,
+    "longitude": 31.1,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229029,
+    "name": "Mpata Island",
+    "latitude": 0.12249,
+    "longitude": 33.13983,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229024,
+    "name": "Mpigi",
+    "latitude": 0.225,
+    "longitude": 32.31361,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229006,
+    "name": "Mpondwe",
+    "latitude": 0.04008,
+    "longitude": 29.7248,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228999,
+    "name": "Mpuga Island",
+    "latitude": 0.21139,
+    "longitude": 33.18667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228997,
+    "name": "Mpugwe Island",
+    "latitude": -0.38333,
+    "longitude": 32.41667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228982,
+    "name": "Mpungu",
+    "latitude": -1.05,
+    "longitude": 29.91667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11356464,
+    "name": "Mpuni Island",
+    "latitude": 0.31735,
+    "longitude": 33.36039,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228977,
+    "name": "Msandama",
+    "latitude": 0.74891,
+    "longitude": 30.17023,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 9072542,
+    "name": "Mt. Elgon National Park",
+    "latitude": 1.1185,
+    "longitude": 34.5265,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228975,
+    "name": "Mubale",
+    "latitude": -1.01667,
+    "longitude": 29.6,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228971,
+    "name": "Mubende",
+    "latitude": 0.55849,
+    "longitude": 31.39489,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228966,
+    "name": "Mubiyi",
+    "latitude": 1.12417,
+    "longitude": 34.57111,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228948,
+    "name": "Muendo",
+    "latitude": -1.26667,
+    "longitude": 30.11667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228934,
+    "name": "Mugei",
+    "latitude": 3.52641,
+    "longitude": 34.26655,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228915,
+    "name": "Mugulunga",
+    "latitude": 0.25,
+    "longitude": 29.83333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228898,
+    "name": "Muhito",
+    "latitude": -0.71667,
+    "longitude": 30.13333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228896,
+    "name": "Muhoko",
+    "latitude": -1.03333,
+    "longitude": 29.85,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11401885,
+    "name": "Muhorra",
+    "latitude": 0.61512,
+    "longitude": 30.24567,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11496345,
+    "name": "Muhorro",
+    "latitude": 0.91513,
+    "longitude": 30.75078,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228877,
+    "name": "Mukalanga Island",
+    "latitude": -0.48333,
+    "longitude": 32.23333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11865275,
+    "name": "Mukankada Island",
+    "latitude": 1.62568,
+    "longitude": 33.24751,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228853,
+    "name": "Mukono",
+    "latitude": 0.35333,
+    "longitude": 32.75528,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228842,
+    "name": "Mukungu",
+    "latitude": -1.15,
+    "longitude": 29.7,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228816,
+    "name": "Mulinda",
+    "latitude": 0.41667,
+    "longitude": 30.11667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228802,
+    "name": "Munene Island",
+    "latitude": -0.15,
+    "longitude": 33.75,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228791,
+    "name": "Munyoni",
+    "latitude": -0.25958,
+    "longitude": 30.23542,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 229116,
+    "name": "Mura",
+    "latitude": 3.15161,
+    "longitude": 33.22237,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 233063,
+    "name": "Murchison Falls",
+    "latitude": 2.27754,
+    "longitude": 31.68385,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 448238,
+    "name": "Murchison Falls National Park",
+    "latitude": 2.24573,
+    "longitude": 31.90699,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228757,
+    "name": "Musambwa Islands",
+    "latitude": -0.78333,
+    "longitude": 31.76667,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228756,
+    "name": "Musambwa Twin Islands",
+    "latitude": -0.78333,
+    "longitude": 31.76667,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228752,
+    "name": "Musanje",
+    "latitude": -1.06667,
+    "longitude": 29.85,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228746,
+    "name": "Musene Island",
+    "latitude": 0.11838,
+    "longitude": 33.50024,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228738,
+    "name": "Musharazezi",
+    "latitude": -0.9,
+    "longitude": 30.65,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11357756,
+    "name": "Mutyomu Island",
+    "latitude": 0.04365,
+    "longitude": 32.77568,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228676,
+    "name": "Muyebe",
+    "latitude": -1.31667,
+    "longitude": 30.05,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228658,
+    "name": "Muzoa",
+    "latitude": 1.26667,
+    "longitude": 34.58333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228655,
+    "name": "Mwama Island",
+    "latitude": -0.05,
+    "longitude": 33.15,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228652,
+    "name": "Mwana Island",
+    "latitude": -0.73333,
+    "longitude": 32.26667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228631,
+    "name": "Mweza Island",
+    "latitude": -0.36667,
+    "longitude": 32.06667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228628,
+    "name": "Mwihibagiro",
+    "latitude": -1.01667,
+    "longitude": 29.98333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228625,
+    "name": "Mwinoni",
+    "latitude": -1.15,
+    "longitude": 29.68333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228607,
+    "name": "Nabakete",
+    "latitude": 1.46667,
+    "longitude": 31.05,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11356367,
+    "name": "Nagembiruwa Island",
+    "latitude": 0.05331,
+    "longitude": 33.04935,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228502,
+    "name": "Nagongera",
+    "latitude": 0.7616,
+    "longitude": 34.02623,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228491,
+    "name": "Nainaivi Island",
+    "latitude": 0.05037,
+    "longitude": 33.60738,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228464,
+    "name": "Nakadapalait",
+    "latitude": 3.46756,
+    "longitude": 34.34691,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228448,
+    "name": "Nakaloke",
+    "latitude": 1.15,
+    "longitude": 34.15,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 448226,
+    "name": "Nakapiripirit",
+    "latitude": 1.91667,
+    "longitude": 34.78333,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228437,
+    "name": "Nakarach",
+    "latitude": 3.69802,
+    "longitude": 34.36317,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228429,
+    "name": "Nakaseke",
+    "latitude": 0.75167,
+    "longitude": 32.385,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228418,
+    "name": "Nakasongola",
+    "latitude": 1.30889,
+    "longitude": 32.45639,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8581615,
+    "name": "Nakivale Refugee Camp",
+    "latitude": -0.74064,
+    "longitude": 30.99632,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 443174,
+    "name": "Namalusu Island",
+    "latitude": 0.27085,
+    "longitude": 32.65684,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228245,
+    "name": "Namama Island",
+    "latitude": -0.26667,
+    "longitude": 32.06667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228240,
+    "name": "Namaranda Island",
+    "latitude": 1.31667,
+    "longitude": 33.45,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228235,
+    "name": "Namasajeri Island",
+    "latitude": 1.31667,
+    "longitude": 33.36667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11356774,
+    "name": "Namasimbi Island",
+    "latitude": 0.24857,
+    "longitude": 33.2066,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228227,
+    "name": "Namasuba",
+    "latitude": 0.68944,
+    "longitude": 32.42139,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228226,
+    "name": "Namasuli",
+    "latitude": 0.16667,
+    "longitude": 29.98333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11259341,
+    "name": "Namavundu",
+    "latitude": 0.36402,
+    "longitude": 33.81759,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8051532,
+    "name": "Namayingo",
+    "latitude": 0.23983,
+    "longitude": 33.88491,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228214,
+    "name": "Namayumba",
+    "latitude": 0.52889,
+    "longitude": 32.24861,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228198,
+    "name": "Nambewa Island",
+    "latitude": 0.09801,
+    "longitude": 33.88924,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11357745,
+    "name": "Nambu",
+    "latitude": 0.02121,
+    "longitude": 32.82702,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228190,
+    "name": "Nambuga Island",
+    "latitude": 0.14519,
+    "longitude": 33.53205,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228168,
+    "name": "Namite Island",
+    "latitude": 0.08326,
+    "longitude": 33.49176,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228167,
+    "name": "Namomoi",
+    "latitude": 3.43496,
+    "longitude": 34.36369,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228150,
+    "name": "Namubega Island",
+    "latitude": -0.31667,
+    "longitude": 32.13333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228107,
+    "name": "Namuremuka Island",
+    "latitude": 1.4952,
+    "longitude": 33.07715,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228094,
+    "name": "Namutumba",
+    "latitude": 0.83611,
+    "longitude": 33.68611,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228072,
+    "name": "Nangara",
+    "latitude": -0.93333,
+    "longitude": 29.88333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10943053,
+    "name": "Nansana",
+    "latitude": 0.36389,
+    "longitude": 32.52861,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228032,
+    "name": "Napak",
+    "latitude": 2.06667,
+    "longitude": 34.28333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11210398,
+    "name": "Napak-Agkala Pass",
+    "latitude": 2.90013,
+    "longitude": 34.63254,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228027,
+    "name": "Napono",
+    "latitude": 2.93333,
+    "longitude": 33.56667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8695752,
+    "name": "Naposimoru",
+    "latitude": 3.72844,
+    "longitude": 33.5293,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 228019,
+    "name": "Naringepak",
+    "latitude": 3.75867,
+    "longitude": 33.55702,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8695867,
+    "name": "Nawolapak",
+    "latitude": 3.55038,
+    "longitude": 33.69065,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227904,
+    "name": "Nebbi",
+    "latitude": 2.47826,
+    "longitude": 31.08893,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227898,
+    "name": "Nfo Island",
+    "latitude": 0.00175,
+    "longitude": 32.43414,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227896,
+    "name": "Ngabo Island",
+    "latitude": -0.53333,
+    "longitude": 32.28333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227894,
+    "name": "Ngamba Island",
+    "latitude": -0.1,
+    "longitude": 32.65,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227887,
+    "name": "Ngara",
+    "latitude": -0.95,
+    "longitude": 29.76667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227875,
+    "name": "Ngezi",
+    "latitude": -1.2,
+    "longitude": 29.85,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227874,
+    "name": "Ngirisi",
+    "latitude": -1.1,
+    "longitude": 29.68333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227843,
+    "name": "Ngora",
+    "latitude": 1.43139,
+    "longitude": 33.77722,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227827,
+    "name": "Niarhuti",
+    "latitude": -0.9,
+    "longitude": 30.96667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227816,
+    "name": "Njembe",
+    "latitude": -0.26667,
+    "longitude": 30.45,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227812,
+    "name": "Njeru",
+    "latitude": 0.44166,
+    "longitude": 33.17917,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227794,
+    "name": "Nkata Island",
+    "latitude": -0.05,
+    "longitude": 33.18333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227790,
+    "name": "Nkese Island",
+    "latitude": -0.31667,
+    "longitude": 32.71667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227778,
+    "name": "Nkoma",
+    "latitude": 0.3,
+    "longitude": 30.61667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227759,
+    "name": "Nkose Island",
+    "latitude": -0.70111,
+    "longitude": 32.27917,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227741,
+    "name": "Nkusa Island",
+    "latitude": -0.45,
+    "longitude": 32.35,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11357535,
+    "name": "Nkuzi Island",
+    "latitude": 0.04623,
+    "longitude": 32.50987,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227721,
+    "name": "Nowanila",
+    "latitude": 0.70822,
+    "longitude": 30.15055,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227716,
+    "name": "Nsadzi Island",
+    "latitude": -0.08333,
+    "longitude": 32.6,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227687,
+    "name": "Nsenyi Island",
+    "latitude": 0.17458,
+    "longitude": 32.58282,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227681,
+    "name": "Nshungyezi",
+    "latitude": -0.95,
+    "longitude": 30.73333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227680,
+    "name": "Nsika",
+    "latitude": -0.358,
+    "longitude": 30.43136,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227675,
+    "name": "Nsimba Island",
+    "latitude": -0.03333,
+    "longitude": 33.18333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227672,
+    "name": "Nsinga Island",
+    "latitude": -0.05,
+    "longitude": 33.25,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227668,
+    "name": "Nsirwe Island",
+    "latitude": -0.25,
+    "longitude": 32.5,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227658,
+    "name": "Nsonga Island",
+    "latitude": -0.01667,
+    "longitude": 32.35,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227618,
+    "name": "Ntendule",
+    "latitude": -1.01667,
+    "longitude": 29.71667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227611,
+    "name": "Ntimba Island",
+    "latitude": 1.4,
+    "longitude": 32.75,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11357757,
+    "name": "Ntokwe Island",
+    "latitude": 0.03526,
+    "longitude": 32.77329,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227608,
+    "name": "Ntoma",
+    "latitude": -0.81667,
+    "longitude": 30.28333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227605,
+    "name": "Ntoroko",
+    "latitude": 1.04111,
+    "longitude": 30.48111,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227602,
+    "name": "Ntsinda",
+    "latitude": -0.1,
+    "longitude": 30.31667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227592,
+    "name": "Ntungamo",
+    "latitude": -0.88333,
+    "longitude": 29.65,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227577,
+    "name": "Nvuza Island",
+    "latitude": 0.14052,
+    "longitude": 33.34286,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 448243,
+    "name": "Nwoya",
+    "latitude": 2.63422,
+    "longitude": 32.00106,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227566,
+    "name": "Nyabikenke",
+    "latitude": -1.11667,
+    "longitude": 29.65,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227533,
+    "name": "Nyabwigyegyeza",
+    "latitude": -1.18333,
+    "longitude": 29.76667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227531,
+    "name": "Nyabwishenyi",
+    "latitude": -1.08333,
+    "longitude": 29.63333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227528,
+    "name": "Nyachera",
+    "latitude": -0.9,
+    "longitude": 30.41667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227525,
+    "name": "Nyahuka",
+    "latitude": 0.675,
+    "longitude": 29.9926,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227522,
+    "name": "Nyaigulu",
+    "latitude": -1.06667,
+    "longitude": 29.78333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11401802,
+    "name": "Nyakarongo",
+    "latitude": 0.64992,
+    "longitude": 30.15714,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11401726,
+    "name": "Nyakasura",
+    "latitude": 0.67337,
+    "longitude": 30.21686,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227458,
+    "name": "Nyakiriro",
+    "latitude": -1.25,
+    "longitude": 30.13333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11401986,
+    "name": "Nyakisi",
+    "latitude": 0.57377,
+    "longitude": 30.24415,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227446,
+    "name": "Nyakwai",
+    "latitude": 2.51667,
+    "longitude": 33.91667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227422,
+    "name": "Nyamatovu",
+    "latitude": 0.79527,
+    "longitude": 30.17929,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227418,
+    "name": "Nyambatabata",
+    "latitude": -1.1,
+    "longitude": 29.76667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227411,
+    "name": "Nyamichuchu",
+    "latitude": -1.06667,
+    "longitude": 29.83333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227402,
+    "name": "Nyamitsindo",
+    "latitude": -0.66667,
+    "longitude": 30.8,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13132717,
+    "name": "Nyamunuka",
+    "latitude": -0.83487,
+    "longitude": 30.09216,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227381,
+    "name": "Nyamyalilo",
+    "latitude": 0.25125,
+    "longitude": 29.91792,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227376,
+    "name": "Nyanfuko",
+    "latitude": 1.38333,
+    "longitude": 30.95,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227364,
+    "name": "Nyankubebe",
+    "latitude": 1.15,
+    "longitude": 30.68333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227346,
+    "name": "Nyarulambe",
+    "latitude": -1.23333,
+    "longitude": 29.78333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227342,
+    "name": "Nyaruwari",
+    "latitude": -1.05,
+    "longitude": 30.05,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227326,
+    "name": "Nyenda Island",
+    "latitude": 0.19667,
+    "longitude": 33.17139,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227320,
+    "name": "Nyeri",
+    "latitude": 3.79268,
+    "longitude": 31.82444,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227306,
+    "name": "Nyundo",
+    "latitude": -0.95,
+    "longitude": 29.81667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227300,
+    "name": "Nziribanje Island",
+    "latitude": 0.07172,
+    "longitude": 32.64347,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226078,
+    "name": "Odyaa",
+    "latitude": 3.78093,
+    "longitude": 33.05781,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227210,
+    "name": "Ogili",
+    "latitude": 3.18494,
+    "longitude": 33.28187,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227173,
+    "name": "Okagu",
+    "latitude": 3.68966,
+    "longitude": 32.95701,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 235376,
+    "name": "Okaka",
+    "latitude": 3.14249,
+    "longitude": 33.06052,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227161,
+    "name": "Okiji Island",
+    "latitude": 1.62837,
+    "longitude": 33.15775,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7909199,
+    "name": "Okubara",
+    "latitude": 0.29376,
+    "longitude": 29.86596,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7909198,
+    "name": "Okuhandika",
+    "latitude": 0.311,
+    "longitude": 29.87304,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227133,
+    "name": "Okusoma",
+    "latitude": 0.31747,
+    "longitude": 29.87342,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227117,
+    "name": "Old Rom",
+    "latitude": 3.37608,
+    "longitude": 33.59455,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 227094,
+    "name": "Oliva Falls",
+    "latitude": 2.93384,
+    "longitude": 30.91567,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226996,
+    "name": "Oniangoli",
+    "latitude": 3.8,
+    "longitude": 31.83333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8198328,
+    "name": "Opit",
+    "latitude": 2.61112,
+    "longitude": 32.47559,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8051536,
+    "name": "Otuke",
+    "latitude": 2.50038,
+    "longitude": 33.50065,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226910,
+    "name": "Otukei",
+    "latitude": 2.5,
+    "longitude": 33.58333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226906,
+    "name": "Otzi",
+    "latitude": 3.61881,
+    "longitude": 31.85389,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7911407,
+    "name": "Oyam",
+    "latitude": 2.235,
+    "longitude": 32.38495,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 448227,
+    "name": "Pader",
+    "latitude": 3.05,
+    "longitude": 33.21667,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226866,
+    "name": "Pader Palwo",
+    "latitude": 2.80056,
+    "longitude": 33.135,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226853,
+    "name": "Paidha",
+    "latitude": 2.41669,
+    "longitude": 30.98551,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226836,
+    "name": "Pakuen",
+    "latitude": 3.4355,
+    "longitude": 33.61455,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226835,
+    "name": "Pakwach",
+    "latitude": 2.46335,
+    "longitude": 31.49832,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226823,
+    "name": "Pallisa",
+    "latitude": 1.145,
+    "longitude": 33.70944,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226796,
+    "name": "Parabongo",
+    "latitude": 3.07263,
+    "longitude": 33.34275,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226752,
+    "name": "Pogonga",
+    "latitude": 3.76136,
+    "longitude": 32.79617,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226745,
+    "name": "Portal Peaks",
+    "latitude": 0.40119,
+    "longitude": 29.95492,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226732,
+    "name": "Puta",
+    "latitude": 3.75932,
+    "longitude": 34.1039,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226541,
+    "name": "Queen Elizabeth National Park",
+    "latitude": -0.25,
+    "longitude": 30.18639,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226731,
+    "name": "Rabongo",
+    "latitude": 2.12778,
+    "longitude": 31.94824,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226727,
+    "name": "Rakai",
+    "latitude": -0.72,
+    "longitude": 31.48389,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226726,
+    "name": "Ramafuta Island",
+    "latitude": 0.35434,
+    "longitude": 33.2605,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12420819,
+    "name": "Ripon Falls",
+    "latitude": 0.43291,
+    "longitude": 33.19157,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226715,
+    "name": "Riwa",
+    "latitude": 1.35,
+    "longitude": 34.78333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226709,
+    "name": "Rom",
+    "latitude": 3.39272,
+    "longitude": 33.61348,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226707,
+    "name": "Rom III",
+    "latitude": 3.4,
+    "longitude": 33.61667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226701,
+    "name": "Ruachibi",
+    "latitude": -1.11667,
+    "longitude": 30.01667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226696,
+    "name": "Ruato",
+    "latitude": 0.19117,
+    "longitude": 29.85801,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226695,
+    "name": "Rubaare",
+    "latitude": -1.08389,
+    "longitude": 30.20167,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226690,
+    "name": "Rubanda",
+    "latitude": -1.18833,
+    "longitude": 29.84611,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226681,
+    "name": "Rubeya",
+    "latitude": -0.71667,
+    "longitude": 30.66667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226676,
+    "name": "Rubirizi",
+    "latitude": -0.29889,
+    "longitude": 30.13361,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226653,
+    "name": "Rugarama",
+    "latitude": -0.86667,
+    "longitude": 30.61667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226612,
+    "name": "Rukenga",
+    "latitude": 0.32042,
+    "longitude": 29.92958,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226600,
+    "name": "Rukungiri",
+    "latitude": -0.84111,
+    "longitude": 29.94194,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226575,
+    "name": "Rusho",
+    "latitude": -1.08333,
+    "longitude": 29.7,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226561,
+    "name": "Rutebe",
+    "latitude": -0.45,
+    "longitude": 30.36667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226554,
+    "name": "Rutoma",
+    "latitude": -0.56667,
+    "longitude": 30.38333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226526,
+    "name": "Rwakatwaro",
+    "latitude": -1.23333,
+    "longitude": 29.8,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226519,
+    "name": "Rwamahano",
+    "latitude": -1.25,
+    "longitude": 29.81667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226511,
+    "name": "Rwampungu",
+    "latitude": -0.98333,
+    "longitude": 30.65,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226506,
+    "name": "Rwamunyonyi",
+    "latitude": -1.08333,
+    "longitude": 29.83333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13132719,
+    "name": "Rwamwanja Refugee Camp",
+    "latitude": 0.34801,
+    "longitude": 30.65427,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226502,
+    "name": "Rwangirire",
+    "latitude": 1.1,
+    "longitude": 30.66667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226477,
+    "name": "Rwemiaga",
+    "latitude": -0.93333,
+    "longitude": 30.55,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6942157,
+    "name": "Rwenzori Mountains National Park",
+    "latitude": 0.2236,
+    "longitude": 29.9242,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226428,
+    "name": "Sagitu Island",
+    "latitude": -0.00184,
+    "longitude": 33.66771,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226415,
+    "name": "Sali Island",
+    "latitude": -0.08333,
+    "longitude": 32.2,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226404,
+    "name": "Samoka Island",
+    "latitude": 0.43389,
+    "longitude": 33.25611,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226395,
+    "name": "Sanga Island",
+    "latitude": 0.191,
+    "longitude": 33.3257,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226371,
+    "name": "Segamba Island",
+    "latitude": -0.01667,
+    "longitude": 32.91667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226369,
+    "name": "Sege Island",
+    "latitude": 0.06889,
+    "longitude": 33.10167,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7909194,
+    "name": "Sella",
+    "latitude": 0.3343,
+    "longitude": 29.8917,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226361,
+    "name": "Sembabule",
+    "latitude": -0.07722,
+    "longitude": 31.45667,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226350,
+    "name": "Semuganja Islands",
+    "latitude": -0.31667,
+    "longitude": 32.36667,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226349,
+    "name": "Semuganja Omunene",
+    "latitude": -0.33333,
+    "longitude": 32.36667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226348,
+    "name": "Semuganja Omutono",
+    "latitude": -0.31667,
+    "longitude": 32.35,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7839151,
+    "name": "Semuliki National Park",
+    "latitude": 0.82181,
+    "longitude": 30.06253,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226337,
+    "name": "Sentwe Island",
+    "latitude": 0.04406,
+    "longitude": 32.9736,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226330,
+    "name": "Serere",
+    "latitude": 1.49417,
+    "longitude": 33.45528,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226324,
+    "name": "Serinya Island",
+    "latitude": -0.23417,
+    "longitude": 32.35639,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226321,
+    "name": "Sese Islands",
+    "latitude": -0.31306,
+    "longitude": 32.31861,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11357293,
+    "name": "Sezibwa Falls",
+    "latitude": 0.35572,
+    "longitude": 32.86297,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226311,
+    "name": "Shisha",
+    "latitude": -0.93333,
+    "longitude": 29.93333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226301,
+    "name": "Sigulu Island",
+    "latitude": 0.10159,
+    "longitude": 33.80719,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226299,
+    "name": "Sikanki Island",
+    "latitude": -0.06667,
+    "longitude": 30.21667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226288,
+    "name": "Simba Falls",
+    "latitude": 0.73333,
+    "longitude": 33.05,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226282,
+    "name": "Simu Island",
+    "latitude": 0.13972,
+    "longitude": 33.6036,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226281,
+    "name": "Sindiro Island",
+    "latitude": 0.15944,
+    "longitude": 33.13639,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226280,
+    "name": "Singiro",
+    "latitude": -0.26667,
+    "longitude": 30.5,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11356285,
+    "name": "Sira Island",
+    "latitude": 0.15137,
+    "longitude": 33.15117,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226268,
+    "name": "Siro Island",
+    "latitude": -0.13333,
+    "longitude": 33.86667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226267,
+    "name": "Sironko",
+    "latitude": 1.23132,
+    "longitude": 34.24773,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226249,
+    "name": "Sogwass",
+    "latitude": 3.67053,
+    "longitude": 34.37153,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226234,
+    "name": "Soroti",
+    "latitude": 1.71464,
+    "longitude": 33.61113,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226226,
+    "name": "South Musambwa Island",
+    "latitude": -0.78333,
+    "longitude": 31.78333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226223,
+    "name": "Sowe Island",
+    "latitude": 0.15942,
+    "longitude": 32.64891,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226198,
+    "name": "Susok",
+    "latitude": 1.83333,
+    "longitude": 34.8,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226178,
+    "name": "Tavu Island",
+    "latitude": -0.03333,
+    "longitude": 32.7,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226148,
+    "name": "Thokotukei",
+    "latitude": 3.3513,
+    "longitude": 34.40182,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226135,
+    "name": "Tisai Island",
+    "latitude": 1.6,
+    "longitude": 34.15,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226132,
+    "name": "Tiya",
+    "latitude": 2.68333,
+    "longitude": 33.56667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226111,
+    "name": "Toror",
+    "latitude": 2.83333,
+    "longitude": 34.2,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226110,
+    "name": "Tororo",
+    "latitude": 0.69299,
+    "longitude": 34.18085,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226366,
+    "name": "Tsekururu",
+    "latitude": 0.97279,
+    "longitude": 34.37632,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226098,
+    "name": "Tukat",
+    "latitude": 1.38333,
+    "longitude": 34.58333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226091,
+    "name": "Turkana",
+    "latitude": 3.35615,
+    "longitude": 33.24336,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8142380,
+    "name": "Utsene Island",
+    "latitude": 3.52653,
+    "longitude": 31.77738,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7909181,
+    "name": "Victorio Emanuele",
+    "latitude": 0.3982,
+    "longitude": 29.89238,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226041,
+    "name": "Visa Island",
+    "latitude": 0.17556,
+    "longitude": 33.76602,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226033,
+    "name": "Vumba Island",
+    "latitude": 0.02043,
+    "longitude": 33.6418,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226013,
+    "name": "Wabitembe Island",
+    "latitude": 0.03333,
+    "longitude": 31.81667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 226004,
+    "name": "Wabuziba Island",
+    "latitude": 0.04861,
+    "longitude": 33.09972,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 225999,
+    "name": "Wagagai",
+    "latitude": 1.11667,
+    "longitude": 34.53333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 225996,
+    "name": "Waiasi Island",
+    "latitude": -0.16667,
+    "longitude": 33.93333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 225984,
+    "name": "Waisembe",
+    "latitude": 1.5441,
+    "longitude": 31.39149,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 225981,
+    "name": "Waitwe Island",
+    "latitude": 0.05854,
+    "longitude": 33.10079,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 225964,
+    "name": "Wakiso",
+    "latitude": 0.40444,
+    "longitude": 32.45944,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 225930,
+    "name": "Wanale",
+    "latitude": 1.03333,
+    "longitude": 34.25,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 225907,
+    "name": "Wanseko",
+    "latitude": 2.17753,
+    "longitude": 31.3821,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 225892,
+    "name": "Watamagufu",
+    "latitude": 0.27542,
+    "longitude": 29.90458,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 225891,
+    "name": "Wati",
+    "latitude": 3.22766,
+    "longitude": 31.02941,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7909193,
+    "name": "Weismann",
+    "latitude": 0.32967,
+    "longitude": 29.88755,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 225858,
+    "name": "Wobulenzi",
+    "latitude": 0.72833,
+    "longitude": 32.51222,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7909191,
+    "name": "Wollaston",
+    "latitude": 0.3666,
+    "longitude": 29.90637,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 225836,
+    "name": "Yubwe Island",
+    "latitude": 0.24167,
+    "longitude": 33.40472,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 225835,
+    "name": "Yumbe",
+    "latitude": 3.46506,
+    "longitude": 31.24689,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 383349,
+    "name": "Zigunga Island",
+    "latitude": 0.08217,
+    "longitude": 33.27671,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11356321,
+    "name": "Zigunga Twins",
+    "latitude": 0.08554,
+    "longitude": 33.05889,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 225821,
+    "name": "Zigwe Island",
+    "latitude": 0.36667,
+    "longitude": 31.96667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 225813,
+    "name": "Zinga Island",
+    "latitude": 0.00775,
+    "longitude": 32.23989,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 225804,
+    "name": "Ziro Island",
+    "latitude": 0.10367,
+    "longitude": 33.49917,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 225800,
+    "name": "Ziru Island",
+    "latitude": -0.33333,
+    "longitude": 32.43333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 225797,
+    "name": "Zombo",
+    "latitude": 2.51355,
+    "longitude": 30.90909,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 225793,
+    "name": "Zulia",
+    "latitude": 4.12831,
+    "longitude": 33.98381,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  }
+]

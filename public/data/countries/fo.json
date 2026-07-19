@@ -1,0 +1,2972 @@
+[
+  {
+    "geonameId": 2625075,
+    "name": "Áarskarð",
+    "latitude": 62.25414,
+    "longitude": -6.55864,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2625074,
+    "name": "Áarstíggjafossur",
+    "latitude": 62.04826,
+    "longitude": -6.98554,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624674,
+    "name": "Antinisfjall",
+    "latitude": 62.13995,
+    "longitude": -7.28243,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624638,
+    "name": "Árnadalstindur",
+    "latitude": 62.13326,
+    "longitude": -6.94656,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624635,
+    "name": "Árnafjall",
+    "latitude": 62.13167,
+    "longitude": -7.43746,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624296,
+    "name": "Barmarnir",
+    "latitude": 62.15752,
+    "longitude": -7.06002,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2624070,
+    "name": "Bjendalsskarð",
+    "latitude": 62.18832,
+    "longitude": -7.09724,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623960,
+    "name": "Blaberg",
+    "latitude": 62.3,
+    "longitude": -7,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623953,
+    "name": "Blábjørg",
+    "latitude": 62.24201,
+    "longitude": -6.85079,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623941,
+    "name": "Blámansfjall",
+    "latitude": 62.26806,
+    "longitude": -7.00355,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11594654,
+    "name": "Bojsengarður",
+    "latitude": 62.00988,
+    "longitude": -6.77228,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623822,
+    "name": "Bollin",
+    "latitude": 62.17071,
+    "longitude": -7.02347,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623755,
+    "name": "Bøllufjall",
+    "latitude": 62.20323,
+    "longitude": -7.17476,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623815,
+    "name": "Bolstaður",
+    "latitude": 61.96667,
+    "longitude": -6.63333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623700,
+    "name": "Borðoy",
+    "latitude": 62.266,
+    "longitude": -6.53038,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623686,
+    "name": "Borgarfelli",
+    "latitude": 62.16141,
+    "longitude": -6.82408,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623682,
+    "name": "Borgarin",
+    "latitude": 62.35843,
+    "longitude": -6.81006,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623681,
+    "name": "Borgarknappur",
+    "latitude": 61.49933,
+    "longitude": -6.80228,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623672,
+    "name": "Borgin",
+    "latitude": 61.50411,
+    "longitude": -6.84258,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623729,
+    "name": "Bøsdalafossur",
+    "latitude": 62.02449,
+    "longitude": -7.23579,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623602,
+    "name": "Botnstindur",
+    "latitude": 62.2439,
+    "longitude": -6.69464,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623443,
+    "name": "Breiðaskarð",
+    "latitude": 62.21549,
+    "longitude": -6.8482,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623442,
+    "name": "Breiðistíggjur",
+    "latitude": 62.08142,
+    "longitude": -7.11826,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623302,
+    "name": "Brúnaskarð",
+    "latitude": 62.213,
+    "longitude": -6.60049,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623259,
+    "name": "Búgvin",
+    "latitude": 62.3374,
+    "longitude": -6.994,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623237,
+    "name": "Búrhella",
+    "latitude": 62.25114,
+    "longitude": -6.44102,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623222,
+    "name": "Bustin",
+    "latitude": 61.57333,
+    "longitude": -6.76968,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623096,
+    "name": "Dalsskarð",
+    "latitude": 62.01994,
+    "longitude": -6.88368,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623030,
+    "name": "Depilsknúkur",
+    "latitude": 62.27555,
+    "longitude": -6.55032,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622722,
+    "name": "Eggin",
+    "latitude": 61.57467,
+    "longitude": -6.87416,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622713,
+    "name": "Eggjarók",
+    "latitude": 61.95946,
+    "longitude": -6.90496,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622695,
+    "name": "Egilsfjall",
+    "latitude": 62.13949,
+    "longitude": -7.08556,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622676,
+    "name": "Eiði",
+    "latitude": 62.2993,
+    "longitude": -7.09245,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622672,
+    "name": "Eiðisskarð",
+    "latitude": 62.28597,
+    "longitude": -7.01031,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622671,
+    "name": "Eiðisvatn",
+    "latitude": 62.28333,
+    "longitude": -7.05,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622532,
+    "name": "Endin",
+    "latitude": 61.85797,
+    "longitude": -6.78345,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622490,
+    "name": "Enni",
+    "latitude": 62.29732,
+    "longitude": -6.48738,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7798678,
+    "name": "Eystur",
+    "latitude": 62.20907,
+    "longitude": -6.75247,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622388,
+    "name": "Eysturoy",
+    "latitude": 62.21579,
+    "longitude": -6.87751,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622386,
+    "name": "Eysturtindur",
+    "latitude": 62.11648,
+    "longitude": -7.39806,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622009,
+    "name": "Faroe Islands",
+    "latitude": 61.98285,
+    "longitude": -6.88293,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622174,
+    "name": "Fjallavatn",
+    "latitude": 62.11563,
+    "longitude": -7.30731,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616902,
+    "name": "Fjallið Mikla",
+    "latitude": 61.53333,
+    "longitude": -6.85,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2623604,
+    "name": "Fjallið millum Botna",
+    "latitude": 62.05477,
+    "longitude": -6.94266,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622106,
+    "name": "Flatidrangur",
+    "latitude": 62.13213,
+    "longitude": -7.43084,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622030,
+    "name": "Foldarskarð",
+    "latitude": 62.28811,
+    "longitude": -6.99099,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2622023,
+    "name": "Fólkaskarð",
+    "latitude": 62.03333,
+    "longitude": -6.9,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621808,
+    "name": "Fuglafjørður",
+    "latitude": 62.24398,
+    "longitude": -6.81395,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621797,
+    "name": "Fuglfjarðarskarð",
+    "latitude": 62.2553,
+    "longitude": -6.82275,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621794,
+    "name": "Fugloy",
+    "latitude": 62.33686,
+    "longitude": -6.30478,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621592,
+    "name": "Gásafelli",
+    "latitude": 62.25932,
+    "longitude": -7.10227,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621591,
+    "name": "Gásafjall",
+    "latitude": 62.31356,
+    "longitude": -6.7622,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621579,
+    "name": "Gáshólmur",
+    "latitude": 62.07983,
+    "longitude": -7.4612,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621532,
+    "name": "Geldingaklettur",
+    "latitude": 62.13224,
+    "longitude": -6.59774,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621460,
+    "name": "Gírufelli",
+    "latitude": 62.25484,
+    "longitude": -7.14742,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621445,
+    "name": "Gívrufjall",
+    "latitude": 62.14232,
+    "longitude": -6.99385,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621442,
+    "name": "Gjáarskarð",
+    "latitude": 62.3,
+    "longitude": -6.95,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621408,
+    "name": "Gjógvaráfjall",
+    "latitude": 62.23333,
+    "longitude": -6.85,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621350,
+    "name": "Gluggarnir",
+    "latitude": 61.55,
+    "longitude": -6.86667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621295,
+    "name": "Gøtugjógv",
+    "latitude": 62.18957,
+    "longitude": -6.76775,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621291,
+    "name": "Gøtunestindur",
+    "latitude": 62.18895,
+    "longitude": -6.6468,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621285,
+    "name": "Goturshálsur",
+    "latitude": 62.14673,
+    "longitude": -7.06197,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621282,
+    "name": "Gráfelli",
+    "latitude": 62.31005,
+    "longitude": -7.00272,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621183,
+    "name": "Gríslatindur",
+    "latitude": 62.23899,
+    "longitude": -6.67188,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621154,
+    "name": "Grønhólmur",
+    "latitude": 62.2,
+    "longitude": -7,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2621117,
+    "name": "Gróthúsvatn",
+    "latitude": 61.84036,
+    "longitude": -6.83306,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620966,
+    "name": "Hádegisfjall",
+    "latitude": 62.35,
+    "longitude": -6.78333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620322,
+    "name": "Hægstafjall",
+    "latitude": 62.25115,
+    "longitude": -6.92415,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620947,
+    "name": "Háfjall",
+    "latitude": 62.2095,
+    "longitude": -6.58574,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620902,
+    "name": "Hálgafelli",
+    "latitude": 62.21767,
+    "longitude": -6.60499,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620901,
+    "name": "Halgafelstindur",
+    "latitude": 62.18856,
+    "longitude": -6.92303,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620682,
+    "name": "Hattardalstindur",
+    "latitude": 62.29138,
+    "longitude": -6.73705,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620639,
+    "name": "Havnartindur",
+    "latitude": 62.33933,
+    "longitude": -6.68623,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620565,
+    "name": "Heimarafjall",
+    "latitude": 62.30813,
+    "longitude": -6.76178,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620559,
+    "name": "Heinanøv",
+    "latitude": 62.12306,
+    "longitude": -7.45247,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620540,
+    "name": "Heldarstindur",
+    "latitude": 62.08328,
+    "longitude": -7.0947,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620533,
+    "name": "Heljareyge",
+    "latitude": 62.16667,
+    "longitude": -7.08333,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620434,
+    "name": "Herðablaðið",
+    "latitude": 61.54339,
+    "longitude": -6.88707,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620339,
+    "name": "Hestur",
+    "latitude": 61.9544,
+    "longitude": -6.895,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616897,
+    "name": "Heyggjurin Mikli",
+    "latitude": 62.28333,
+    "longitude": -7.16667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2620005,
+    "name": "Høgafjall",
+    "latitude": 62.06395,
+    "longitude": -7.37942,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619796,
+    "name": "Hornfjall",
+    "latitude": 62.3288,
+    "longitude": -7.00365,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619734,
+    "name": "Hov",
+    "latitude": 61.50684,
+    "longitude": -6.75993,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619826,
+    "name": "Høvdin",
+    "latitude": 62.25641,
+    "longitude": -7.22641,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619699,
+    "name": "Hovstúgva",
+    "latitude": 61.51383,
+    "longitude": -6.75304,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619682,
+    "name": "Húgvan",
+    "latitude": 62.28366,
+    "longitude": -7.19298,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619681,
+    "name": "Hugvudalsskarð",
+    "latitude": 62.27346,
+    "longitude": -7.19174,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619623,
+    "name": "Húsadalsskarð",
+    "latitude": 62.16812,
+    "longitude": -7.0327,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619618,
+    "name": "Húsafelli",
+    "latitude": 62.25201,
+    "longitude": -6.78803,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619617,
+    "name": "Húsafjall",
+    "latitude": 62.27419,
+    "longitude": -6.97576,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619596,
+    "name": "Hvalba",
+    "latitude": 61.60237,
+    "longitude": -6.96063,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619579,
+    "name": "Hvalvíksskarð",
+    "latitude": 62.18086,
+    "longitude": -7.07513,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619572,
+    "name": "Hvannafelli",
+    "latitude": 61.49691,
+    "longitude": -6.82052,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619564,
+    "name": "Hvannhólmur",
+    "latitude": 61.91243,
+    "longitude": -6.93815,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619516,
+    "name": "Hvilvtarskarð",
+    "latitude": 62.33242,
+    "longitude": -6.53318,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619384,
+    "name": "Ísaksskarð",
+    "latitude": 62.23333,
+    "longitude": -6.45,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619357,
+    "name": "Jatnagarðar",
+    "latitude": 62.11266,
+    "longitude": -7.38458,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619272,
+    "name": "Jøklaskarð",
+    "latitude": 62.23788,
+    "longitude": -6.87662,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619161,
+    "name": "Kalsoy",
+    "latitude": 62.31326,
+    "longitude": -6.76003,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619128,
+    "name": "Kambur",
+    "latitude": 62.1435,
+    "longitude": -6.81044,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2619012,
+    "name": "Katlarnir",
+    "latitude": 62.26656,
+    "longitude": -6.55731,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618965,
+    "name": "Kelduklettur",
+    "latitude": 62.19426,
+    "longitude": -6.92656,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618855,
+    "name": "Kirkja",
+    "latitude": 62.31851,
+    "longitude": -6.31646,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618848,
+    "name": "Kirkjubøreyn",
+    "latitude": 61.98051,
+    "longitude": -6.8004,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618804,
+    "name": "Kjølur",
+    "latitude": 62.05,
+    "longitude": -7.08333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618795,
+    "name": "Klaksvík",
+    "latitude": 62.22655,
+    "longitude": -6.58901,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618664,
+    "name": "Klubbin",
+    "latitude": 62.30584,
+    "longitude": -6.74869,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618647,
+    "name": "Knattarheyggjur",
+    "latitude": 62.11263,
+    "longitude": -7.3521,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618641,
+    "name": "Kneysurin",
+    "latitude": 61.86667,
+    "longitude": -6.9,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618596,
+    "name": "Knúkaborg",
+    "latitude": 61.58358,
+    "longitude": -6.90235,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618592,
+    "name": "Knúkin",
+    "latitude": 61.4162,
+    "longitude": -6.7064,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618583,
+    "name": "Knúkur",
+    "latitude": 62.34567,
+    "longitude": -6.59662,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618411,
+    "name": "Køkuskarð",
+    "latitude": 62.20724,
+    "longitude": -7.16561,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618488,
+    "name": "Koltur",
+    "latitude": 61.99105,
+    "longitude": -6.98145,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618486,
+    "name": "Kolturshamar",
+    "latitude": 61.99358,
+    "longitude": -6.98933,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618389,
+    "name": "Koppenni",
+    "latitude": 62.23141,
+    "longitude": -7.20062,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618177,
+    "name": "Krossafelli",
+    "latitude": 62.11588,
+    "longitude": -7.22559,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618174,
+    "name": "Krosstindur",
+    "latitude": 62.05429,
+    "longitude": -7.08889,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618153,
+    "name": "Krúnufjall",
+    "latitude": 62.26462,
+    "longitude": -6.50131,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618119,
+    "name": "Kunoy",
+    "latitude": 62.30388,
+    "longitude": -6.64754,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618117,
+    "name": "Kunoyarnakkur",
+    "latitude": 62.36304,
+    "longitude": -6.69142,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618114,
+    "name": "Kúvingafjall",
+    "latitude": 62.31223,
+    "longitude": -6.6726,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618108,
+    "name": "Kvíandalsvatn",
+    "latitude": 62.23333,
+    "longitude": -6.93333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618104,
+    "name": "Kvígandalsskarð",
+    "latitude": 62.23333,
+    "longitude": -6.98333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618099,
+    "name": "Kvigingaskarð",
+    "latitude": 62.22506,
+    "longitude": -6.53806,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618033,
+    "name": "Laðanfelli",
+    "latitude": 61.51268,
+    "longitude": -6.82952,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618031,
+    "name": "Lágarhálsur",
+    "latitude": 62.18895,
+    "longitude": -6.88123,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618030,
+    "name": "Lágaskarð",
+    "latitude": 62.18333,
+    "longitude": -7.11667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618010,
+    "name": "Lambareyn",
+    "latitude": 62.15091,
+    "longitude": -6.67894,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2618009,
+    "name": "Lambaskarð",
+    "latitude": 62.14781,
+    "longitude": -6.69977,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617837,
+    "name": "Leitið",
+    "latitude": 62.27319,
+    "longitude": -6.7103,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617769,
+    "name": "Leynavatn",
+    "latitude": 62.12832,
+    "longitude": -7.02279,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617760,
+    "name": "Líðarnøv",
+    "latitude": 62.09329,
+    "longitude": -7.32292,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617621,
+    "name": "Limstúgva",
+    "latitude": 62.25,
+    "longitude": -6.88333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617527,
+    "name": "Lítla Dímun",
+    "latitude": 61.63148,
+    "longitude": -6.70745,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617526,
+    "name": "Lítlafelli",
+    "latitude": 62.22426,
+    "longitude": -6.96116,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617523,
+    "name": "Lítli Stiði",
+    "latitude": 62.05,
+    "longitude": -6.9,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617491,
+    "name": "Lokki",
+    "latitude": 62.2928,
+    "longitude": -6.55021,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617483,
+    "name": "Lomundaroyri",
+    "latitude": 62.16667,
+    "longitude": -7.15,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617403,
+    "name": "Lopranshólmur",
+    "latitude": 61.44075,
+    "longitude": -6.79184,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617385,
+    "name": "Loysingafjall",
+    "latitude": 62.17093,
+    "longitude": -7.11561,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617122,
+    "name": "Malaknúkur",
+    "latitude": 62.22815,
+    "longitude": -7.20235,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617120,
+    "name": "Malinsfjall",
+    "latitude": 62.34395,
+    "longitude": -6.5378,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617119,
+    "name": "Malinstindur",
+    "latitude": 62.07814,
+    "longitude": -7.12079,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617093,
+    "name": "Mannaskarð",
+    "latitude": 62.25923,
+    "longitude": -6.3602,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2617092,
+    "name": "Manssetur",
+    "latitude": 62.30782,
+    "longitude": -7.028,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616968,
+    "name": "Melin",
+    "latitude": 62.26724,
+    "longitude": -7.17268,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616923,
+    "name": "Miðafjall",
+    "latitude": 62.15857,
+    "longitude": -6.73339,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616920,
+    "name": "Miðalfelli",
+    "latitude": 62.23333,
+    "longitude": -6.96667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616918,
+    "name": "Miðardalstindur",
+    "latitude": 62.28384,
+    "longitude": -6.72515,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616934,
+    "name": "Middagsfjall",
+    "latitude": 62.3109,
+    "longitude": -6.94611,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616914,
+    "name": "Miðvágur",
+    "latitude": 62.05111,
+    "longitude": -7.19389,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616883,
+    "name": "Mjauvøtn",
+    "latitude": 62.12625,
+    "longitude": -6.99889,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616748,
+    "name": "Mosarøkur",
+    "latitude": 62.19895,
+    "longitude": -7.17893,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616728,
+    "name": "Moskursfjall",
+    "latitude": 62.18243,
+    "longitude": -7.13003,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616727,
+    "name": "Moskursskarð",
+    "latitude": 62.1854,
+    "longitude": -7.12866,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616715,
+    "name": "Múlatindur",
+    "latitude": 62.23465,
+    "longitude": -6.90321,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616700,
+    "name": "Múlin",
+    "latitude": 62.19429,
+    "longitude": -7.10994,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616660,
+    "name": "Murufelli",
+    "latitude": 62.02319,
+    "longitude": -6.89364,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616649,
+    "name": "Mykines",
+    "latitude": 62.10343,
+    "longitude": -7.60423,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616646,
+    "name": "Mykineshólmur",
+    "latitude": 62.09851,
+    "longitude": -7.67296,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616644,
+    "name": "Mýlingur",
+    "latitude": 62.30158,
+    "longitude": -7.21637,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616635,
+    "name": "Mýrarnar",
+    "latitude": 62.17083,
+    "longitude": -7.08298,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616629,
+    "name": "Myrkjanoyrarfjall",
+    "latitude": 62.24649,
+    "longitude": -6.56655,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616627,
+    "name": "Mýrnafjall",
+    "latitude": 62.32263,
+    "longitude": -6.49834,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616072,
+    "name": "Næraberg",
+    "latitude": 62.18333,
+    "longitude": -6.48333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616603,
+    "name": "Nakkur",
+    "latitude": 61.56603,
+    "longitude": -6.92829,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616586,
+    "name": "Navarin",
+    "latitude": 62.35848,
+    "longitude": -6.66035,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616493,
+    "name": "Nestindar",
+    "latitude": 62.35089,
+    "longitude": -6.77718,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616484,
+    "name": "Neytaskarð",
+    "latitude": 62.05632,
+    "longitude": -6.92152,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616438,
+    "name": "Nólsoy",
+    "latitude": 61.98064,
+    "longitude": -6.64782,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616433,
+    "name": "Nónfjall",
+    "latitude": 61.51254,
+    "longitude": -6.83084,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616432,
+    "name": "Nónið",
+    "latitude": 62.2388,
+    "longitude": -7.18282,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 9954939,
+    "name": "Norðadalsskarð",
+    "latitude": 62.05461,
+    "longitude": -6.91885,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616156,
+    "name": "Norðaraskarð",
+    "latitude": 62.18333,
+    "longitude": -7.18333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616146,
+    "name": "Norðoyar",
+    "latitude": 62.29102,
+    "longitude": -6.55609,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616185,
+    "name": "Nøvin",
+    "latitude": 62.32271,
+    "longitude": -6.99027,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2616036,
+    "name": "Núgvan",
+    "latitude": 62.04984,
+    "longitude": -6.94254,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615862,
+    "name": "Oksagilshálsur",
+    "latitude": 62.20423,
+    "longitude": -7.13897,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615767,
+    "name": "Øksnadalsskarð",
+    "latitude": 62.18581,
+    "longitude": -7.20676,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615763,
+    "name": "Øksnagjógv",
+    "latitude": 62.20657,
+    "longitude": -6.89673,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615722,
+    "name": "Øraskarð",
+    "latitude": 61.53333,
+    "longitude": -6.83333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615372,
+    "name": "Orrtindur",
+    "latitude": 62.11667,
+    "longitude": -7.4,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615632,
+    "name": "Ørvisfelli",
+    "latitude": 62.20906,
+    "longitude": -7.15203,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615254,
+    "name": "Oyrarskarð",
+    "latitude": 62.19956,
+    "longitude": -6.95288,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615252,
+    "name": "Oyrnafjall",
+    "latitude": 61.54742,
+    "longitude": -6.85232,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615248,
+    "name": "Oyrnaskarð",
+    "latitude": 61.53333,
+    "longitude": -6.85,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615086,
+    "name": "Pætursfjall",
+    "latitude": 62.21627,
+    "longitude": -7.20266,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615132,
+    "name": "Porkeri",
+    "latitude": 61.48135,
+    "longitude": -6.74497,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615125,
+    "name": "Postulakirkja",
+    "latitude": 62.18767,
+    "longitude": -7.20743,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2615109,
+    "name": "Prestfjall",
+    "latitude": 61.57364,
+    "longitude": -6.94793,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614988,
+    "name": "Rangihálsur",
+    "latitude": 62.09404,
+    "longitude": -7.1865,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614953,
+    "name": "Ravnaskarð",
+    "latitude": 61.5,
+    "longitude": -6.83333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10378152,
+    "name": "Reiðskarð",
+    "latitude": 62.02962,
+    "longitude": -6.88615,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614827,
+    "name": "Reyðafelstindur",
+    "latitude": 62.17314,
+    "longitude": -6.86533,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614819,
+    "name": "Reynini",
+    "latitude": 62.20147,
+    "longitude": -6.49392,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614817,
+    "name": "Reynsatindar",
+    "latitude": 62.08323,
+    "longitude": -7.18288,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614816,
+    "name": "Reynsendi",
+    "latitude": 61.86785,
+    "longitude": -6.81256,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614710,
+    "name": "Ritafjall",
+    "latitude": 62.21388,
+    "longitude": -6.73991,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614708,
+    "name": "Ritudalsskarð",
+    "latitude": 62.31851,
+    "longitude": -6.77376,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614697,
+    "name": "Rivsrøkur",
+    "latitude": 62.18333,
+    "longitude": -7.21667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614661,
+    "name": "Rókin",
+    "latitude": 62.25699,
+    "longitude": -6.78048,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614473,
+    "name": "Rossafelli",
+    "latitude": 62.20816,
+    "longitude": -7.04994,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614397,
+    "name": "Rustartindur",
+    "latitude": 62.26195,
+    "longitude": -6.82672,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614265,
+    "name": "Sandavágur",
+    "latitude": 62.05372,
+    "longitude": -7.14982,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614239,
+    "name": "Sandfelli",
+    "latitude": 62.19917,
+    "longitude": -6.9325,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614235,
+    "name": "Sandhálsar",
+    "latitude": 62.24995,
+    "longitude": -6.3507,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614221,
+    "name": "Sandoy",
+    "latitude": 61.85442,
+    "longitude": -6.77899,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614214,
+    "name": "Sandsvatn",
+    "latitude": 61.84735,
+    "longitude": -6.81901,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614212,
+    "name": "Sandur",
+    "latitude": 61.8425,
+    "longitude": -6.80778,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614184,
+    "name": "Sátan",
+    "latitude": 62.11418,
+    "longitude": -7.01301,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614095,
+    "name": "Selbergsskarð",
+    "latitude": 62.05837,
+    "longitude": -7.34171,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614055,
+    "name": "Seyringaskarð",
+    "latitude": 62.26998,
+    "longitude": -6.57392,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614044,
+    "name": "Sigatindur",
+    "latitude": 62.19767,
+    "longitude": -6.69189,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2614038,
+    "name": "Siglifelli",
+    "latitude": 61.44313,
+    "longitude": -6.75461,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613699,
+    "name": "Skælingsfjall",
+    "latitude": 62.08899,
+    "longitude": -6.98362,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613697,
+    "name": "Skælingsskarð",
+    "latitude": 62.1,
+    "longitude": -6.98333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613931,
+    "name": "Skálafjall",
+    "latitude": 62.20226,
+    "longitude": -6.89201,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613924,
+    "name": "Skálaskarð",
+    "latitude": 62.23009,
+    "longitude": -6.96101,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613921,
+    "name": "Skálavík",
+    "latitude": 61.83141,
+    "longitude": -6.6623,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613805,
+    "name": "Skeiðsskarð",
+    "latitude": 62.07698,
+    "longitude": -6.95904,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613774,
+    "name": "Skerðingur",
+    "latitude": 62.23333,
+    "longitude": -6.96667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613660,
+    "name": "Skopun",
+    "latitude": 61.90285,
+    "longitude": -6.88234,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613477,
+    "name": "Skúvoy",
+    "latitude": 61.77103,
+    "longitude": -6.80501,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613476,
+    "name": "Skúvoyarfjall",
+    "latitude": 61.76676,
+    "longitude": -6.67813,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613404,
+    "name": "Slættafelli",
+    "latitude": 62.15099,
+    "longitude": -6.82704,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613401,
+    "name": "Slættafjall",
+    "latitude": 62.24862,
+    "longitude": -6.83768,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613398,
+    "name": "Slættaratindur",
+    "latitude": 62.29498,
+    "longitude": -7.03077,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613298,
+    "name": "Snæfelli",
+    "latitude": 62.26667,
+    "longitude": -6.55,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613296,
+    "name": "Snældansfjall",
+    "latitude": 62.10563,
+    "longitude": -7.34821,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613323,
+    "name": "Sneis",
+    "latitude": 62.16592,
+    "longitude": -7.04658,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2613284,
+    "name": "Snubbin",
+    "latitude": 62.2929,
+    "longitude": -7.22016,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612865,
+    "name": "Sornfelli",
+    "latitude": 62.06667,
+    "longitude": -6.96667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612892,
+    "name": "Sørvágsvatn",
+    "latitude": 62.04993,
+    "longitude": -7.23614,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612843,
+    "name": "Spáafelli",
+    "latitude": 61.41667,
+    "longitude": -6.73333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612758,
+    "name": "Stakkur",
+    "latitude": 62.30935,
+    "longitude": -7.1714,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612751,
+    "name": "Stallur",
+    "latitude": 62.0814,
+    "longitude": -6.95406,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612740,
+    "name": "Staparók",
+    "latitude": 62.33333,
+    "longitude": -6.31667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612684,
+    "name": "Steinafjall",
+    "latitude": 62.0038,
+    "longitude": -6.8684,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612560,
+    "name": "Stiðjafjall",
+    "latitude": 62.04554,
+    "longitude": -6.90595,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612554,
+    "name": "Stígarnir",
+    "latitude": 62.15653,
+    "longitude": -7.04293,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612553,
+    "name": "Stígaskarð",
+    "latitude": 62.08266,
+    "longitude": -6.96363,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612509,
+    "name": "Støðlafjall",
+    "latitude": 62.17122,
+    "longitude": -6.73999,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612479,
+    "name": "Stóra Dímun",
+    "latitude": 61.69224,
+    "longitude": -6.75563,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612476,
+    "name": "Stórafjall",
+    "latitude": 62.15289,
+    "longitude": -6.72377,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612463,
+    "name": "Stóravatn",
+    "latitude": 62.06894,
+    "longitude": -6.85831,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612226,
+    "name": "Streymoy",
+    "latitude": 62.11685,
+    "longitude": -6.97923,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612141,
+    "name": "Suðuroy",
+    "latitude": 61.51787,
+    "longitude": -6.83041,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612126,
+    "name": "Sumbiarhólmur",
+    "latitude": 61.39836,
+    "longitude": -6.72636,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612104,
+    "name": "Sundshálsur",
+    "latitude": 62.03222,
+    "longitude": -6.8576,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612097,
+    "name": "Sundsskarð",
+    "latitude": 62.32303,
+    "longitude": -6.52736,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2612062,
+    "name": "Svartbakstindur",
+    "latitude": 62.25596,
+    "longitude": -7.00387,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7279492,
+    "name": "Svartifossur",
+    "latitude": 62.02606,
+    "longitude": -6.78075,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611991,
+    "name": "Svínoy",
+    "latitude": 62.26758,
+    "longitude": -6.35208,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611917,
+    "name": "Talvborð",
+    "latitude": 62.31125,
+    "longitude": -6.44106,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611797,
+    "name": "Teigafjall",
+    "latitude": 62.31062,
+    "longitude": -6.65,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611789,
+    "name": "Tempilsklettur",
+    "latitude": 61.57068,
+    "longitude": -6.89177,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611708,
+    "name": "Tindhólmur",
+    "latitude": 62.07797,
+    "longitude": -7.43758,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611705,
+    "name": "Tindsskarð",
+    "latitude": 61.84349,
+    "longitude": -6.73866,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611699,
+    "name": "Tindur",
+    "latitude": 62.18643,
+    "longitude": -7.23992,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611645,
+    "name": "Tjaldavíkshólmur",
+    "latitude": 61.53106,
+    "longitude": -6.77556,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611613,
+    "name": "Tjørnuvíksskarð",
+    "latitude": 62.25,
+    "longitude": -7.16667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611590,
+    "name": "Tofta-Ísaksskarð",
+    "latitude": 62.24907,
+    "longitude": -6.46156,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611589,
+    "name": "Toftaknúkur",
+    "latitude": 62.26653,
+    "longitude": -6.51998,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611585,
+    "name": "Toftaskarð",
+    "latitude": 62.26174,
+    "longitude": -6.52014,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611584,
+    "name": "Toftavatn",
+    "latitude": 62.0916,
+    "longitude": -6.71416,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611521,
+    "name": "Tólvmarkaknúkur",
+    "latitude": 62.25666,
+    "longitude": -6.55921,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611396,
+    "name": "Tórshavn",
+    "latitude": 62.00973,
+    "longitude": -6.77164,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611391,
+    "name": "Torskorarhorn",
+    "latitude": 62.21317,
+    "longitude": -7.22463,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611247,
+    "name": "Trælavatnaskarð",
+    "latitude": 62.20827,
+    "longitude": -6.81422,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611196,
+    "name": "Trøllhøvdi",
+    "latitude": 61.91731,
+    "longitude": -6.95745,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611212,
+    "name": "Trongannagjógv",
+    "latitude": 62.15548,
+    "longitude": -6.8242,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611126,
+    "name": "Tungufelli",
+    "latitude": 62.13078,
+    "longitude": -7.26702,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611125,
+    "name": "Tungufelli Lítla",
+    "latitude": 62.12178,
+    "longitude": -7.25589,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10346822,
+    "name": "Tungulfjall",
+    "latitude": 62.03653,
+    "longitude": -6.89764,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611123,
+    "name": "Tunguliðfjall",
+    "latitude": 62.03408,
+    "longitude": -6.91195,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611060,
+    "name": "Tvøroyri",
+    "latitude": 61.55557,
+    "longitude": -6.81109,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2611037,
+    "name": "Tyril",
+    "latitude": 62.31465,
+    "longitude": -6.92055,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610879,
+    "name": "Uppi á Manni",
+    "latitude": 61.98866,
+    "longitude": -6.6524,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610875,
+    "name": "Urðafjall",
+    "latitude": 62.29481,
+    "longitude": -6.63913,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610830,
+    "name": "Vaðhorn",
+    "latitude": 62.27857,
+    "longitude": -7.00918,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610817,
+    "name": "Vágar",
+    "latitude": 62.09458,
+    "longitude": -7.26002,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610815,
+    "name": "Vágfelli",
+    "latitude": 61.48749,
+    "longitude": -6.81007,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610810,
+    "name": "Vágsskarð",
+    "latitude": 61.48815,
+    "longitude": -6.82194,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610798,
+    "name": "Valdaskarð",
+    "latitude": 61.53333,
+    "longitude": -6.85,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610700,
+    "name": "Vatndalsskarð",
+    "latitude": 62.27606,
+    "longitude": -7.00602,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610695,
+    "name": "Vatnið",
+    "latitude": 62.18442,
+    "longitude": -7.15346,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610686,
+    "name": "Vatnsnes",
+    "latitude": 61.5,
+    "longitude": -6.8,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610347,
+    "name": "Vestfelli",
+    "latitude": 61.80538,
+    "longitude": -6.70995,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610302,
+    "name": "Viðareiði",
+    "latitude": 62.35999,
+    "longitude": -6.5313,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610295,
+    "name": "Viðoy",
+    "latitude": 62.32714,
+    "longitude": -6.51146,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610264,
+    "name": "Víkarskarð",
+    "latitude": 62.25914,
+    "longitude": -7.12639,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610262,
+    "name": "Víkartindur",
+    "latitude": 62.26277,
+    "longitude": -7.14895,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610237,
+    "name": "Villingadalsfjall",
+    "latitude": 62.38109,
+    "longitude": -6.55836,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610132,
+    "name": "Vitin",
+    "latitude": 62.16814,
+    "longitude": -7.01292,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610030,
+    "name": "Vørdan",
+    "latitude": 61.85,
+    "longitude": -6.88333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2610026,
+    "name": "Vørlufjall",
+    "latitude": 62.13474,
+    "longitude": -6.93573,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  }
+]

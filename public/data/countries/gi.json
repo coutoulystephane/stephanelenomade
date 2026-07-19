@@ -1,0 +1,42 @@
+[
+  {
+    "geonameId": 2411648,
+    "name": "Alameda Gardens",
+    "latitude": 36.13084,
+    "longitude": -5.35094,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411592,
+    "name": "Europa Pass",
+    "latitude": 36.11707,
+    "longitude": -5.34795,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411585,
+    "name": "Gibraltar",
+    "latitude": 36.14474,
+    "longitude": -5.35257,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411583,
+    "name": "Rock of Gibraltar",
+    "latitude": 36.14363,
+    "longitude": -5.34296,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  }
+]

@@ -1,0 +1,8542 @@
+[
+  {
+    "geonameId": 66059,
+    "name": "Aantaara",
+    "latitude": 11.4184,
+    "longitude": 49.6069,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 66036,
+    "name": "Abaar Moog",
+    "latitude": 11.0737,
+    "longitude": 50.6074,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65995,
+    "name": "Abdaal",
+    "latitude": 9.95972,
+    "longitude": 44.61944,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8346666,
+    "name": "Abdi-Arale",
+    "latitude": 10.50671,
+    "longitude": 42.79654,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65916,
+    "name": "Adaahi",
+    "latitude": 9.86833,
+    "longitude": 46.75833,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65903,
+    "name": "Adad",
+    "latitude": 10.1779,
+    "longitude": 44.67036,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 63361,
+    "name": "Adado",
+    "latitude": 6.13603,
+    "longitude": 46.62761,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13494281,
+    "name": "Adalle Marine Protected Area",
+    "latitude": 2.52725,
+    "longitude": 46.19057,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65870,
+    "name": "Addilo",
+    "latitude": 1.79479,
+    "longitude": 44.90335,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65860,
+    "name": "Adeego",
+    "latitude": 10.6436,
+    "longitude": 50.3674,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65785,
+    "name": "Afgooye",
+    "latitude": 2.1381,
+    "longitude": 45.1212,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8346681,
+    "name": "Afiueyni",
+    "latitude": 10.63037,
+    "longitude": 42.81066,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65746,
+    "name": "Aftoox",
+    "latitude": 10.15921,
+    "longitude": 43.02874,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65722,
+    "name": "Agabar",
+    "latitude": 9.92618,
+    "longitude": 43.91673,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65679,
+    "name": "Aidid Aialih",
+    "latitude": 10.33333,
+    "longitude": 45.43333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65662,
+    "name": "Akloo",
+    "latitude": 10.59826,
+    "longitude": 45.35276,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65647,
+    "name": "Alan Debe",
+    "latitude": 8.75,
+    "longitude": 45.9,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65610,
+    "name": "Alla Kajeed",
+    "latitude": 10.48126,
+    "longitude": 45.40695,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65600,
+    "name": "Alma",
+    "latitude": 11.5682,
+    "longitude": 50.2591,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65594,
+    "name": "Aloolweyn",
+    "latitude": 10.2596,
+    "longitude": 46.9614,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65589,
+    "name": "Alyera Hadai Hills",
+    "latitude": 10.13333,
+    "longitude": 45.56667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65580,
+    "name": "Ambuu",
+    "latitude": -0.8173,
+    "longitude": 42.2106,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65570,
+    "name": "Amut Pass",
+    "latitude": 10.05,
+    "longitude": 44.23333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65568,
+    "name": "Anane",
+    "latitude": 9.31667,
+    "longitude": 48.48333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65566,
+    "name": "Anansu",
+    "latitude": 9.98333,
+    "longitude": 47.1,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65524,
+    "name": "Aor Haris",
+    "latitude": 11.13333,
+    "longitude": 49.58333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8346218,
+    "name": "Aradera",
+    "latitude": 10.15101,
+    "longitude": 42.9719,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65466,
+    "name": "Ardable",
+    "latitude": 10.35,
+    "longitude": 46.71667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65445,
+    "name": "Argesa Pass",
+    "latitude": 10.21667,
+    "longitude": 46.05,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65400,
+    "name": "Aroweina",
+    "latitude": 10.0578,
+    "longitude": 44.6842,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65316,
+    "name": "Aw Dari",
+    "latitude": 11.4435,
+    "longitude": 49.7653,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65134,
+    "name": "Baayo Hantuli",
+    "latitude": 10.3781,
+    "longitude": 47.1349,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65127,
+    "name": "Bab Caleed",
+    "latitude": 11.0675,
+    "longitude": 48.4259,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65060,
+    "name": "Badhaax",
+    "latitude": 11.0079,
+    "longitude": 47.6936,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65056,
+    "name": "Badhanle",
+    "latitude": 10.4033,
+    "longitude": 47.007,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65034,
+    "name": "Bago Uged",
+    "latitude": 10.85,
+    "longitude": 49.85,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64536,
+    "name": "Baidoa",
+    "latitude": 3.11383,
+    "longitude": 43.6498,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64990,
+    "name": "Bakellan",
+    "latitude": 10.046,
+    "longitude": 46.7408,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8045596,
+    "name": "Baki",
+    "latitude": 9.89206,
+    "longitude": 43.38531,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64976,
+    "name": "Balaadh",
+    "latitude": 10.01848,
+    "longitude": 45.02205,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 342803,
+    "name": "Balanbale",
+    "latitude": 5.76897,
+    "longitude": 45.76297,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64932,
+    "name": "Baledid",
+    "latitude": 9.58333,
+    "longitude": 43.66667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 9259238,
+    "name": "Baligubadle",
+    "latitude": 9,
+    "longitude": 44.00028,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64913,
+    "name": "Ballaadhis Pass",
+    "latitude": 9.13333,
+    "longitude": 46.26667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64920,
+    "name": "Ballad As",
+    "latitude": 10.56667,
+    "longitude": 47.16667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64814,
+    "name": "Bandarbeyla",
+    "latitude": 9.4942,
+    "longitude": 50.8122,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64808,
+    "name": "Bandarka",
+    "latitude": 2.2937,
+    "longitude": 45.7955,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64763,
+    "name": "Bantaabsi",
+    "latitude": 1.8919,
+    "longitude": 45.0639,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64742,
+    "name": "Baqayaale",
+    "latitude": 10.15558,
+    "longitude": 44.50391,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64741,
+    "name": "Baqayaley",
+    "latitude": 10.14373,
+    "longitude": 44.48648,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64670,
+    "name": "Bargaal",
+    "latitude": 11.28636,
+    "longitude": 51.0773,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64618,
+    "name": "Barqasan",
+    "latitude": 9.96419,
+    "longitude": 44.74045,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64596,
+    "name": "Baru",
+    "latitude": 10.02626,
+    "longitude": 44.01248,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64551,
+    "name": "Bawaadi",
+    "latitude": -0.91765,
+    "longitude": 42.09831,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64544,
+    "name": "Baxaya",
+    "latitude": 11.2679,
+    "longitude": 49.8073,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64486,
+    "name": "Beeyada Qadhaad",
+    "latitude": 10.34284,
+    "longitude": 43.16708,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12212406,
+    "name": "Beled Hawo",
+    "latitude": 3.9284,
+    "longitude": 41.87997,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64460,
+    "name": "Beledweyne",
+    "latitude": 4.73583,
+    "longitude": 45.20361,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64441,
+    "name": "Bengadiine",
+    "latitude": -0.92165,
+    "longitude": 42.11731,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64435,
+    "name": "Berbera",
+    "latitude": 10.43959,
+    "longitude": 45.01432,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64412,
+    "name": "Bereeda",
+    "latitude": 11.87037,
+    "longitude": 51.05795,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64402,
+    "name": "Beyla Subko",
+    "latitude": 10.4946,
+    "longitude": 46.0988,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64381,
+    "name": "Bihan Gaha Pass",
+    "latitude": 10.45,
+    "longitude": 45.6,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64373,
+    "name": "Biijaale",
+    "latitude": 10.04046,
+    "longitude": 43.21611,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64359,
+    "name": "Bilbil Ciid",
+    "latitude": 10.66266,
+    "longitude": 49.67108,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64329,
+    "name": "Bildhaaley",
+    "latitude": 10.1451,
+    "longitude": 44.1706,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64324,
+    "name": "Bilhanley",
+    "latitude": 10.13262,
+    "longitude": 44.17251,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64308,
+    "name": "Biliq Deddon",
+    "latitude": 1.11667,
+    "longitude": 43.58333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64261,
+    "name": "Birbiris",
+    "latitude": 1.66476,
+    "longitude": 42.41118,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64253,
+    "name": "Birukhode",
+    "latitude": 10.23333,
+    "longitude": 47.21667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64247,
+    "name": "Bishikaani",
+    "latitude": -0.43726,
+    "longitude": 42.50919,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64246,
+    "name": "Bisiida",
+    "latitude": 11.6373,
+    "longitude": 50.3741,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 63265,
+    "name": "Biyo Caddo",
+    "latitude": 11.92731,
+    "longitude": 50.84393,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64183,
+    "name": "Biyoguure",
+    "latitude": 10.40759,
+    "longitude": 45.21773,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64152,
+    "name": "Boalé",
+    "latitude": 11.18333,
+    "longitude": 43.1,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64118,
+    "name": "Bohol",
+    "latitude": 10.7869,
+    "longitude": 47.4119,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64072,
+    "name": "Bolo-Bolo",
+    "latitude": 1.8091,
+    "longitude": 44.9311,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64036,
+    "name": "Boojo",
+    "latitude": 0.93839,
+    "longitude": 43.23941,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64007,
+    "name": "Bootinle",
+    "latitude": 10.41283,
+    "longitude": 42.88374,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 63991,
+    "name": "Boqonrigo",
+    "latitude": 10.04204,
+    "longitude": 44.22346,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64021,
+    "name": "Borama",
+    "latitude": 9.93611,
+    "longitude": 43.18278,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50410,
+    "name": "Borka Weina",
+    "latitude": 10.03333,
+    "longitude": 46.35,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64013,
+    "name": "Bosaso",
+    "latitude": 11.28421,
+    "longitude": 49.18158,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 63949,
+    "name": "Bu’aale",
+    "latitude": 1.08333,
+    "longitude": 42.58333,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 63707,
+    "name": "Buhodle",
+    "latitude": 8.23056,
+    "longitude": 46.32667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8346806,
+    "name": "Bukh-Nortakh",
+    "latitude": 10.79374,
+    "longitude": 42.86893,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65963,
+    "name": "Bur Ablhais",
+    "latitude": 11.06667,
+    "longitude": 49.66667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65921,
+    "name": "Bur Ad",
+    "latitude": 9.73333,
+    "longitude": 46.91667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62515,
+    "name": "Bur Ahlat Couri",
+    "latitude": 9.68,
+    "longitude": 50.28,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65657,
+    "name": "Bur Alad",
+    "latitude": 11.28333,
+    "longitude": 50.23333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65562,
+    "name": "Bur Ancochib",
+    "latitude": 9.78333,
+    "longitude": 49.21667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65501,
+    "name": "Bur Arale",
+    "latitude": 2.43333,
+    "longitude": 43.01667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65088,
+    "name": "Bur Bacheli",
+    "latitude": 4.11667,
+    "longitude": 43.91667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 63447,
+    "name": "Bur Cabai",
+    "latitude": 3.83333,
+    "longitude": 43.73333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 63167,
+    "name": "Bur Calangiap",
+    "latitude": 11.11667,
+    "longitude": 50.33333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62574,
+    "name": "Bur Cobolli",
+    "latitude": 7.64583,
+    "longitude": 48.8275,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62505,
+    "name": "Bur Cudalle",
+    "latitude": 3.35,
+    "longitude": 41.86667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62452,
+    "name": "Bur Curis",
+    "latitude": 2.96667,
+    "longitude": 42.08333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62152,
+    "name": "Bur Daddabo",
+    "latitude": 10.96667,
+    "longitude": 49.16667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62029,
+    "name": "Bur Dalanle",
+    "latitude": 9.93333,
+    "longitude": 49.95,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61728,
+    "name": "Bur Dathal",
+    "latitude": 9.95,
+    "longitude": 49.28333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61598,
+    "name": "Bur Deghebed",
+    "latitude": 9.86667,
+    "longitude": 49.76667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 60372,
+    "name": "Bur Durcumerzan",
+    "latitude": 9,
+    "longitude": 49.78333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 60223,
+    "name": "Bur Ei Dur",
+    "latitude": 3.83333,
+    "longitude": 43.71667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59921,
+    "name": "Bur Fan",
+    "latitude": 11.81667,
+    "longitude": 51.1,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59711,
+    "name": "Bur Finjo",
+    "latitude": 11.7,
+    "longitude": 50.98333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59573,
+    "name": "Bur Gab",
+    "latitude": 3.73333,
+    "longitude": 43.36667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59471,
+    "name": "Bur Gaerre",
+    "latitude": 4.8,
+    "longitude": 43.95,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59449,
+    "name": "Bur Gaider Mogh",
+    "latitude": 9.78333,
+    "longitude": 49.26667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58620,
+    "name": "Bur Ghedef",
+    "latitude": 8.36667,
+    "longitude": 49.86667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58596,
+    "name": "Bur Gheli San Ti",
+    "latitude": 9.83333,
+    "longitude": 50.4,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58588,
+    "name": "Bur Gheri Fud",
+    "latitude": 9.91667,
+    "longitude": 49.16667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58093,
+    "name": "Bur Gosc Ara Uen",
+    "latitude": 8.95,
+    "longitude": 49.73333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57926,
+    "name": "Bur Gudud",
+    "latitude": 8,
+    "longitude": 49.83333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57427,
+    "name": "Bur Hamrada",
+    "latitude": 10.75,
+    "longitude": 45.66667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56976,
+    "name": "Bur Hogor Dobli",
+    "latitude": 2.35,
+    "longitude": 41.03333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56480,
+    "name": "Bur Iug",
+    "latitude": 7.16667,
+    "longitude": 48.08333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55073,
+    "name": "Bur Lafwein",
+    "latitude": 10.75,
+    "longitude": 48.28333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55026,
+    "name": "Bur Lamalloin",
+    "latitude": 11.86667,
+    "longitude": 51.13333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53489,
+    "name": "Bur Nohle",
+    "latitude": 4.85,
+    "longitude": 43.61667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53415,
+    "name": "Bur Ohojale",
+    "latitude": 11.13333,
+    "longitude": 49.51667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52494,
+    "name": "Bur Riafonleh",
+    "latitude": 10.38333,
+    "longitude": 48.13333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51246,
+    "name": "Bur Tinle",
+    "latitude": 7.8,
+    "longitude": 48,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51055,
+    "name": "Bur Uarabale",
+    "latitude": 2.73333,
+    "longitude": 41.8,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51014,
+    "name": "Bur Udalei",
+    "latitude": 4.8,
+    "longitude": 43.48333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50959,
+    "name": "Bur Uleule",
+    "latitude": 4.75,
+    "longitude": 43.46667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50471,
+    "name": "Bur Wawa",
+    "latitude": 9.8,
+    "longitude": 43.6,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50411,
+    "name": "Bur Wein",
+    "latitude": 8.33333,
+    "longitude": 47.68333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57606,
+    "name": "Bur-ta Habarta",
+    "latitude": 11.23333,
+    "longitude": 48.68333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 63807,
+    "name": "Burale Xaydh",
+    "latitude": 10.53637,
+    "longitude": 43.01566,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 63795,
+    "name": "Burao",
+    "latitude": 9.52213,
+    "longitude": 45.53363,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 63743,
+    "name": "Busti",
+    "latitude": 10.21314,
+    "longitude": 45.08351,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 63689,
+    "name": "Buulobarde",
+    "latitude": 3.85375,
+    "longitude": 45.56744,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 66033,
+    "name": "Buur Abaarso",
+    "latitude": 9.56414,
+    "longitude": 43.96602,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6282874,
+    "name": "Buur Awordil",
+    "latitude": 9.91005,
+    "longitude": 43.27084,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 63476,
+    "name": "Buur Caanood",
+    "latitude": 9.08385,
+    "longitude": 47.34125,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 63452,
+    "name": "Buur Cabaaddheer",
+    "latitude": 9.92106,
+    "longitude": 43.3727,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 63230,
+    "name": "Buur Cadooy",
+    "latitude": 4.04744,
+    "longitude": 43.35112,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6282866,
+    "name": "Buur Cagwiyille",
+    "latitude": 9.8582,
+    "longitude": 43.39902,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6282876,
+    "name": "Buur Cowsguduudle",
+    "latitude": 9.8826,
+    "longitude": 43.25129,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61941,
+    "name": "Buur Dameer",
+    "latitude": 10.99539,
+    "longitude": 49.14247,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61607,
+    "name": "Buur Degeb",
+    "latitude": 9.8791,
+    "longitude": 49.5774,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61493,
+    "name": "Buur Dhabar",
+    "latitude": 10.0775,
+    "longitude": 50.0841,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61482,
+    "name": "Buur Dhaber",
+    "latitude": 10.06667,
+    "longitude": 50.08333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6263581,
+    "name": "Buur Dhubbato",
+    "latitude": 9.73299,
+    "longitude": 44.45669,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 60338,
+    "name": "Buur Durlale",
+    "latitude": 11.8506,
+    "longitude": 51.0717,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 60292,
+    "name": "Buur Duur",
+    "latitude": 2.5611,
+    "longitude": 43.5294,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59253,
+    "name": "Buur Gal Waay",
+    "latitude": 2.3576,
+    "longitude": 43.5826,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58874,
+    "name": "Buur Gassle",
+    "latitude": 8.13333,
+    "longitude": 48.96667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6282863,
+    "name": "Buur Geelwanaaje",
+    "latitude": 9.93293,
+    "longitude": 43.40187,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57787,
+    "name": "Buur Gunburo",
+    "latitude": 9.72259,
+    "longitude": 44.42093,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 63568,
+    "name": "Buur Howla",
+    "latitude": -1.29224,
+    "longitude": 41.81712,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55460,
+    "name": "Buur Kumeersan",
+    "latitude": 10.10707,
+    "longitude": 50.3456,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8073628,
+    "name": "Buur Mayraale",
+    "latitude": 10.9766,
+    "longitude": 49.3289,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53604,
+    "name": "Buur Muufaale",
+    "latitude": 10.9959,
+    "longitude": 49.2775,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53538,
+    "name": "Buur Nasa Hablood",
+    "latitude": 9.5938,
+    "longitude": 44.12151,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52682,
+    "name": "Buur Raariile",
+    "latitude": 9.97668,
+    "longitude": 43.2666,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52196,
+    "name": "Buur Samays",
+    "latitude": 3.59955,
+    "longitude": 42.91924,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6282858,
+    "name": "Buur Shallowdheere",
+    "latitude": 9.8977,
+    "longitude": 43.44194,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50197,
+    "name": "Buur Xajiin",
+    "latitude": 10.1421,
+    "longitude": 50.3199,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51675,
+    "name": "Buuray Shunle",
+    "latitude": 3.3152,
+    "longitude": 43.41817,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 63571,
+    "name": "Buurhakaba",
+    "latitude": 2.80257,
+    "longitude": 44.07805,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 63520,
+    "name": "Buuxiso",
+    "latitude": 8.31955,
+    "longitude": 47.73411,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52592,
+    "name": "Caal Raqar",
+    "latitude": 10.63333,
+    "longitude": 45.65,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 63459,
+    "name": "Caaryaale",
+    "latitude": 9.98008,
+    "longitude": 45.29585,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 63400,
+    "name": "Cabudwaaq",
+    "latitude": 6.24585,
+    "longitude": 46.2247,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 63362,
+    "name": "Cadaado",
+    "latitude": 11.0378,
+    "longitude": 49.2445,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 63346,
+    "name": "Cadalay",
+    "latitude": 10.13674,
+    "longitude": 45.33085,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 63344,
+    "name": "Cadale",
+    "latitude": 2.7603,
+    "longitude": 46.3222,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 63327,
+    "name": "Caday",
+    "latitude": 11.8658,
+    "longitude": 51.1207,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 63306,
+    "name": "Caday Xiriiro",
+    "latitude": 11.7362,
+    "longitude": 51.0821,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 63233,
+    "name": "Cadilley",
+    "latitude": 1.14586,
+    "longitude": 43.4729,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 63199,
+    "name": "Cagasur",
+    "latitude": 10.43805,
+    "longitude": 43.40631,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 60030,
+    "name": "Cal Eryo",
+    "latitude": 10.42106,
+    "longitude": 46.55798,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 63097,
+    "name": "Cal Madow",
+    "latitude": 10.7486,
+    "longitude": 46.9225,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53870,
+    "name": "Cal Miskaat",
+    "latitude": 10.85372,
+    "longitude": 49.81404,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 63168,
+    "name": "Calandheere",
+    "latitude": 11.2384,
+    "longitude": 48.6886,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 63163,
+    "name": "Calbahal",
+    "latitude": 11.0245,
+    "longitude": 47.8911,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 63161,
+    "name": "Calbiyale",
+    "latitude": 10.9462,
+    "longitude": 47.2016,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 63081,
+    "name": "Caluula",
+    "latitude": 11.96611,
+    "longitude": 50.75694,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 63053,
+    "name": "Camuud",
+    "latitude": 10.04224,
+    "longitude": 44.22918,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 63027,
+    "name": "Canqor",
+    "latitude": 10.54874,
+    "longitude": 46.16661,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62975,
+    "name": "Car Harari",
+    "latitude": 9.7,
+    "longitude": 49.06667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62983,
+    "name": "Cardix",
+    "latitude": 9.98565,
+    "longitude": 46.04688,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64413,
+    "name": "Carin Bereda",
+    "latitude": 11.83333,
+    "longitude": 51.05,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59221,
+    "name": "Carin Gambadofle",
+    "latitude": 11.3,
+    "longitude": 51,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58606,
+    "name": "Carin Ghelca Durduring",
+    "latitude": 10.8,
+    "longitude": 50.73333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62971,
+    "name": "Carin Ghes A Cabat",
+    "latitude": 10.8,
+    "longitude": 49.61667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58573,
+    "name": "Carin Ghieh",
+    "latitude": 11.33333,
+    "longitude": 49.8,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58400,
+    "name": "Carin Godgorun",
+    "latitude": 11.36667,
+    "longitude": 49.8,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57981,
+    "name": "Carin Gubet",
+    "latitude": 11.26667,
+    "longitude": 49.75,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54790,
+    "name": "Carin Lohi ma Tagto",
+    "latitude": 11.63333,
+    "longitude": 50.68333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53838,
+    "name": "Carin Mohorro",
+    "latitude": 10.13333,
+    "longitude": 49.85,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62912,
+    "name": "Casharaareer",
+    "latitude": 10.0476,
+    "longitude": 45.9833,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62911,
+    "name": "Casho",
+    "latitude": 1.09062,
+    "longitude": 43.38103,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62888,
+    "name": "Cawl",
+    "latitude": 10.3,
+    "longitude": 43.16667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62875,
+    "name": "Caws Weyne",
+    "latitude": 10.9112,
+    "longitude": 48.8478,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62862,
+    "name": "Cedeed Karor",
+    "latitude": 10.45405,
+    "longitude": 43.13992,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62861,
+    "name": "Ceebaad",
+    "latitude": 11.5029,
+    "longitude": 43.4569,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62821,
+    "name": "Ceelbuur",
+    "latitude": 4.68501,
+    "longitude": 46.6176,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62788,
+    "name": "Ceeldheer",
+    "latitude": 3.84878,
+    "longitude": 47.18064,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62691,
+    "name": "Ceerigaabo",
+    "latitude": 10.61616,
+    "longitude": 47.36795,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62685,
+    "name": "Ceg",
+    "latitude": 10.0141,
+    "longitude": 46.2013,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62675,
+    "name": "Ceridhuweyn",
+    "latitude": 11.0659,
+    "longitude": 48.9384,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62664,
+    "name": "Chaukar",
+    "latitude": 10.01667,
+    "longitude": 46.2,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62653,
+    "name": "Chianguva",
+    "latitude": -0.51667,
+    "longitude": 42.43333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62645,
+    "name": "Ciddi Dheere",
+    "latitude": 11.6479,
+    "longitude": 50.939,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62642,
+    "name": "Cidiye",
+    "latitude": 10.9355,
+    "longitude": 47.1679,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62599,
+    "name": "Cinjir",
+    "latitude": 9.71744,
+    "longitude": 50.68474,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62585,
+    "name": "Cirtoole",
+    "latitude": 10.6323,
+    "longitude": 47.0425,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62562,
+    "name": "Colkoonbe",
+    "latitude": 11.01185,
+    "longitude": 47.83867,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65701,
+    "name": "Collina Aggherar",
+    "latitude": 4,
+    "longitude": 42.68333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58255,
+    "name": "Combashale",
+    "latitude": 10.8824,
+    "longitude": 48.9514,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62554,
+    "name": "Confine",
+    "latitude": 9.33333,
+    "longitude": 43.75,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62539,
+    "name": "Corancur",
+    "latitude": 4.1,
+    "longitude": 42.35,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58133,
+    "name": "Coray Yar",
+    "latitude": 10.376,
+    "longitude": 45.7851,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62527,
+    "name": "Cormaghimbi",
+    "latitude": 4.16667,
+    "longitude": 42.63333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62511,
+    "name": "Cubeero",
+    "latitude": 11.2717,
+    "longitude": 50.9986,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62447,
+    "name": "Cusbaale",
+    "latitude": 10.0902,
+    "longitude": 44.6654,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62372,
+    "name": "Da’aro",
+    "latitude": 10.6,
+    "longitude": 47.13333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13494284,
+    "name": "Daalo Mountain Forest",
+    "latitude": 10.79493,
+    "longitude": 47.3196,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61962,
+    "name": "Daba Damas",
+    "latitude": 10.55,
+    "longitude": 45.71667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61167,
+    "name": "Daba Dheryood",
+    "latitude": 9.16839,
+    "longitude": 46.32083,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61140,
+    "name": "Daba Dhiddin",
+    "latitude": 9.53555,
+    "longitude": 46.41918,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55902,
+    "name": "Daba Kalharereh",
+    "latitude": 9.3,
+    "longitude": 46.53333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62309,
+    "name": "Daba Karimot Pass",
+    "latitude": 9.16667,
+    "longitude": 46.05,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51960,
+    "name": "Daba Shabeellee",
+    "latitude": 10.14281,
+    "longitude": 45.42216,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62304,
+    "name": "Dabalaydhshe",
+    "latitude": 10.3253,
+    "longitude": 43.1312,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62275,
+    "name": "Dabataag",
+    "latitude": 10.34982,
+    "longitude": 45.43761,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62265,
+    "name": "Dabayshin",
+    "latitude": 11.21403,
+    "longitude": 48.36865,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62256,
+    "name": "Dabdheer",
+    "latitude": 11.0639,
+    "longitude": 49.3333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62238,
+    "name": "Dabeyloy",
+    "latitude": 10.1479,
+    "longitude": 44.4261,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62237,
+    "name": "Dabeylweyn",
+    "latitude": 11.2164,
+    "longitude": 49.6662,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62215,
+    "name": "Daboeh",
+    "latitude": 10.1163,
+    "longitude": 44.67909,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62202,
+    "name": "Dabrawein",
+    "latitude": 10.15,
+    "longitude": 45.06667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62156,
+    "name": "Dadbin",
+    "latitude": 10.53288,
+    "longitude": 43.14003,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62145,
+    "name": "Dadin Weil",
+    "latitude": 9.18333,
+    "longitude": 46.53333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 64330,
+    "name": "Daga Bildaale",
+    "latitude": 10.3375,
+    "longitude": 46.0543,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55856,
+    "name": "Dagah Kamasur",
+    "latitude": 9.71667,
+    "longitude": 43.66667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62108,
+    "name": "Dagahrid",
+    "latitude": 10.95,
+    "longitude": 43.08333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62104,
+    "name": "Daganyo Da’arti",
+    "latitude": 10.18333,
+    "longitude": 48.85,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62076,
+    "name": "Daha",
+    "latitude": 11.0233,
+    "longitude": 49.4216,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62070,
+    "name": "Dahan",
+    "latitude": 9.31667,
+    "longitude": 48.36667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62067,
+    "name": "Dahan Uen",
+    "latitude": 11.26667,
+    "longitude": 49.85,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62044,
+    "name": "Dala Ad",
+    "latitude": 9.71667,
+    "longitude": 46.55,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62032,
+    "name": "Dalal Axmar",
+    "latitude": 11.2459,
+    "longitude": 49.4296,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61996,
+    "name": "Daloba",
+    "latitude": 9.66667,
+    "longitude": 44.08333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61974,
+    "name": "Damalas",
+    "latitude": 10.93,
+    "longitude": 47.4225,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61948,
+    "name": "Dambe",
+    "latitude": 11.318,
+    "longitude": 50.5907,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61932,
+    "name": "Dameerjoog",
+    "latitude": 10.48942,
+    "longitude": 43.09218,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61931,
+    "name": "Dameerka Eela",
+    "latitude": 10.53378,
+    "longitude": 43.46117,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61879,
+    "name": "Dan Joogto",
+    "latitude": 11.6894,
+    "longitude": 50.6859,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61863,
+    "name": "Daqah Likisan",
+    "latitude": 10.104,
+    "longitude": 44.53287,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61856,
+    "name": "Dar Ad",
+    "latitude": 9.31667,
+    "longitude": 48.51667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61842,
+    "name": "Dara Madoh",
+    "latitude": 10.55,
+    "longitude": 47.21667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61848,
+    "name": "Daraile",
+    "latitude": 10.51667,
+    "longitude": 43.65,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61844,
+    "name": "Daralehe",
+    "latitude": 11.7578,
+    "longitude": 51.1619,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61843,
+    "name": "Darali",
+    "latitude": 9.2,
+    "longitude": 48.78333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61841,
+    "name": "Daran",
+    "latitude": 11.3675,
+    "longitude": 49.5192,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61829,
+    "name": "Darata Odan",
+    "latitude": 9.9,
+    "longitude": 44.9,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61799,
+    "name": "Dargaas",
+    "latitude": -1.0827,
+    "longitude": 41.98568,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61789,
+    "name": "Darimo",
+    "latitude": 10.73333,
+    "longitude": 50.03333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61768,
+    "name": "Darka Qoton",
+    "latitude": 10.47304,
+    "longitude": 43.17998,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61762,
+    "name": "Darod",
+    "latitude": 10.91667,
+    "longitude": 47.65,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61742,
+    "name": "Daruud",
+    "latitude": 10.9077,
+    "longitude": 47.6221,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 9538014,
+    "name": "Dawa River",
+    "latitude": 4.1774,
+    "longitude": 42.0796,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61719,
+    "name": "Dawaad",
+    "latitude": 10.9845,
+    "longitude": 49.0893,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61715,
+    "name": "Dawacaale",
+    "latitude": 10.3871,
+    "longitude": 47.3965,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61681,
+    "name": "Daylaal",
+    "latitude": 10.084,
+    "longitude": 45.6663,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61677,
+    "name": "Daylaan",
+    "latitude": 10.7575,
+    "longitude": 50.0716,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61603,
+    "name": "Deg Garas",
+    "latitude": 2.34873,
+    "longitude": 42.98391,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61601,
+    "name": "Deg Golol",
+    "latitude": 2.36667,
+    "longitude": 42.95,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61580,
+    "name": "Dehfo",
+    "latitude": 11.38333,
+    "longitude": 50.98333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61576,
+    "name": "Deisso",
+    "latitude": 3.93333,
+    "longitude": 44.28333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8069987,
+    "name": "Dering-Galol",
+    "latitude": 10.073,
+    "longitude": 44.6901,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61531,
+    "name": "Deylaanjiic",
+    "latitude": 10.9526,
+    "longitude": 49.364,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6311126,
+    "name": "Dhabad",
+    "latitude": 6.43167,
+    "longitude": 46.46194,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61498,
+    "name": "Dhabaoqa",
+    "latitude": 11.5771,
+    "longitude": 50.33,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61479,
+    "name": "Dhabi Feedhacad",
+    "latitude": 10.0052,
+    "longitude": 43.1405,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61463,
+    "name": "Dhadhab Doyaw",
+    "latitude": 2.34979,
+    "longitude": 42.97444,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61416,
+    "name": "Dhagaxtuur",
+    "latitude": 8.25862,
+    "longitude": 47.85085,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61412,
+    "name": "Dhagaxye Cad",
+    "latitude": 10.17094,
+    "longitude": 48.85214,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6610123,
+    "name": "Dhalacad",
+    "latitude": 9.74899,
+    "longitude": 46.50955,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61387,
+    "name": "Dhaldhalaal",
+    "latitude": 10.36207,
+    "longitude": 42.84628,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61384,
+    "name": "Dhaleeco",
+    "latitude": 11.8521,
+    "longitude": 50.9866,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61360,
+    "name": "Dhamas",
+    "latitude": 3.15296,
+    "longitude": 41.33565,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61351,
+    "name": "Dhamuug",
+    "latitude": 9.94929,
+    "longitude": 43.20943,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61302,
+    "name": "Dhariyo",
+    "latitude": 9.89176,
+    "longitude": 44.71807,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61270,
+    "name": "Dhasax Daayeer",
+    "latitude": 10.18656,
+    "longitude": 45.06817,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61257,
+    "name": "Dhaxan Karin",
+    "latitude": 9.60259,
+    "longitude": 49.08328,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61250,
+    "name": "Dhaymoole",
+    "latitude": 10.1101,
+    "longitude": 45.0518,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61249,
+    "name": "Dhaymoole Yare",
+    "latitude": 10.072,
+    "longitude": 45.07039,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61194,
+    "name": "Dhegati",
+    "latitude": 9.87463,
+    "longitude": 46.58387,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61164,
+    "name": "Dhex Roor",
+    "latitude": 9.75488,
+    "longitude": 44.97904,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6610147,
+    "name": "Dhibo",
+    "latitude": 9.83806,
+    "longitude": 46.80111,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61147,
+    "name": "Dhiciro",
+    "latitude": 9.78382,
+    "longitude": 44.99949,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61117,
+    "name": "Dhiinsoor",
+    "latitude": 2.36667,
+    "longitude": 42.96667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61110,
+    "name": "Dhijis",
+    "latitude": 2.9998,
+    "longitude": 44.1661,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10228788,
+    "name": "Dhobley",
+    "latitude": 0.40997,
+    "longitude": 41.00995,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6610138,
+    "name": "Dhoobo",
+    "latitude": 9.84345,
+    "longitude": 46.50512,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61035,
+    "name": "Dhubbato",
+    "latitude": 9.73333,
+    "longitude": 43.45,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 60506,
+    "name": "Dhudhub",
+    "latitude": 9.77545,
+    "longitude": 44.87579,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6422877,
+    "name": "Dhudhub ka Dhexeeye",
+    "latitude": 9.78511,
+    "longitude": 44.90408,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61009,
+    "name": "Dhulagugub",
+    "latitude": 10.3828,
+    "longitude": 47.2154,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 60960,
+    "name": "Dhuubo",
+    "latitude": 10.03284,
+    "longitude": 44.8182,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 60928,
+    "name": "Dhuusamarreeb",
+    "latitude": 5.53597,
+    "longitude": 46.38666,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8309031,
+    "name": "Dhuwi",
+    "latitude": 10.01862,
+    "longitude": 44.18542,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 60888,
+    "name": "Dibis",
+    "latitude": 2.48721,
+    "longitude": 43.31978,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8346540,
+    "name": "Dibra-Ueyn",
+    "latitude": 10.44528,
+    "longitude": 42.82162,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 60867,
+    "name": "Didibdexaad",
+    "latitude": 10.35184,
+    "longitude": 45.35929,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 60809,
+    "name": "Diinsoor",
+    "latitude": 2.4085,
+    "longitude": 42.9771,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 60635,
+    "name": "Do’oleh",
+    "latitude": 8.28556,
+    "longitude": 46.40611,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 60724,
+    "name": "Dodoballa",
+    "latitude": 9.93472,
+    "longitude": 44.74278,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 60548,
+    "name": "Duberi",
+    "latitude": 9.98892,
+    "longitude": 46.03682,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 60546,
+    "name": "Dubeyrin",
+    "latitude": 10.0118,
+    "longitude": 46.0811,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 60537,
+    "name": "Dubriyaad",
+    "latitude": 10.3701,
+    "longitude": 45.1628,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 60533,
+    "name": "Dubur",
+    "latitude": 9.88741,
+    "longitude": 45.19856,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 60446,
+    "name": "Dulbiciid",
+    "latitude": 8.98679,
+    "longitude": 47.77836,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 60430,
+    "name": "Dullaal",
+    "latitude": 10.9426,
+    "longitude": 49.0551,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 60400,
+    "name": "Dummai",
+    "latitude": 11.45,
+    "longitude": 50.16667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 60327,
+    "name": "Dus",
+    "latitude": 10.05,
+    "longitude": 46.3,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 60297,
+    "name": "Duulay",
+    "latitude": 10.8005,
+    "longitude": 48.1397,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8346221,
+    "name": "Dzhufi",
+    "latitude": 10.12661,
+    "longitude": 42.98315,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 60219,
+    "name": "Eila El Gadir",
+    "latitude": 10.5,
+    "longitude": 45.95,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 60189,
+    "name": "El Anod",
+    "latitude": 10.05,
+    "longitude": 44.5,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 60149,
+    "name": "El Dibir",
+    "latitude": 11.76667,
+    "longitude": 51.21667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 60059,
+    "name": "El Usbale",
+    "latitude": 10.88333,
+    "longitude": 46.93333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 60192,
+    "name": "Elambidol Pass",
+    "latitude": 9.93333,
+    "longitude": 45.95,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 60031,
+    "name": "Ertale",
+    "latitude": 10.66667,
+    "longitude": 47.03333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 60019,
+    "name": "Eyl",
+    "latitude": 7.9803,
+    "longitude": 49.8164,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13494285,
+    "name": "Eyl Garad Marine Protected Area",
+    "latitude": 7.00978,
+    "longitude": 49.44646,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8045901,
+    "name": "Faarax Liiban",
+    "latitude": 10.3294,
+    "longitude": 43.0648,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59948,
+    "name": "Fadi Wein",
+    "latitude": 9.95,
+    "longitude": 45.08333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59947,
+    "name": "Fafaatu",
+    "latitude": -0.39399,
+    "longitude": 42.54355,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59929,
+    "name": "Falfule",
+    "latitude": 10.56667,
+    "longitude": 45.68333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59922,
+    "name": "Famauwaali",
+    "latitude": -1.61105,
+    "longitude": 41.61179,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59919,
+    "name": "Fanda Dhondi",
+    "latitude": -1.17889,
+    "longitude": 41.82612,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59795,
+    "name": "Far Shabeel",
+    "latitude": 10.09728,
+    "longitude": 44.50316,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8346131,
+    "name": "Farakh-Bul’de",
+    "latitude": 10.19557,
+    "longitude": 42.94071,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59869,
+    "name": "Farbilcil",
+    "latitude": 8.22056,
+    "longitude": 47.85529,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59861,
+    "name": "Fardaandeg",
+    "latitude": 10.8369,
+    "longitude": 48.1876,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59842,
+    "name": "Fardood",
+    "latitude": 11.0747,
+    "longitude": 50.2673,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59807,
+    "name": "Farqaanso",
+    "latitude": 10.1264,
+    "longitude": 44.4735,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59801,
+    "name": "Farsaxidh",
+    "latitude": 10.39603,
+    "longitude": 43.47605,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59793,
+    "name": "Farshabeelo",
+    "latitude": 10.11212,
+    "longitude": 44.48806,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59762,
+    "name": "Feedho Qabad",
+    "latitude": 10.3427,
+    "longitude": 43.0568,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59732,
+    "name": "Fignale",
+    "latitude": 10.7,
+    "longitude": 49.85,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59719,
+    "name": "Filigol",
+    "latitude": 8.83333,
+    "longitude": 46.1,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59716,
+    "name": "Fin",
+    "latitude": 11.0325,
+    "longitude": 49.5329,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59713,
+    "name": "Finger Pig",
+    "latitude": 10.7404,
+    "longitude": 46.7783,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59710,
+    "name": "Finyo",
+    "latitude": 11.4303,
+    "longitude": 50.6067,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59683,
+    "name": "Fua Daua",
+    "latitude": -1.16667,
+    "longitude": 41.81667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59662,
+    "name": "Furro",
+    "latitude": -0.5347,
+    "longitude": 42.4252,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59646,
+    "name": "Fuuriye",
+    "latitude": 11.591,
+    "longitude": 50.413,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59643,
+    "name": "Fuyuuma",
+    "latitude": -0.5576,
+    "longitude": 42.4026,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59611,
+    "name": "Gaalkacyo",
+    "latitude": 6.76972,
+    "longitude": 47.43083,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59584,
+    "name": "Gaar Weyn",
+    "latitude": 11.6755,
+    "longitude": 50.6298,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59554,
+    "name": "Gabarsaar",
+    "latitude": 10.9505,
+    "longitude": 48.2128,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8346219,
+    "name": "Gabdon",
+    "latitude": 10.15511,
+    "longitude": 42.98011,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59523,
+    "name": "Gacaan",
+    "latitude": 11.2183,
+    "longitude": 48.3439,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59521,
+    "name": "Gacalgule",
+    "latitude": 9.31329,
+    "longitude": 48.73526,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59512,
+    "name": "Gacan Libaax",
+    "latitude": 9.97161,
+    "longitude": 45.02035,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59509,
+    "name": "Gacanteb",
+    "latitude": 11.004,
+    "longitude": 48.3151,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59494,
+    "name": "Gadh Gumareed",
+    "latitude": 9.22422,
+    "longitude": 46.4158,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59491,
+    "name": "Gadhka Warsame Xaad",
+    "latitude": 9.62253,
+    "longitude": 44.55944,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59486,
+    "name": "Gadki Gobli",
+    "latitude": 10.63333,
+    "longitude": 45.71667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59483,
+    "name": "Gadob Madani",
+    "latitude": 10.33333,
+    "longitude": 44.71667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59381,
+    "name": "Gal Gali",
+    "latitude": 3.73388,
+    "longitude": 41.85756,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59345,
+    "name": "Gal Kal Shiikh",
+    "latitude": 9.80291,
+    "longitude": 46.48519,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59400,
+    "name": "Galdays",
+    "latitude": 11.1218,
+    "longitude": 50.9218,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59370,
+    "name": "Galgodan",
+    "latitude": 9.88948,
+    "longitude": 45.29495,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59353,
+    "name": "Galiiliye",
+    "latitude": 11.5623,
+    "longitude": 50.9101,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59269,
+    "name": "Galool Weydle",
+    "latitude": 9.58253,
+    "longitude": 49.22933,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59193,
+    "name": "Gandur",
+    "latitude": 8.3,
+    "longitude": 47.36667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59179,
+    "name": "Gar",
+    "latitude": 9.91943,
+    "longitude": 45.38163,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59963,
+    "name": "Gar Facanyo",
+    "latitude": 11.3973,
+    "longitude": 49.5561,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59176,
+    "name": "Garaad",
+    "latitude": 10.89811,
+    "longitude": 47.7467,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59175,
+    "name": "Garaamuge",
+    "latitude": 11.0886,
+    "longitude": 48.3691,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8055329,
+    "name": "Garab",
+    "latitude": 10.65728,
+    "longitude": 46.85509,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59166,
+    "name": "Garab Akoobe",
+    "latitude": 2.50315,
+    "longitude": 41.72551,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59149,
+    "name": "Garab Qaari",
+    "latitude": 10.42959,
+    "longitude": 47.38818,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59140,
+    "name": "Garadag",
+    "latitude": 9.48828,
+    "longitude": 46.8674,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62992,
+    "name": "Garbacaso",
+    "latitude": 10.41498,
+    "longitude": 43.05808,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58994,
+    "name": "Garbahaarrey",
+    "latitude": 3.32892,
+    "longitude": 42.22091,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58944,
+    "name": "Garile",
+    "latitude": 3.24325,
+    "longitude": 41.61926,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54398,
+    "name": "Garka Malgoeh",
+    "latitude": 10.23333,
+    "longitude": 44.68333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58933,
+    "name": "Garoowe",
+    "latitude": 8.40207,
+    "longitude": 48.48284,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58858,
+    "name": "Gawir",
+    "latitude": 10.9479,
+    "longitude": 48.2608,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58840,
+    "name": "Geba Geba",
+    "latitude": 9.73333,
+    "longitude": 45.88333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58831,
+    "name": "Gebiley",
+    "latitude": 9.70028,
+    "longitude": 43.62444,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58826,
+    "name": "Gedariyu",
+    "latitude": 10.63333,
+    "longitude": 48.45,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58816,
+    "name": "Gedeis",
+    "latitude": 9.91667,
+    "longitude": 45.38333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8042709,
+    "name": "Geed Galdiiley",
+    "latitude": 10.351,
+    "longitude": 43.07912,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58767,
+    "name": "Geedkulanle",
+    "latitude": 10.46445,
+    "longitude": 43.27965,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58741,
+    "name": "Geel Fadhi",
+    "latitude": 11.2202,
+    "longitude": 50.9644,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58729,
+    "name": "Geeljoogo",
+    "latitude": 11.10052,
+    "longitude": 48.86408,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8056588,
+    "name": "Geellaaye",
+    "latitude": 10.0388,
+    "longitude": 44.1852,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58724,
+    "name": "Geelloofuul",
+    "latitude": 10.4611,
+    "longitude": 43.4834,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58718,
+    "name": "Geelwanaaje",
+    "latitude": 10.56106,
+    "longitude": 43.02953,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58642,
+    "name": "Geerigo’an",
+    "latitude": 10.1836,
+    "longitude": 44.4517,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58641,
+    "name": "Geerigo’an Yar",
+    "latitude": 10.04113,
+    "longitude": 44.31696,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58709,
+    "name": "Geerigoan",
+    "latitude": 10.38407,
+    "longitude": 43.14513,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58694,
+    "name": "Gegabodle",
+    "latitude": 10.5,
+    "longitude": 43.2,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58653,
+    "name": "Gerigoaan",
+    "latitude": 9.66116,
+    "longitude": 46.47251,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58635,
+    "name": "Geshalaal",
+    "latitude": 11.0309,
+    "longitude": 48.4267,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58592,
+    "name": "Gherbo",
+    "latitude": 4.81667,
+    "longitude": 45.43333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58546,
+    "name": "Gidil",
+    "latitude": 9.95899,
+    "longitude": 45.23774,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58516,
+    "name": "Girigoyan",
+    "latitude": 10.30237,
+    "longitude": 45.01673,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58482,
+    "name": "Gob Dheere",
+    "latitude": 10.07636,
+    "longitude": 45.20318,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58436,
+    "name": "Godad Minanle",
+    "latitude": 11.1324,
+    "longitude": 48.3584,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58430,
+    "name": "Godani",
+    "latitude": 10.0141,
+    "longitude": 45.7133,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58385,
+    "name": "Godlebile",
+    "latitude": 9.11667,
+    "longitude": 46.73333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58329,
+    "name": "Gogolmadoone",
+    "latitude": 9.01674,
+    "longitude": 46.1788,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58302,
+    "name": "Goldoth Pass",
+    "latitude": 9.88333,
+    "longitude": 45.08333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58217,
+    "name": "Goodiray",
+    "latitude": 10.39152,
+    "longitude": 42.95144,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58216,
+    "name": "Goodire",
+    "latitude": 10.1575,
+    "longitude": 43.0894,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58194,
+    "name": "Goohle",
+    "latitude": 10.47539,
+    "longitude": 43.0524,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58163,
+    "name": "Gora Dega",
+    "latitude": 9.8,
+    "longitude": 47,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58165,
+    "name": "Gora’ale",
+    "latitude": 10.91667,
+    "longitude": 43.05,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58147,
+    "name": "Goray",
+    "latitude": 9.00997,
+    "longitude": 47.84865,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58116,
+    "name": "Gorgor",
+    "latitude": 10.9349,
+    "longitude": 47.4757,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58051,
+    "name": "Great Gap",
+    "latitude": 10.36667,
+    "longitude": 45.11667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58007,
+    "name": "Gubane",
+    "latitude": 10.4123,
+    "longitude": 46.0958,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57955,
+    "name": "Gud Gabobe",
+    "latitude": 9.36667,
+    "longitude": 47.3,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57960,
+    "name": "Gudaneh",
+    "latitude": 10.06667,
+    "longitude": 44.06667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57942,
+    "name": "Gudmahaadle",
+    "latitude": 10.1854,
+    "longitude": 46.9254,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57923,
+    "name": "Gududu",
+    "latitude": 10.27866,
+    "longitude": 44.72977,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57909,
+    "name": "Guduud",
+    "latitude": 11.124,
+    "longitude": 49.2255,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57843,
+    "name": "Gumaani",
+    "latitude": -1.1267,
+    "longitude": 41.78145,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57837,
+    "name": "Gumar",
+    "latitude": 11.0518,
+    "longitude": 50.9051,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61872,
+    "name": "Gumbur Danop",
+    "latitude": 10.23333,
+    "longitude": 43.18333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61063,
+    "name": "Gumbur Dhooble",
+    "latitude": 9.86682,
+    "longitude": 47.06332,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57774,
+    "name": "Guraan",
+    "latitude": 3.87451,
+    "longitude": 42.81437,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57702,
+    "name": "Gut Liibon",
+    "latitude": 1.07698,
+    "longitude": 43.40917,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57689,
+    "name": "Guud Morooro",
+    "latitude": 11.0406,
+    "longitude": 48.308,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57674,
+    "name": "Guumme",
+    "latitude": -0.72569,
+    "longitude": 42.28537,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57664,
+    "name": "Guuwa",
+    "latitude": -0.78642,
+    "longitude": 42.23623,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57633,
+    "name": "Habaarso",
+    "latitude": 10.38662,
+    "longitude": 47.42623,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57604,
+    "name": "Habaryaale",
+    "latitude": 11.0175,
+    "longitude": 48.9573,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57590,
+    "name": "Habkola",
+    "latitude": 9.93333,
+    "longitude": 43.71667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57575,
+    "name": "Had",
+    "latitude": 11.66667,
+    "longitude": 50.65,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57521,
+    "name": "Hagarer",
+    "latitude": 8.41667,
+    "longitude": 47.16667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57465,
+    "name": "Hal Madow",
+    "latitude": 11.704,
+    "longitude": 51.1808,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57461,
+    "name": "Halolai",
+    "latitude": 10.18333,
+    "longitude": 47.45,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57447,
+    "name": "Hama Kadurduris",
+    "latitude": 10.35186,
+    "longitude": 47.31086,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57434,
+    "name": "Hambôs",
+    "latitude": 11.13333,
+    "longitude": 43.18333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57431,
+    "name": "Hamham",
+    "latitude": 10.25,
+    "longitude": 47,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57380,
+    "name": "Har",
+    "latitude": 11.1084,
+    "longitude": 49.372,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57326,
+    "name": "Hareeri",
+    "latitude": 11.0332,
+    "longitude": 50.3725,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57289,
+    "name": "Hargeysa",
+    "latitude": 9.56,
+    "longitude": 44.065,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8042706,
+    "name": "Haro",
+    "latitude": 10.40402,
+    "longitude": 43.07788,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57156,
+    "name": "Hel Maraale",
+    "latitude": 8.65944,
+    "longitude": 46.37915,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57155,
+    "name": "Hel Marale Pass",
+    "latitude": 8.7,
+    "longitude": 46.41667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57121,
+    "name": "Her Mudo",
+    "latitude": 11.25,
+    "longitude": 49.75,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57118,
+    "name": "Herolagouderire",
+    "latitude": 10.18078,
+    "longitude": 42.9574,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57111,
+    "name": "Heybo",
+    "latitude": 2.9978,
+    "longitude": 44.2996,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57072,
+    "name": "Higlomaroodi",
+    "latitude": 8.20266,
+    "longitude": 47.93476,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8073688,
+    "name": "Hiniile",
+    "latitude": 10.15752,
+    "longitude": 45.48852,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57018,
+    "name": "Hirad Giire",
+    "latitude": 10.33144,
+    "longitude": 42.97986,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57016,
+    "name": "Hirido",
+    "latitude": 10.9552,
+    "longitude": 48.8278,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57000,
+    "name": "Hobyo",
+    "latitude": 5.3505,
+    "longitude": 48.5268,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13494275,
+    "name": "Hobyo Marine Protected Area",
+    "latitude": 5.13166,
+    "longitude": 48.47445,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56996,
+    "name": "Hodda",
+    "latitude": 11.58333,
+    "longitude": 50.58333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56983,
+    "name": "Hog Canjeel",
+    "latitude": 11.8656,
+    "longitude": 50.9565,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56973,
+    "name": "Hohrma Yera",
+    "latitude": 10.08333,
+    "longitude": 44.25,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56999,
+    "name": "Hokoba",
+    "latitude": 2.46574,
+    "longitude": 41.80802,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56935,
+    "name": "Hool",
+    "latitude": 3.55766,
+    "longitude": 41.94524,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56932,
+    "name": "Hoolif",
+    "latitude": 11.11247,
+    "longitude": 48.81217,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56905,
+    "name": "Hormayare",
+    "latitude": 10.38468,
+    "longitude": 43.31943,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56899,
+    "name": "Horsasamma",
+    "latitude": 8.95,
+    "longitude": 47.88333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56870,
+    "name": "Hugfa",
+    "latitude": 11.4333,
+    "longitude": 49.5922,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56813,
+    "name": "Hurarka",
+    "latitude": 10.66667,
+    "longitude": 47.1,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56770,
+    "name": "Ibaney",
+    "latitude": 11.1103,
+    "longitude": 49.2912,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8308828,
+    "name": "Idoore",
+    "latitude": 10.43614,
+    "longitude": 43.07952,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56703,
+    "name": "Iidle Afxiid",
+    "latitude": 10.22633,
+    "longitude": 43.12048,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56685,
+    "name": "Ikumbi",
+    "latitude": -1.48603,
+    "longitude": 41.69351,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56674,
+    "name": "Ilalo Fadeh",
+    "latitude": 9.11667,
+    "longitude": 48.65,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56649,
+    "name": "Ilisi",
+    "latitude": -0.5476,
+    "longitude": 42.4149,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56603,
+    "name": "Ina Gaade",
+    "latitude": 11.0543,
+    "longitude": 50.4031,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56585,
+    "name": "Indha Saaf",
+    "latitude": 10.1751,
+    "longitude": 46.6911,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56505,
+    "name": "Iskushuban",
+    "latitude": 10.2837,
+    "longitude": 50.23,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51184,
+    "name": "Isola Touata",
+    "latitude": 0.58333,
+    "longitude": 42.73333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58500,
+    "name": "Isole Giuba",
+    "latitude": -0.75,
+    "longitude": 42.31667,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 60753,
+    "name": "Isoletti Divadicioci",
+    "latitude": -1.21954,
+    "longitude": 41.88363,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56470,
+    "name": "Jaaldeyso",
+    "latitude": 3.44748,
+    "longitude": 41.77927,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56444,
+    "name": "Jabbaabe",
+    "latitude": -0.7824,
+    "longitude": 42.239,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56414,
+    "name": "Jalalaqsi",
+    "latitude": 3.3766,
+    "longitude": 45.5996,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62667,
+    "name": "Jaleeca Karoor",
+    "latitude": 9.03333,
+    "longitude": 46.33333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56399,
+    "name": "Jamaame",
+    "latitude": 0.06968,
+    "longitude": 42.74497,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56352,
+    "name": "Jarco",
+    "latitude": 10.92471,
+    "longitude": 49.87051,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56348,
+    "name": "Jartaale",
+    "latitude": 9.97517,
+    "longitude": 47.28123,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56335,
+    "name": "Jawhar",
+    "latitude": 2.78087,
+    "longitude": 45.50048,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65640,
+    "name": "Jebel Alat",
+    "latitude": 11.0752,
+    "longitude": 47.5728,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65597,
+    "name": "Jebel Almis",
+    "latitude": 10.36338,
+    "longitude": 44.21999,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54451,
+    "name": "Jebel Mait",
+    "latitude": 10.9,
+    "longitude": 47.03333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11876119,
+    "name": "Jebel Marayeh",
+    "latitude": 11.63529,
+    "longitude": 50.44374,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51929,
+    "name": "Jebel Shalas",
+    "latitude": 10.71667,
+    "longitude": 46.78333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50511,
+    "name": "Jebel Warsangeli",
+    "latitude": 10.91667,
+    "longitude": 47.58333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56287,
+    "name": "Jerato Pass",
+    "latitude": 9.85,
+    "longitude": 44.71667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56285,
+    "name": "Jeri",
+    "latitude": 10.03333,
+    "longitude": 45.56667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8358369,
+    "name": "Jibirro",
+    "latitude": 11.5503,
+    "longitude": 50.1742,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58859,
+    "name": "Jid Gawan",
+    "latitude": 9.74139,
+    "longitude": 46.71222,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56268,
+    "name": "Jidad Carmo",
+    "latitude": 11.679,
+    "longitude": 50.5179,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56246,
+    "name": "Jidhaanshiile",
+    "latitude": 9.07667,
+    "longitude": 47.53167,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56222,
+    "name": "Jifiyo",
+    "latitude": 10.6216,
+    "longitude": 47.1328,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56220,
+    "name": "Jifu Meider",
+    "latitude": 9.73333,
+    "longitude": 43.28333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56178,
+    "name": "Jilaani",
+    "latitude": 1.1055,
+    "longitude": 44.0382,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56172,
+    "name": "Jilas",
+    "latitude": 9.71667,
+    "longitude": 45.81667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56166,
+    "name": "Jilib",
+    "latitude": 0.48829,
+    "longitude": 42.78535,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56159,
+    "name": "Jilibrin",
+    "latitude": 10.7655,
+    "longitude": 47.3726,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56157,
+    "name": "Jilin",
+    "latitude": 10.8283,
+    "longitude": 47.3824,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 62651,
+    "name": "Jimoono Goosto",
+    "latitude": -0.3362,
+    "longitude": 42.5859,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56115,
+    "name": "Jirjir Gargar",
+    "latitude": 10.88333,
+    "longitude": 47.25,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56102,
+    "name": "Jirta Tixay",
+    "latitude": 3.18635,
+    "longitude": 41.99856,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56101,
+    "name": "Jisagaale",
+    "latitude": 10.0304,
+    "longitude": 50.41535,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56097,
+    "name": "Jofay",
+    "latitude": -0.87398,
+    "longitude": 42.15634,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56090,
+    "name": "Joondho",
+    "latitude": -1.3827,
+    "longitude": 41.75535,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56078,
+    "name": "Juqalan",
+    "latitude": 2.36,
+    "longitude": 42.95425,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56075,
+    "name": "Juula",
+    "latitude": -1.0064,
+    "longitude": 42.0391,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56055,
+    "name": "Kaambooni",
+    "latitude": -1.63772,
+    "longitude": 41.5866,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56039,
+    "name": "Kabaal",
+    "latitude": 8.44901,
+    "longitude": 47.19405,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56030,
+    "name": "Kabalais",
+    "latitude": 10.55,
+    "longitude": 46.95,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56019,
+    "name": "Kabar Ogaden",
+    "latitude": 8.95,
+    "longitude": 46.46667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56013,
+    "name": "Kabibani",
+    "latitude": 9.96667,
+    "longitude": 44.65,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55887,
+    "name": "Kal Madow",
+    "latitude": 11.0877,
+    "longitude": 48.2829,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8308827,
+    "name": "Kalajab",
+    "latitude": 10.51824,
+    "longitude": 43.18229,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55872,
+    "name": "Kalqoray",
+    "latitude": 10.0767,
+    "longitude": 44.6003,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55834,
+    "name": "Karamad",
+    "latitude": 10.61667,
+    "longitude": 43.56667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55821,
+    "name": "Karin",
+    "latitude": 11.1615,
+    "longitude": 49.7218,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55810,
+    "name": "Karin Dawal",
+    "latitude": 10.55,
+    "longitude": 48.95,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55808,
+    "name": "Karin Dhiddin",
+    "latitude": 10.0429,
+    "longitude": 44.5981,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 59883,
+    "name": "Karin Faras",
+    "latitude": 10.31667,
+    "longitude": 43.63333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55799,
+    "name": "Karin Gubad",
+    "latitude": 9.81964,
+    "longitude": 49.03335,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57345,
+    "name": "Karin Harari",
+    "latitude": 10.3,
+    "longitude": 43.66667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55798,
+    "name": "Karin Hodai",
+    "latitude": 10.0208,
+    "longitude": 44.5826,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56323,
+    "name": "Karin Jedgab",
+    "latitude": 10.3,
+    "longitude": 43.63333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55792,
+    "name": "Karin Muda",
+    "latitude": 10.35,
+    "longitude": 43.58333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55791,
+    "name": "Karin Pass",
+    "latitude": 9.61667,
+    "longitude": 44.45,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52441,
+    "name": "Karin Roor Rama",
+    "latitude": 11.0654,
+    "longitude": 48.2722,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50203,
+    "name": "Karin Xaggarood",
+    "latitude": 10.9853,
+    "longitude": 48.8923,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55807,
+    "name": "Karindiigo",
+    "latitude": 9.9973,
+    "longitude": 47.45886,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55806,
+    "name": "Karinduusha",
+    "latitude": 10.7826,
+    "longitude": 48.1308,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55802,
+    "name": "Karingeh",
+    "latitude": 10.06535,
+    "longitude": 44.60302,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55772,
+    "name": "Karkoor",
+    "latitude": 11.3478,
+    "longitude": 49.7279,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55766,
+    "name": "Karqoday",
+    "latitude": 10.11745,
+    "longitude": 44.65369,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55722,
+    "name": "Kediot",
+    "latitude": 9.98333,
+    "longitude": 43.66667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55716,
+    "name": "Keti-Keti",
+    "latitude": -1.23796,
+    "longitude": 41.86348,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8346224,
+    "name": "Khagare",
+    "latitude": 10.21931,
+    "longitude": 42.87294,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8346138,
+    "name": "Kharad-Midile",
+    "latitude": 10.23306,
+    "longitude": 42.89427,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8346804,
+    "name": "Khig’er",
+    "latitude": 10.76433,
+    "longitude": 42.82306,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6768579,
+    "name": "Kifa Kamlaango",
+    "latitude": -1.22858,
+    "longitude": 41.87092,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55686,
+    "name": "Kiiwa Jafaagfaali",
+    "latitude": -1.55911,
+    "longitude": 41.64715,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55685,
+    "name": "Kiiwa Kasabuuli",
+    "latitude": -1.06682,
+    "longitude": 42.00168,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8346220,
+    "name": "Kirir",
+    "latitude": 10.13734,
+    "longitude": 42.98053,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55671,
+    "name": "Kismayo",
+    "latitude": -0.35817,
+    "longitude": 42.54536,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55668,
+    "name": "Kitibo",
+    "latitude": 11.0047,
+    "longitude": 49.0116,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55666,
+    "name": "Kiwaasa",
+    "latitude": -0.5851,
+    "longitude": 42.3806,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55664,
+    "name": "Kiwamooka",
+    "latitude": -0.9258,
+    "longitude": 42.0869,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55661,
+    "name": "Kiyaamwa",
+    "latitude": -0.6064,
+    "longitude": 42.361,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55657,
+    "name": "Kiyoojo Kaaji",
+    "latitude": -1.05556,
+    "longitude": 42.00394,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55656,
+    "name": "Kiyoojo Lagooni",
+    "latitude": -1.04938,
+    "longitude": 42.00713,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55639,
+    "name": "Kodaley",
+    "latitude": 10.91667,
+    "longitude": 43.01667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55633,
+    "name": "Kodom Cas",
+    "latitude": 9.8039,
+    "longitude": 49.685,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55618,
+    "name": "Komey",
+    "latitude": 1.09962,
+    "longitude": 43.48295,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55615,
+    "name": "Konaandoofu",
+    "latitude": -1.35916,
+    "longitude": 41.77562,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55593,
+    "name": "Koomook",
+    "latitude": 11.468,
+    "longitude": 50.0389,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55586,
+    "name": "Kooraha Jid Quraanyo",
+    "latitude": 9.09889,
+    "longitude": 46.5925,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55581,
+    "name": "Koordaada",
+    "latitude": -0.46343,
+    "longitude": 42.50939,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55579,
+    "name": "Koore",
+    "latitude": 9.13667,
+    "longitude": 46.41833,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55573,
+    "name": "Korajasha",
+    "latitude": 10.0295,
+    "longitude": 44.0592,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55520,
+    "name": "Koyaama",
+    "latitude": -0.6416,
+    "longitude": 42.3377,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55572,
+    "name": "Kulaal",
+    "latitude": 9.78333,
+    "longitude": 47.58333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55419,
+    "name": "Kur Laba Is",
+    "latitude": 9.3,
+    "longitude": 49.01667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55387,
+    "name": "Kur Wadne",
+    "latitude": 9.07139,
+    "longitude": 46.30889,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55427,
+    "name": "Kurello",
+    "latitude": 10.85,
+    "longitude": 47.63333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55345,
+    "name": "Kuwuubi",
+    "latitude": -0.94723,
+    "longitude": 42.1039,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55336,
+    "name": "Laabragar",
+    "latitude": 10.43746,
+    "longitude": 45.2097,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55334,
+    "name": "Laac Wanaagsan",
+    "latitude": 10.99852,
+    "longitude": 49.01941,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55332,
+    "name": "Laag",
+    "latitude": 10.9238,
+    "longitude": 47.855,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55330,
+    "name": "Laagaley",
+    "latitude": 10.0874,
+    "longitude": 44.2374,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13494282,
+    "name": "Laagbadana Marine Protected Area",
+    "latitude": -1.64185,
+    "longitude": 41.5941,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55294,
+    "name": "Laangua Bembe",
+    "latitude": -1.18385,
+    "longitude": 41.9132,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55243,
+    "name": "Laas Dhuure",
+    "latitude": 9.91807,
+    "longitude": 45.88522,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 400769,
+    "name": "Laascaanood",
+    "latitude": 8.47738,
+    "longitude": 47.35971,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55125,
+    "name": "Lab Ragger",
+    "latitude": 10.26667,
+    "longitude": 45.23333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55185,
+    "name": "Laba Dubur Madow",
+    "latitude": 10.58791,
+    "longitude": 45.32785,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55177,
+    "name": "Laba Garday",
+    "latitude": 9.09647,
+    "longitude": 46.24296,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55144,
+    "name": "Laba Webi",
+    "latitude": 4.0109,
+    "longitude": 45.5236,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55195,
+    "name": "Labadaad",
+    "latitude": 0.7,
+    "longitude": 42.68333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55160,
+    "name": "Labaqarbidle",
+    "latitude": 11.05639,
+    "longitude": 43.08389,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55158,
+    "name": "Labargardai Pass",
+    "latitude": 9.11667,
+    "longitude": 46.36667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55106,
+    "name": "Lafa Gari",
+    "latitude": 2.76749,
+    "longitude": 41.87115,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55071,
+    "name": "Lafweyn",
+    "latitude": 10.7589,
+    "longitude": 48.2698,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55066,
+    "name": "Lagdeero",
+    "latitude": 8.40074,
+    "longitude": 49.15298,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55024,
+    "name": "Lama Shaaqa",
+    "latitude": -1.65872,
+    "longitude": 41.57669,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55028,
+    "name": "Lamakoraan",
+    "latitude": 10.495,
+    "longitude": 48.1373,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54990,
+    "name": "Las Burad",
+    "latitude": 9.31667,
+    "longitude": 48.55,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54978,
+    "name": "Las Haran Pass",
+    "latitude": 9.36667,
+    "longitude": 48.2,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55223,
+    "name": "Las Khorey",
+    "latitude": 11.1595,
+    "longitude": 48.1967,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54944,
+    "name": "Lebe Muyo",
+    "latitude": 9.13333,
+    "longitude": 46.71667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54890,
+    "name": "Lediid",
+    "latitude": 10.9335,
+    "longitude": 49.3974,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54878,
+    "name": "Lek Bariyeh",
+    "latitude": 10.03333,
+    "longitude": 44.41667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54847,
+    "name": "Libaaxley",
+    "latitude": 10.36292,
+    "longitude": 43.08263,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54836,
+    "name": "Libahayu",
+    "latitude": 10.13333,
+    "longitude": 46.55,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8346137,
+    "name": "Lidkor",
+    "latitude": 10.19519,
+    "longitude": 42.89774,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54815,
+    "name": "Liidqoor",
+    "latitude": 10.1976,
+    "longitude": 43.17983,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54785,
+    "name": "Lojabiye",
+    "latitude": 10.10961,
+    "longitude": 45.42536,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54746,
+    "name": "Lughaye",
+    "latitude": 10.68573,
+    "longitude": 43.94397,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54715,
+    "name": "Luuq",
+    "latitude": 3.80315,
+    "longitude": 42.54417,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54706,
+    "name": "Maafondokowa",
+    "latitude": -1.18395,
+    "longitude": 41.8927,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54635,
+    "name": "Madah Weinyed",
+    "latitude": 10.81667,
+    "longitude": 48.68333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54623,
+    "name": "Madax",
+    "latitude": 10.98155,
+    "longitude": 47.45177,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54606,
+    "name": "Madax Maroodi",
+    "latitude": 1.11283,
+    "longitude": 43.45295,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54584,
+    "name": "Madgedo",
+    "latitude": 10.8692,
+    "longitude": 49.121,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54572,
+    "name": "Madhergelka",
+    "latitude": 10.46415,
+    "longitude": 43.44982,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54543,
+    "name": "Madow",
+    "latitude": 2.30463,
+    "longitude": 43.39218,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54530,
+    "name": "Madow Cali",
+    "latitude": 3.56852,
+    "longitude": 41.89361,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8042712,
+    "name": "Mafoqi",
+    "latitude": 1.102,
+    "longitude": 44.0293,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54501,
+    "name": "Magacsan",
+    "latitude": 10.8675,
+    "longitude": 47.5526,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54460,
+    "name": "Mahaddayweyne",
+    "latitude": 2.9726,
+    "longitude": 45.5347,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54385,
+    "name": "Malool",
+    "latitude": 9.97164,
+    "longitude": 45.20446,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54380,
+    "name": "Malxu",
+    "latitude": 9.90306,
+    "longitude": 46.57028,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54377,
+    "name": "Mamba Qasheera",
+    "latitude": 1.1465,
+    "longitude": 44.09184,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54366,
+    "name": "Mandaho",
+    "latitude": 11.00528,
+    "longitude": 43.18278,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54364,
+    "name": "Mander-Gel Dogankel",
+    "latitude": 10.28333,
+    "longitude": 43.78333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54363,
+    "name": "Mandheera",
+    "latitude": 9.90649,
+    "longitude": 44.72255,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54350,
+    "name": "Manna",
+    "latitude": 11.14756,
+    "longitude": 48.45723,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54312,
+    "name": "Marada Gobka",
+    "latitude": 10.8746,
+    "longitude": 48.9795,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54300,
+    "name": "Marakasa",
+    "latitude": 10.67027,
+    "longitude": 42.78395,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54299,
+    "name": "Marale",
+    "latitude": 9.46667,
+    "longitude": 43.81667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54293,
+    "name": "Mararaleh",
+    "latitude": 10.63333,
+    "longitude": 47.05,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54280,
+    "name": "Mareedo",
+    "latitude": 9.858,
+    "longitude": 47.08037,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54276,
+    "name": "Mareer",
+    "latitude": 10.85552,
+    "longitude": 48.90725,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54225,
+    "name": "Marka",
+    "latitude": 1.71594,
+    "longitude": 44.77166,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54173,
+    "name": "Marso",
+    "latitude": 9.91667,
+    "longitude": 44.91667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54122,
+    "name": "Mata Arba",
+    "latitude": 3.53605,
+    "longitude": 41.69505,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54115,
+    "name": "Matanyaxaas",
+    "latitude": 1.08934,
+    "longitude": 43.42638,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54110,
+    "name": "Matunga-iyo-Baaba",
+    "latitude": -0.47829,
+    "longitude": 42.47795,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54079,
+    "name": "Maydh",
+    "latitude": 11.2211,
+    "longitude": 47.2403,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 54026,
+    "name": "Megago",
+    "latitude": 9.41667,
+    "longitude": 44.13333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53997,
+    "name": "Mermeer",
+    "latitude": 8.96133,
+    "longitude": 47.86385,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53983,
+    "name": "Messero Haleh",
+    "latitude": 10.63333,
+    "longitude": 47.05,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6607669,
+    "name": "Midh Caanyeley",
+    "latitude": 9.75678,
+    "longitude": 45.02973,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53926,
+    "name": "Milxa",
+    "latitude": 10.769,
+    "longitude": 51.0318,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53905,
+    "name": "Mirgo",
+    "latitude": 9.9,
+    "longitude": 44.76667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53903,
+    "name": "Miridh",
+    "latitude": 10.03559,
+    "longitude": 44.80741,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53890,
+    "name": "Miriye",
+    "latitude": 9.8442,
+    "longitude": 45.94279,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53884,
+    "name": "Mirmirka",
+    "latitude": 10.6452,
+    "longitude": 46.7708,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53871,
+    "name": "Misiig",
+    "latitude": 11.4171,
+    "longitude": 49.7319,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53863,
+    "name": "Miyaandi",
+    "latitude": -1.56306,
+    "longitude": 41.63956,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53654,
+    "name": "Mogadishu",
+    "latitude": 2.03711,
+    "longitude": 45.34375,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53827,
+    "name": "Moli Dheero",
+    "latitude": 10.15,
+    "longitude": 47.26667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8346658,
+    "name": "Molile",
+    "latitude": 10.52449,
+    "longitude": 42.74047,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53820,
+    "name": "Mombaasa",
+    "latitude": 0.21399,
+    "longitude": 42.77084,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53780,
+    "name": "Mooyir",
+    "latitude": 10.43494,
+    "longitude": 43.66758,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53741,
+    "name": "Mosheykh",
+    "latitude": 11.4388,
+    "longitude": 43.3724,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53716,
+    "name": "Mudasoley",
+    "latitude": 10.42656,
+    "longitude": 43.06102,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53698,
+    "name": "Mugdiile",
+    "latitude": 2.37395,
+    "longitude": 41.55703,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53639,
+    "name": "Mur Guraale",
+    "latitude": 10.62319,
+    "longitude": 46.98565,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 55702,
+    "name": "Murba Khayaleh",
+    "latitude": 10,
+    "longitude": 44.86667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53636,
+    "name": "Murjibo",
+    "latitude": 9.97825,
+    "longitude": 46.25079,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53626,
+    "name": "Murwac",
+    "latitude": 10.98407,
+    "longitude": 47.3918,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53614,
+    "name": "Musuleh",
+    "latitude": 11.05,
+    "longitude": 47.96667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53603,
+    "name": "Muullaax",
+    "latitude": 10.53942,
+    "longitude": 46.88029,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53543,
+    "name": "Naraan",
+    "latitude": 1.08887,
+    "longitude": 44.02047,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53507,
+    "name": "Negeger",
+    "latitude": 9.85,
+    "longitude": 45.58333,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53492,
+    "name": "Niyaarwo",
+    "latitude": -1.32443,
+    "longitude": 41.79496,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53438,
+    "name": "Odayfuul",
+    "latitude": 10.21667,
+    "longitude": 43.25,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53397,
+    "name": "Oman",
+    "latitude": 11,
+    "longitude": 49,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53372,
+    "name": "Oodweyne",
+    "latitude": 9.4092,
+    "longitude": 45.06397,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53344,
+    "name": "Orgi",
+    "latitude": 10.95009,
+    "longitude": 47.96254,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53292,
+    "name": "Piramid Piq",
+    "latitude": 10.71069,
+    "longitude": 46.96891,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53272,
+    "name": "Qabdhac",
+    "latitude": 10.3527,
+    "longitude": 47.4072,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53269,
+    "name": "Qabile",
+    "latitude": 10.25,
+    "longitude": 44.11667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53247,
+    "name": "Qaburoley",
+    "latitude": 10.52414,
+    "longitude": 43.03608,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53162,
+    "name": "Qalwo",
+    "latitude": 10.13588,
+    "longitude": 48.94782,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53157,
+    "name": "Qandala",
+    "latitude": 11.47197,
+    "longitude": 49.87282,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53151,
+    "name": "Qansax",
+    "latitude": 11.52,
+    "longitude": 50.6806,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6607671,
+    "name": "Qaras Goy",
+    "latitude": 9.89242,
+    "longitude": 45.18529,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50394,
+    "name": "Qarka Weyn",
+    "latitude": 10.04163,
+    "longitude": 44.95577,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 49615,
+    "name": "Qarka Yar",
+    "latitude": 10.0587,
+    "longitude": 44.9807,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53000,
+    "name": "Qolqol ka Madoobe",
+    "latitude": 9.05095,
+    "longitude": 44.90767,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52915,
+    "name": "Qori Tiris",
+    "latitude": 9.1744,
+    "longitude": 46.45455,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7925602,
+    "name": "Qoroloho",
+    "latitude": 11.4335,
+    "longitude": 51.0196,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52878,
+    "name": "Qorya Madoobe",
+    "latitude": 10.36801,
+    "longitude": 47.19948,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52871,
+    "name": "Qoryoguban",
+    "latitude": 10.06686,
+    "longitude": 50.21371,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52867,
+    "name": "Qoryooley",
+    "latitude": 1.78784,
+    "longitude": 44.52999,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52861,
+    "name": "Qotan",
+    "latitude": 8.33938,
+    "longitude": 47.51971,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52856,
+    "name": "Qoton",
+    "latitude": 10.73771,
+    "longitude": 47.0707,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 53029,
+    "name": "Quburush",
+    "latitude": 10.3386,
+    "longitude": 47.2069,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52803,
+    "name": "Qulqulshabaal",
+    "latitude": 2.50461,
+    "longitude": 41.66025,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52782,
+    "name": "Quoin Hill",
+    "latitude": 11.05,
+    "longitude": 47.4,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52781,
+    "name": "Qur",
+    "latitude": 11.3731,
+    "longitude": 49.672,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57741,
+    "name": "Qurqura",
+    "latitude": 3.61487,
+    "longitude": 41.82787,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52731,
+    "name": "Qurunle",
+    "latitude": 1.10237,
+    "longitude": 43.49789,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 65282,
+    "name": "Raas Aw Maki",
+    "latitude": 1.9069,
+    "longitude": 45.0897,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52677,
+    "name": "Raasun",
+    "latitude": 10.18182,
+    "longitude": 44.27627,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52648,
+    "name": "Radiile",
+    "latitude": 1.27936,
+    "longitude": 42.57749,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52644,
+    "name": "Rafaq",
+    "latitude": 10.37109,
+    "longitude": 43.22322,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52594,
+    "name": "Ranbaj",
+    "latitude": 11.678,
+    "longitude": 51.2394,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52471,
+    "name": "Risiiddo",
+    "latitude": 11.66,
+    "longitude": 50.6736,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52445,
+    "name": "Roogaro",
+    "latitude": 10.12754,
+    "longitude": 45.57526,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52416,
+    "name": "Run",
+    "latitude": 9.89414,
+    "longitude": 50.57701,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52407,
+    "name": "Ruqi",
+    "latitude": 9.97293,
+    "longitude": 43.4276,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52390,
+    "name": "Ruux Dheero",
+    "latitude": 10.6,
+    "longitude": 47.82079,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52369,
+    "name": "Sa’a Madobe",
+    "latitude": 9.96667,
+    "longitude": 45.51667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52387,
+    "name": "Saabley",
+    "latitude": 10.4214,
+    "longitude": 42.95306,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52385,
+    "name": "Saacada Diin",
+    "latitude": 11.4357,
+    "longitude": 43.4636,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52381,
+    "name": "Saacow",
+    "latitude": 1.62794,
+    "longitude": 42.44067,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52380,
+    "name": "Saadeelo",
+    "latitude": 11.5129,
+    "longitude": 50.1204,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52373,
+    "name": "Saalocasaley",
+    "latitude": 10.53072,
+    "longitude": 43.08138,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52362,
+    "name": "Saarey",
+    "latitude": 1.01888,
+    "longitude": 43.35117,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6311111,
+    "name": "Saaxo",
+    "latitude": 6.77287,
+    "longitude": 46.79689,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52327,
+    "name": "Sabbadayna",
+    "latitude": 10.9551,
+    "longitude": 48.0934,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52319,
+    "name": "Saca Waraabis",
+    "latitude": 10.16803,
+    "longitude": 43.05596,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13494286,
+    "name": "Sacadin Zayla Archipelago",
+    "latitude": 11.44941,
+    "longitude": 43.45132,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13494287,
+    "name": "Sacadin Zayla Archipelago II",
+    "latitude": 11.37066,
+    "longitude": 43.47377,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52276,
+    "name": "Sacida",
+    "latitude": 9.32139,
+    "longitude": 48.10056,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52299,
+    "name": "Safar-Nooleys",
+    "latitude": 2.68333,
+    "longitude": 43.2,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52288,
+    "name": "Sagaaro Urooyin",
+    "latitude": 9.93551,
+    "longitude": 47.2668,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52269,
+    "name": "Saklatiini",
+    "latitude": -1.18113,
+    "longitude": 41.82302,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52210,
+    "name": "Sal Qoyan",
+    "latitude": 11.8118,
+    "longitude": 51.0355,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52243,
+    "name": "Salax",
+    "latitude": 10.878,
+    "longitude": 50.5817,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8346665,
+    "name": "Salelale",
+    "latitude": 10.58476,
+    "longitude": 42.79295,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52211,
+    "name": "Salooto Feerde",
+    "latitude": -0.43258,
+    "longitude": 42.50761,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 61217,
+    "name": "San Dheera",
+    "latitude": 2.42521,
+    "longitude": 41.49765,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58533,
+    "name": "San Gilbo",
+    "latitude": 9.6,
+    "longitude": 49.11667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 58493,
+    "name": "San Goan",
+    "latitude": 2.4061,
+    "longitude": 41.5273,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52173,
+    "name": "Sankadhoore",
+    "latitude": 10.56553,
+    "longitude": 43.41891,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52164,
+    "name": "Santaalo",
+    "latitude": 10.2101,
+    "longitude": 44.8684,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52147,
+    "name": "Sararad",
+    "latitude": 8.96667,
+    "longitude": 49.16667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52144,
+    "name": "Sararweyne",
+    "latitude": 9.9282,
+    "longitude": 45.82179,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52142,
+    "name": "Sarbi Dheer",
+    "latitude": 11.6857,
+    "longitude": 51.2193,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8346680,
+    "name": "Sauer",
+    "latitude": 10.61593,
+    "longitude": 42.91692,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52078,
+    "name": "Saylac",
+    "latitude": 11.3539,
+    "longitude": 43.4731,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52045,
+    "name": "Scil Bur Tehie",
+    "latitude": 10.16667,
+    "longitude": 49.1,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52035,
+    "name": "Sciol Ieiat",
+    "latitude": 10.16667,
+    "longitude": 49.46667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52014,
+    "name": "Seerbeenti",
+    "latitude": -0.37835,
+    "longitude": 42.55639,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52007,
+    "name": "Segig",
+    "latitude": 9.9,
+    "longitude": 44.93333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52001,
+    "name": "Seinyer",
+    "latitude": 10.84847,
+    "longitude": 42.88034,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 52000,
+    "name": "Sela Jiagh",
+    "latitude": 10.33333,
+    "longitude": 45.6,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6610133,
+    "name": "Shan Karoor",
+    "latitude": 9.71389,
+    "longitude": 46.53581,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51906,
+    "name": "Shanley",
+    "latitude": 0.78914,
+    "longitude": 43.25956,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51893,
+    "name": "Shareeta Yamaara Suug",
+    "latitude": 8.4815,
+    "longitude": 50.0875,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51834,
+    "name": "Shiid",
+    "latitude": 10.579,
+    "longitude": 47.3209,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51822,
+    "name": "Shiid Manas",
+    "latitude": 2.83333,
+    "longitude": 43.45,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51819,
+    "name": "Shiidume",
+    "latitude": 1.31723,
+    "longitude": 44.26219,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51817,
+    "name": "Shiikh",
+    "latitude": 9.95929,
+    "longitude": 45.18429,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51780,
+    "name": "Shiilaale",
+    "latitude": 10.9151,
+    "longitude": 49.4317,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51722,
+    "name": "Shimbiris",
+    "latitude": 10.73521,
+    "longitude": 47.24511,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51655,
+    "name": "Sigib",
+    "latitude": 10.27134,
+    "longitude": 43.18124,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51648,
+    "name": "Siicaan",
+    "latitude": 11.5904,
+    "longitude": 51.0668,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51644,
+    "name": "Siido",
+    "latitude": 10.8717,
+    "longitude": 50.2055,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51610,
+    "name": "Sikoba",
+    "latitude": 9.98333,
+    "longitude": 43.61667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51580,
+    "name": "Sirqo",
+    "latitude": 10.8374,
+    "longitude": 49.1985,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7909201,
+    "name": "Smiid",
+    "latitude": -0.46154,
+    "longitude": 42.48542,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51550,
+    "name": "Sogsogley",
+    "latitude": 10.28392,
+    "longitude": 42.98271,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51532,
+    "name": "Soogle",
+    "latitude": 10.9715,
+    "longitude": 48.8945,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51496,
+    "name": "Subayo",
+    "latitude": 11.01154,
+    "longitude": 47.5174,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51491,
+    "name": "Suf Dheere",
+    "latitude": 9.96665,
+    "longitude": 47.19277,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51472,
+    "name": "Suhureial",
+    "latitude": 10.95,
+    "longitude": 49.36667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51429,
+    "name": "Surud Cad",
+    "latitude": 10.72433,
+    "longitude": 47.20122,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51403,
+    "name": "Suyryo Malable",
+    "latitude": 10.3514,
+    "longitude": 45.0881,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51385,
+    "name": "Taarane",
+    "latitude": 10.20719,
+    "longitude": 44.04618,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51382,
+    "name": "Taayis",
+    "latitude": 11.7663,
+    "longitude": 51.1265,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51379,
+    "name": "Tabah",
+    "latitude": 10.75,
+    "longitude": 47.25,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51378,
+    "name": "Tabah Pass",
+    "latitude": 10.75,
+    "longitude": 47.25,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51370,
+    "name": "Tabax Tabax",
+    "latitude": 9.12694,
+    "longitude": 46.20384,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51354,
+    "name": "Tahassan",
+    "latitude": 10.29683,
+    "longitude": 43.76524,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51336,
+    "name": "Talole",
+    "latitude": 9.21667,
+    "longitude": 48.78333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51331,
+    "name": "Tandraas",
+    "latitude": -1.16381,
+    "longitude": 41.92259,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51327,
+    "name": "Tar",
+    "latitude": 11.0727,
+    "longitude": 47.9409,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51326,
+    "name": "Taraareeg",
+    "latitude": 10.9647,
+    "longitude": 48.9365,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51323,
+    "name": "Tardaale",
+    "latitude": 10.9757,
+    "longitude": 48.1642,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51307,
+    "name": "Tawawir",
+    "latitude": 10.0353,
+    "longitude": 45.4299,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51277,
+    "name": "Thib",
+    "latitude": 10.13333,
+    "longitude": 43.88333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51256,
+    "name": "Timerle",
+    "latitude": 10.3262,
+    "longitude": 46.5089,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51228,
+    "name": "Tog Wajaale",
+    "latitude": 9.59972,
+    "longitude": 43.335,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51219,
+    "name": "Tonle",
+    "latitude": 10.5512,
+    "longitude": 42.81675,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51218,
+    "name": "Toomba",
+    "latitude": -0.34899,
+    "longitude": 42.58593,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51213,
+    "name": "Toore",
+    "latitude": 1.40071,
+    "longitude": 44.35933,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51175,
+    "name": "Tri-Khiil",
+    "latitude": 10.7734,
+    "longitude": 45.818,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51147,
+    "name": "Tuglabey",
+    "latitude": 10.4878,
+    "longitude": 47.07,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51138,
+    "name": "Tukeraq",
+    "latitude": 9.90452,
+    "longitude": 46.36059,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51107,
+    "name": "Turki",
+    "latitude": 10.1,
+    "longitude": 43.78333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51090,
+    "name": "Tuur Ciinle",
+    "latitude": 9.14942,
+    "longitude": 46.38594,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 51021,
+    "name": "Ubeeraale",
+    "latitude": 10.9798,
+    "longitude": 48.8826,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50966,
+    "name": "Ukahiiyo",
+    "latitude": -1.03402,
+    "longitude": 42.01966,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50947,
+    "name": "Umfaali",
+    "latitude": -1.58784,
+    "longitude": 41.62769,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50877,
+    "name": "Usjiifeen",
+    "latitude": 9.3,
+    "longitude": 48.73333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50814,
+    "name": "Waajid",
+    "latitude": 3.80958,
+    "longitude": 43.24627,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50764,
+    "name": "Wadaba",
+    "latitude": 10.04109,
+    "longitude": 45.01769,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50745,
+    "name": "Wadhareer",
+    "latitude": 10.15728,
+    "longitude": 45.17464,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50732,
+    "name": "Wagadey",
+    "latitude": 4.11518,
+    "longitude": 42.34374,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50728,
+    "name": "Wagar",
+    "latitude": 10.0318,
+    "longitude": 45.5724,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50697,
+    "name": "Waliga",
+    "latitude": 11.0143,
+    "longitude": 47.6019,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50685,
+    "name": "Wambayo",
+    "latitude": 10.41301,
+    "longitude": 45.85232,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50672,
+    "name": "Wanlaweyn",
+    "latitude": 2.6185,
+    "longitude": 44.8938,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50603,
+    "name": "Waraq",
+    "latitude": 10.7513,
+    "longitude": 47.1889,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50580,
+    "name": "Wareegle",
+    "latitude": 10.8566,
+    "longitude": 48.9797,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50517,
+    "name": "Warreray",
+    "latitude": 1.03775,
+    "longitude": 43.37534,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50374,
+    "name": "Wirin Gub",
+    "latitude": 10.031,
+    "longitude": 45.6321,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11807949,
+    "name": "Wooded Peak",
+    "latitude": -0.36122,
+    "longitude": 42.52138,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50333,
+    "name": "Xaaji Buulle",
+    "latitude": -1.14705,
+    "longitude": 41.93894,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50309,
+    "name": "Xaariye",
+    "latitude": 8.31358,
+    "longitude": 47.77829,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50284,
+    "name": "Xabaal Garure",
+    "latitude": 11.0406,
+    "longitude": 49.0755,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50280,
+    "name": "Xabaalo",
+    "latitude": 9.77346,
+    "longitude": 45.03138,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50266,
+    "name": "Xabaji",
+    "latitude": 9.83556,
+    "longitude": 46.23716,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50242,
+    "name": "Xadhadhi Laas",
+    "latitude": 10.34943,
+    "longitude": 43.36682,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50233,
+    "name": "Xadweyn",
+    "latitude": 10.36884,
+    "longitude": 43.00024,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50211,
+    "name": "Xagaroode",
+    "latitude": 10.9943,
+    "longitude": 48.8981,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50150,
+    "name": "Xambi",
+    "latitude": 11.5736,
+    "longitude": 51.0966,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50134,
+    "name": "Xamurka",
+    "latitude": 3.46861,
+    "longitude": 41.79966,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50120,
+    "name": "Xanaleh",
+    "latitude": 10.1358,
+    "longitude": 45.5376,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50105,
+    "name": "Xangeeyo",
+    "latitude": 10.41788,
+    "longitude": 43.27011,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50085,
+    "name": "Xaraaraley",
+    "latitude": 10.14327,
+    "longitude": 44.38716,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50056,
+    "name": "Xararta Dhacday",
+    "latitude": 11.9027,
+    "longitude": 50.9371,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50037,
+    "name": "Xariim Xumaas Bar",
+    "latitude": 1.9623,
+    "longitude": 45.2189,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50036,
+    "name": "Xariim Xumaas Gal",
+    "latitude": 1.9469,
+    "longitude": 45.1776,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50030,
+    "name": "Xaroo",
+    "latitude": 9.85051,
+    "longitude": 45.29256,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50021,
+    "name": "Xasaadinley",
+    "latitude": 10.06074,
+    "longitude": 43.09251,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 50006,
+    "name": "Xaskul",
+    "latitude": 10.38845,
+    "longitude": 45.92775,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8042022,
+    "name": "Xaubub",
+    "latitude": 10.73419,
+    "longitude": 47.26699,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 57200,
+    "name": "Xeri Dheere",
+    "latitude": 9.15264,
+    "longitude": 48.82411,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 49923,
+    "name": "Xeyle",
+    "latitude": 11.68195,
+    "longitude": 50.92989,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 49891,
+    "name": "Xiis",
+    "latitude": 10.9173,
+    "longitude": 46.9285,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 49804,
+    "name": "Xoday",
+    "latitude": 9.9766,
+    "longitude": 50.7548,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 49784,
+    "name": "Xoog Bardale",
+    "latitude": 10.40068,
+    "longitude": 46.96417,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 49775,
+    "name": "Xoor",
+    "latitude": 10.5703,
+    "longitude": 47.2025,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 49747,
+    "name": "Xuddur",
+    "latitude": 4.12129,
+    "longitude": 43.88945,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 49731,
+    "name": "Xumbuli",
+    "latitude": 11.302,
+    "longitude": 50.2766,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 49722,
+    "name": "Xundurgaal",
+    "latitude": 10.93769,
+    "longitude": 48.97193,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 49721,
+    "name": "Xunsho Hudhal",
+    "latitude": 10.5503,
+    "longitude": 47.3525,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 56891,
+    "name": "Xurwaalan",
+    "latitude": 9.28333,
+    "longitude": 48.6,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 49697,
+    "name": "Xuurow Ciidle",
+    "latitude": 10.8756,
+    "longitude": 50.632,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 49692,
+    "name": "Yaacdu",
+    "latitude": 10.42866,
+    "longitude": 43.21905,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 49687,
+    "name": "Yaamba",
+    "latitude": -0.76863,
+    "longitude": 42.2518,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8042707,
+    "name": "Yabaal",
+    "latitude": 10.3775,
+    "longitude": 43.06985,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 49646,
+    "name": "Yabangoodi",
+    "latitude": -0.52262,
+    "longitude": 42.43229,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 49645,
+    "name": "Yacfar",
+    "latitude": 10.9834,
+    "longitude": 48.34007,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 49636,
+    "name": "Yagoori",
+    "latitude": 8.75167,
+    "longitude": 46.96361,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 49633,
+    "name": "Yahaaburada",
+    "latitude": 10.41074,
+    "longitude": 42.80666,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 49622,
+    "name": "Yameyska",
+    "latitude": 6.79221,
+    "longitude": 47.42518,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 49596,
+    "name": "Yebakhtih",
+    "latitude": 8.51667,
+    "longitude": 46.15,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 49593,
+    "name": "Yeed",
+    "latitude": 4.55,
+    "longitude": 43.03333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 49577,
+    "name": "Yibelken",
+    "latitude": 10.31667,
+    "longitude": 43.38333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 49573,
+    "name": "Yiblane",
+    "latitude": 3.20281,
+    "longitude": 45.34783,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 49569,
+    "name": "Yocbaal",
+    "latitude": 2.47246,
+    "longitude": 41.47217,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 49566,
+    "name": "Yondiyoond",
+    "latitude": -0.97341,
+    "longitude": 42.08152,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 49557,
+    "name": "Yoonis Dheere",
+    "latitude": 10.33373,
+    "longitude": 42.87686,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 49549,
+    "name": "Yubale",
+    "latitude": 10.31667,
+    "longitude": 43.45,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 49548,
+    "name": "Yubaleh",
+    "latitude": 9.08333,
+    "longitude": 48.83333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 49536,
+    "name": "Zamur",
+    "latitude": 2.73333,
+    "longitude": 43.4,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 49530,
+    "name": "Ziva Zecundru",
+    "latitude": -0.51667,
+    "longitude": 42.45,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  }
+]

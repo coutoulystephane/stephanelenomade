@@ -1,0 +1,1292 @@
+[
+  {
+    "geonameId": 2279150,
+    "name": "Abironda Mountain",
+    "latitude": 7.29972,
+    "longitude": -8.42611,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2279025,
+    "name": "Baiyah Island",
+    "latitude": 5.25071,
+    "longitude": -9.42472,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2278968,
+    "name": "Bali Island",
+    "latitude": 6.3,
+    "longitude": -10.78333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2278969,
+    "name": "Balibali Mountain",
+    "latitude": 8.39056,
+    "longitude": -9.67083,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2275816,
+    "name": "Bandarada Hill",
+    "latitude": 8.31807,
+    "longitude": -10.29753,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2278889,
+    "name": "Barclayville",
+    "latitude": 4.67443,
+    "longitude": -8.23306,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2278833,
+    "name": "Bauni Mountain",
+    "latitude": 6.05,
+    "longitude": -8.95,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2278791,
+    "name": "Bea Mountain",
+    "latitude": 7.13333,
+    "longitude": -11,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2278682,
+    "name": "Bensonville",
+    "latitude": 6.44716,
+    "longitude": -10.61283,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2278584,
+    "name": "Big Island",
+    "latitude": 6.8,
+    "longitude": -10.56667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2278494,
+    "name": "Blidiwodo Mountain",
+    "latitude": 4.79588,
+    "longitude": -7.70285,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2278289,
+    "name": "Bong Mountain",
+    "latitude": 6.83806,
+    "longitude": -10.21083,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2278248,
+    "name": "Bopolu",
+    "latitude": 7.06667,
+    "longitude": -10.4875,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2278197,
+    "name": "Boyeboye Mountain",
+    "latitude": 8.05,
+    "longitude": -9.53333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2278158,
+    "name": "Buchanan",
+    "latitude": 5.87693,
+    "longitude": -10.04964,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2278117,
+    "name": "Bushrod Island",
+    "latitude": 6.35718,
+    "longitude": -10.78543,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8260265,
+    "name": "Buutuo",
+    "latitude": 6.8275,
+    "longitude": -8.3428,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2278077,
+    "name": "Cape Mount",
+    "latitude": 6.72402,
+    "longitude": -11.3524,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2277874,
+    "name": "Dead Island",
+    "latitude": 4.6858,
+    "longitude": -8.47814,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2277838,
+    "name": "Demba Island",
+    "latitude": 6.55,
+    "longitude": -10.55,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2277662,
+    "name": "Dobli Island",
+    "latitude": 6.89791,
+    "longitude": -10.3874,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 9869654,
+    "name": "Faryea Hill",
+    "latitude": 7.12976,
+    "longitude": -9.50398,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2277410,
+    "name": "Federicks Island",
+    "latitude": 6.3,
+    "longitude": -10.78333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2277376,
+    "name": "Fish Lake",
+    "latitude": 6.27686,
+    "longitude": -10.37336,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2273638,
+    "name": "Fish Town",
+    "latitude": 5.19739,
+    "longitude": -7.87579,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2277363,
+    "name": "Flat Island",
+    "latitude": 4.74497,
+    "longitude": -8.59854,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2277301,
+    "name": "Foya Kamara",
+    "latitude": 8.36028,
+    "longitude": -10.20639,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2277197,
+    "name": "Ganta",
+    "latitude": 7.30222,
+    "longitude": -8.53083,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2277147,
+    "name": "Gbahm Mountain",
+    "latitude": 7.56333,
+    "longitude": -8.52,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2277060,
+    "name": "Gbarnga",
+    "latitude": 6.99543,
+    "longitude": -9.47122,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2276884,
+    "name": "Geni Mountain",
+    "latitude": 5.73333,
+    "longitude": -9.2,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2276852,
+    "name": "Gibi Mountain",
+    "latitude": 6.58417,
+    "longitude": -10.07139,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2276602,
+    "name": "Green Island",
+    "latitude": 4.48804,
+    "longitude": -7.92801,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2276600,
+    "name": "Greenville",
+    "latitude": 5.01133,
+    "longitude": -9.0388,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2276571,
+    "name": "Guesthouse Hill",
+    "latitude": 7.52778,
+    "longitude": -8.55111,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2276556,
+    "name": "Guma Falls",
+    "latitude": 7.26861,
+    "longitude": -10.11472,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2276546,
+    "name": "Guo Mountain",
+    "latitude": 6.16667,
+    "longitude": -9.88333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2276506,
+    "name": "Harbel",
+    "latitude": 6.24683,
+    "longitude": -10.35642,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2276492,
+    "name": "Harper",
+    "latitude": 4.3782,
+    "longitude": -7.71081,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2276277,
+    "name": "Joata Mountain",
+    "latitude": 4.93745,
+    "longitude": -7.76649,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2276086,
+    "name": "Kakata",
+    "latitude": 6.53104,
+    "longitude": -10.35368,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2276103,
+    "name": "Karnplay",
+    "latitude": 7.26972,
+    "longitude": -8.50389,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2275894,
+    "name": "Kitoma Mountain",
+    "latitude": 7.32667,
+    "longitude": -8.81667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2277905,
+    "name": "Lake Danu",
+    "latitude": 6.68333,
+    "longitude": -11.26667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2276432,
+    "name": "Lake Jaa",
+    "latitude": 6.69639,
+    "longitude": -11.30341,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2276142,
+    "name": "Lake Jakunu",
+    "latitude": 6.68332,
+    "longitude": -11.27586,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2275224,
+    "name": "Lake Makasa",
+    "latitude": 6.7,
+    "longitude": -11.31667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2274899,
+    "name": "Lake Mono",
+    "latitude": 6.7,
+    "longitude": -11.33333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2272539,
+    "name": "Lake Zontoni",
+    "latitude": 6.68333,
+    "longitude": -11.26667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2275087,
+    "name": "Masating Island",
+    "latitude": 6.74363,
+    "longitude": -11.31915,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2274895,
+    "name": "Monrovia",
+    "latitude": 6.30054,
+    "longitude": -10.7969,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2274880,
+    "name": "Morris Mountain",
+    "latitude": 7.30083,
+    "longitude": -8.82278,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2279134,
+    "name": "Mount Alpha",
+    "latitude": 7.53333,
+    "longitude": -8.5,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2279103,
+    "name": "Mount Baa",
+    "latitude": 6.51667,
+    "longitude": -9.01667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2279040,
+    "name": "Mount Bai",
+    "latitude": 6.45,
+    "longitude": -9.1,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2278989,
+    "name": "Mount Balagizi",
+    "latitude": 8.11667,
+    "longitude": -9.93333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2278897,
+    "name": "Mount Baple",
+    "latitude": 6.5,
+    "longitude": -8.96667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2278535,
+    "name": "Mount Bladro",
+    "latitude": 6.26667,
+    "longitude": -8.2,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2278491,
+    "name": "Mount Blitro",
+    "latitude": 6.48333,
+    "longitude": -9.31667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2278256,
+    "name": "Mount Boohn",
+    "latitude": 6.9,
+    "longitude": -8.75,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2278189,
+    "name": "Mount Boze",
+    "latitude": 6.51667,
+    "longitude": -8.98333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2278139,
+    "name": "Mount Buletohn",
+    "latitude": 7.65,
+    "longitude": -8.58333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2278126,
+    "name": "Mount Bume",
+    "latitude": 7.68333,
+    "longitude": -8.58333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2277955,
+    "name": "Mount Daa",
+    "latitude": 6.41667,
+    "longitude": -9.28333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2277569,
+    "name": "Mount Drotohn",
+    "latitude": 6.6,
+    "longitude": -9.13333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2277035,
+    "name": "Mount Gbei",
+    "latitude": 7.65,
+    "longitude": -8.65,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2276837,
+    "name": "Mount Ginka",
+    "latitude": 7.23333,
+    "longitude": -8.55,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2276822,
+    "name": "Mount Gla",
+    "latitude": 6.4,
+    "longitude": -9.18333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2276794,
+    "name": "Mount Gluya",
+    "latitude": 6.9,
+    "longitude": -8.8,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2276741,
+    "name": "Mount Goklu",
+    "latitude": 7.33333,
+    "longitude": -8.83333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2276574,
+    "name": "Mount Guego",
+    "latitude": 7.68333,
+    "longitude": -8.66667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2276106,
+    "name": "Mount Kahn",
+    "latitude": 7.53333,
+    "longitude": -8.7,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2275916,
+    "name": "Mount Kietohn",
+    "latitude": 7.68333,
+    "longitude": -8.61667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2272485,
+    "name": "Mount Kpa",
+    "latitude": 6.58333,
+    "longitude": -9.35,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2275649,
+    "name": "Mount Kpaya",
+    "latitude": 7.25,
+    "longitude": -8.95,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2275509,
+    "name": "Mount Kuobahn",
+    "latitude": 6.53333,
+    "longitude": -8.91667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2275271,
+    "name": "Mount Maatohn",
+    "latitude": 7.66667,
+    "longitude": -8.6,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2274679,
+    "name": "Mount Nino",
+    "latitude": 7.63333,
+    "longitude": -8.6,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2273949,
+    "name": "Mount Shra",
+    "latitude": 7.43333,
+    "longitude": -8.46667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2273587,
+    "name": "Mount Timbo",
+    "latitude": 6.33333,
+    "longitude": -9.3,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2273525,
+    "name": "Mount Tokpa",
+    "latitude": 8.16667,
+    "longitude": -9.91667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2273506,
+    "name": "Mount Tombu",
+    "latitude": 7.6,
+    "longitude": -8.68333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2273504,
+    "name": "Mount Tomfa",
+    "latitude": 6.88333,
+    "longitude": -8.8,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2273503,
+    "name": "Mount Tomla",
+    "latitude": 6.51667,
+    "longitude": -8.95,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2273493,
+    "name": "Mount Tongbwe",
+    "latitude": 6.61667,
+    "longitude": -9.11667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2273486,
+    "name": "Mount Tonzoro",
+    "latitude": 6.8,
+    "longitude": -8.9,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2273050,
+    "name": "Mount Woau",
+    "latitude": 5.74224,
+    "longitude": -9.18234,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2272903,
+    "name": "Mount Wuteve",
+    "latitude": 8.14528,
+    "longitude": -9.92583,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2272765,
+    "name": "Mount Yidoinye",
+    "latitude": 7.41667,
+    "longitude": -8.73333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2272642,
+    "name": "Mount Zeintohn",
+    "latitude": 6.68333,
+    "longitude": -9.01667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2278745,
+    "name": "Mountain Bele",
+    "latitude": 7.4,
+    "longitude": -8.6,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2277819,
+    "name": "Mountain Detton",
+    "latitude": 7.40667,
+    "longitude": -8.64333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2273849,
+    "name": "Mountain Fo",
+    "latitude": 7.31361,
+    "longitude": -8.68111,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2277203,
+    "name": "Mountain Gangla",
+    "latitude": 7.54694,
+    "longitude": -8.63278,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2278554,
+    "name": "Mountain Gleton",
+    "latitude": 7.52389,
+    "longitude": -8.65944,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2273528,
+    "name": "Mountain Tokade",
+    "latitude": 7.45028,
+    "longitude": -8.67139,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2272703,
+    "name": "Mountain Yueliton",
+    "latitude": 7.56444,
+    "longitude": -8.63417,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2274833,
+    "name": "Nachelo Mountain",
+    "latitude": 4.83691,
+    "longitude": -7.6055,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2272790,
+    "name": "New Yekepa",
+    "latitude": 7.57944,
+    "longitude": -8.53778,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2274518,
+    "name": "Pagos Island",
+    "latitude": 6.26667,
+    "longitude": -10.71667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2274401,
+    "name": "Pifgi Mountain",
+    "latitude": 6.86028,
+    "longitude": -8.48333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2274372,
+    "name": "Pleebo City",
+    "latitude": 4.58953,
+    "longitude": -7.67218,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2274377,
+    "name": "Plembe Island",
+    "latitude": 6.25,
+    "longitude": -9.81667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2274322,
+    "name": "Powder Island",
+    "latitude": 6.31667,
+    "longitude": -10.8,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2274317,
+    "name": "Providence Island",
+    "latitude": 6.31667,
+    "longitude": -10.8,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2274288,
+    "name": "River Cess",
+    "latitude": 5.45683,
+    "longitude": -9.58167,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2274286,
+    "name": "River Gbeh",
+    "latitude": 5.21194,
+    "longitude": -7.66806,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2274275,
+    "name": "Robertsport",
+    "latitude": 6.75329,
+    "longitude": -11.3671,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2274252,
+    "name": "Russwurm Island",
+    "latitude": 4.3668,
+    "longitude": -7.72722,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2274222,
+    "name": "Saclepea",
+    "latitude": 6.9625,
+    "longitude": -8.84056,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2274129,
+    "name": "Sanniquellie",
+    "latitude": 7.36215,
+    "longitude": -8.71326,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7910092,
+    "name": "Sapo National Park",
+    "latitude": 5.36985,
+    "longitude": -8.50503,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2273735,
+    "name": "Swa Mountain",
+    "latitude": 6.43806,
+    "longitude": -9.06194,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2273729,
+    "name": "Swe Mountain",
+    "latitude": 4.78431,
+    "longitude": -7.74819,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2273722,
+    "name": "Table Mountain",
+    "latitude": 6.16667,
+    "longitude": -10.13333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2273579,
+    "name": "Ting Mamu Island",
+    "latitude": 6.7,
+    "longitude": -10.6,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2273578,
+    "name": "Ting Nyajo Island",
+    "latitude": 6.68333,
+    "longitude": -10.6,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2273583,
+    "name": "Ting-Ba Island",
+    "latitude": 6.6,
+    "longitude": -11.06667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2273582,
+    "name": "Ting-Deng Island",
+    "latitude": 6.6,
+    "longitude": -11.08333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2273576,
+    "name": "Tingsu Island",
+    "latitude": 6.965,
+    "longitude": -10.25222,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2273524,
+    "name": "Tokpo",
+    "latitude": 5.95,
+    "longitude": -10.05,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2273435,
+    "name": "Tubmanburg",
+    "latitude": 6.87064,
+    "longitude": -10.8211,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2273312,
+    "name": "Voinjama",
+    "latitude": 8.42194,
+    "longitude": -9.74778,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2272634,
+    "name": "Vox Mountain",
+    "latitude": 6.53194,
+    "longitude": -10.00056,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2272692,
+    "name": "Zablo Mountain",
+    "latitude": 7.98333,
+    "longitude": -9.61667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2272595,
+    "name": "Zinigala Mountain",
+    "latitude": 8.07722,
+    "longitude": -9.58139,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2272534,
+    "name": "Zorzor",
+    "latitude": 7.77944,
+    "longitude": -9.43028,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2272496,
+    "name": "Zuwa Island",
+    "latitude": 6.28333,
+    "longitude": -10.71667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2272491,
+    "name": "Zwedru",
+    "latitude": 6.06846,
+    "longitude": -8.13559,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  }
+]

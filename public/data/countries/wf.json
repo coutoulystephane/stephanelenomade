@@ -1,0 +1,532 @@
+[
+  {
+    "geonameId": 4034885,
+    "name": "Alo",
+    "latitude": -14.31096,
+    "longitude": -178.11094,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11880947,
+    "name": "Falefe",
+    "latitude": -14.28609,
+    "longitude": -178.11523,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034861,
+    "name": "Futuna Island",
+    "latitude": -14.28801,
+    "longitude": -178.12511,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11881020,
+    "name": "Gututasi",
+    "latitude": -14.27278,
+    "longitude": -178.1273,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034882,
+    "name": "Île Alofi",
+    "latitude": -14.33857,
+    "longitude": -178.04117,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034876,
+    "name": "Île Faioa",
+    "latitude": -13.37816,
+    "longitude": -176.16988,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034870,
+    "name": "Île Fenua Fu",
+    "latitude": -13.38878,
+    "longitude": -176.21384,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034853,
+    "name": "Île Haofa",
+    "latitude": -13.36667,
+    "longitude": -176.16667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034829,
+    "name": "Île Luaniva",
+    "latitude": -13.27244,
+    "longitude": -176.14749,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034809,
+    "name": "Île Nukuaéta",
+    "latitude": -13.37509,
+    "longitude": -176.21521,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034805,
+    "name": "Île Nukuhifala",
+    "latitude": -13.28907,
+    "longitude": -176.12603,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034804,
+    "name": "Île Nukuhione",
+    "latitude": -13.27361,
+    "longitude": -176.13067,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034802,
+    "name": "Île Nukuloa",
+    "latitude": -13.19081,
+    "longitude": -176.19418,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034801,
+    "name": "Île Nukuofo",
+    "latitude": -13.35831,
+    "longitude": -176.21246,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034799,
+    "name": "Île Nukutapu",
+    "latitude": -13.21931,
+    "longitude": -176.16886,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034797,
+    "name": "Île Nukuteatea",
+    "latitude": -13.20469,
+    "longitude": -176.17805,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034769,
+    "name": "Île Tekaviki",
+    "latitude": -13.27562,
+    "longitude": -176.15221,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034848,
+    "name": "Îles de Hoorn",
+    "latitude": -14.30604,
+    "longitude": -178.08254,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034862,
+    "name": "Îlot Fungalei",
+    "latitude": -13.28113,
+    "longitude": -176.14594,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034807,
+    "name": "Îlot Nukufotu",
+    "latitude": -13.18521,
+    "longitude": -176.2044,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034800,
+    "name": "Îlot Nukutaakimua",
+    "latitude": -13.35797,
+    "longitude": -176.19341,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034764,
+    "name": "Îlot Ulu'iutu",
+    "latitude": -13.2001,
+    "longitude": -176.18391,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11881038,
+    "name": "Kenani",
+    "latitude": -14.28943,
+    "longitude": -178.13423,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034881,
+    "name": "Lac Alofivai",
+    "latitude": -13.25883,
+    "longitude": -176.17071,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034846,
+    "name": "Lac Kikila",
+    "latitude": -13.297,
+    "longitude": -176.1898,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034778,
+    "name": "Leava",
+    "latitude": -14.29333,
+    "longitude": -178.15833,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034826,
+    "name": "Mamelon Vert",
+    "latitude": -14.35,
+    "longitude": -177.98333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034821,
+    "name": "Mata-Utu",
+    "latitude": -13.28163,
+    "longitude": -176.17453,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11881031,
+    "name": "Matagitoga",
+    "latitude": -14.26811,
+    "longitude": -178.13744,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13442051,
+    "name": "Mont Falanise",
+    "latitude": -14.26705,
+    "longitude": -178.15739,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11881049,
+    "name": "Mont Kofua",
+    "latitude": -14.26791,
+    "longitude": -178.14532,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11880882,
+    "name": "Mont Kolofatufatu",
+    "latitude": -14.27115,
+    "longitude": -178.15156,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034844,
+    "name": "Mont Kolofau",
+    "latitude": -14.34422,
+    "longitude": -178.03928,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11880925,
+    "name": "Mont Mamati",
+    "latitude": -14.29997,
+    "longitude": -178.09657,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11881047,
+    "name": "Mont Matatao",
+    "latitude": -14.28589,
+    "longitude": -178.14202,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11880883,
+    "name": "Mont Olokimoa",
+    "latitude": -14.27002,
+    "longitude": -178.16073,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034775,
+    "name": "Mont Puke",
+    "latitude": -14.27065,
+    "longitude": -178.13911,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11880885,
+    "name": "Mont Utulimu",
+    "latitude": -14.25627,
+    "longitude": -178.1713,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11880950,
+    "name": "Motu Tai",
+    "latitude": -14.28729,
+    "longitude": -178.12353,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034808,
+    "name": "Nukufetau",
+    "latitude": -13.35786,
+    "longitude": -176.19325,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034806,
+    "name": "Nukufufulanoa",
+    "latitude": -13.19673,
+    "longitude": -176.18931,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034803,
+    "name": "Nukula'ela'e",
+    "latitude": -13.18501,
+    "longitude": -176.19879,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10632206,
+    "name": "Nukumotu",
+    "latitude": -13.37555,
+    "longitude": -176.21026,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034798,
+    "name": "Nukutapu",
+    "latitude": -13.36356,
+    "longitude": -176.22441,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034792,
+    "name": "Petit Piton",
+    "latitude": -14.25,
+    "longitude": -178.18333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11881023,
+    "name": "Pumanu",
+    "latitude": -14.27257,
+    "longitude": -178.1316,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034788,
+    "name": "Sommet des Pyramides",
+    "latitude": -14.25,
+    "longitude": -178.15,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034818,
+    "name": "Sommet Matsi",
+    "latitude": -14.25,
+    "longitude": -178.16667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11880946,
+    "name": "Tamuna",
+    "latitude": -14.29383,
+    "longitude": -178.11615,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11880884,
+    "name": "Tilogalaea",
+    "latitude": -14.25799,
+    "longitude": -178.16458,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6942150,
+    "name": "Wallis and Futuna Islands",
+    "latitude": -14.30181,
+    "longitude": -178.10932,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034758,
+    "name": "Wallis Island",
+    "latitude": -13.28188,
+    "longitude": -176.20663,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4034750,
+    "name": "Wallis Islands",
+    "latitude": -13.29884,
+    "longitude": -176.20929,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  }
+]

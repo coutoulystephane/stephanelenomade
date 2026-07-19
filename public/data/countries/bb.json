@@ -1,0 +1,212 @@
+[
+  {
+    "geonameId": 3374085,
+    "name": "Barbados",
+    "latitude": 13.16457,
+    "longitude": -59.55208,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11893961,
+    "name": "Barbados Wildlife Reserve",
+    "latitude": 13.26639,
+    "longitude": -59.59009,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11893982,
+    "name": "Barclays Park",
+    "latitude": 13.23494,
+    "longitude": -59.54304,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3374083,
+    "name": "Bathsheba",
+    "latitude": 13.21133,
+    "longitude": -59.52596,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 9342438,
+    "name": "Bathsheba park",
+    "latitude": 13.21237,
+    "longitude": -59.51865,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3374036,
+    "name": "Bridgetown",
+    "latitude": 13.10732,
+    "longitude": -59.62021,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3373993,
+    "name": "Checker Hall",
+    "latitude": 13.28445,
+    "longitude": -59.64223,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3373477,
+    "name": "Crane",
+    "latitude": 13.10487,
+    "longitude": -59.44861,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3373936,
+    "name": "Culpepper Island",
+    "latitude": 13.16583,
+    "longitude": -59.44343,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11893960,
+    "name": "Farley Hill Park",
+    "latitude": 13.2637,
+    "longitude": -59.59446,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3373877,
+    "name": "Four Cross Roads",
+    "latitude": 13.17018,
+    "longitude": -59.52186,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3373831,
+    "name": "Greenland",
+    "latitude": 13.25808,
+    "longitude": -59.57763,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3373790,
+    "name": "Holetown",
+    "latitude": 13.18672,
+    "longitude": -59.63808,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3373793,
+    "name": "Mount Hillaby",
+    "latitude": 13.21083,
+    "longitude": -59.5822,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3373688,
+    "name": "Mount Misery",
+    "latitude": 13.19746,
+    "longitude": -59.58727,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3373652,
+    "name": "Oistins",
+    "latitude": 13.07067,
+    "longitude": -59.54637,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3373632,
+    "name": "Pelican Island (historical)",
+    "latitude": 13.10066,
+    "longitude": -59.62849,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11893896,
+    "name": "Queens Park",
+    "latitude": 13.09922,
+    "longitude": -59.60837,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3373505,
+    "name": "Speightstown",
+    "latitude": 13.25072,
+    "longitude": -59.64396,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3373430,
+    "name": "Welchman Hall",
+    "latitude": 13.18676,
+    "longitude": -59.57663,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3373419,
+    "name": "White Hill",
+    "latitude": 13.21373,
+    "longitude": -59.58111,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  }
+]

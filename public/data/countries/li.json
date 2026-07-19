@@ -1,0 +1,962 @@
+[
+  {
+    "geonameId": 7303643,
+    "name": "Alpspitz",
+    "latitude": 47.14874,
+    "longitude": 9.55378,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12022993,
+    "name": "Alpspitz HG",
+    "latitude": 47.14874,
+    "longitude": 9.55377,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10352382,
+    "name": "Äscher",
+    "latitude": 47.18635,
+    "longitude": 9.53098,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7303736,
+    "name": "Augstenberg",
+    "latitude": 47.0824,
+    "longitude": 9.61005,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042073,
+    "name": "Balzers",
+    "latitude": 47.06661,
+    "longitude": 9.50355,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11073942,
+    "name": "Bärgällasattel",
+    "latitude": 47.14207,
+    "longitude": 9.552,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6938951,
+    "name": "Bergle",
+    "latitude": 47.12086,
+    "longitude": 9.58334,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6938851,
+    "name": "Bödele",
+    "latitude": 47.09106,
+    "longitude": 9.57068,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8581505,
+    "name": "Brandeggakopf",
+    "latitude": 47.12593,
+    "longitude": 9.58849,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11074220,
+    "name": "Chemi",
+    "latitude": 47.14791,
+    "longitude": 9.55777,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6938905,
+    "name": "Chrüppel",
+    "latitude": 47.10627,
+    "longitude": 9.56569,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10355163,
+    "name": "Chüaloch",
+    "latitude": 47.1001,
+    "longitude": 9.62235,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7303716,
+    "name": "Demmerahöhi",
+    "latitude": 47.05916,
+    "longitude": 9.58413,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6938960,
+    "name": "Drei Kapuziner",
+    "latitude": 47.12453,
+    "longitude": 9.58889,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042070,
+    "name": "Drei Schwestern",
+    "latitude": 47.17556,
+    "longitude": 9.57287,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042068,
+    "name": "Eschen",
+    "latitude": 47.21071,
+    "longitude": 9.52223,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10355178,
+    "name": "Fuggsastei",
+    "latitude": 47.10874,
+    "longitude": 9.61272,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042065,
+    "name": "Fürstensteig",
+    "latitude": 47.14536,
+    "longitude": 9.54783,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7303644,
+    "name": "Gafleisattel",
+    "latitude": 47.15108,
+    "longitude": 9.55266,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6939093,
+    "name": "Gafleispitz",
+    "latitude": 47.15894,
+    "longitude": 9.55496,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12022997,
+    "name": "Gafleispitze",
+    "latitude": 47.15895,
+    "longitude": 9.55495,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042064,
+    "name": "Galinakopf",
+    "latitude": 47.15163,
+    "longitude": 9.62055,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042062,
+    "name": "Gamprin",
+    "latitude": 47.22038,
+    "longitude": 9.50935,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10347587,
+    "name": "Gampriner Seele",
+    "latitude": 47.22516,
+    "longitude": 9.50913,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6938920,
+    "name": "Gamsgrat",
+    "latitude": 47.108,
+    "longitude": 9.62264,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10352816,
+    "name": "Gapfahl",
+    "latitude": 47.07968,
+    "longitude": 9.57596,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7303639,
+    "name": "Garsellikopf",
+    "latitude": 47.17026,
+    "longitude": 9.56462,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6939127,
+    "name": "Garsellitürm",
+    "latitude": 47.16998,
+    "longitude": 9.56972,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10367010,
+    "name": "Gipsberg",
+    "latitude": 47.15107,
+    "longitude": 9.54945,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6938814,
+    "name": "Goldlochspitz",
+    "latitude": 47.0821,
+    "longitude": 9.56746,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10357204,
+    "name": "Guschg",
+    "latitude": 47.12544,
+    "longitude": 9.60587,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10353215,
+    "name": "Guschgfiel",
+    "latitude": 47.13937,
+    "longitude": 9.6192,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6939061,
+    "name": "Hächlaköpfe",
+    "latitude": 47.15346,
+    "longitude": 9.60292,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7303737,
+    "name": "Hahnenspiel",
+    "latitude": 47.09774,
+    "longitude": 9.58852,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6939034,
+    "name": "Helwangspitz",
+    "latitude": 47.14864,
+    "longitude": 9.56183,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6938866,
+    "name": "Heubüal",
+    "latitude": 47.09662,
+    "longitude": 9.5668,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6938859,
+    "name": "Heubühl",
+    "latitude": 47.09431,
+    "longitude": 9.56883,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2660346,
+    "name": "Hinter-Grauspitz",
+    "latitude": 47.05481,
+    "longitude": 9.58745,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6938779,
+    "name": "Hochspeler",
+    "latitude": 47.07326,
+    "longitude": 9.57145,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10353069,
+    "name": "Höhi",
+    "latitude": 47.07306,
+    "longitude": 9.60337,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10353056,
+    "name": "Hundsstein",
+    "latitude": 47.08271,
+    "longitude": 9.59731,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6938945,
+    "name": "Kirchle",
+    "latitude": 47.11956,
+    "longitude": 9.59816,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6938902,
+    "name": "Kirchlespitz",
+    "latitude": 47.10501,
+    "longitude": 9.58761,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7303721,
+    "name": "Kläusli",
+    "latitude": 47.05286,
+    "longitude": 9.57988,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6938843,
+    "name": "Kolme",
+    "latitude": 47.08758,
+    "longitude": 9.57218,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6938805,
+    "name": "Koraspitz",
+    "latitude": 47.07944,
+    "longitude": 9.55676,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6939115,
+    "name": "Kuegrat",
+    "latitude": 47.16653,
+    "longitude": 9.56087,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10353583,
+    "name": "Kulm",
+    "latitude": 47.11903,
+    "longitude": 9.56237,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6938803,
+    "name": "Langspitz",
+    "latitude": 47.0794,
+    "longitude": 9.55965,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10353249,
+    "name": "Matta",
+    "latitude": 47.12613,
+    "longitude": 9.61991,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11075150,
+    "name": "Mattaförkle",
+    "latitude": 47.13207,
+    "longitude": 9.62271,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042057,
+    "name": "Mattajoch",
+    "latitude": 47.13193,
+    "longitude": 9.6256,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042055,
+    "name": "Mauren",
+    "latitude": 47.21805,
+    "longitude": 9.5442,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7303727,
+    "name": "Mazorahöhe",
+    "latitude": 47.05502,
+    "longitude": 9.55326,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10354407,
+    "name": "Mazorahöhi",
+    "latitude": 47.05495,
+    "longitude": 9.55337,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6938759,
+    "name": "Mittagsspitz",
+    "latitude": 47.06926,
+    "longitude": 9.53409,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6938746,
+    "name": "Mittlerspitz",
+    "latitude": 47.06513,
+    "longitude": 9.53972,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6938856,
+    "name": "Nospitz",
+    "latitude": 47.09319,
+    "longitude": 9.59827,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042051,
+    "name": "Ochsenkopf",
+    "latitude": 47.11466,
+    "longitude": 9.62466,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042049,
+    "name": "Planken",
+    "latitude": 47.18516,
+    "longitude": 9.54437,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10353142,
+    "name": "Plankner Garselli",
+    "latitude": 47.1663,
+    "longitude": 9.57222,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6938744,
+    "name": "Plasteikopf",
+    "latitude": 47.06508,
+    "longitude": 9.57726,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6938981,
+    "name": "Plattenspitz",
+    "latitude": 47.13312,
+    "longitude": 9.55851,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10352898,
+    "name": "Pradamee",
+    "latitude": 47.10015,
+    "longitude": 9.60224,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6938790,
+    "name": "Rappastein",
+    "latitude": 47.0768,
+    "longitude": 9.5659,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7303728,
+    "name": "Rappasteinsattel",
+    "latitude": 47.07991,
+    "longitude": 9.56537,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6938787,
+    "name": "Rappenstein",
+    "latitude": 47.07617,
+    "longitude": 9.56644,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10352814,
+    "name": "Rucha Kopf",
+    "latitude": 47.08016,
+    "longitude": 9.57799,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6938994,
+    "name": "Rucheck",
+    "latitude": 47.13713,
+    "longitude": 9.61385,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042046,
+    "name": "Ruggell",
+    "latitude": 47.23799,
+    "longitude": 9.5254,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10355060,
+    "name": "Sareis",
+    "latitude": 47.10076,
+    "longitude": 9.62325,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042043,
+    "name": "Sareiserjoch",
+    "latitude": 47.09521,
+    "longitude": 9.62539,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6939199,
+    "name": "Saroja",
+    "latitude": 47.19079,
+    "longitude": 9.57256,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10355186,
+    "name": "Sassförkle",
+    "latitude": 47.11941,
+    "longitude": 9.60979,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10354572,
+    "name": "Sattel",
+    "latitude": 47.07616,
+    "longitude": 9.53316,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042041,
+    "name": "Schaan",
+    "latitude": 47.16498,
+    "longitude": 9.50867,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042037,
+    "name": "Schellenberg",
+    "latitude": 47.23123,
+    "longitude": 9.54678,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042039,
+    "name": "Scheuakopf",
+    "latitude": 47.12807,
+    "longitude": 9.63496,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10352519,
+    "name": "Schmelzikopf",
+    "latitude": 47.13662,
+    "longitude": 9.60499,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6938974,
+    "name": "Schönberg",
+    "latitude": 47.13037,
+    "longitude": 9.59301,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7303739,
+    "name": "Silberhorn",
+    "latitude": 47.0871,
+    "longitude": 9.60553,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6938835,
+    "name": "Spitz",
+    "latitude": 47.08651,
+    "longitude": 9.62369,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6938956,
+    "name": "Stachlerkopf",
+    "latitude": 47.12213,
+    "longitude": 9.59226,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10366891,
+    "name": "Stausee",
+    "latitude": 47.10969,
+    "longitude": 9.57581,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7303730,
+    "name": "Tälihöhi",
+    "latitude": 47.08823,
+    "longitude": 9.60036,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10366940,
+    "name": "Tönichopf",
+    "latitude": 47.13998,
+    "longitude": 9.53656,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10352521,
+    "name": "Tönikopf",
+    "latitude": 47.13453,
+    "longitude": 9.60073,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042035,
+    "name": "Triesen",
+    "latitude": 47.10752,
+    "longitude": 9.52815,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042033,
+    "name": "Triesenberg",
+    "latitude": 47.11815,
+    "longitude": 9.54197,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10348303,
+    "name": "Tschingel",
+    "latitude": 47.05704,
+    "longitude": 9.49236,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10353704,
+    "name": "Tschugga",
+    "latitude": 47.10973,
+    "longitude": 9.56305,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10355019,
+    "name": "Turna",
+    "latitude": 47.09314,
+    "longitude": 9.62086,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042030,
+    "name": "Vaduz",
+    "latitude": 47.14151,
+    "longitude": 9.52154,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2658099,
+    "name": "Vorder-Grauspitz",
+    "latitude": 47.05272,
+    "longitude": 9.58128,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10353787,
+    "name": "Wang",
+    "latitude": 47.09105,
+    "longitude": 9.56694,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6939018,
+    "name": "Wurmtalkopf",
+    "latitude": 47.14589,
+    "longitude": 9.62583,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  }
+]

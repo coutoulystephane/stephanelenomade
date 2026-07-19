@@ -1,0 +1,2162 @@
+[
+  {
+    "geonameId": 2082339,
+    "name": "Alet",
+    "latitude": 7.3675,
+    "longitude": 149.1775,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082335,
+    "name": "Amas",
+    "latitude": 5.89361,
+    "longitude": 153.1531,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4044791,
+    "name": "Anakun",
+    "latitude": 7.37553,
+    "longitude": 151.59869,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1559310,
+    "name": "Asor",
+    "latitude": 10.02994,
+    "longitude": 139.76699,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082310,
+    "name": "Bernard Islands",
+    "latitude": 7.29602,
+    "longitude": 151.527,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7627626,
+    "name": "Brackish Lake",
+    "latitude": 6.69485,
+    "longitude": 149.30216,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082071,
+    "name": "Chuk en Ipar",
+    "latitude": 7.3583,
+    "longitude": 151.82977,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082293,
+    "name": "Chukuchad",
+    "latitude": 7.35412,
+    "longitude": 151.83964,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082285,
+    "name": "Chukuwen",
+    "latitude": 7.42567,
+    "longitude": 151.85028,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081309,
+    "name": "Chuuk Islands",
+    "latitude": 7.44447,
+    "longitude": 151.78109,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7648112,
+    "name": "Colonia",
+    "latitude": 9.51638,
+    "longitude": 138.12167,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081382,
+    "name": "Dagamanga",
+    "latitude": 3.84717,
+    "longitude": 154.97355,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082275,
+    "name": "Dehpehk",
+    "latitude": 6.95075,
+    "longitude": 158.29625,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082274,
+    "name": "Deke",
+    "latitude": 6.22909,
+    "longitude": 160.69492,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082272,
+    "name": "Dekehtik",
+    "latitude": 6.9827,
+    "longitude": 158.20647,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4043233,
+    "name": "Dolap",
+    "latitude": 6.96917,
+    "longitude": 158.19,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4044973,
+    "name": "Dolen Kahmar",
+    "latitude": 6.92012,
+    "longitude": 158.21214,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4044629,
+    "name": "Dolen Koio",
+    "latitude": 6.85242,
+    "longitude": 158.17647,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081149,
+    "name": "Dolen Merewi",
+    "latitude": 6.88314,
+    "longitude": 158.26896,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041824,
+    "name": "Dolen Raripwi",
+    "latitude": 6.86243,
+    "longitude": 158.1833,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041879,
+    "name": "Dolen Saladenre",
+    "latitude": 6.90444,
+    "longitude": 158.25167,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4044819,
+    "name": "Dolleiso",
+    "latitude": 6.8724,
+    "longitude": 158.1839,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082145,
+    "name": "East Fayu Island",
+    "latitude": 8.551,
+    "longitude": 151.3395,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7645763,
+    "name": "Eauripik",
+    "latitude": 6.687,
+    "longitude": 143.0375,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082258,
+    "name": "Eauripik - temp LL",
+    "latitude": 6.68722,
+    "longitude": 143.08194,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082253,
+    "name": "Elato",
+    "latitude": 7.51264,
+    "longitude": 146.16979,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082249,
+    "name": "Elin",
+    "latitude": 8.45546,
+    "longitude": 151.78842,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082240,
+    "name": "Engenenimo",
+    "latitude": 7.31956,
+    "longitude": 152.01842,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081663,
+    "name": "Eot Island",
+    "latitude": 7.3854,
+    "longitude": 151.7394,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082216,
+    "name": "Ettal",
+    "latitude": 5.5686,
+    "longitude": 153.585,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082213,
+    "name": "Etten",
+    "latitude": 7.53089,
+    "longitude": 151.97469,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7645769,
+    "name": "Fais",
+    "latitude": 9.766,
+    "longitude": 140.52,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082208,
+    "name": "Fais Island",
+    "latitude": 9.766,
+    "longitude": 140.5195,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4044719,
+    "name": "Fakuruwon",
+    "latitude": 7.33059,
+    "longitude": 151.61463,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082205,
+    "name": "Falalis",
+    "latitude": 7.32514,
+    "longitude": 143.84459,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1559184,
+    "name": "Falalop",
+    "latitude": 10.014,
+    "longitude": 139.792,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082191,
+    "name": "Fanan",
+    "latitude": 7.19087,
+    "longitude": 151.98263,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082193,
+    "name": "Fanangat",
+    "latitude": 7.54251,
+    "longitude": 151.8121,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082186,
+    "name": "Fananu",
+    "latitude": 8.55912,
+    "longitude": 151.91126,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082185,
+    "name": "Fanapanges Island",
+    "latitude": 7.353,
+    "longitude": 151.6678,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082166,
+    "name": "Fanos",
+    "latitude": 7.5347,
+    "longitude": 151.75273,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082153,
+    "name": "Faraulep",
+    "latitude": 8.5893,
+    "longitude": 144.526,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1559165,
+    "name": "Fassarai",
+    "latitude": 9.90916,
+    "longitude": 139.6582,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082144,
+    "name": "Fefen Island",
+    "latitude": 7.353,
+    "longitude": 151.8315,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082141,
+    "name": "Feneppi",
+    "latitude": 7.11324,
+    "longitude": 151.87766,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082133,
+    "name": "Finol Finkol",
+    "latitude": 5.31126,
+    "longitude": 162.9914,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081872,
+    "name": "Finol Mutunte",
+    "latitude": 5.34784,
+    "longitude": 162.99531,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081696,
+    "name": "Finol Okat",
+    "latitude": 5.32224,
+    "longitude": 162.97156,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081689,
+    "name": "Finol Oma",
+    "latitude": 5.29084,
+    "longitude": 163.00458,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081516,
+    "name": "Finol Putuk",
+    "latitude": 5.34425,
+    "longitude": 163.00896,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081393,
+    "name": "Finol Tafuyat",
+    "latitude": 5.29951,
+    "longitude": 163.00209,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4042346,
+    "name": "Finol Wakap",
+    "latitude": 5.30361,
+    "longitude": 162.94083,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082124,
+    "name": "Fono Island",
+    "latitude": 7.486,
+    "longitude": 151.8796,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082120,
+    "name": "Fononuk",
+    "latitude": 7.60511,
+    "longitude": 151.94005,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082111,
+    "name": "Foukenau",
+    "latitude": 7.38261,
+    "longitude": 151.86971,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082098,
+    "name": "Gaferut Island",
+    "latitude": 9.228,
+    "longitude": 145.3842,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1559098,
+    "name": "Gagil-Tamil Island",
+    "latitude": 9.54362,
+    "longitude": 138.16936,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082054,
+    "name": "Gausema",
+    "latitude": 3.82634,
+    "longitude": 154.95991,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1559083,
+    "name": "Gielap",
+    "latitude": 9.9463,
+    "longitude": 139.90893,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4044914,
+    "name": "Hare",
+    "latitude": 1.03708,
+    "longitude": 154.80236,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7627628,
+    "name": "Houk",
+    "latitude": 6.6894,
+    "longitude": 149.29908,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082087,
+    "name": "Houk Island",
+    "latitude": 6.683,
+    "longitude": 149.301,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082128,
+    "name": "Ifalik",
+    "latitude": 7.2543,
+    "longitude": 144.45571,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082081,
+    "name": "Igup",
+    "latitude": 8.56524,
+    "longitude": 151.92195,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082079,
+    "name": "Imwinyap",
+    "latitude": 6.75305,
+    "longitude": 157.98584,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081340,
+    "name": "Infal Tofol",
+    "latitude": 5.92778,
+    "longitude": 153.14694,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082069,
+    "name": "Ipis",
+    "latitude": 6.98866,
+    "longitude": 151.97156,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7627032,
+    "name": "Kapingamarangi",
+    "latitude": 1.07861,
+    "longitude": 154.80752,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4043034,
+    "name": "Kolonia",
+    "latitude": 6.964,
+    "longitude": 158.2062,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082038,
+    "name": "Kolonia Town",
+    "latitude": 6.964,
+    "longitude": 158.206,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081155,
+    "name": "Kosrae Island",
+    "latitude": 5.325,
+    "longitude": 162.982,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082028,
+    "name": "Kunu",
+    "latitude": 7.42023,
+    "longitude": 151.64901,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7648475,
+    "name": "Kuplu Lake",
+    "latitude": 5.26044,
+    "longitude": 162.99882,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4044960,
+    "name": "Kupwuriso",
+    "latitude": 6.92144,
+    "longitude": 158.26467,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082022,
+    "name": "Kuttu",
+    "latitude": 5.453,
+    "longitude": 153.4565,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082017,
+    "name": "Lamotrek",
+    "latitude": 7.45745,
+    "longitude": 146.38248,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082014,
+    "name": "Laol",
+    "latitude": 6.89418,
+    "longitude": 152.74382,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082004,
+    "name": "Lelu",
+    "latitude": 5.33131,
+    "longitude": 163.02919,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082000,
+    "name": "Lenger",
+    "latitude": 6.9971,
+    "longitude": 158.23014,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7667576,
+    "name": "Liduduhnlap Waterfall",
+    "latitude": 6.91879,
+    "longitude": 158.20657,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081982,
+    "name": "Losap",
+    "latitude": 6.89329,
+    "longitude": 152.7305,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081974,
+    "name": "Lukunor",
+    "latitude": 5.507,
+    "longitude": 153.8195,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1559008,
+    "name": "Maap Island",
+    "latitude": 9.598,
+    "longitude": 138.1665,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7667608,
+    "name": "Madolenihm Municipality Government",
+    "latitude": 6.83493,
+    "longitude": 158.2987,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081970,
+    "name": "Magererik",
+    "latitude": 8.94718,
+    "longitude": 150.06706,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081968,
+    "name": "Makur",
+    "latitude": 8.98521,
+    "longitude": 150.13122,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081967,
+    "name": "Makur Islands",
+    "latitude": 8.985,
+    "longitude": 150.1265,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7648440,
+    "name": "Malem",
+    "latitude": 5.28599,
+    "longitude": 163.02609,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1558980,
+    "name": "Mangejang",
+    "latitude": 9.94586,
+    "longitude": 139.68773,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081957,
+    "name": "Mant",
+    "latitude": 7.03428,
+    "longitude": 157.83083,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081956,
+    "name": "Manton",
+    "latitude": 6.69472,
+    "longitude": 159.75239,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081951,
+    "name": "Mariaon",
+    "latitude": 7.37026,
+    "longitude": 143.8885,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081925,
+    "name": "Meseong",
+    "latitude": 7.14435,
+    "longitude": 151.90766,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081897,
+    "name": "Moch",
+    "latitude": 5.4918,
+    "longitude": 153.539,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081258,
+    "name": "Mochun Uranu",
+    "latitude": 7.3013,
+    "longitude": 151.88178,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1558935,
+    "name": "Mogmog",
+    "latitude": 10.08904,
+    "longitude": 139.70867,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081901,
+    "name": "Mokil",
+    "latitude": 6.69374,
+    "longitude": 159.76769,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082263,
+    "name": "Mount Dolohmwar",
+    "latitude": 6.8609,
+    "longitude": 158.2357,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4043276,
+    "name": "Mount Dolotomw",
+    "latitude": 6.8419,
+    "longitude": 158.24269,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081845,
+    "name": "Mount Nanlaud",
+    "latitude": 6.87556,
+    "longitude": 158.22802,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081333,
+    "name": "Mount Pwoaipwoai",
+    "latitude": 6.85834,
+    "longitude": 158.2184,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081881,
+    "name": "Murilo",
+    "latitude": 8.692,
+    "longitude": 152.3425,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081869,
+    "name": "Mwahnd Peidak",
+    "latitude": 6.98828,
+    "longitude": 158.29458,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081868,
+    "name": "Mwahnd Peidi",
+    "latitude": 6.98206,
+    "longitude": 158.28157,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4044529,
+    "name": "Nahna Orepeng",
+    "latitude": 6.95403,
+    "longitude": 158.26385,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081851,
+    "name": "Namoluk",
+    "latitude": 5.92497,
+    "longitude": 153.11296,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7645215,
+    "name": "Nema",
+    "latitude": 6.98922,
+    "longitude": 152.57377,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081809,
+    "name": "Nema Island",
+    "latitude": 6.993,
+    "longitude": 152.5745,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4042668,
+    "name": "Neukech",
+    "latitude": 7.30569,
+    "longitude": 151.8856,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081766,
+    "name": "Ngatik",
+    "latitude": 5.78658,
+    "longitude": 157.15209,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7645772,
+    "name": "Ngulu",
+    "latitude": 8.45,
+    "longitude": 137.484,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1558885,
+    "name": "Ngulu - temp LL",
+    "latitude": 8.297,
+    "longitude": 137.4897,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081761,
+    "name": "Nikalap",
+    "latitude": 7.08386,
+    "longitude": 157.76934,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081760,
+    "name": "Nikalap Aru",
+    "latitude": 6.7686,
+    "longitude": 158.01533,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081748,
+    "name": "Nomwin",
+    "latitude": 8.43,
+    "longitude": 151.746,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081721,
+    "name": "Nukuoro",
+    "latitude": 3.8399,
+    "longitude": 154.97482,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081714,
+    "name": "Oan",
+    "latitude": 7.36442,
+    "longitude": 151.75655,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081711,
+    "name": "Ocha",
+    "latitude": 7.14918,
+    "longitude": 151.88993,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081691,
+    "name": "Olimarao",
+    "latitude": 7.70463,
+    "longitude": 145.88138,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081683,
+    "name": "Oneop",
+    "latitude": 5.5066,
+    "longitude": 153.7095,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081678,
+    "name": "Onou",
+    "latitude": 8.799,
+    "longitude": 150.2905,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081677,
+    "name": "Onoun",
+    "latitude": 8.575,
+    "longitude": 149.686,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081670,
+    "name": "Oroluk",
+    "latitude": 7.62231,
+    "longitude": 155.15867,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4045275,
+    "name": "Osetik",
+    "latitude": 7.05537,
+    "longitude": 157.82933,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081660,
+    "name": "Paata Island",
+    "latitude": 7.376,
+    "longitude": 151.5835,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4045256,
+    "name": "Pahnwasank",
+    "latitude": 6.74827,
+    "longitude": 157.97645,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081650,
+    "name": "Paliau",
+    "latitude": 7.36072,
+    "longitude": 143.91425,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081986,
+    "name": "Palikir",
+    "latitude": 6.92477,
+    "longitude": 158.16109,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081646,
+    "name": "Pamuk Imwintiati",
+    "latitude": 6.72948,
+    "longitude": 157.94121,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081641,
+    "name": "Parem",
+    "latitude": 7.00251,
+    "longitude": 158.25475,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081639,
+    "name": "Parem Island",
+    "latitude": 7.362,
+    "longitude": 151.7895,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1558864,
+    "name": "Pau",
+    "latitude": 9.92975,
+    "longitude": 139.816,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081635,
+    "name": "Peilepwil",
+    "latitude": 7.06674,
+    "longitude": 157.82002,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081634,
+    "name": "Peina",
+    "latitude": 5.85327,
+    "longitude": 157.2922,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081620,
+    "name": "Pepeio",
+    "latitude": 1.09127,
+    "longitude": 154.79542,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081613,
+    "name": "Piasa",
+    "latitude": 5.52522,
+    "longitude": 153.80207,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1558847,
+    "name": "Pigelelel",
+    "latitude": 9.99125,
+    "longitude": 139.6249,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081601,
+    "name": "Piig",
+    "latitude": 8.60024,
+    "longitude": 144.50899,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7645221,
+    "name": "Piis",
+    "latitude": 6.834,
+    "longitude": 152.701,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081598,
+    "name": "Piis Island",
+    "latitude": 7.678,
+    "longitude": 151.7636,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081131,
+    "name": "Pikelot Island",
+    "latitude": 8.105,
+    "longitude": 147.6458,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081587,
+    "name": "Pingelap",
+    "latitude": 6.20199,
+    "longitude": 160.70556,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081599,
+    "name": "Pis",
+    "latitude": 6.83427,
+    "longitude": 152.7026,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081600,
+    "name": "Pisaras",
+    "latitude": 8.569,
+    "longitude": 150.4185,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081569,
+    "name": "Pisenitach",
+    "latitude": 7.67605,
+    "longitude": 151.80625,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081565,
+    "name": "Pisira",
+    "latitude": 8.59249,
+    "longitude": 151.84429,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081549,
+    "name": "Pohn Tehnmei",
+    "latitude": 6.90521,
+    "longitude": 158.30419,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081553,
+    "name": "Pohnlehr",
+    "latitude": 6.95906,
+    "longitude": 158.23407,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081551,
+    "name": "Pohnpei Island",
+    "latitude": 6.89132,
+    "longitude": 158.2299,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081547,
+    "name": "Pollap",
+    "latitude": 7.64137,
+    "longitude": 149.43222,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081545,
+    "name": "Polle Island",
+    "latitude": 7.337,
+    "longitude": 151.5845,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081543,
+    "name": "Polowat",
+    "latitude": 7.35566,
+    "longitude": 149.20202,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081539,
+    "name": "Pones",
+    "latitude": 7.20445,
+    "longitude": 151.98894,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1558841,
+    "name": "Potangeras",
+    "latitude": 10.0767,
+    "longitude": 139.67241,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7628250,
+    "name": "Pulap",
+    "latitude": 7.6366,
+    "longitude": 149.42878,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081509,
+    "name": "Ramanum Island",
+    "latitude": 7.4135,
+    "longitude": 151.6648,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081507,
+    "name": "Raur",
+    "latitude": 7.34959,
+    "longitude": 143.91307,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036933,
+    "name": "Rumung",
+    "latitude": 9.622,
+    "longitude": 138.154,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1558764,
+    "name": "Rumung Island",
+    "latitude": 9.622,
+    "longitude": 138.153,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081489,
+    "name": "Ruo",
+    "latitude": 8.609,
+    "longitude": 152.2445,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081483,
+    "name": "Saliap",
+    "latitude": 7.37483,
+    "longitude": 143.85258,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081481,
+    "name": "Sanat",
+    "latitude": 7.23315,
+    "longitude": 152.00606,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081447,
+    "name": "Sapwtik",
+    "latitude": 7.00481,
+    "longitude": 158.22585,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7645723,
+    "name": "Satawal",
+    "latitude": 7.382,
+    "longitude": 147.0322,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081446,
+    "name": "Satawal Island",
+    "latitude": 7.382,
+    "longitude": 147.032,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081445,
+    "name": "Satowan",
+    "latitude": 5.334,
+    "longitude": 153.737,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10861321,
+    "name": "Senyavin Islands",
+    "latitude": 6.97005,
+    "longitude": 157.98065,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081427,
+    "name": "Siis Island",
+    "latitude": 7.295,
+    "longitude": 151.8248,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2082062,
+    "name": "Sokehs Island",
+    "latitude": 6.96698,
+    "longitude": 158.18785,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081656,
+    "name": "Sokehs Rock",
+    "latitude": 6.97783,
+    "longitude": 158.19011,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081417,
+    "name": "Sopunur",
+    "latitude": 5.49669,
+    "longitude": 153.79027,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1558747,
+    "name": "Sorlen",
+    "latitude": 10.08122,
+    "longitude": 139.73532,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7645768,
+    "name": "Sorol",
+    "latitude": 8.1435,
+    "longitude": 140.394,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081413,
+    "name": "Sorol - temp LL",
+    "latitude": 8.13333,
+    "longitude": 140.41083,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081399,
+    "name": "Ta",
+    "latitude": 5.2842,
+    "longitude": 153.647,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7645388,
+    "name": "Ta - East Tip",
+    "latitude": 5.31977,
+    "longitude": 153.71542,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7648250,
+    "name": "Tafunsak",
+    "latitude": 5.3671,
+    "longitude": 162.98532,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081390,
+    "name": "Tagaulap",
+    "latitude": 7.35817,
+    "longitude": 143.87588,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081387,
+    "name": "Takaieu",
+    "latitude": 6.93657,
+    "longitude": 158.29205,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081378,
+    "name": "Tamatam",
+    "latitude": 7.53842,
+    "longitude": 149.41011,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4042083,
+    "name": "Tamwatamw",
+    "latitude": 6.9669,
+    "longitude": 158.25686,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081359,
+    "name": "Temwen",
+    "latitude": 6.84808,
+    "longitude": 158.32385,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081358,
+    "name": "Temwetemwensekir",
+    "latitude": 6.91362,
+    "longitude": 158.18381,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4042122,
+    "name": "Tenwen Men",
+    "latitude": 6.903,
+    "longitude": 158.27913,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081342,
+    "name": "Tofol",
+    "latitude": 5.32479,
+    "longitude": 163.00781,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081335,
+    "name": "Tol Island",
+    "latitude": 7.333,
+    "longitude": 151.6235,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081324,
+    "name": "Tonachau",
+    "latitude": 7.45679,
+    "longitude": 151.84957,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7668874,
+    "name": "Tonoas Municipal Building",
+    "latitude": 7.37597,
+    "longitude": 151.88433,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081318,
+    "name": "Tonoken",
+    "latitude": 7.43813,
+    "longitude": 151.85171,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081317,
+    "name": "Tonomwan",
+    "latitude": 7.37207,
+    "longitude": 151.86953,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081321,
+    "name": "Tonowas Island",
+    "latitude": 7.381,
+    "longitude": 151.8905,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081312,
+    "name": "Totiw",
+    "latitude": 7.342,
+    "longitude": 151.782,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081310,
+    "name": "Touhou",
+    "latitude": 1.07836,
+    "longitude": 154.80845,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081298,
+    "name": "Udot Island",
+    "latitude": 7.389,
+    "longitude": 151.7085,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081292,
+    "name": "Uman Island",
+    "latitude": 7.299,
+    "longitude": 151.8775,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081290,
+    "name": "Umong",
+    "latitude": 7.60364,
+    "longitude": 151.94148,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081289,
+    "name": "Unanu",
+    "latitude": 8.75,
+    "longitude": 150.34,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081262,
+    "name": "Urak",
+    "latitude": 6.66384,
+    "longitude": 159.75014,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7648441,
+    "name": "Utwe",
+    "latitude": 5.27486,
+    "longitude": 162.97656,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7648455,
+    "name": "Utwe-Walung Marine Park Offices",
+    "latitude": 5.28137,
+    "longitude": 162.96678,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081244,
+    "name": "Wat",
+    "latitude": 5.78594,
+    "longitude": 157.34426,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081114,
+    "name": "Weno",
+    "latitude": 7.44648,
+    "longitude": 151.84135,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081240,
+    "name": "Weno Island",
+    "latitude": 7.44,
+    "longitude": 151.882,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081250,
+    "name": "Werua",
+    "latitude": 1.08443,
+    "longitude": 154.80717,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4042385,
+    "name": "West Fayu Island",
+    "latitude": 8.08438,
+    "longitude": 146.73061,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081216,
+    "name": "Winimas",
+    "latitude": 7.3391,
+    "longitude": 151.59124,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081113,
+    "name": "Winimor",
+    "latitude": 7.36957,
+    "longitude": 151.62776,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081214,
+    "name": "Wininen",
+    "latitude": 7.17247,
+    "longitude": 151.95165,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081206,
+    "name": "Winipot",
+    "latitude": 7.33917,
+    "longitude": 151.61972,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081202,
+    "name": "Wisas",
+    "latitude": 7.16204,
+    "longitude": 151.9356,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081198,
+    "name": "Witipwon",
+    "latitude": 7.44222,
+    "longitude": 151.86728,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081187,
+    "name": "Woleai",
+    "latitude": 7.38151,
+    "longitude": 143.9091,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081182,
+    "name": "Wonei Island",
+    "latitude": 7.387,
+    "longitude": 151.6015,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2081257,
+    "name": "Wottegai",
+    "latitude": 7.37319,
+    "longitude": 143.83867,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1558583,
+    "name": "Yap Island",
+    "latitude": 9.537,
+    "longitude": 138.097,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1558582,
+    "name": "Yap Islands",
+    "latitude": 9.538,
+    "longitude": 138.098,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  }
+]

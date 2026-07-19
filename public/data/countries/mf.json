@@ -1,0 +1,152 @@
+[
+  {
+    "geonameId": 6985393,
+    "name": "Caye Chateau",
+    "latitude": 18.06847,
+    "longitude": -63.01072,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3578297,
+    "name": "Caye Verte",
+    "latitude": 18.08891,
+    "longitude": -63.01109,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6984577,
+    "name": "Concordia",
+    "latitude": 18.06489,
+    "longitude": -63.07794,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3579342,
+    "name": "Flagstaff",
+    "latitude": 18.06439,
+    "longitude": -63.05371,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6984572,
+    "name": "Grand Îlet",
+    "latitude": 18.05053,
+    "longitude": -63.10281,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3578339,
+    "name": "Île Tintamarre",
+    "latitude": 18.11936,
+    "longitude": -62.97923,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3578619,
+    "name": "Îlet Pinel",
+    "latitude": 18.10641,
+    "longitude": -63.01483,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3578851,
+    "name": "Marigot",
+    "latitude": 18.06819,
+    "longitude": -63.08302,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6984596,
+    "name": "Mont Caréta",
+    "latitude": 18.08402,
+    "longitude": -63.05025,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3579546,
+    "name": "Mont Chambord",
+    "latitude": 18.06667,
+    "longitude": -63.05,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3578732,
+    "name": "Mont O’Reilly",
+    "latitude": 18.09045,
+    "longitude": -63.0534,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3579314,
+    "name": "Montagne France",
+    "latitude": 18.08244,
+    "longitude": -63.0429,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6985361,
+    "name": "Petite Clef",
+    "latitude": 18.10388,
+    "longitude": -63.01912,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3578713,
+    "name": "Pic du Paradis",
+    "latitude": 18.077,
+    "longitude": -63.04994,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3578422,
+    "name": "Saint Martin",
+    "latitude": 18.06688,
+    "longitude": -63.04916,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  }
+]

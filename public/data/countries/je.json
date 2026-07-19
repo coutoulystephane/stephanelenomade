@@ -1,0 +1,152 @@
+[
+  {
+    "geonameId": 3237065,
+    "name": "Elizabeth Castle",
+    "latitude": 49.17611,
+    "longitude": -2.12528,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042145,
+    "name": "Île au Guerdain",
+    "latitude": 49.16972,
+    "longitude": -2.1775,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3237645,
+    "name": "Île Mâitre",
+    "latitude": 49.28333,
+    "longitude": -1.92778,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042143,
+    "name": "Jersey",
+    "latitude": 49.2167,
+    "longitude": -2.13753,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12541139,
+    "name": "L'lle Perchie",
+    "latitude": 49.16655,
+    "longitude": -2.17282,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042130,
+    "name": "La Motte",
+    "latitude": 49.16074,
+    "longitude": -2.07723,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11071834,
+    "name": "La Thiebaut",
+    "latitude": 49.23269,
+    "longitude": -2.22814,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10942508,
+    "name": "Le Hocq",
+    "latitude": 49.16823,
+    "longitude": -2.06178,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10377086,
+    "name": "Les Miellse Nature Reserve",
+    "latitude": 49.21572,
+    "longitude": -2.21928,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042116,
+    "name": "Les Mouriers",
+    "latitude": 49.25361,
+    "longitude": -2.17,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3237642,
+    "name": "Marmotier",
+    "latitude": 49.29167,
+    "longitude": -1.92778,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042091,
+    "name": "Saint Helier",
+    "latitude": 49.18804,
+    "longitude": -2.10491,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042087,
+    "name": "Saint Ouen’s Pond",
+    "latitude": 49.2151,
+    "longitude": -2.22263,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6950957,
+    "name": "St Lawrence",
+    "latitude": 49.21583,
+    "longitude": -2.14139,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6641589,
+    "name": "Val de la Mare Reservoir",
+    "latitude": 49.21556,
+    "longitude": -2.20556,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  }
+]

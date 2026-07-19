@@ -1,0 +1,502 @@
+[
+  {
+    "geonameId": 2110417,
+    "name": "Amatuku",
+    "latitude": -8.4387,
+    "longitude": 179.17141,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110415,
+    "name": "Asau Village",
+    "latitude": -7.49026,
+    "longitude": 178.68016,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110402,
+    "name": "Fagaua",
+    "latitude": -9.3755,
+    "longitude": 179.80911,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110404,
+    "name": "Fale",
+    "latitude": -8.0297,
+    "longitude": 178.3075,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110403,
+    "name": "Falefatu",
+    "latitude": -8.58251,
+    "longitude": 179.11511,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110398,
+    "name": "Fatato",
+    "latitude": -8.54767,
+    "longitude": 179.16229,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110401,
+    "name": "Fenua Tapu",
+    "latitude": -7.25162,
+    "longitude": 177.15587,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110361,
+    "name": "Fetuatasi",
+    "latitude": -9.43285,
+    "longitude": 179.85711,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110379,
+    "name": "Fongafale",
+    "latitude": -8.52044,
+    "longitude": 179.19905,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110388,
+    "name": "Fualefeke",
+    "latitude": -8.42704,
+    "longitude": 179.12242,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110386,
+    "name": "Funafala",
+    "latitude": -8.62834,
+    "longitude": 179.10186,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110394,
+    "name": "Funafuti",
+    "latitude": -8.52425,
+    "longitude": 179.19417,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110382,
+    "name": "Funagogo",
+    "latitude": -8.55785,
+    "longitude": 179.14661,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110383,
+    "name": "Funamanu",
+    "latitude": -8.56535,
+    "longitude": 179.13266,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110381,
+    "name": "Funaota",
+    "latitude": -7.93029,
+    "longitude": 178.38047,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7602497,
+    "name": "Kogatapu Conservation Area - North End",
+    "latitude": -8.46892,
+    "longitude": 179.07439,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7602496,
+    "name": "Kogatapu Conservation Area - South End",
+    "latitude": -8.59807,
+    "longitude": 179.07064,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110289,
+    "name": "Kongo Loto Lafanga",
+    "latitude": -8.00309,
+    "longitude": 178.40977,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110377,
+    "name": "Kulia Village",
+    "latitude": -6.10819,
+    "longitude": 177.33393,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110375,
+    "name": "Lafaga",
+    "latitude": -7.97224,
+    "longitude": 178.43501,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110373,
+    "name": "Lakena",
+    "latitude": -5.6475,
+    "longitude": 176.06917,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110364,
+    "name": "Mateiko",
+    "latitude": -8.60232,
+    "longitude": 179.10011,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110378,
+    "name": "Meang",
+    "latitude": -7.19674,
+    "longitude": 177.1454,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110350,
+    "name": "Motugie",
+    "latitude": -8.6426,
+    "longitude": 179.08088,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110358,
+    "name": "Motulalo",
+    "latitude": -8.07242,
+    "longitude": 178.3787,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110354,
+    "name": "Motuloa",
+    "latitude": -8.64115,
+    "longitude": 179.08674,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110351,
+    "name": "Motumua",
+    "latitude": -8.03982,
+    "longitude": 178.3288,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110348,
+    "name": "Mulitefala",
+    "latitude": -8.43434,
+    "longitude": 179.16661,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110346,
+    "name": "Nanumanga Island",
+    "latitude": -6.28708,
+    "longitude": 176.32385,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7602156,
+    "name": "Nanumea",
+    "latitude": -5.68556,
+    "longitude": 176.12822,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2194171,
+    "name": "Niulakita",
+    "latitude": -10.78873,
+    "longitude": 179.4732,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110397,
+    "name": "Niuoko",
+    "latitude": -9.42684,
+    "longitude": 179.8672,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110342,
+    "name": "Niutao",
+    "latitude": -6.1086,
+    "longitude": 177.34246,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110332,
+    "name": "Pakantou",
+    "latitude": -7.2211,
+    "longitude": 177.16231,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7602218,
+    "name": "Piliaieve",
+    "latitude": -7.22455,
+    "longitude": 177.16257,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110395,
+    "name": "Pongalei",
+    "latitude": -7.23549,
+    "longitude": 177.16443,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110326,
+    "name": "Savave",
+    "latitude": -8.02803,
+    "longitude": 178.31194,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7602373,
+    "name": "Savave Village",
+    "latitude": -8.02731,
+    "longitude": 178.31351,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110321,
+    "name": "Talalolae",
+    "latitude": -7.21343,
+    "longitude": 177.16231,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110322,
+    "name": "Tanrake Village",
+    "latitude": -7.24562,
+    "longitude": 177.14511,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110408,
+    "name": "Teafatule",
+    "latitude": -9.42311,
+    "longitude": 179.84169,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110313,
+    "name": "Telele",
+    "latitude": -8.63415,
+    "longitude": 179.09856,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110362,
+    "name": "Temotufoliki",
+    "latitude": -5.6601,
+    "longitude": 176.1138,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110352,
+    "name": "Temotuloto",
+    "latitude": -8.03522,
+    "longitude": 178.32,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110307,
+    "name": "Tepuka",
+    "latitude": -8.46267,
+    "longitude": 179.08,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110302,
+    "name": "Toga Village",
+    "latitude": -6.28764,
+    "longitude": 176.31472,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7602125,
+    "name": "Top of Tuvalu",
+    "latitude": -10.788,
+    "longitude": 179.472,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110303,
+    "name": "Tumiloto",
+    "latitude": -9.3498,
+    "longitude": 179.83578,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110298,
+    "name": "Tuvalu Islands",
+    "latitude": -8.51711,
+    "longitude": 179.14144,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110294,
+    "name": "Unimai",
+    "latitude": -7.22893,
+    "longitude": 177.16326,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  }
+]

@@ -1,0 +1,7422 @@
+[
+  {
+    "geonameId": 2786792,
+    "name": "'s-Gravenwezel",
+    "latitude": 51.26267,
+    "longitude": 4.56113,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2803448,
+    "name": "Aalst",
+    "latitude": 50.93604,
+    "longitude": 4.0355,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2803443,
+    "name": "Aalter",
+    "latitude": 51.09017,
+    "longitude": 3.44693,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2803429,
+    "name": "Aarschot",
+    "latitude": 50.98715,
+    "longitude": 4.83695,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2803420,
+    "name": "Aartselaar",
+    "latitude": 51.13412,
+    "longitude": 4.38678,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2803391,
+    "name": "Achel",
+    "latitude": 51.253,
+    "longitude": 5.47977,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2803347,
+    "name": "Adegem",
+    "latitude": 51.20509,
+    "longitude": 3.4954,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2803323,
+    "name": "Aiseau",
+    "latitude": 50.41158,
+    "longitude": 4.58671,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2803285,
+    "name": "Alken",
+    "latitude": 50.87553,
+    "longitude": 5.30558,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2803278,
+    "name": "Alleur",
+    "latitude": 50.67465,
+    "longitude": 5.51316,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2803266,
+    "name": "Alsemberg",
+    "latitude": 50.74134,
+    "longitude": 4.33754,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2803246,
+    "name": "Amay",
+    "latitude": 50.54829,
+    "longitude": 5.30974,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2803242,
+    "name": "Amblève",
+    "latitude": 50.35357,
+    "longitude": 6.17002,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2803204,
+    "name": "Andenne",
+    "latitude": 50.48941,
+    "longitude": 5.09513,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2803201,
+    "name": "Anderlecht",
+    "latitude": 50.83619,
+    "longitude": 4.31454,
+    "category": "City",
+    "subcategory": "Local Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2803199,
+    "name": "Anderlues",
+    "latitude": 50.40704,
+    "longitude": 4.27136,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2803187,
+    "name": "Andrimont",
+    "latitude": 50.61298,
+    "longitude": 5.88294,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2803183,
+    "name": "Angleur",
+    "latitude": 50.6113,
+    "longitude": 5.59942,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2803174,
+    "name": "Anhée",
+    "latitude": 50.31039,
+    "longitude": 4.87827,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2803160,
+    "name": "Ans",
+    "latitude": 50.6623,
+    "longitude": 5.52029,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2803144,
+    "name": "Antoing",
+    "latitude": 50.56765,
+    "longitude": 3.4492,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2803138,
+    "name": "Antwerp",
+    "latitude": 51.22047,
+    "longitude": 4.40026,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2803130,
+    "name": "Anzegem",
+    "latitude": 50.837,
+    "longitude": 3.47786,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2803091,
+    "name": "Ardooie",
+    "latitude": 50.9757,
+    "longitude": 3.19736,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2803083,
+    "name": "Arendonk",
+    "latitude": 51.32267,
+    "longitude": 5.08289,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2803073,
+    "name": "Arlon",
+    "latitude": 49.68333,
+    "longitude": 5.81667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2803053,
+    "name": "As",
+    "latitude": 51.00755,
+    "longitude": 5.58453,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2803033,
+    "name": "Asse",
+    "latitude": 50.91011,
+    "longitude": 4.19836,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2803030,
+    "name": "Assebroek",
+    "latitude": 51.19367,
+    "longitude": 3.2623,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2803026,
+    "name": "Assenede",
+    "latitude": 51.22598,
+    "longitude": 3.75085,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2803018,
+    "name": "Assesse",
+    "latitude": 50.36934,
+    "longitude": 5.02204,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2803010,
+    "name": "Ath",
+    "latitude": 50.62937,
+    "longitude": 3.77801,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2803005,
+    "name": "Athus",
+    "latitude": 49.56475,
+    "longitude": 5.83736,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802990,
+    "name": "Aubange",
+    "latitude": 49.56652,
+    "longitude": 5.80492,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802960,
+    "name": "Auderghem",
+    "latitude": 50.81667,
+    "longitude": 4.43333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802902,
+    "name": "Auvelais",
+    "latitude": 50.4504,
+    "longitude": 4.63228,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802871,
+    "name": "Avelgem",
+    "latitude": 50.77618,
+    "longitude": 3.44502,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802849,
+    "name": "Awans",
+    "latitude": 50.66774,
+    "longitude": 5.46329,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802837,
+    "name": "Aywaille",
+    "latitude": 50.47411,
+    "longitude": 5.67684,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802828,
+    "name": "Baal",
+    "latitude": 50.9955,
+    "longitude": 4.75317,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802812,
+    "name": "Baasrode",
+    "latitude": 51.03805,
+    "longitude": 4.1546,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802743,
+    "name": "Balen",
+    "latitude": 51.16837,
+    "longitude": 5.17027,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802698,
+    "name": "Baraque de Fraiture",
+    "latitude": 50.25013,
+    "longitude": 5.73673,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802693,
+    "name": "Baraque Michel",
+    "latitude": 50.51901,
+    "longitude": 6.06244,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802610,
+    "name": "Basse Lasne",
+    "latitude": 50.69503,
+    "longitude": 4.49218,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802606,
+    "name": "Bassenge",
+    "latitude": 50.75883,
+    "longitude": 5.60989,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802583,
+    "name": "Bastogne",
+    "latitude": 50.00347,
+    "longitude": 5.71844,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802570,
+    "name": "Battice",
+    "latitude": 50.64734,
+    "longitude": 5.82104,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802557,
+    "name": "Baudour",
+    "latitude": 50.48296,
+    "longitude": 3.8332,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802529,
+    "name": "Bazel",
+    "latitude": 51.14741,
+    "longitude": 4.30129,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802518,
+    "name": "Beaufays",
+    "latitude": 50.55884,
+    "longitude": 5.63881,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802510,
+    "name": "Beaumont",
+    "latitude": 50.23699,
+    "longitude": 4.23926,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802501,
+    "name": "Beauraing",
+    "latitude": 50.11042,
+    "longitude": 4.95554,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802483,
+    "name": "Beauvechain",
+    "latitude": 50.78195,
+    "longitude": 4.7718,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802437,
+    "name": "Beernem",
+    "latitude": 51.13981,
+    "longitude": 3.33896,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802435,
+    "name": "Beerse",
+    "latitude": 51.31927,
+    "longitude": 4.85304,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802433,
+    "name": "Beersel",
+    "latitude": 50.76589,
+    "longitude": 4.3002,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802422,
+    "name": "Beerzel",
+    "latitude": 51.05753,
+    "longitude": 4.67127,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802405,
+    "name": "Begijnendijk",
+    "latitude": 51.01942,
+    "longitude": 4.78377,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802374,
+    "name": "Bekkevoort",
+    "latitude": 50.94074,
+    "longitude": 4.969,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802292,
+    "name": "Beloeil",
+    "latitude": 50.55047,
+    "longitude": 3.73484,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802289,
+    "name": "Belsele",
+    "latitude": 51.14598,
+    "longitude": 4.08859,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802249,
+    "name": "Berchem",
+    "latitude": 51.19021,
+    "longitude": 4.43264,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802247,
+    "name": "Berchem-Sainte-Agathe",
+    "latitude": 50.86567,
+    "longitude": 4.29557,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802170,
+    "name": "Beringen",
+    "latitude": 51.04954,
+    "longitude": 5.22606,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802156,
+    "name": "Berlaar",
+    "latitude": 51.1176,
+    "longitude": 4.65835,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802154,
+    "name": "Berlare",
+    "latitude": 51.03333,
+    "longitude": 4,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802135,
+    "name": "Bernissart",
+    "latitude": 50.4746,
+    "longitude": 3.64961,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802123,
+    "name": "Bertem",
+    "latitude": 50.86403,
+    "longitude": 4.62918,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802106,
+    "name": "Bertrix",
+    "latitude": 49.85596,
+    "longitude": 5.25539,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802039,
+    "name": "Bevere",
+    "latitude": 50.8496,
+    "longitude": 3.5873,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802031,
+    "name": "Beveren",
+    "latitude": 51.21187,
+    "longitude": 4.25633,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802034,
+    "name": "Beveren-Leie",
+    "latitude": 50.87538,
+    "longitude": 3.34034,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802025,
+    "name": "Beverlo",
+    "latitude": 51.08646,
+    "longitude": 5.21855,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802021,
+    "name": "Beverst",
+    "latitude": 50.89091,
+    "longitude": 5.47548,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2802015,
+    "name": "Beyne-Heusay",
+    "latitude": 50.62251,
+    "longitude": 5.66508,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2801998,
+    "name": "Bierbeek",
+    "latitude": 50.82876,
+    "longitude": 4.75949,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2801924,
+    "name": "Bilzen",
+    "latitude": 50.87325,
+    "longitude": 5.5184,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2801922,
+    "name": "Binche",
+    "latitude": 50.41155,
+    "longitude": 4.16469,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2801891,
+    "name": "Bissegem",
+    "latitude": 50.82378,
+    "longitude": 3.22844,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2801862,
+    "name": "Blankaart",
+    "latitude": 50.98425,
+    "longitude": 2.85871,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2801858,
+    "name": "Blankenberge",
+    "latitude": 51.31306,
+    "longitude": 3.13227,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2801824,
+    "name": "Blauwput",
+    "latitude": 50.88587,
+    "longitude": 4.72415,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2801820,
+    "name": "Blégny",
+    "latitude": 50.67255,
+    "longitude": 5.72508,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2801754,
+    "name": "Bocholt",
+    "latitude": 51.17337,
+    "longitude": 5.57994,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2801743,
+    "name": "Boechout",
+    "latitude": 51.15959,
+    "longitude": 4.49195,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2801550,
+    "name": "Boncelles",
+    "latitude": 50.57108,
+    "longitude": 5.53625,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2801500,
+    "name": "Booischot",
+    "latitude": 51.05219,
+    "longitude": 4.7751,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2801494,
+    "name": "Boom",
+    "latitude": 51.09242,
+    "longitude": 4.3717,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2801483,
+    "name": "Boortmeerbeek",
+    "latitude": 50.97929,
+    "longitude": 4.57443,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2801471,
+    "name": "Borgerhout",
+    "latitude": 51.20957,
+    "longitude": 4.43539,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2801467,
+    "name": "Borgloon",
+    "latitude": 50.80505,
+    "longitude": 5.34366,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2801447,
+    "name": "Bornem",
+    "latitude": 51.09716,
+    "longitude": 4.24364,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2801438,
+    "name": "Borsbeek",
+    "latitude": 51.19661,
+    "longitude": 4.48543,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2801311,
+    "name": "Botrange",
+    "latitude": 50.50172,
+    "longitude": 6.09299,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2801283,
+    "name": "Bouillon",
+    "latitude": 49.79324,
+    "longitude": 5.06703,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2801226,
+    "name": "Boussu",
+    "latitude": 50.43417,
+    "longitude": 3.7944,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2801215,
+    "name": "Boutersem",
+    "latitude": 50.84105,
+    "longitude": 4.83367,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2801161,
+    "name": "Bracquegnies",
+    "latitude": 50.47094,
+    "longitude": 4.1197,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2801154,
+    "name": "Braine-l'Alleud",
+    "latitude": 50.68363,
+    "longitude": 4.36784,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2801152,
+    "name": "Braine-le-Château",
+    "latitude": 50.6799,
+    "longitude": 4.27385,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2801150,
+    "name": "Braine-le-Comte",
+    "latitude": 50.60979,
+    "longitude": 4.14658,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2801147,
+    "name": "Braives",
+    "latitude": 50.62848,
+    "longitude": 5.14798,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2790421,
+    "name": "Brakel",
+    "latitude": 50.80101,
+    "longitude": 3.76264,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2801117,
+    "name": "Brasschaat",
+    "latitude": 51.2912,
+    "longitude": 4.49182,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2801106,
+    "name": "Brecht",
+    "latitude": 51.35024,
+    "longitude": 4.63829,
+    "category": "City",
+    "subcategory": "Local Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2801103,
+    "name": "Bredene",
+    "latitude": 51.23489,
+    "longitude": 2.97559,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2801093,
+    "name": "Bree",
+    "latitude": 51.14152,
+    "longitude": 5.5969,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2801060,
+    "name": "Bressoux",
+    "latitude": 50.63988,
+    "longitude": 5.60629,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2800931,
+    "name": "Brugge",
+    "latitude": 51.20892,
+    "longitude": 3.22424,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2800883,
+    "name": "Brunehault",
+    "latitude": 50.50524,
+    "longitude": 4.43209,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2800866,
+    "name": "Brussels",
+    "latitude": 50.85045,
+    "longitude": 4.34878,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6694852,
+    "name": "Bruul",
+    "latitude": 50.88303,
+    "longitude": 4.69537,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2800816,
+    "name": "Buggenhout",
+    "latitude": 51.0159,
+    "longitude": 4.20173,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2800790,
+    "name": "Buizingen",
+    "latitude": 50.74227,
+    "longitude": 4.25278,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2800782,
+    "name": "Bullange",
+    "latitude": 50.40731,
+    "longitude": 6.25749,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2800765,
+    "name": "Burcht",
+    "latitude": 51.20393,
+    "longitude": 4.34286,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2800711,
+    "name": "Butgenbach",
+    "latitude": 50.42689,
+    "longitude": 6.20504,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2800637,
+    "name": "Carnières",
+    "latitude": 50.44428,
+    "longitude": 4.25509,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2800164,
+    "name": "Cascade de Coo",
+    "latitude": 50.38333,
+    "longitude": 5.88333,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2800584,
+    "name": "Céroux-Mousty",
+    "latitude": 50.66089,
+    "longitude": 4.5207,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2800541,
+    "name": "Champion",
+    "latitude": 50.4953,
+    "longitude": 4.90385,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2800500,
+    "name": "Chapelle-lez-Herlaimont",
+    "latitude": 50.4713,
+    "longitude": 4.28227,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2800481,
+    "name": "Charleroi",
+    "latitude": 50.41136,
+    "longitude": 4.44448,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7648268,
+    "name": "Chastre",
+    "latitude": 50.60067,
+    "longitude": 4.634,
+    "category": "City",
+    "subcategory": "Local Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2800457,
+    "name": "Chastre-Villeroux-Blanmont",
+    "latitude": 50.60857,
+    "longitude": 4.64198,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2800448,
+    "name": "Châtelet",
+    "latitude": 50.40338,
+    "longitude": 4.52826,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2800445,
+    "name": "Châtelineau",
+    "latitude": 50.41499,
+    "longitude": 4.52016,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2800438,
+    "name": "Chaudfontaine",
+    "latitude": 50.5828,
+    "longitude": 5.6341,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2800430,
+    "name": "Chaumont-Gistoux",
+    "latitude": 50.67753,
+    "longitude": 4.7212,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2800395,
+    "name": "Chênée",
+    "latitude": 50.612,
+    "longitude": 5.6141,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2800328,
+    "name": "Chièvres",
+    "latitude": 50.58787,
+    "longitude": 3.80711,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2800325,
+    "name": "Chimay",
+    "latitude": 50.04856,
+    "longitude": 4.31712,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2800298,
+    "name": "Ciney",
+    "latitude": 50.29449,
+    "longitude": 5.10015,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11748990,
+    "name": "Citadelpark",
+    "latitude": 51.03735,
+    "longitude": 3.71886,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2800220,
+    "name": "Colfontaine",
+    "latitude": 50.4141,
+    "longitude": 3.85569,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2800204,
+    "name": "Comblain-au-Pont",
+    "latitude": 50.47488,
+    "longitude": 5.57711,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2800195,
+    "name": "Comines",
+    "latitude": 50.7754,
+    "longitude": 3.00119,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2800073,
+    "name": "Couillet",
+    "latitude": 50.39139,
+    "longitude": 4.45908,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2800063,
+    "name": "Courcelles",
+    "latitude": 50.46379,
+    "longitude": 4.3747,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2800042,
+    "name": "Court-Saint-Étienne",
+    "latitude": 50.63378,
+    "longitude": 4.56851,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2800025,
+    "name": "Couvin",
+    "latitude": 50.05284,
+    "longitude": 4.49495,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2799947,
+    "name": "Cuesmes",
+    "latitude": 50.43624,
+    "longitude": 3.92323,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2799897,
+    "name": "Dalhem",
+    "latitude": 50.71315,
+    "longitude": 5.72774,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2799885,
+    "name": "Damme",
+    "latitude": 51.25147,
+    "longitude": 3.28144,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2799880,
+    "name": "Dampremy",
+    "latitude": 50.41705,
+    "longitude": 4.43092,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2799779,
+    "name": "De Haan",
+    "latitude": 51.27261,
+    "longitude": 3.03446,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2799577,
+    "name": "De Panne",
+    "latitude": 51.09793,
+    "longitude": 2.59368,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2799570,
+    "name": "De Pinte",
+    "latitude": 50.99339,
+    "longitude": 3.64747,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7302750,
+    "name": "De Zoom - Kalmthoutse Heide",
+    "latitude": 51.39528,
+    "longitude": 4.44111,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2799797,
+    "name": "Deerlijk",
+    "latitude": 50.85337,
+    "longitude": 3.35416,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2799746,
+    "name": "Deinze",
+    "latitude": 50.98175,
+    "longitude": 3.53096,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2799649,
+    "name": "Denderhoutem",
+    "latitude": 50.87234,
+    "longitude": 4.01821,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2799647,
+    "name": "Denderleeuw",
+    "latitude": 50.88506,
+    "longitude": 4.07601,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2799645,
+    "name": "Dendermonde",
+    "latitude": 51.02869,
+    "longitude": 4.10106,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2799586,
+    "name": "Dentergem",
+    "latitude": 50.96429,
+    "longitude": 3.41617,
+    "category": "City",
+    "subcategory": "Local Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2799511,
+    "name": "Dessel",
+    "latitude": 51.23855,
+    "longitude": 5.11448,
+    "category": "City",
+    "subcategory": "Local Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2799509,
+    "name": "Desselgem",
+    "latitude": 50.88611,
+    "longitude": 3.35958,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2799496,
+    "name": "Destelbergen",
+    "latitude": 51.05952,
+    "longitude": 3.79899,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2799478,
+    "name": "Deurne",
+    "latitude": 51.22134,
+    "longitude": 4.46595,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2799416,
+    "name": "Diegem",
+    "latitude": 50.89727,
+    "longitude": 4.43354,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2799412,
+    "name": "Diepenbeek",
+    "latitude": 50.90769,
+    "longitude": 5.41875,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2799397,
+    "name": "Diest",
+    "latitude": 50.98923,
+    "longitude": 5.05062,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7302909,
+    "name": "Dijlepark",
+    "latitude": 50.8739,
+    "longitude": 4.69666,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2799369,
+    "name": "Diksmuide",
+    "latitude": 51.03248,
+    "longitude": 2.86384,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2799365,
+    "name": "Dilbeek",
+    "latitude": 50.84799,
+    "longitude": 4.25972,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2799362,
+    "name": "Dilsen",
+    "latitude": 51.03718,
+    "longitude": 5.72096,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2799357,
+    "name": "Dinant",
+    "latitude": 50.25807,
+    "longitude": 4.91166,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2799347,
+    "name": "Dison",
+    "latitude": 50.61004,
+    "longitude": 5.8534,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2799230,
+    "name": "Dottignies",
+    "latitude": 50.73333,
+    "longitude": 3.3,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2799226,
+    "name": "Dour",
+    "latitude": 50.39583,
+    "longitude": 3.77792,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2799090,
+    "name": "Duffel",
+    "latitude": 51.09554,
+    "longitude": 4.50903,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2799047,
+    "name": "Durbuy",
+    "latitude": 50.35291,
+    "longitude": 5.45631,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2799034,
+    "name": "Dworp",
+    "latitude": 50.72983,
+    "longitude": 4.30106,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2799024,
+    "name": "Écaussinnes-d'Enghien",
+    "latitude": 50.56822,
+    "longitude": 4.1658,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2799007,
+    "name": "Edegem",
+    "latitude": 51.15662,
+    "longitude": 4.44504,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798987,
+    "name": "Eeklo",
+    "latitude": 51.18703,
+    "longitude": 3.55654,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798973,
+    "name": "Eernegem",
+    "latitude": 51.1326,
+    "longitude": 3.02562,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798949,
+    "name": "Éghezée",
+    "latitude": 50.59076,
+    "longitude": 4.91175,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798887,
+    "name": "Eisden",
+    "latitude": 50.98463,
+    "longitude": 5.71433,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798882,
+    "name": "Eke",
+    "latitude": 50.95929,
+    "longitude": 3.6396,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798873,
+    "name": "Ekeren",
+    "latitude": 51.28087,
+    "longitude": 4.41813,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798868,
+    "name": "Eksaarde",
+    "latitude": 51.14876,
+    "longitude": 3.96814,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798866,
+    "name": "Eksel",
+    "latitude": 51.15184,
+    "longitude": 5.3906,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798847,
+    "name": "Elewijt",
+    "latitude": 50.96043,
+    "longitude": 4.49684,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798836,
+    "name": "Ellezelles",
+    "latitude": 50.73512,
+    "longitude": 3.67985,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798784,
+    "name": "Embourg",
+    "latitude": 50.59043,
+    "longitude": 5.6068,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798747,
+    "name": "Enghien",
+    "latitude": 50.69375,
+    "longitude": 4.03788,
+    "category": "City",
+    "subcategory": "Local Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798743,
+    "name": "Engis",
+    "latitude": 50.58156,
+    "longitude": 5.39916,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798700,
+    "name": "Erembodegem",
+    "latitude": 50.91905,
+    "longitude": 4.05041,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798678,
+    "name": "Erpe",
+    "latitude": 50.93565,
+    "longitude": 3.97219,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798668,
+    "name": "Erps-Kwerps",
+    "latitude": 50.90119,
+    "longitude": 4.55984,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798666,
+    "name": "Erquelinnes",
+    "latitude": 50.30688,
+    "longitude": 4.11129,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798652,
+    "name": "Ertvelde",
+    "latitude": 51.17921,
+    "longitude": 3.74722,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798636,
+    "name": "Esneux",
+    "latitude": 50.53596,
+    "longitude": 5.56775,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798615,
+    "name": "Essen",
+    "latitude": 51.46791,
+    "longitude": 4.46901,
+    "category": "City",
+    "subcategory": "Local Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798604,
+    "name": "Estaimpuis",
+    "latitude": 50.70485,
+    "longitude": 3.26785,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798597,
+    "name": "Estinnes-au-Val",
+    "latitude": 50.41016,
+    "longitude": 4.10477,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798593,
+    "name": "Étalle",
+    "latitude": 49.67385,
+    "longitude": 5.60019,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2789903,
+    "name": "Étang d'Oise",
+    "latitude": 50,
+    "longitude": 4.25,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2801673,
+    "name": "Étang de Boiron",
+    "latitude": 49.9908,
+    "longitude": 4.90229,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798129,
+    "name": "Étang de la Forge Gérard",
+    "latitude": 49.9828,
+    "longitude": 4.20031,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786865,
+    "name": "Étang de Séloignes",
+    "latitude": 50.01667,
+    "longitude": 4.28333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2784560,
+    "name": "Étang de Virelles",
+    "latitude": 50.07305,
+    "longitude": 4.3465,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798717,
+    "name": "Étang des Épioux",
+    "latitude": 49.7561,
+    "longitude": 5.29802,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2790620,
+    "name": "Étang du Moulin",
+    "latitude": 50.13815,
+    "longitude": 4.2606,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798578,
+    "name": "Etterbeek",
+    "latitude": 50.83272,
+    "longitude": 4.38835,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798573,
+    "name": "Eupen",
+    "latitude": 50.6279,
+    "longitude": 6.03647,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798554,
+    "name": "Evere",
+    "latitude": 50.87441,
+    "longitude": 4.39905,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798551,
+    "name": "Evergem",
+    "latitude": 51.11306,
+    "longitude": 3.70976,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798470,
+    "name": "Farciennes",
+    "latitude": 50.43006,
+    "longitude": 4.54152,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798400,
+    "name": "Fayt-lez-Manage",
+    "latitude": 50.48698,
+    "longitude": 4.22959,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798309,
+    "name": "Flémalle-Grande",
+    "latitude": 50.60906,
+    "longitude": 5.47668,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798307,
+    "name": "Flémalle-Haute",
+    "latitude": 50.59994,
+    "longitude": 5.44471,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798305,
+    "name": "Flénu",
+    "latitude": 50.43673,
+    "longitude": 3.88573,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798301,
+    "name": "Fléron",
+    "latitude": 50.61516,
+    "longitude": 5.68062,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798297,
+    "name": "Fleurus",
+    "latitude": 50.48351,
+    "longitude": 4.55006,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798279,
+    "name": "Floreffe",
+    "latitude": 50.43452,
+    "longitude": 4.7596,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798276,
+    "name": "Florennes",
+    "latitude": 50.25127,
+    "longitude": 4.60636,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798272,
+    "name": "Florenville",
+    "latitude": 49.69983,
+    "longitude": 5.3074,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798184,
+    "name": "Fontaine-l'Évêque",
+    "latitude": 50.40907,
+    "longitude": 4.32427,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798145,
+    "name": "Forchies-la-Marche",
+    "latitude": 50.4369,
+    "longitude": 4.32115,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798139,
+    "name": "Forest",
+    "latitude": 50.81678,
+    "longitude": 4.32775,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798134,
+    "name": "Forêt",
+    "latitude": 50.58387,
+    "longitude": 5.7,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798099,
+    "name": "Fosses-la-Ville",
+    "latitude": 50.39517,
+    "longitude": 4.69623,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798023,
+    "name": "Frameries",
+    "latitude": 50.40578,
+    "longitude": 3.89603,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6640087,
+    "name": "Frasnes-lez-Anvaing",
+    "latitude": 50.69211,
+    "longitude": 3.63562,
+    "category": "City",
+    "subcategory": "Local Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2797979,
+    "name": "Frasnes-lez-Buissenal",
+    "latitude": 50.66783,
+    "longitude": 3.62047,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2797851,
+    "name": "Galmaarden",
+    "latitude": 50.75389,
+    "longitude": 3.97121,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2797844,
+    "name": "Ganshoren",
+    "latitude": 50.87065,
+    "longitude": 4.31531,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2797798,
+    "name": "Gavere",
+    "latitude": 50.92917,
+    "longitude": 3.66184,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2797779,
+    "name": "Geel",
+    "latitude": 51.16557,
+    "longitude": 4.98917,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2797761,
+    "name": "Geetbets",
+    "latitude": 50.89431,
+    "longitude": 5.11199,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2797719,
+    "name": "Geluwe",
+    "latitude": 50.80978,
+    "longitude": 3.07695,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2797713,
+    "name": "Gembloux",
+    "latitude": 50.56149,
+    "longitude": 4.69889,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2797694,
+    "name": "Genappe",
+    "latitude": 50.61173,
+    "longitude": 4.45152,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2797670,
+    "name": "Genk",
+    "latitude": 50.965,
+    "longitude": 5.50082,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2797656,
+    "name": "Gent",
+    "latitude": 51.05,
+    "longitude": 3.71667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2797652,
+    "name": "Gentbrugge",
+    "latitude": 51.03692,
+    "longitude": 3.76509,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2797641,
+    "name": "Genval",
+    "latitude": 50.72162,
+    "longitude": 4.49375,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2797638,
+    "name": "Geraardsbergen",
+    "latitude": 50.77343,
+    "longitude": 3.88223,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2797581,
+    "name": "Gesves",
+    "latitude": 50.40146,
+    "longitude": 5.07457,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2797563,
+    "name": "Ghlin",
+    "latitude": 50.47313,
+    "longitude": 3.90289,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2797532,
+    "name": "Gilly",
+    "latitude": 50.42449,
+    "longitude": 4.4789,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2797523,
+    "name": "Gingelom",
+    "latitude": 50.74792,
+    "longitude": 5.13422,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2797517,
+    "name": "Gistel",
+    "latitude": 51.15612,
+    "longitude": 2.96387,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2797500,
+    "name": "Glabbeek",
+    "latitude": 50.87267,
+    "longitude": 4.95615,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2797417,
+    "name": "Gooik",
+    "latitude": 50.79443,
+    "longitude": 4.11378,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2797376,
+    "name": "Gosselies",
+    "latitude": 50.46936,
+    "longitude": 4.43324,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2797336,
+    "name": "Grâce-Berleur",
+    "latitude": 50.64032,
+    "longitude": 5.50329,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2797263,
+    "name": "Grand Étang de Fosse",
+    "latitude": 50.36667,
+    "longitude": 4.68333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6930484,
+    "name": "Grand Place Brussels",
+    "latitude": 50.84681,
+    "longitude": 4.35189,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2797138,
+    "name": "Grembergen",
+    "latitude": 51.05406,
+    "longitude": 4.10458,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2797128,
+    "name": "Grez-Doiceau",
+    "latitude": 50.73901,
+    "longitude": 4.69829,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2797114,
+    "name": "Grimbergen",
+    "latitude": 50.93409,
+    "longitude": 4.37213,
+    "category": "City",
+    "subcategory": "Local Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2797096,
+    "name": "Grivegnée",
+    "latitude": 50.62148,
+    "longitude": 5.61101,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2797094,
+    "name": "Grobbendonk",
+    "latitude": 51.19043,
+    "longitude": 4.73562,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2797042,
+    "name": "Groot Gat",
+    "latitude": 51.3,
+    "longitude": 4.26667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2797051,
+    "name": "Groot-Bijgaarden",
+    "latitude": 50.87174,
+    "longitude": 4.24973,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2796961,
+    "name": "Grote Geule",
+    "latitude": 51.28333,
+    "longitude": 4.16667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2796897,
+    "name": "Grote Weel",
+    "latitude": 51.27939,
+    "longitude": 4.18681,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11749179,
+    "name": "Grottes de Han",
+    "latitude": 50.12541,
+    "longitude": 5.18716,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2796854,
+    "name": "Gullegem",
+    "latitude": 50.84301,
+    "longitude": 3.20466,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2796833,
+    "name": "Haaltert",
+    "latitude": 50.90634,
+    "longitude": 4.00093,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2796807,
+    "name": "Habay-la-Vieille",
+    "latitude": 49.72329,
+    "longitude": 5.61999,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2796737,
+    "name": "Haine-Saint-Paul",
+    "latitude": 50.45544,
+    "longitude": 4.1885,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2796735,
+    "name": "Haine-Saint-Pierre",
+    "latitude": 50.45747,
+    "longitude": 4.20659,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2796715,
+    "name": "Halen",
+    "latitude": 50.94837,
+    "longitude": 5.11096,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2796695,
+    "name": "Halle",
+    "latitude": 51.24075,
+    "longitude": 4.64327,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2796637,
+    "name": "Hamme",
+    "latitude": 51.09822,
+    "longitude": 4.13705,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2796627,
+    "name": "Hamois",
+    "latitude": 50.3402,
+    "longitude": 5.15619,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2796625,
+    "name": "Hamont",
+    "latitude": 51.25332,
+    "longitude": 5.54732,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2796583,
+    "name": "Hannut",
+    "latitude": 50.67142,
+    "longitude": 5.07898,
+    "category": "City",
+    "subcategory": "Local Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2796542,
+    "name": "Harelbeke",
+    "latitude": 50.85343,
+    "longitude": 3.30935,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2796491,
+    "name": "Hasselt",
+    "latitude": 50.93106,
+    "longitude": 5.33781,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2796482,
+    "name": "Hastière-Lavaux",
+    "latitude": 50.21849,
+    "longitude": 4.82446,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2796353,
+    "name": "Havré",
+    "latitude": 50.46401,
+    "longitude": 4.04675,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2796319,
+    "name": "Hechtel",
+    "latitude": 51.12518,
+    "longitude": 5.36768,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2796297,
+    "name": "Heers",
+    "latitude": 50.75383,
+    "longitude": 5.3021,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2796174,
+    "name": "Heinsch",
+    "latitude": 49.69986,
+    "longitude": 5.7467,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2796157,
+    "name": "Heist",
+    "latitude": 51.33867,
+    "longitude": 3.23882,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2796153,
+    "name": "Heist-op-den-Berg",
+    "latitude": 51.07537,
+    "longitude": 4.72827,
+    "category": "City",
+    "subcategory": "Local Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2796144,
+    "name": "Hekelgem",
+    "latitude": 50.90569,
+    "longitude": 4.10769,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2796132,
+    "name": "Helchteren",
+    "latitude": 51.05591,
+    "longitude": 5.38244,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2796085,
+    "name": "Hemiksem",
+    "latitude": 51.14484,
+    "longitude": 4.33874,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2796056,
+    "name": "Hensies",
+    "latitude": 50.43263,
+    "longitude": 3.68411,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2796012,
+    "name": "Herent",
+    "latitude": 50.90861,
+    "longitude": 4.67056,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2796009,
+    "name": "Herentals",
+    "latitude": 51.17655,
+    "longitude": 4.83248,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795985,
+    "name": "Herk-de-Stad",
+    "latitude": 50.94013,
+    "longitude": 5.16636,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795956,
+    "name": "Herne",
+    "latitude": 50.72423,
+    "longitude": 4.03481,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795936,
+    "name": "Herseaux",
+    "latitude": 50.71667,
+    "longitude": 3.21667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795933,
+    "name": "Herselt",
+    "latitude": 51.05159,
+    "longitude": 4.88231,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795930,
+    "name": "Herstal",
+    "latitude": 50.66415,
+    "longitude": 5.62346,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795912,
+    "name": "Herve",
+    "latitude": 50.64083,
+    "longitude": 5.79353,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795908,
+    "name": "Herzele",
+    "latitude": 50.88681,
+    "longitude": 3.89014,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795887,
+    "name": "Het Eiland",
+    "latitude": 51.21667,
+    "longitude": 3.95,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795823,
+    "name": "Heule",
+    "latitude": 50.83752,
+    "longitude": 3.23818,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795800,
+    "name": "Heusden",
+    "latitude": 51.03664,
+    "longitude": 5.28013,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795795,
+    "name": "Heusy",
+    "latitude": 50.57457,
+    "longitude": 5.86618,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795785,
+    "name": "Hever",
+    "latitude": 50.99545,
+    "longitude": 4.55126,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795783,
+    "name": "Heverlee",
+    "latitude": 50.86426,
+    "longitude": 4.69597,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795740,
+    "name": "Hingene",
+    "latitude": 51.10345,
+    "longitude": 4.26904,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795730,
+    "name": "Hoboken",
+    "latitude": 51.17611,
+    "longitude": 4.34844,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795699,
+    "name": "Hoeilaart",
+    "latitude": 50.7673,
+    "longitude": 4.46835,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795648,
+    "name": "Hoeselt",
+    "latitude": 50.84714,
+    "longitude": 5.48767,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795634,
+    "name": "Hoevenen",
+    "latitude": 51.30604,
+    "longitude": 4.40203,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795618,
+    "name": "Hofstade",
+    "latitude": 50.9613,
+    "longitude": 4.02663,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795616,
+    "name": "Hofstademeer",
+    "latitude": 50.9853,
+    "longitude": 4.50836,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795516,
+    "name": "Hollogne-aux-Pierres",
+    "latitude": 50.64059,
+    "longitude": 5.47179,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795511,
+    "name": "Holsbeek",
+    "latitude": 50.92097,
+    "longitude": 4.75747,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795423,
+    "name": "Hooglede",
+    "latitude": 50.98333,
+    "longitude": 3.08333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795398,
+    "name": "Hoogstraten",
+    "latitude": 51.40029,
+    "longitude": 4.76034,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795361,
+    "name": "Hornu",
+    "latitude": 50.4328,
+    "longitude": 3.82736,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795331,
+    "name": "Houdeng-Aimeries",
+    "latitude": 50.48132,
+    "longitude": 4.14545,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795329,
+    "name": "Houdeng-Goegnies",
+    "latitude": 50.49032,
+    "longitude": 4.17513,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795261,
+    "name": "Houthalen",
+    "latitude": 51.03427,
+    "longitude": 5.37429,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795255,
+    "name": "Houthulst",
+    "latitude": 50.97824,
+    "longitude": 2.9505,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795232,
+    "name": "Hove",
+    "latitude": 51.15446,
+    "longitude": 4.4707,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795184,
+    "name": "Huldenberg",
+    "latitude": 50.78939,
+    "longitude": 4.5831,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795113,
+    "name": "Huy",
+    "latitude": 50.51894,
+    "longitude": 5.23284,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795106,
+    "name": "Ichtegem",
+    "latitude": 51.09572,
+    "longitude": 3.01549,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795100,
+    "name": "Ieper",
+    "latitude": 50.85114,
+    "longitude": 2.88569,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2803186,
+    "name": "Île d'Androssart",
+    "latitude": 50.18333,
+    "longitude": 4.83333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798011,
+    "name": "Île de Franche Garenne",
+    "latitude": 50.7,
+    "longitude": 5.68333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2790615,
+    "name": "Île du Moulin",
+    "latitude": 50.56667,
+    "longitude": 5.6,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2790860,
+    "name": "Île Monsin",
+    "latitude": 50.65759,
+    "longitude": 5.63722,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795056,
+    "name": "Ingelmunster",
+    "latitude": 50.92081,
+    "longitude": 3.25571,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795024,
+    "name": "Itegem",
+    "latitude": 51.10328,
+    "longitude": 4.72855,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795017,
+    "name": "Ittre",
+    "latitude": 50.64396,
+    "longitude": 4.26476,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795013,
+    "name": "Ivoz-Ramet",
+    "latitude": 50.58798,
+    "longitude": 5.4657,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795011,
+    "name": "Ixelles",
+    "latitude": 50.83333,
+    "longitude": 4.36667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2795009,
+    "name": "Izegem",
+    "latitude": 50.91396,
+    "longitude": 3.21378,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794999,
+    "name": "Jabbeke",
+    "latitude": 51.18185,
+    "longitude": 3.08935,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794989,
+    "name": "Jalhay",
+    "latitude": 50.55876,
+    "longitude": 5.96764,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794981,
+    "name": "Jambes",
+    "latitude": 50.45636,
+    "longitude": 4.87166,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794936,
+    "name": "Jemappes",
+    "latitude": 50.44914,
+    "longitude": 3.89096,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794929,
+    "name": "Jemeppe-sur-Meuse",
+    "latitude": 50.61701,
+    "longitude": 5.49849,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794930,
+    "name": "Jemeppe-sur-Sambre",
+    "latitude": 50.46543,
+    "longitude": 4.6655,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794914,
+    "name": "Jette",
+    "latitude": 50.87309,
+    "longitude": 4.33419,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794895,
+    "name": "Jodoigne",
+    "latitude": 50.72357,
+    "longitude": 4.86914,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6948611,
+    "name": "Jubelpark/Parc du Cinquantenaire",
+    "latitude": 50.8408,
+    "longitude": 4.39167,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794860,
+    "name": "Jumet",
+    "latitude": 50.4422,
+    "longitude": 4.43745,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794856,
+    "name": "Jupille-sur-Meuse",
+    "latitude": 50.64587,
+    "longitude": 5.63307,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794854,
+    "name": "Juprelle",
+    "latitude": 50.7076,
+    "longitude": 5.53127,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794852,
+    "name": "Jurbise",
+    "latitude": 50.531,
+    "longitude": 3.90942,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794818,
+    "name": "Kain",
+    "latitude": 50.63869,
+    "longitude": 3.39688,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794802,
+    "name": "Kalken",
+    "latitude": 51.03836,
+    "longitude": 3.9186,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794788,
+    "name": "Kalmthout",
+    "latitude": 51.38442,
+    "longitude": 4.47556,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794724,
+    "name": "Kapelle-op-den-Bos",
+    "latitude": 51.0097,
+    "longitude": 4.36303,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794730,
+    "name": "Kapellen",
+    "latitude": 51.31377,
+    "longitude": 4.43539,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794707,
+    "name": "Kaprijke",
+    "latitude": 51.2172,
+    "longitude": 3.61519,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794663,
+    "name": "Kasterlee",
+    "latitude": 51.24118,
+    "longitude": 4.96651,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6255041,
+    "name": "Kattekensberg",
+    "latitude": 51.29842,
+    "longitude": 4.46714,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794510,
+    "name": "Kessel",
+    "latitude": 51.13892,
+    "longitude": 4.62962,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794507,
+    "name": "Kessel-Lo",
+    "latitude": 50.88549,
+    "longitude": 4.73717,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794445,
+    "name": "Kinrooi",
+    "latitude": 51.14543,
+    "longitude": 5.74207,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794344,
+    "name": "Kleine Weel",
+    "latitude": 51.28333,
+    "longitude": 4.18333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794277,
+    "name": "Klemskerke",
+    "latitude": 51.24222,
+    "longitude": 3.02401,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794223,
+    "name": "Knesselare",
+    "latitude": 51.13932,
+    "longitude": 3.41282,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794212,
+    "name": "Knokke",
+    "latitude": 51.35113,
+    "longitude": 3.28744,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794210,
+    "name": "Knokke-Heist",
+    "latitude": 51.35,
+    "longitude": 3.26667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794194,
+    "name": "Koekelare",
+    "latitude": 51.09047,
+    "longitude": 2.9783,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794190,
+    "name": "Koekelberg",
+    "latitude": 50.86117,
+    "longitude": 4.33136,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794179,
+    "name": "Koersel",
+    "latitude": 51.05909,
+    "longitude": 5.27121,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794166,
+    "name": "Koksijde",
+    "latitude": 51.11642,
+    "longitude": 2.63772,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794117,
+    "name": "Kontich",
+    "latitude": 51.13213,
+    "longitude": 4.44706,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794074,
+    "name": "Kortemark",
+    "latitude": 51.02951,
+    "longitude": 3.04112,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794072,
+    "name": "Kortenaken",
+    "latitude": 50.90862,
+    "longitude": 5.05968,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794070,
+    "name": "Kortenberg",
+    "latitude": 50.88982,
+    "longitude": 4.54353,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794063,
+    "name": "Kortessem",
+    "latitude": 50.8589,
+    "longitude": 5.38974,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794055,
+    "name": "Kortrijk",
+    "latitude": 50.82803,
+    "longitude": 3.26487,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2794016,
+    "name": "Kraainem",
+    "latitude": 50.86155,
+    "longitude": 4.46946,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2793940,
+    "name": "Kruibeke",
+    "latitude": 51.17048,
+    "longitude": 4.31444,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7302906,
+    "name": "Kruidtuin Leuven",
+    "latitude": 50.878,
+    "longitude": 4.69052,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2793907,
+    "name": "Kruishoutem",
+    "latitude": 50.90168,
+    "longitude": 3.52588,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2793863,
+    "name": "Kuringen",
+    "latitude": 50.94426,
+    "longitude": 5.29902,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2793857,
+    "name": "Kuurne",
+    "latitude": 50.85143,
+    "longitude": 3.2824,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2793853,
+    "name": "Kwaadmechelen",
+    "latitude": 51.10099,
+    "longitude": 5.14478,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2793747,
+    "name": "La Bouverie",
+    "latitude": 50.40524,
+    "longitude": 3.8744,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2793733,
+    "name": "La Bruyère",
+    "latitude": 50.39478,
+    "longitude": 4.61444,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2793722,
+    "name": "La Calamine",
+    "latitude": 50.71809,
+    "longitude": 6.01107,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2793548,
+    "name": "La Hulpe",
+    "latitude": 50.73091,
+    "longitude": 4.48577,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2793508,
+    "name": "La Louvière",
+    "latitude": 50.48657,
+    "longitude": 4.18785,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7667505,
+    "name": "Laakdal",
+    "latitude": 51.08067,
+    "longitude": 5.00556,
+    "category": "City",
+    "subcategory": "Local Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2793797,
+    "name": "Laarne",
+    "latitude": 51.03078,
+    "longitude": 3.85077,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2798572,
+    "name": "Lac d'Eupen",
+    "latitude": 50.62055,
+    "longitude": 6.10037,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7838715,
+    "name": "Lac de l'Eau d'Heure",
+    "latitude": 50.20745,
+    "longitude": 4.39093,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2797536,
+    "name": "Lac de la Gileppe",
+    "latitude": 50.58529,
+    "longitude": 5.98886,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7838716,
+    "name": "Lac de la Plate Taille",
+    "latitude": 50.18393,
+    "longitude": 4.36303,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6255035,
+    "name": "Lac de Nisramont",
+    "latitude": 50.14264,
+    "longitude": 5.665,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6948086,
+    "name": "Lac de Robertville",
+    "latitude": 50.44734,
+    "longitude": 6.12282,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6930046,
+    "name": "Lac des Herbieres",
+    "latitude": 50.46133,
+    "longitude": 3.79217,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2793446,
+    "name": "Lanaken",
+    "latitude": 50.89318,
+    "longitude": 5.6468,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2793429,
+    "name": "Landen",
+    "latitude": 50.75267,
+    "longitude": 5.082,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2793406,
+    "name": "Langdorp",
+    "latitude": 50.99561,
+    "longitude": 4.87175,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2793392,
+    "name": "Langemark",
+    "latitude": 50.9131,
+    "longitude": 2.91965,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2793202,
+    "name": "Lauwe",
+    "latitude": 50.79479,
+    "longitude": 3.1869,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2787878,
+    "name": "Le Roeulx",
+    "latitude": 50.50365,
+    "longitude": 4.11163,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2793144,
+    "name": "Lebbeke",
+    "latitude": 51.00464,
+    "longitude": 4.13457,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2793077,
+    "name": "Lede",
+    "latitude": 50.96626,
+    "longitude": 3.98594,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2793070,
+    "name": "Ledeberg",
+    "latitude": 51.03859,
+    "longitude": 3.74458,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2792898,
+    "name": "Lembeek",
+    "latitude": 50.7157,
+    "longitude": 4.21832,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2792891,
+    "name": "Lemberge",
+    "latitude": 50.97629,
+    "longitude": 3.77054,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2792879,
+    "name": "Lendelede",
+    "latitude": 50.88626,
+    "longitude": 3.23747,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7648533,
+    "name": "Lennik",
+    "latitude": 50.80903,
+    "longitude": 4.16219,
+    "category": "City",
+    "subcategory": "Local Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2792856,
+    "name": "Leopoldsburg",
+    "latitude": 51.11667,
+    "longitude": 5.25,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11703984,
+    "name": "Les Cascades de Coo",
+    "latitude": 50.39348,
+    "longitude": 5.87684,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6930062,
+    "name": "Les marais d'HArchies",
+    "latitude": 50.46188,
+    "longitude": 3.68385,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2792567,
+    "name": "Lessines",
+    "latitude": 50.71104,
+    "longitude": 3.83579,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2789096,
+    "name": "Lettelingen",
+    "latitude": 50.68333,
+    "longitude": 4.08333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2792482,
+    "name": "Leuven",
+    "latitude": 50.87959,
+    "longitude": 4.70093,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2792474,
+    "name": "Leuze",
+    "latitude": 50.6,
+    "longitude": 3.6,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2792466,
+    "name": "Leval-Trahegnies",
+    "latitude": 50.4213,
+    "longitude": 4.22556,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2792435,
+    "name": "Lichtaart",
+    "latitude": 51.22495,
+    "longitude": 4.91681,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2792428,
+    "name": "Lichtervelde",
+    "latitude": 51.03333,
+    "longitude": 3.15,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2792423,
+    "name": "Liedekerke",
+    "latitude": 50.86892,
+    "longitude": 4.08743,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2792413,
+    "name": "Liège",
+    "latitude": 50.63373,
+    "longitude": 5.56749,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2792397,
+    "name": "Lier",
+    "latitude": 51.13128,
+    "longitude": 4.57041,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2792360,
+    "name": "Lille",
+    "latitude": 51.24197,
+    "longitude": 4.82313,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2792352,
+    "name": "Limal",
+    "latitude": 50.69477,
+    "longitude": 4.57538,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2792348,
+    "name": "Limbourg",
+    "latitude": 50.61222,
+    "longitude": 5.9412,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2792345,
+    "name": "Limelette",
+    "latitude": 50.68428,
+    "longitude": 4.57186,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2792332,
+    "name": "Lincent",
+    "latitude": 50.71222,
+    "longitude": 5.03654,
+    "category": "City",
+    "subcategory": "Local Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2792313,
+    "name": "Linden",
+    "latitude": 50.89494,
+    "longitude": 4.77027,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2792266,
+    "name": "Lissewege",
+    "latitude": 51.29427,
+    "longitude": 3.19331,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2792245,
+    "name": "Lobbes",
+    "latitude": 50.35258,
+    "longitude": 4.26716,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2792235,
+    "name": "Lochristi",
+    "latitude": 51.09644,
+    "longitude": 3.83194,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2792226,
+    "name": "Lodelinsart",
+    "latitude": 50.43138,
+    "longitude": 4.44886,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2792196,
+    "name": "Lokeren",
+    "latitude": 51.10364,
+    "longitude": 3.99339,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2792179,
+    "name": "Lommel",
+    "latitude": 51.23074,
+    "longitude": 5.31349,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2792073,
+    "name": "Louvain-la-Neuve",
+    "latitude": 50.66829,
+    "longitude": 4.61443,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2792057,
+    "name": "Lovendegem",
+    "latitude": 51.10168,
+    "longitude": 3.61298,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2792034,
+    "name": "Lubbeek",
+    "latitude": 50.88278,
+    "longitude": 4.83896,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2792007,
+    "name": "Lummen",
+    "latitude": 50.98772,
+    "longitude": 5.19121,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2791964,
+    "name": "Maaseik",
+    "latitude": 51.09802,
+    "longitude": 5.78379,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2791961,
+    "name": "Maasmechelen",
+    "latitude": 50.96545,
+    "longitude": 5.69452,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2791951,
+    "name": "Machelen",
+    "latitude": 50.91061,
+    "longitude": 4.44174,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2791857,
+    "name": "Maldegem",
+    "latitude": 51.20737,
+    "longitude": 3.44511,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2791834,
+    "name": "Malmédy",
+    "latitude": 50.42686,
+    "longitude": 6.02794,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2791831,
+    "name": "Malonne",
+    "latitude": 50.43969,
+    "longitude": 4.79562,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2791814,
+    "name": "Manage",
+    "latitude": 50.50312,
+    "longitude": 4.23589,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2791744,
+    "name": "Marche-en-Famenne",
+    "latitude": 50.22678,
+    "longitude": 5.34416,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2791735,
+    "name": "Marchienne-au-Pont",
+    "latitude": 50.40573,
+    "longitude": 4.3953,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2791733,
+    "name": "Marchin",
+    "latitude": 50.46707,
+    "longitude": 5.2428,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2791726,
+    "name": "Marcinelle",
+    "latitude": 50.39216,
+    "longitude": 4.44388,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2791700,
+    "name": "Mariakerke",
+    "latitude": 51.07476,
+    "longitude": 3.68289,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2791673,
+    "name": "Marke",
+    "latitude": 50.80678,
+    "longitude": 3.23344,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2791566,
+    "name": "Maurage",
+    "latitude": 50.45652,
+    "longitude": 4.09704,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2791537,
+    "name": "Mechelen",
+    "latitude": 51.02574,
+    "longitude": 4.47762,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2791534,
+    "name": "Mechelen-aan-de-Maas",
+    "latitude": 50.96589,
+    "longitude": 5.69144,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2791507,
+    "name": "Meerbeke",
+    "latitude": 50.82444,
+    "longitude": 4.03674,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2791494,
+    "name": "Meerhout",
+    "latitude": 51.1321,
+    "longitude": 5.07842,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2791460,
+    "name": "Meeuwen",
+    "latitude": 51.0991,
+    "longitude": 5.52106,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2791424,
+    "name": "Meise",
+    "latitude": 50.93934,
+    "longitude": 4.32655,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2791385,
+    "name": "Melle",
+    "latitude": 51.00232,
+    "longitude": 3.80526,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2791366,
+    "name": "Melsele",
+    "latitude": 51.22285,
+    "longitude": 4.28201,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2791343,
+    "name": "Menen",
+    "latitude": 50.79722,
+    "longitude": 3.12245,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2791323,
+    "name": "Merchtem",
+    "latitude": 50.95129,
+    "longitude": 4.23197,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2791317,
+    "name": "Mere",
+    "latitude": 50.92306,
+    "longitude": 3.97134,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2791315,
+    "name": "Merelbeke",
+    "latitude": 50.99447,
+    "longitude": 3.74621,
+    "category": "City",
+    "subcategory": "Local Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2791301,
+    "name": "Merksem",
+    "latitude": 51.24623,
+    "longitude": 4.44903,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2791297,
+    "name": "Merksplas",
+    "latitude": 51.35851,
+    "longitude": 4.86513,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2791272,
+    "name": "Messancy",
+    "latitude": 49.59201,
+    "longitude": 5.81879,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2791261,
+    "name": "Mettet",
+    "latitude": 50.32119,
+    "longitude": 4.66232,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2791255,
+    "name": "Meulebeke",
+    "latitude": 50.95136,
+    "longitude": 3.28804,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2791194,
+    "name": "Middelkerke",
+    "latitude": 51.18532,
+    "longitude": 2.82077,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6948630,
+    "name": "Mini-Europe",
+    "latitude": 50.8942,
+    "longitude": 4.33861,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2791120,
+    "name": "Moerbeke",
+    "latitude": 51.17409,
+    "longitude": 3.93001,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2791067,
+    "name": "Mol",
+    "latitude": 51.19188,
+    "longitude": 5.11662,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2791018,
+    "name": "Molenbeek-Saint-Jean",
+    "latitude": 50.8499,
+    "longitude": 4.31248,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2790906,
+    "name": "Momignies",
+    "latitude": 50.0271,
+    "longitude": 4.16519,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2790891,
+    "name": "Monceau-sur-Sambre",
+    "latitude": 50.41694,
+    "longitude": 4.37668,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2790869,
+    "name": "Mons",
+    "latitude": 50.45413,
+    "longitude": 3.95229,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2790756,
+    "name": "Mont-Saint-Guibert",
+    "latitude": 50.63427,
+    "longitude": 4.61061,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2790749,
+    "name": "Mont-sur-Marchienne",
+    "latitude": 50.38997,
+    "longitude": 4.40732,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2790824,
+    "name": "Montegnée",
+    "latitude": 50.64576,
+    "longitude": 5.51411,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2790796,
+    "name": "Montignies-sur-Sambre",
+    "latitude": 50.41081,
+    "longitude": 4.49109,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2790804,
+    "name": "Montigny-le-Tilleul",
+    "latitude": 50.38056,
+    "longitude": 4.37582,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2790736,
+    "name": "Moorsel",
+    "latitude": 50.94743,
+    "longitude": 4.09825,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2790733,
+    "name": "Moorsele",
+    "latitude": 50.8409,
+    "longitude": 3.15971,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2790729,
+    "name": "Moorslede",
+    "latitude": 50.8919,
+    "longitude": 3.06117,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2790697,
+    "name": "Morlanwelz-Mariemont",
+    "latitude": 50.45502,
+    "longitude": 4.24519,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2790676,
+    "name": "Mortsel",
+    "latitude": 51.16697,
+    "longitude": 4.45127,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2790595,
+    "name": "Mouscron",
+    "latitude": 50.74497,
+    "longitude": 3.20639,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2790558,
+    "name": "Muizen",
+    "latitude": 51.01111,
+    "longitude": 4.51427,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2790479,
+    "name": "Nalinnes",
+    "latitude": 50.32434,
+    "longitude": 4.44572,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11203800,
+    "name": "Nameche terril",
+    "latitude": 50.47547,
+    "longitude": 4.9887,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2790471,
+    "name": "Namur",
+    "latitude": 50.4669,
+    "longitude": 4.86746,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2790451,
+    "name": "Nassogne",
+    "latitude": 50.12849,
+    "longitude": 5.34274,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2790433,
+    "name": "Nazareth",
+    "latitude": 50.95686,
+    "longitude": 3.59425,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2790361,
+    "name": "Neeroeteren",
+    "latitude": 51.09156,
+    "longitude": 5.69933,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2790357,
+    "name": "Neerpelt",
+    "latitude": 51.22807,
+    "longitude": 5.4427,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12902635,
+    "name": "Negenmanneke",
+    "latitude": 50.80458,
+    "longitude": 4.28506,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2790286,
+    "name": "Neufchâteau",
+    "latitude": 49.84074,
+    "longitude": 5.43535,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2790235,
+    "name": "Nevele",
+    "latitude": 51.03531,
+    "longitude": 3.54574,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2790225,
+    "name": "Niel",
+    "latitude": 51.11096,
+    "longitude": 4.33428,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2790178,
+    "name": "Nieuwerkerken",
+    "latitude": 50.92386,
+    "longitude": 4.00433,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2790163,
+    "name": "Nieuwkerken-Waas",
+    "latitude": 51.19358,
+    "longitude": 4.17776,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2790150,
+    "name": "Nieuwpoort",
+    "latitude": 51.13008,
+    "longitude": 2.75135,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2790135,
+    "name": "Nijlen",
+    "latitude": 51.16096,
+    "longitude": 4.67008,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2790114,
+    "name": "Ninove",
+    "latitude": 50.82776,
+    "longitude": 4.02657,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2790101,
+    "name": "Nivelles",
+    "latitude": 50.59833,
+    "longitude": 4.32848,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2790043,
+    "name": "Noorderwijk",
+    "latitude": 51.14122,
+    "longitude": 4.84061,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2789948,
+    "name": "Oedelem",
+    "latitude": 51.17033,
+    "longitude": 3.33762,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2789911,
+    "name": "Ohain",
+    "latitude": 50.69885,
+    "longitude": 4.4698,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2789886,
+    "name": "Olen",
+    "latitude": 51.14391,
+    "longitude": 4.8598,
+    "category": "City",
+    "subcategory": "Local Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2789821,
+    "name": "Onze-Lieve-Vrouw-Waver",
+    "latitude": 51.06265,
+    "longitude": 4.57941,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2789800,
+    "name": "Oostakker",
+    "latitude": 51.10124,
+    "longitude": 3.76945,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2789794,
+    "name": "Oostduinkerke",
+    "latitude": 51.11565,
+    "longitude": 2.68217,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2789771,
+    "name": "Oosterzele",
+    "latitude": 50.95261,
+    "longitude": 3.79826,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2789769,
+    "name": "Oostham",
+    "latitude": 51.10374,
+    "longitude": 5.17877,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2789751,
+    "name": "Oostkamp",
+    "latitude": 51.15432,
+    "longitude": 3.23128,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2789745,
+    "name": "Oostmalle",
+    "latitude": 51.3,
+    "longitude": 4.73333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2789737,
+    "name": "Oostrozebeke",
+    "latitude": 50.92093,
+    "longitude": 3.33799,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2789714,
+    "name": "Opglabbeek",
+    "latitude": 51.04258,
+    "longitude": 5.58346,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2789654,
+    "name": "Opwijk",
+    "latitude": 50.96724,
+    "longitude": 4.18442,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2789786,
+    "name": "Ostend",
+    "latitude": 51.21551,
+    "longitude": 2.927,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2789570,
+    "name": "Ottignies",
+    "latitude": 50.66535,
+    "longitude": 4.56679,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2789492,
+    "name": "Oud-Heverlee",
+    "latitude": 50.83522,
+    "longitude": 4.66421,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2789483,
+    "name": "Oud-Turnhout",
+    "latitude": 51.31978,
+    "longitude": 4.9841,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2789529,
+    "name": "Oudenaarde",
+    "latitude": 50.85168,
+    "longitude": 3.60891,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2789519,
+    "name": "Oudenburg",
+    "latitude": 51.18489,
+    "longitude": 3.00035,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2789475,
+    "name": "Ougrée",
+    "latitude": 50.60149,
+    "longitude": 5.5444,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2789471,
+    "name": "Oupeye",
+    "latitude": 50.71184,
+    "longitude": 5.6468,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2789413,
+    "name": "Overijse",
+    "latitude": 50.77436,
+    "longitude": 4.53461,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2789403,
+    "name": "Overpelt",
+    "latitude": 51.21038,
+    "longitude": 5.41557,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2789388,
+    "name": "Paal",
+    "latitude": 51.03988,
+    "longitude": 5.17233,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2789354,
+    "name": "Paliseul",
+    "latitude": 49.90395,
+    "longitude": 5.13537,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2789346,
+    "name": "Pamel",
+    "latitude": 50.8453,
+    "longitude": 4.07129,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2789254,
+    "name": "Pâturages",
+    "latitude": 50.4072,
+    "longitude": 3.855,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2789232,
+    "name": "Peer",
+    "latitude": 51.1303,
+    "longitude": 5.45952,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2789190,
+    "name": "Pepinster",
+    "latitude": 50.56568,
+    "longitude": 5.80386,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2789162,
+    "name": "Péruwelz",
+    "latitude": 50.50819,
+    "longitude": 3.59373,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2789145,
+    "name": "Petegem-aan-de-Leie",
+    "latitude": 50.96667,
+    "longitude": 3.53333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2789016,
+    "name": "Philippeville",
+    "latitude": 50.19612,
+    "longitude": 4.54374,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2788925,
+    "name": "Pittem",
+    "latitude": 50.99279,
+    "longitude": 3.26317,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2788849,
+    "name": "Plombières",
+    "latitude": 50.73656,
+    "longitude": 5.95922,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2788765,
+    "name": "Pont-à-Celles",
+    "latitude": 50.50518,
+    "longitude": 4.36887,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2788726,
+    "name": "Poperinge",
+    "latitude": 50.85386,
+    "longitude": 2.72659,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2788650,
+    "name": "Prayon",
+    "latitude": 50.57795,
+    "longitude": 5.6753,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2788577,
+    "name": "Profondeville",
+    "latitude": 50.37581,
+    "longitude": 4.86506,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2748398,
+    "name": "Putse Moer",
+    "latitude": 51.38333,
+    "longitude": 4.43333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2788521,
+    "name": "Putte",
+    "latitude": 51.05337,
+    "longitude": 4.63263,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2788506,
+    "name": "Puurs",
+    "latitude": 51.07409,
+    "longitude": 4.28844,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2788499,
+    "name": "Quaregnon",
+    "latitude": 50.44067,
+    "longitude": 3.8653,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2788446,
+    "name": "Quévy-le-Petit",
+    "latitude": 50.36879,
+    "longitude": 3.93602,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2788444,
+    "name": "Quiévrain",
+    "latitude": 50.40737,
+    "longitude": 3.68351,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2788410,
+    "name": "Raeren",
+    "latitude": 50.6672,
+    "longitude": 6.11535,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2788381,
+    "name": "Ramillies",
+    "latitude": 50.63395,
+    "longitude": 4.90119,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2788353,
+    "name": "Ransart",
+    "latitude": 50.46166,
+    "longitude": 4.47616,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2788348,
+    "name": "Ranst",
+    "latitude": 51.18983,
+    "longitude": 4.56533,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2788312,
+    "name": "Ravels",
+    "latitude": 51.37274,
+    "longitude": 4.9921,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2788299,
+    "name": "Rebecq-Rognon",
+    "latitude": 50.65147,
+    "longitude": 4.10683,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2788273,
+    "name": "Reet",
+    "latitude": 51.10201,
+    "longitude": 4.41264,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2788211,
+    "name": "Remicourt",
+    "latitude": 50.68069,
+    "longitude": 5.32785,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2788138,
+    "name": "Retie",
+    "latitude": 51.26652,
+    "longitude": 5.08242,
+    "category": "City",
+    "subcategory": "Local Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2788088,
+    "name": "Riemst",
+    "latitude": 50.80995,
+    "longitude": 5.60131,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2788051,
+    "name": "Rijkevorsel",
+    "latitude": 51.34795,
+    "longitude": 4.76053,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2788046,
+    "name": "Rijmenam",
+    "latitude": 51.0016,
+    "longitude": 4.58405,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2788028,
+    "name": "Rillaar",
+    "latitude": 50.97376,
+    "longitude": 4.89177,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2787989,
+    "name": "Rixensart",
+    "latitude": 50.71229,
+    "longitude": 4.52529,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2787948,
+    "name": "Rochefort",
+    "latitude": 50.1631,
+    "longitude": 5.2216,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2787937,
+    "name": "Rocourt",
+    "latitude": 50.67579,
+    "longitude": 5.54621,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2787889,
+    "name": "Roeselare",
+    "latitude": 50.94653,
+    "longitude": 3.12269,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2787769,
+    "name": "Ronse",
+    "latitude": 50.74574,
+    "longitude": 3.6005,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2787662,
+    "name": "Rotselaar",
+    "latitude": 50.95302,
+    "longitude": 4.71665,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2787616,
+    "name": "Roux",
+    "latitude": 50.44111,
+    "longitude": 4.3917,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2787572,
+    "name": "Ruddervoorde",
+    "latitude": 51.09589,
+    "longitude": 3.20743,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2787552,
+    "name": "Ruisbroek",
+    "latitude": 50.79015,
+    "longitude": 4.29771,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2787547,
+    "name": "Ruiselede",
+    "latitude": 51.04039,
+    "longitude": 3.39416,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2787532,
+    "name": "Rumbeke",
+    "latitude": 50.93248,
+    "longitude": 3.16716,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2787521,
+    "name": "Rumst",
+    "latitude": 51.08153,
+    "longitude": 4.42217,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2787425,
+    "name": "Saint-Georges-sur-Meuse",
+    "latitude": 50.60007,
+    "longitude": 5.3574,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2787416,
+    "name": "Saint-Ghislain",
+    "latitude": 50.44816,
+    "longitude": 3.81886,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2787413,
+    "name": "Saint-Gilles",
+    "latitude": 50.82763,
+    "longitude": 4.34389,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2787407,
+    "name": "Saint-Hubert",
+    "latitude": 50.02668,
+    "longitude": 5.37401,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2787387,
+    "name": "Saint-Josse-ten-Noode",
+    "latitude": 50.8538,
+    "longitude": 4.37282,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2787356,
+    "name": "Saint-Nicolas",
+    "latitude": 50.62837,
+    "longitude": 5.53243,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2787327,
+    "name": "Saint-Servais",
+    "latitude": 50.4763,
+    "longitude": 4.83656,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2787319,
+    "name": "Saint-Vaast",
+    "latitude": 50.45426,
+    "longitude": 4.16041,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2787315,
+    "name": "Saint-Vith",
+    "latitude": 50.28146,
+    "longitude": 6.12724,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2787313,
+    "name": "Saint-Yvon",
+    "latitude": 50.74335,
+    "longitude": 2.90992,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2787176,
+    "name": "Sauvenière",
+    "latitude": 50.58157,
+    "longitude": 4.72466,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2787149,
+    "name": "Schaerbeek",
+    "latitude": 50.86935,
+    "longitude": 4.37737,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2787080,
+    "name": "Schelle",
+    "latitude": 51.12615,
+    "longitude": 4.34114,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2787071,
+    "name": "Schepdaal",
+    "latitude": 50.83836,
+    "longitude": 4.19609,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2787060,
+    "name": "Scherpenheuvel",
+    "latitude": 50.98075,
+    "longitude": 4.97552,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7668893,
+    "name": "Scherpenheuvel-Zichem",
+    "latitude": 51.01041,
+    "longitude": 4.97492,
+    "category": "City",
+    "subcategory": "Local Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2787048,
+    "name": "Schilde",
+    "latitude": 51.24107,
+    "longitude": 4.58336,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786963,
+    "name": "Schoten",
+    "latitude": 51.25251,
+    "longitude": 4.50268,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786938,
+    "name": "Schriek",
+    "latitude": 51.02844,
+    "longitude": 4.69357,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786873,
+    "name": "Seilles",
+    "latitude": 50.50065,
+    "longitude": 5.09268,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786852,
+    "name": "Seneffe",
+    "latitude": 50.53135,
+    "longitude": 4.26301,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786824,
+    "name": "Seraing",
+    "latitude": 50.58362,
+    "longitude": 5.50115,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786777,
+    "name": "Sijsele",
+    "latitude": 51.20846,
+    "longitude": 3.31714,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786769,
+    "name": "Silly",
+    "latitude": 50.64877,
+    "longitude": 3.92363,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786762,
+    "name": "Sinaai",
+    "latitude": 51.15789,
+    "longitude": 4.04087,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786746,
+    "name": "Sint-Amands",
+    "latitude": 51.05645,
+    "longitude": 4.20957,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786743,
+    "name": "Sint-Amandsberg",
+    "latitude": 51.05947,
+    "longitude": 3.74943,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786739,
+    "name": "Sint-Andries",
+    "latitude": 51.19696,
+    "longitude": 3.17891,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786728,
+    "name": "Sint-Antonius",
+    "latitude": 51.26667,
+    "longitude": 4.63861,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786713,
+    "name": "Sint-Denijs-Westrem",
+    "latitude": 51.02135,
+    "longitude": 3.67202,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6694848,
+    "name": "Sint-Donatuspark",
+    "latitude": 50.87555,
+    "longitude": 4.70232,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786700,
+    "name": "Sint-Genesius-Rode",
+    "latitude": 50.74645,
+    "longitude": 4.35754,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786697,
+    "name": "Sint-Gillis-bij-Dendermonde",
+    "latitude": 51.01905,
+    "longitude": 4.11146,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786694,
+    "name": "Sint-Gillis-Waas",
+    "latitude": 51.21914,
+    "longitude": 4.12374,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786659,
+    "name": "Sint-Job-in-'t-Goor",
+    "latitude": 51.29907,
+    "longitude": 4.57289,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786641,
+    "name": "Sint-Katelijne-Waver",
+    "latitude": 51.06691,
+    "longitude": 4.53469,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786638,
+    "name": "Sint-Katherina-Lombeek",
+    "latitude": 50.87314,
+    "longitude": 4.1536,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786634,
+    "name": "Sint-Kruis",
+    "latitude": 51.21399,
+    "longitude": 3.24949,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786630,
+    "name": "Sint-Kwintens-Lennik",
+    "latitude": 50.80377,
+    "longitude": 4.15489,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786626,
+    "name": "Sint-Laureins",
+    "latitude": 51.24202,
+    "longitude": 3.52441,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786622,
+    "name": "Sint-Lenaarts",
+    "latitude": 51.34868,
+    "longitude": 4.68009,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786616,
+    "name": "Sint-Lievens-Houtem",
+    "latitude": 50.9197,
+    "longitude": 3.86225,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786603,
+    "name": "Sint-Maria-Lierde",
+    "latitude": 50.81867,
+    "longitude": 3.84436,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786591,
+    "name": "Sint-Martens-Latem",
+    "latitude": 51.01459,
+    "longitude": 3.63779,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786587,
+    "name": "Sint-Martens-Lennik",
+    "latitude": 50.81158,
+    "longitude": 4.16965,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786581,
+    "name": "Sint-Michiels",
+    "latitude": 51.18806,
+    "longitude": 3.21142,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786578,
+    "name": "Sint-Niklaas",
+    "latitude": 51.16509,
+    "longitude": 4.1437,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786559,
+    "name": "Sint-Pieters-Leeuw",
+    "latitude": 50.77926,
+    "longitude": 4.24355,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786548,
+    "name": "Sint-Stevens-Woluwe",
+    "latitude": 50.86838,
+    "longitude": 4.45195,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786545,
+    "name": "Sint-Truiden",
+    "latitude": 50.81679,
+    "longitude": 5.18647,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786516,
+    "name": "Sleidinge",
+    "latitude": 51.13363,
+    "longitude": 3.67405,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786420,
+    "name": "Soignies",
+    "latitude": 50.57904,
+    "longitude": 4.07129,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786390,
+    "name": "Sombreffe",
+    "latitude": 50.52865,
+    "longitude": 4.60087,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786344,
+    "name": "Soumagne",
+    "latitude": 50.61385,
+    "longitude": 5.74679,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786318,
+    "name": "Spa",
+    "latitude": 50.48375,
+    "longitude": 5.86674,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786242,
+    "name": "Sprimont",
+    "latitude": 50.50922,
+    "longitude": 5.6595,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786229,
+    "name": "Stabroek",
+    "latitude": 51.33189,
+    "longitude": 4.37127,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786226,
+    "name": "Staden",
+    "latitude": 50.97456,
+    "longitude": 3.01469,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6694297,
+    "name": "Stadpark",
+    "latitude": 51.21261,
+    "longitude": 4.41468,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786196,
+    "name": "Stappensven",
+    "latitude": 51.4089,
+    "longitude": 4.44268,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786185,
+    "name": "Stavelot",
+    "latitude": 50.395,
+    "longitude": 5.93124,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786124,
+    "name": "Steenokkerzeel",
+    "latitude": 50.91851,
+    "longitude": 4.50989,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786087,
+    "name": "Stekene",
+    "latitude": 51.2099,
+    "longitude": 4.03651,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786080,
+    "name": "Stembert",
+    "latitude": 50.59107,
+    "longitude": 5.89404,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786077,
+    "name": "Stene",
+    "latitude": 51.20437,
+    "longitude": 2.91259,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2786055,
+    "name": "Sterrebeek",
+    "latitude": 50.86171,
+    "longitude": 4.49375,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11704184,
+    "name": "Sterrenbos",
+    "latitude": 50.928,
+    "longitude": 3.1341,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6697849,
+    "name": "Steytelinck Park",
+    "latitude": 51.16928,
+    "longitude": 4.4017,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2785962,
+    "name": "Strépy-Bracquegnies",
+    "latitude": 50.4728,
+    "longitude": 4.12022,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2785949,
+    "name": "Strombeek-Bever",
+    "latitude": 50.91039,
+    "longitude": 4.35582,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2785839,
+    "name": "Tamines",
+    "latitude": 50.43378,
+    "longitude": 4.60713,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2785778,
+    "name": "Temse",
+    "latitude": 51.12794,
+    "longitude": 4.21372,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2785743,
+    "name": "Tenreuken",
+    "latitude": 50.80455,
+    "longitude": 4.42783,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2785654,
+    "name": "Ternat",
+    "latitude": 50.86654,
+    "longitude": 4.16682,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2785622,
+    "name": "Tervuren",
+    "latitude": 50.82372,
+    "longitude": 4.51418,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2785612,
+    "name": "Tessenderlo",
+    "latitude": 51.06513,
+    "longitude": 5.08856,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2785593,
+    "name": "Theux",
+    "latitude": 50.53323,
+    "longitude": 5.81245,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2785517,
+    "name": "Thuin",
+    "latitude": 50.33933,
+    "longitude": 4.28604,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2785476,
+    "name": "Tielt",
+    "latitude": 50.99931,
+    "longitude": 3.32707,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7669081,
+    "name": "Tielt-Winge",
+    "latitude": 50.91743,
+    "longitude": 4.88368,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2785470,
+    "name": "Tienen",
+    "latitude": 50.80745,
+    "longitude": 4.9378,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2785449,
+    "name": "Tilff",
+    "latitude": 50.56432,
+    "longitude": 5.57642,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2785389,
+    "name": "Tongeren",
+    "latitude": 50.78054,
+    "longitude": 5.46484,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2785385,
+    "name": "Tongerlo",
+    "latitude": 51.10622,
+    "longitude": 4.91638,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2785364,
+    "name": "Torhout",
+    "latitude": 51.0656,
+    "longitude": 3.10085,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2785341,
+    "name": "Tournai",
+    "latitude": 50.60715,
+    "longitude": 3.38932,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2785305,
+    "name": "Trazegnies",
+    "latitude": 50.46379,
+    "longitude": 4.3329,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2785293,
+    "name": "Tremelo",
+    "latitude": 50.99231,
+    "longitude": 4.70807,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2785208,
+    "name": "Trooz",
+    "latitude": 50.57026,
+    "longitude": 5.69521,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2785169,
+    "name": "Tubize",
+    "latitude": 50.69059,
+    "longitude": 4.2009,
+    "category": "City",
+    "subcategory": "Local Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2785141,
+    "name": "Turnhout",
+    "latitude": 51.32254,
+    "longitude": 4.94471,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2785123,
+    "name": "Uccle",
+    "latitude": 50.80225,
+    "longitude": 4.33943,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2785103,
+    "name": "Uitkerke",
+    "latitude": 51.30684,
+    "longitude": 3.13712,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2785021,
+    "name": "Varsenare",
+    "latitude": 51.18981,
+    "longitude": 3.13916,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2784996,
+    "name": "Vaux-sous-Chèvremont",
+    "latitude": 50.60302,
+    "longitude": 5.6335,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2784986,
+    "name": "Vedrin",
+    "latitude": 50.50273,
+    "longitude": 4.87604,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2784980,
+    "name": "Veerle",
+    "latitude": 51.06989,
+    "longitude": 4.98761,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2784957,
+    "name": "Veldegem",
+    "latitude": 51.1048,
+    "longitude": 3.1591,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2784821,
+    "name": "Verviers",
+    "latitude": 50.58907,
+    "longitude": 5.86241,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2784804,
+    "name": "Veurne",
+    "latitude": 51.07316,
+    "longitude": 2.66803,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2784775,
+    "name": "Vielsalm",
+    "latitude": 50.28407,
+    "longitude": 5.91502,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6694846,
+    "name": "Vijvers van Bellefroid",
+    "latitude": 50.90566,
+    "longitude": 4.70249,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2784641,
+    "name": "Villers-la-Ville",
+    "latitude": 50.57953,
+    "longitude": 4.53398,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2784639,
+    "name": "Villers-le-Bouillet",
+    "latitude": 50.57708,
+    "longitude": 5.25945,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2784604,
+    "name": "Vilvoorde",
+    "latitude": 50.92814,
+    "longitude": 4.42938,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2784555,
+    "name": "Virton",
+    "latitude": 49.56824,
+    "longitude": 5.53259,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2784548,
+    "name": "Visé",
+    "latitude": 50.7376,
+    "longitude": 5.69907,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2784364,
+    "name": "Vorst",
+    "latitude": 51.08029,
+    "longitude": 5.01998,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2784349,
+    "name": "Vosselaar",
+    "latitude": 51.30856,
+    "longitude": 4.8896,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2784333,
+    "name": "Vottem",
+    "latitude": 50.67155,
+    "longitude": 5.57693,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2784237,
+    "name": "Waarschoot",
+    "latitude": 51.1525,
+    "longitude": 3.605,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2784231,
+    "name": "Waasmunster",
+    "latitude": 51.10572,
+    "longitude": 4.08573,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2784227,
+    "name": "Wachtebeke",
+    "latitude": 51.16852,
+    "longitude": 3.87183,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2784199,
+    "name": "Waimes",
+    "latitude": 50.41488,
+    "longitude": 6.11207,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2784189,
+    "name": "Walcourt",
+    "latitude": 50.25401,
+    "longitude": 4.43796,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2784168,
+    "name": "Walhain-Saint-Paul",
+    "latitude": 50.62627,
+    "longitude": 4.69837,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2784114,
+    "name": "Wandre",
+    "latitude": 50.66774,
+    "longitude": 5.65959,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2784111,
+    "name": "Wanfercée-Baulet",
+    "latitude": 50.47291,
+    "longitude": 4.58748,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2784092,
+    "name": "Wanze",
+    "latitude": 50.53907,
+    "longitude": 5.20846,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2784068,
+    "name": "Waregem",
+    "latitude": 50.88898,
+    "longitude": 3.42756,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2784066,
+    "name": "Waremme",
+    "latitude": 50.6976,
+    "longitude": 5.25524,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2784019,
+    "name": "Wasmes",
+    "latitude": 50.41464,
+    "longitude": 3.8471,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783985,
+    "name": "Waterloo",
+    "latitude": 50.71469,
+    "longitude": 4.3991,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783979,
+    "name": "Watermael-Boitsfort",
+    "latitude": 50.80154,
+    "longitude": 4.41436,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783941,
+    "name": "Wavre",
+    "latitude": 50.71717,
+    "longitude": 4.60138,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783870,
+    "name": "Welkenraedt",
+    "latitude": 50.6605,
+    "longitude": 5.97034,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783864,
+    "name": "Wellen",
+    "latitude": 50.84096,
+    "longitude": 5.33867,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783856,
+    "name": "Wemmel",
+    "latitude": 50.90812,
+    "longitude": 4.30613,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783850,
+    "name": "Wépion",
+    "latitude": 50.42153,
+    "longitude": 4.86403,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783820,
+    "name": "Wervik",
+    "latitude": 50.78069,
+    "longitude": 3.03854,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783805,
+    "name": "Westende",
+    "latitude": 51.15961,
+    "longitude": 2.7687,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783801,
+    "name": "Westerlo",
+    "latitude": 51.09049,
+    "longitude": 4.91544,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783786,
+    "name": "Westmalle",
+    "latitude": 51.29767,
+    "longitude": 4.69013,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783763,
+    "name": "Wetteren",
+    "latitude": 51.00526,
+    "longitude": 3.88341,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783759,
+    "name": "Wevelgem",
+    "latitude": 50.8,
+    "longitude": 3.16667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783737,
+    "name": "Wezembeek-Oppem",
+    "latitude": 50.8395,
+    "longitude": 4.49427,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783728,
+    "name": "Wichelen",
+    "latitude": 51.00526,
+    "longitude": 3.97683,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783717,
+    "name": "Wielsbeke",
+    "latitude": 50.9,
+    "longitude": 3.36667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783684,
+    "name": "Wijnegem",
+    "latitude": 51.22787,
+    "longitude": 4.51895,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783632,
+    "name": "Willebroek",
+    "latitude": 51.06041,
+    "longitude": 4.36019,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783615,
+    "name": "Wilrijk",
+    "latitude": 51.16734,
+    "longitude": 4.39513,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783612,
+    "name": "Wilsele",
+    "latitude": 50.89188,
+    "longitude": 4.69769,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783586,
+    "name": "Wingene",
+    "latitude": 51.05782,
+    "longitude": 3.27359,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783476,
+    "name": "Woluwe-Saint-Lambert",
+    "latitude": 50.84389,
+    "longitude": 4.42912,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783464,
+    "name": "Wolvertem",
+    "latitude": 50.95172,
+    "longitude": 4.30964,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783462,
+    "name": "Wommelgem",
+    "latitude": 51.20452,
+    "longitude": 4.5225,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783416,
+    "name": "Wuustwezel",
+    "latitude": 51.39214,
+    "longitude": 4.59546,
+    "category": "City",
+    "subcategory": "Local Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783385,
+    "name": "Yvoir",
+    "latitude": 50.3279,
+    "longitude": 4.88059,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783347,
+    "name": "Zandhoven",
+    "latitude": 51.21488,
+    "longitude": 4.66164,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11745934,
+    "name": "Zandsculpturenfestival Oostende",
+    "latitude": 51.23571,
+    "longitude": 2.9168,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783310,
+    "name": "Zaventem",
+    "latitude": 50.88365,
+    "longitude": 4.47298,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783308,
+    "name": "Zedelgem",
+    "latitude": 51.14236,
+    "longitude": 3.1368,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783293,
+    "name": "Zele",
+    "latitude": 51.06566,
+    "longitude": 4.0403,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783284,
+    "name": "Zellik",
+    "latitude": 50.88408,
+    "longitude": 4.27325,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783278,
+    "name": "Zelzate",
+    "latitude": 51.18963,
+    "longitude": 3.80777,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783274,
+    "name": "Zemst",
+    "latitude": 50.98318,
+    "longitude": 4.46079,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783232,
+    "name": "Zichem",
+    "latitude": 51.00187,
+    "longitude": 4.98316,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783215,
+    "name": "Zingem",
+    "latitude": 50.90409,
+    "longitude": 3.65305,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783204,
+    "name": "Zoersel",
+    "latitude": 51.26825,
+    "longitude": 4.71296,
+    "category": "City",
+    "subcategory": "Local Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783197,
+    "name": "Zolder",
+    "latitude": 51.02455,
+    "longitude": 5.30983,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783195,
+    "name": "Zomergem",
+    "latitude": 51.11994,
+    "longitude": 3.56496,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783188,
+    "name": "Zonhoven",
+    "latitude": 50.99064,
+    "longitude": 5.36819,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783184,
+    "name": "Zonnebeke",
+    "latitude": 50.8726,
+    "longitude": 2.98725,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783175,
+    "name": "Zottegem",
+    "latitude": 50.86955,
+    "longitude": 3.81052,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783170,
+    "name": "Zoutleeuw",
+    "latitude": 50.83316,
+    "longitude": 5.10376,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783151,
+    "name": "Zulte",
+    "latitude": 50.91954,
+    "longitude": 3.44859,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783143,
+    "name": "Zutendaal",
+    "latitude": 50.93306,
+    "longitude": 5.5753,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783089,
+    "name": "Zwevegem",
+    "latitude": 50.81268,
+    "longitude": 3.33848,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783087,
+    "name": "Zwevezele",
+    "latitude": 51.03683,
+    "longitude": 3.21186,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2783081,
+    "name": "Zwijndrecht",
+    "latitude": 51.21979,
+    "longitude": 4.32664,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  }
+]

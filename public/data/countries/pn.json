@@ -1,0 +1,52 @@
+[
+  {
+    "geonameId": 4030723,
+    "name": "Adamstown",
+    "latitude": -25.06597,
+    "longitude": -130.10147,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4030713,
+    "name": "Henderson Island",
+    "latitude": -24.37368,
+    "longitude": -128.32615,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4030700,
+    "name": "Pitcairn Island",
+    "latitude": -25.07075,
+    "longitude": -130.10834,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10172853,
+    "name": "Pitcairn Islands Marine Reserve",
+    "latitude": -25.24966,
+    "longitude": -130.07813,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4030695,
+    "name": "Sandy Islands",
+    "latitude": -23.91828,
+    "longitude": -130.73817,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  }
+]

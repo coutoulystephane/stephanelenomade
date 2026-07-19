@@ -1,0 +1,2902 @@
+[
+  {
+    "geonameId": 932944,
+    "name": "Alehloana",
+    "latitude": -29.55,
+    "longitude": 28.23333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1021631,
+    "name": "Bakenkop",
+    "latitude": -29.98297,
+    "longitude": 27.21599,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1010657,
+    "name": "Baroa-ba-Baroa",
+    "latitude": -29.84362,
+    "longitude": 29.11054,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932933,
+    "name": "Belkome Nek",
+    "latitude": -29.38333,
+    "longitude": 27.9,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932924,
+    "name": "Bethel",
+    "latitude": -30.2,
+    "longitude": 27.86667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932923,
+    "name": "Bitsilebe Mountain",
+    "latitude": -29.21744,
+    "longitude": 28.0142,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932921,
+    "name": "Blokung",
+    "latitude": -28.8,
+    "longitude": 28.15,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932908,
+    "name": "Boleka",
+    "latitude": -29.69157,
+    "longitude": 27.37506,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932906,
+    "name": "Bolometsa",
+    "latitude": -29.53868,
+    "longitude": 27.47076,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932903,
+    "name": "Bongalla",
+    "latitude": -29.6971,
+    "longitude": 27.21031,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932898,
+    "name": "Boritsa Tsuene",
+    "latitude": -29.0438,
+    "longitude": 28.48241,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932891,
+    "name": "Braken Tau",
+    "latitude": -30.06667,
+    "longitude": 27.83333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1014548,
+    "name": "Bushman’s Nek Pass",
+    "latitude": -29.87315,
+    "longitude": 29.16408,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932889,
+    "name": "Bushmans Pass",
+    "latitude": -29.42629,
+    "longitude": 27.85078,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932886,
+    "name": "Butha-Buthe",
+    "latitude": -28.76659,
+    "longitude": 28.24937,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 931958,
+    "name": "Cairntoul",
+    "latitude": -30.66667,
+    "longitude": 28.08333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1014272,
+    "name": "Caledonpoort",
+    "latitude": -28.7,
+    "longitude": 28.25,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932884,
+    "name": "Castle Rock",
+    "latitude": -30.1401,
+    "longitude": 27.46661,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1013895,
+    "name": "Cathkin Mountain Pass",
+    "latitude": -29.10053,
+    "longitude": 29.32804,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1011136,
+    "name": "De Kock’s Gate",
+    "latitude": -30.09636,
+    "longitude": 28.82868,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932874,
+    "name": "Dihloireng",
+    "latitude": -30.23154,
+    "longitude": 27.3779,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932873,
+    "name": "Dikhahling",
+    "latitude": -29.27271,
+    "longitude": 28.01676,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932872,
+    "name": "Dikhaleng Nek",
+    "latitude": -29.26667,
+    "longitude": 27.98333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932870,
+    "name": "Dikhoileng",
+    "latitude": -29.6,
+    "longitude": 28.65,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932868,
+    "name": "Diklatsaning",
+    "latitude": -28.8,
+    "longitude": 28.11667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932867,
+    "name": "Dikolobeng",
+    "latitude": -30.13333,
+    "longitude": 27.66667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932859,
+    "name": "Diqalaning",
+    "latitude": -29.06667,
+    "longitude": 28.46667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932858,
+    "name": "Diqaleng",
+    "latitude": -29.96667,
+    "longitude": 28.85,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932855,
+    "name": "Diseleng",
+    "latitude": -29.21506,
+    "longitude": 28.70554,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932854,
+    "name": "Ditau",
+    "latitude": -28.93333,
+    "longitude": 28.11667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932853,
+    "name": "Ditsebi",
+    "latitude": -29.30875,
+    "longitude": 28.13338,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932851,
+    "name": "Ditsuening",
+    "latitude": -29.81365,
+    "longitude": 28.3434,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932850,
+    "name": "Ditsuming",
+    "latitude": -29.28333,
+    "longitude": 28.26667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1008473,
+    "name": "Drakens Rock",
+    "latitude": -30.22977,
+    "longitude": 28.33091,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932849,
+    "name": "Duoklaning",
+    "latitude": -29.2,
+    "longitude": 28.21667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1007295,
+    "name": "Durnford",
+    "latitude": -29.30646,
+    "longitude": 29.44079,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1005110,
+    "name": "Erskine",
+    "latitude": -29.29013,
+    "longitude": 29.44059,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932844,
+    "name": "Fika La Tsoene",
+    "latitude": -30.30523,
+    "longitude": 27.65089,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1004276,
+    "name": "Fika-la-Motho",
+    "latitude": -30.11316,
+    "longitude": 28.56538,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932846,
+    "name": "Fikalamotho Pass",
+    "latitude": -29.95,
+    "longitude": 27.78333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932840,
+    "name": "Fobani Nek",
+    "latitude": -29.05,
+    "longitude": 27.91667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1003222,
+    "name": "Gamghas Nek",
+    "latitude": -30.15071,
+    "longitude": 28.42955,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932833,
+    "name": "Habana Morena",
+    "latitude": -29.01667,
+    "longitude": 27.8,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932831,
+    "name": "Hameeding",
+    "latitude": -28.81667,
+    "longitude": 28.55,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932821,
+    "name": "Hlakudi",
+    "latitude": -28.73333,
+    "longitude": 28.18333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 970768,
+    "name": "Hlathimba Pass",
+    "latitude": -29.43849,
+    "longitude": 29.40411,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 996318,
+    "name": "Hlatimba Pass",
+    "latitude": -29.46204,
+    "longitude": 29.37453,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932819,
+    "name": "Hleoheng Mountain",
+    "latitude": -28.95,
+    "longitude": 27.88333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932818,
+    "name": "Hlewing",
+    "latitude": -30.08333,
+    "longitude": 27.71667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932698,
+    "name": "Hlotse",
+    "latitude": -28.87185,
+    "longitude": 28.04501,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 996217,
+    "name": "Hodgson’s Peaks",
+    "latitude": -29.61761,
+    "longitude": 29.29427,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6941916,
+    "name": "Katse Dam",
+    "latitude": -29.33694,
+    "longitude": 28.50611,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 949827,
+    "name": "Kepising",
+    "latitude": -29.38067,
+    "longitude": 29.44107,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932795,
+    "name": "Ketane Falls",
+    "latitude": -29.88333,
+    "longitude": 27.91667,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932785,
+    "name": "Kheribetloa Pass",
+    "latitude": -30.13333,
+    "longitude": 27.65,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932769,
+    "name": "Khuabaliyabohobe",
+    "latitude": -29.11667,
+    "longitude": 28.28333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932763,
+    "name": "Koane Mountain",
+    "latitude": -28.93333,
+    "longitude": 28.03333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932759,
+    "name": "Koeneng Mountain",
+    "latitude": -29.06472,
+    "longitude": 28.03401,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932755,
+    "name": "Kokobe",
+    "latitude": -30.15,
+    "longitude": 27.83333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932752,
+    "name": "Kolberg",
+    "latitude": -29.45,
+    "longitude": 28.5,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932751,
+    "name": "Kolo",
+    "latitude": -29.60774,
+    "longitude": 27.32515,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932747,
+    "name": "Kolonyama",
+    "latitude": -29.07284,
+    "longitude": 27.72748,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932745,
+    "name": "Komakha",
+    "latitude": -30.14348,
+    "longitude": 28.39949,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932742,
+    "name": "Kopialina",
+    "latitude": -30.03333,
+    "longitude": 27.51667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 987299,
+    "name": "Kranskop",
+    "latitude": -30.05652,
+    "longitude": 27.29649,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932736,
+    "name": "Kubaki",
+    "latitude": -30.16667,
+    "longitude": 27.46667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932731,
+    "name": "Kubutsani",
+    "latitude": -29.88375,
+    "longitude": 29.08502,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 985293,
+    "name": "Kwa Ramra",
+    "latitude": -30.15448,
+    "longitude": 28.46047,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932728,
+    "name": "Kwokwobe",
+    "latitude": -29.3,
+    "longitude": 27.98333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932726,
+    "name": "Lancers Gap",
+    "latitude": -29.3148,
+    "longitude": 27.54999,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 984785,
+    "name": "Langalibalele Pass",
+    "latitude": -29.28451,
+    "longitude": 29.44074,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 984746,
+    "name": "Langberg",
+    "latitude": -30.0105,
+    "longitude": 27.21785,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 983427,
+    "name": "Lehloaneng Hill",
+    "latitude": -29.9834,
+    "longitude": 27.21551,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932716,
+    "name": "Lekhalo La Maburo",
+    "latitude": -30.18333,
+    "longitude": 27.63333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932715,
+    "name": "Lekhalo La Makhoa",
+    "latitude": -29.06667,
+    "longitude": 28.35,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 972151,
+    "name": "Lekhalo-la-Namahali",
+    "latitude": -28.75707,
+    "longitude": 28.85563,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 971220,
+    "name": "Lekhalong-la-Mafatle",
+    "latitude": -29.81628,
+    "longitude": 29.116,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932712,
+    "name": "Lekhatje",
+    "latitude": -29.88333,
+    "longitude": 27.68333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 983063,
+    "name": "Leslie’s Pass",
+    "latitude": -29.15365,
+    "longitude": 29.34468,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932688,
+    "name": "Letibas Nek",
+    "latitude": -29.88333,
+    "longitude": 28.96667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932673,
+    "name": "Lifis Nek",
+    "latitude": -28.81667,
+    "longitude": 28.15,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932664,
+    "name": "Likhoele",
+    "latitude": -29.86926,
+    "longitude": 27.26722,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932657,
+    "name": "Likotsi",
+    "latitude": -29.38,
+    "longitude": 27.4531,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932646,
+    "name": "Lipetung",
+    "latitude": -29.05,
+    "longitude": 28.13333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932645,
+    "name": "Lipetung Nek",
+    "latitude": -29.05,
+    "longitude": 28.11667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1009805,
+    "name": "Liphiring",
+    "latitude": -30.14025,
+    "longitude": 27.32264,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 982599,
+    "name": "Litšoene",
+    "latitude": -29.36667,
+    "longitude": 29.45,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932630,
+    "name": "Litsoeneng",
+    "latitude": -29.64162,
+    "longitude": 27.04987,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932624,
+    "name": "Mabele",
+    "latitude": -29.41534,
+    "longitude": 27.99273,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932622,
+    "name": "Maboloka",
+    "latitude": -29.86667,
+    "longitude": 27.33333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11237575,
+    "name": "Mabote",
+    "latitude": -29.27861,
+    "longitude": 27.52417,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932619,
+    "name": "Machache",
+    "latitude": -29.3628,
+    "longitude": 27.89717,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932614,
+    "name": "Mafeteng",
+    "latitude": -29.82299,
+    "longitude": 27.23744,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 980598,
+    "name": "Mafikadisiu",
+    "latitude": -29.95,
+    "longitude": 29.11667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932609,
+    "name": "Mahareng",
+    "latitude": -29.68171,
+    "longitude": 27.40267,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 980320,
+    "name": "Mahlabatshaneng",
+    "latitude": -29.14208,
+    "longitude": 29.3552,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7303638,
+    "name": "Mahlasela Pass",
+    "latitude": -28.81576,
+    "longitude": 28.71955,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932605,
+    "name": "Mahlatsa",
+    "latitude": -29.17791,
+    "longitude": 27.97643,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 980161,
+    "name": "Majoematso Pass",
+    "latitude": -29.66667,
+    "longitude": 29.18333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 980120,
+    "name": "Makalane",
+    "latitude": -30.15473,
+    "longitude": 28.46872,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932592,
+    "name": "Makhakas Pass",
+    "latitude": -29.73333,
+    "longitude": 27.91667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932583,
+    "name": "Makheka",
+    "latitude": -29.23253,
+    "longitude": 29.28958,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932580,
+    "name": "Makhoarane",
+    "latitude": -29.65,
+    "longitude": 27.55,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932576,
+    "name": "Makoaneng",
+    "latitude": -29.45453,
+    "longitude": 27.40113,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 979972,
+    "name": "Makomerin",
+    "latitude": -30.12365,
+    "longitude": 28.56442,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932567,
+    "name": "Makwena",
+    "latitude": -28.71667,
+    "longitude": 28.2,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932561,
+    "name": "Maletsunyane Falls",
+    "latitude": -29.86667,
+    "longitude": 28.06667,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932553,
+    "name": "Malotoaneng",
+    "latitude": -29.12047,
+    "longitude": 27.72846,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932548,
+    "name": "Mamahlowei",
+    "latitude": -30.00172,
+    "longitude": 28.45415,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932547,
+    "name": "Mamathes",
+    "latitude": -29.12636,
+    "longitude": 27.83363,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932543,
+    "name": "Manganeng",
+    "latitude": -29.02674,
+    "longitude": 27.7881,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 979448,
+    "name": "Mangaung Pass",
+    "latitude": -29.54963,
+    "longitude": 29.30506,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932537,
+    "name": "Mantsebo",
+    "latitude": -29.48333,
+    "longitude": 27.51667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7729880,
+    "name": "Mantsonyane",
+    "latitude": -29.53317,
+    "longitude": 28.26991,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932525,
+    "name": "Mapoteng",
+    "latitude": -29.10979,
+    "longitude": 27.9741,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932521,
+    "name": "Maputsoe",
+    "latitude": -28.8866,
+    "longitude": 27.89915,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932517,
+    "name": "Maquho",
+    "latitude": -29.91456,
+    "longitude": 28.58289,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932505,
+    "name": "Maseru",
+    "latitude": -29.31667,
+    "longitude": 27.48333,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 978470,
+    "name": "Mashai",
+    "latitude": -29.73333,
+    "longitude": 29.15,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 978469,
+    "name": "Mashai Pass",
+    "latitude": -29.71619,
+    "longitude": 29.14776,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932499,
+    "name": "Masiepo",
+    "latitude": -30.00818,
+    "longitude": 28.57227,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932495,
+    "name": "Masite Mountain",
+    "latitude": -29.60049,
+    "longitude": 27.45246,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932484,
+    "name": "Matelile",
+    "latitude": -29.8,
+    "longitude": 27.56667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932482,
+    "name": "Mathebe",
+    "latitude": -29.74511,
+    "longitude": 27.40376,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932481,
+    "name": "Mathokoane",
+    "latitude": -28.97434,
+    "longitude": 28.04787,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932467,
+    "name": "Mautse",
+    "latitude": -29.6,
+    "longitude": 27.73333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932466,
+    "name": "Mazenod",
+    "latitude": -29.41896,
+    "longitude": 27.56893,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932464,
+    "name": "Mechachaneng",
+    "latitude": -28.6569,
+    "longitude": 28.68189,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932456,
+    "name": "Meniameng",
+    "latitude": -29.13333,
+    "longitude": 28.21667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932446,
+    "name": "Minoaning",
+    "latitude": -29.428,
+    "longitude": 28.93652,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 975651,
+    "name": "Mitre",
+    "latitude": -30.35,
+    "longitude": 28.26667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 975550,
+    "name": "Mkomazi",
+    "latitude": -29.48333,
+    "longitude": 29.31667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 975493,
+    "name": "Mlahlangubo Pass",
+    "latitude": -29.45075,
+    "longitude": 29.386,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932443,
+    "name": "Mochawa",
+    "latitude": -29.4,
+    "longitude": 27.61667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932438,
+    "name": "Mohale's Hoek",
+    "latitude": -30.15137,
+    "longitude": 27.47691,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 974929,
+    "name": "Mohalinyane",
+    "latitude": -30.04705,
+    "longitude": 27.28307,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932432,
+    "name": "Mohlesi Pass",
+    "latitude": -29.48335,
+    "longitude": 29.30248,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932421,
+    "name": "Mokhele",
+    "latitude": -30.1,
+    "longitude": 27.58333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932416,
+    "name": "Mokhotlong",
+    "latitude": -29.28939,
+    "longitude": 29.06751,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932413,
+    "name": "Moklesi",
+    "latitude": -29.33333,
+    "longitude": 28.08333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932407,
+    "name": "Mokopo",
+    "latitude": -30.26539,
+    "longitude": 27.58684,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932403,
+    "name": "Mokotla Wa Tsuene",
+    "latitude": -30.5,
+    "longitude": 27.68333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932392,
+    "name": "Molumong",
+    "latitude": -29.03442,
+    "longitude": 27.89675,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932386,
+    "name": "Moniahania",
+    "latitude": -29.63333,
+    "longitude": 28.05,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932385,
+    "name": "Monkhoaneng",
+    "latitude": -29.71808,
+    "longitude": 27.44893,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12123367,
+    "name": "Mont-Aux-Sources",
+    "latitude": -28.77252,
+    "longitude": 28.8727,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 974604,
+    "name": "Montai",
+    "latitude": -30.10836,
+    "longitude": 28.78028,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932381,
+    "name": "Monyetling",
+    "latitude": -29.68462,
+    "longitude": 28.86555,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932373,
+    "name": "Morifi",
+    "latitude": -30.27295,
+    "longitude": 27.41774,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932371,
+    "name": "Morija",
+    "latitude": -29.62982,
+    "longitude": 27.51351,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932366,
+    "name": "Mosalomani",
+    "latitude": -29.21667,
+    "longitude": 28.11667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932359,
+    "name": "Mosoang",
+    "latitude": -29.67284,
+    "longitude": 27.57124,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932358,
+    "name": "Mosukoaperi",
+    "latitude": -29.9,
+    "longitude": 28.31667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932356,
+    "name": "Moteng Pass",
+    "latitude": -28.75585,
+    "longitude": 28.60046,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932352,
+    "name": "Motlejoa",
+    "latitude": -29.6929,
+    "longitude": 27.67288,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932941,
+    "name": "Mount Austin",
+    "latitude": -30.18333,
+    "longitude": 28.03333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1003693,
+    "name": "Mount Fred",
+    "latitude": -30.08176,
+    "longitude": 28.85763,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932341,
+    "name": "Mount Moorosi",
+    "latitude": -30.2731,
+    "longitude": 27.87076,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932130,
+    "name": "Mount Sauer",
+    "latitude": -30.06667,
+    "longitude": 28.68333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932336,
+    "name": "Mparani",
+    "latitude": -29.93032,
+    "longitude": 29.0543,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932331,
+    "name": "Mpharane",
+    "latitude": -28.937,
+    "longitude": 27.93676,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932325,
+    "name": "Mpokochela Mountains",
+    "latitude": -29.43333,
+    "longitude": 28.71667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932324,
+    "name": "Mposung",
+    "latitude": -29.08333,
+    "longitude": 28.3,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932320,
+    "name": "Nako",
+    "latitude": -29.61667,
+    "longitude": 27.76667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 971806,
+    "name": "Ndedema Dome",
+    "latitude": -29.06038,
+    "longitude": 29.23003,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 966637,
+    "name": "Nene Pass",
+    "latitude": -30.2036,
+    "longitude": 28.34794,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 971216,
+    "name": "Ngaqamadola",
+    "latitude": -29.465,
+    "longitude": 29.34528,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 970913,
+    "name": "Ngwangwe",
+    "latitude": -29.79721,
+    "longitude": 29.12444,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 970520,
+    "name": "Njesuthi",
+    "latitude": -29.20462,
+    "longitude": 29.37126,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932310,
+    "name": "Ntelle",
+    "latitude": -28.68872,
+    "longitude": 28.51766,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932300,
+    "name": "Ntloloetsane",
+    "latitude": -29.43333,
+    "longitude": 28.58333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932295,
+    "name": "Ntsunyane",
+    "latitude": -29.615,
+    "longitude": 27.62949,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932293,
+    "name": "Ntsupe",
+    "latitude": -29.74471,
+    "longitude": 27.77423,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 967968,
+    "name": "Ongeluksnek",
+    "latitude": -30.33747,
+    "longitude": 28.26229,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 966379,
+    "name": "Pampiring",
+    "latitude": -29.07544,
+    "longitude": 29.27788,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 966132,
+    "name": "Pathela Peak",
+    "latitude": -30.1227,
+    "longitude": 28.63246,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932278,
+    "name": "Patsi",
+    "latitude": -28.78273,
+    "longitude": 28.14926,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932277,
+    "name": "Pedlars Peak",
+    "latitude": -29.98333,
+    "longitude": 27.73333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932276,
+    "name": "Peka",
+    "latitude": -28.96883,
+    "longitude": 27.76258,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932274,
+    "name": "Peka Hill",
+    "latitude": -28.97336,
+    "longitude": 27.75398,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932273,
+    "name": "Pelatsoeu",
+    "latitude": -28.98228,
+    "longitude": 28.43662,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932269,
+    "name": "Phamong",
+    "latitude": -30.24809,
+    "longitude": 27.8014,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 954009,
+    "name": "Phofung",
+    "latitude": -28.77192,
+    "longitude": 28.87299,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932261,
+    "name": "Phokojoe Khoaba",
+    "latitude": -28.92181,
+    "longitude": 28.59751,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932258,
+    "name": "Phoqoane",
+    "latitude": -29.71667,
+    "longitude": 27.3,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 965114,
+    "name": "Pitsaneng Pass",
+    "latitude": -29.64347,
+    "longitude": 29.28907,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932249,
+    "name": "Pitsaning",
+    "latitude": -29.33689,
+    "longitude": 27.94628,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932248,
+    "name": "Pitseng",
+    "latitude": -29.00699,
+    "longitude": 28.21328,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932246,
+    "name": "Pitso Ea Meea",
+    "latitude": -28.87422,
+    "longitude": 28.52991,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932241,
+    "name": "Popa",
+    "latitude": -29.53333,
+    "longitude": 27.73333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932239,
+    "name": "Pororong Pass",
+    "latitude": -29.08431,
+    "longitude": 28.31105,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932234,
+    "name": "Pulani",
+    "latitude": -29.23984,
+    "longitude": 27.91614,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932232,
+    "name": "Purumela",
+    "latitude": -29.53333,
+    "longitude": 27.85,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932231,
+    "name": "Putsani Pass",
+    "latitude": -30.23333,
+    "longitude": 27.8,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932224,
+    "name": "Qaba",
+    "latitude": -29.57378,
+    "longitude": 27.8261,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932218,
+    "name": "Qacha’s Nek",
+    "latitude": -30.11537,
+    "longitude": 28.68936,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932216,
+    "name": "Qalabane",
+    "latitude": -29.76366,
+    "longitude": 27.18346,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932205,
+    "name": "Qhalasi",
+    "latitude": -30.0849,
+    "longitude": 27.38273,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932202,
+    "name": "Qhomane",
+    "latitude": -29.55,
+    "longitude": 27.61667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932199,
+    "name": "Qhuqhu",
+    "latitude": -29.48881,
+    "longitude": 27.58141,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932198,
+    "name": "Qibing",
+    "latitude": -29.7,
+    "longitude": 27.1,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932195,
+    "name": "Qoaling",
+    "latitude": -29.33798,
+    "longitude": 27.49934,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932194,
+    "name": "Qoang",
+    "latitude": -29.87292,
+    "longitude": 28.00281,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932193,
+    "name": "Qoatsaneng",
+    "latitude": -29.33382,
+    "longitude": 27.49392,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932191,
+    "name": "Qolakwe",
+    "latitude": -28.66667,
+    "longitude": 28.43333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932188,
+    "name": "Qoqolosing",
+    "latitude": -28.87618,
+    "longitude": 28.14482,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932187,
+    "name": "Qubushaning",
+    "latitude": -29.86667,
+    "longitude": 29.01667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932183,
+    "name": "Quthing",
+    "latitude": -30.40001,
+    "longitude": 27.70027,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 963306,
+    "name": "Ramatšeliso’s Nek",
+    "latitude": -30.04917,
+    "longitude": 28.93524,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 962957,
+    "name": "Redi",
+    "latitude": -29.4139,
+    "longitude": 29.42281,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932151,
+    "name": "Roma",
+    "latitude": -29.44667,
+    "longitude": 27.70806,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932149,
+    "name": "Ruleleathunya Pass",
+    "latitude": -30.1,
+    "longitude": 27.68333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 957606,
+    "name": "Sani Pass",
+    "latitude": -29.58788,
+    "longitude": 29.29465,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932121,
+    "name": "Sebatwani",
+    "latitude": -28.86667,
+    "longitude": 28.08333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932115,
+    "name": "Sefikaning",
+    "latitude": -29.2531,
+    "longitude": 27.83854,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932112,
+    "name": "Sefikeng",
+    "latitude": -29.27894,
+    "longitude": 27.80765,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932109,
+    "name": "Sehlabathebe National Park",
+    "latitude": -29.90289,
+    "longitude": 29.1162,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12687284,
+    "name": "Semonkong",
+    "latitude": -29.8433,
+    "longitude": 28.0504,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932084,
+    "name": "Sempe",
+    "latitude": -30.3,
+    "longitude": 27.83333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932075,
+    "name": "Seqoing",
+    "latitude": -29.6,
+    "longitude": 27.65,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 955972,
+    "name": "Ships Prow Pass",
+    "latitude": -29.09647,
+    "longitude": 29.32724,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932063,
+    "name": "Sikhaming",
+    "latitude": -28.76907,
+    "longitude": 28.28609,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932062,
+    "name": "Siloe",
+    "latitude": -29.94279,
+    "longitude": 27.27858,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 953652,
+    "name": "Sphinx",
+    "latitude": -29.04446,
+    "longitude": 29.22645,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932054,
+    "name": "Tabola",
+    "latitude": -28.96667,
+    "longitude": 27.81667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932052,
+    "name": "Tadiakloka",
+    "latitude": -29.4,
+    "longitude": 27.8,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932048,
+    "name": "Tayanatayana",
+    "latitude": -29.46515,
+    "longitude": 27.92683,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932047,
+    "name": "Tayane",
+    "latitude": -30.6,
+    "longitude": 27.8,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932035,
+    "name": "Teyateyaneng",
+    "latitude": -29.14719,
+    "longitude": 27.74895,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932935,
+    "name": "Thaba Basiu",
+    "latitude": -29.05,
+    "longitude": 28.71667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932916,
+    "name": "Thaba Bodula",
+    "latitude": -30.21667,
+    "longitude": 27.95,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932897,
+    "name": "Thaba Bosigo",
+    "latitude": -29.35,
+    "longitude": 27.66667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932896,
+    "name": "Thaba Bosiu",
+    "latitude": -29.36667,
+    "longitude": 27.68333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932895,
+    "name": "Thaba Bosudu",
+    "latitude": -30.04929,
+    "longitude": 28.40847,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932880,
+    "name": "Thaba Chicha",
+    "latitude": -30.01389,
+    "longitude": 27.45891,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1013352,
+    "name": "Thaba Chitja",
+    "latitude": -29.00229,
+    "longitude": 29.16897,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932660,
+    "name": "Thaba Ea Likome",
+    "latitude": -29.64515,
+    "longitude": 27.64805,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932765,
+    "name": "Thaba Khupa",
+    "latitude": -29.40504,
+    "longitude": 27.63267,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932689,
+    "name": "Thaba Lethu",
+    "latitude": -29.96667,
+    "longitude": 27.81667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932296,
+    "name": "Thaba Ntso",
+    "latitude": -28.8508,
+    "longitude": 28.38941,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932266,
+    "name": "Thaba Phatsoa",
+    "latitude": -29.24893,
+    "longitude": 27.98509,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932265,
+    "name": "Thaba Phechela",
+    "latitude": -29.63638,
+    "longitude": 27.15816,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932256,
+    "name": "Thaba Photu",
+    "latitude": -29.90622,
+    "longitude": 28.18782,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932229,
+    "name": "Thaba Putsoa",
+    "latitude": -29.73216,
+    "longitude": 27.92318,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932225,
+    "name": "Thaba Putsua",
+    "latitude": -30.34888,
+    "longitude": 28.03451,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932056,
+    "name": "Thaba Sitasi",
+    "latitude": -29.89248,
+    "longitude": 27.3689,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932043,
+    "name": "Thaba Teele",
+    "latitude": -29.63333,
+    "longitude": 28.38333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932036,
+    "name": "Thaba Telle",
+    "latitude": -30.05322,
+    "longitude": 27.91301,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 931963,
+    "name": "Thaba Tseka",
+    "latitude": -29.58333,
+    "longitude": 28.55,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 931938,
+    "name": "Thaba Tsoeu",
+    "latitude": -29.8011,
+    "longitude": 27.43647,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 931936,
+    "name": "Thaba Tsuana",
+    "latitude": -29.81667,
+    "longitude": 27.48333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 931933,
+    "name": "Thaba Tsueu",
+    "latitude": -30.08189,
+    "longitude": 27.46993,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932019,
+    "name": "Thaba-Ntso",
+    "latitude": -29.86396,
+    "longitude": 29.08191,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1106835,
+    "name": "Thaba-Tseka",
+    "latitude": -29.52204,
+    "longitude": 28.6084,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932030,
+    "name": "Thabadinaked",
+    "latitude": -30.1,
+    "longitude": 27.51667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932029,
+    "name": "Thabadinohe",
+    "latitude": -30.17043,
+    "longitude": 27.49854,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932457,
+    "name": "Thabana Li Mele",
+    "latitude": -29.6,
+    "longitude": 27.8,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 997299,
+    "name": "Thabana Likorong",
+    "latitude": -29.39455,
+    "longitude": 29.43725,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932431,
+    "name": "Thabana Mohlomi",
+    "latitude": -29.6019,
+    "longitude": 27.11994,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932025,
+    "name": "Thabana Morena",
+    "latitude": -29.96008,
+    "longitude": 27.42044,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932301,
+    "name": "Thabana Ntlenyana",
+    "latitude": -29.46667,
+    "longitude": 29.26667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 931962,
+    "name": "Thabana Tsekanyane",
+    "latitude": -29.46882,
+    "longitude": 27.80112,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 931935,
+    "name": "Thabana Tsuana",
+    "latitude": -29.5322,
+    "longitude": 27.35618,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932015,
+    "name": "Thabantso",
+    "latitude": -30.45,
+    "longitude": 27.93333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 949656,
+    "name": "Thamathu",
+    "latitude": -29.81667,
+    "longitude": 29.13333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 974654,
+    "name": "The Monk",
+    "latitude": -29.75,
+    "longitude": 29.13333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 948390,
+    "name": "The Tooth",
+    "latitude": -30.36667,
+    "longitude": 28.26667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 947153,
+    "name": "The Twins",
+    "latitude": -30.15693,
+    "longitude": 28.47337,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 949044,
+    "name": "Three Sisters",
+    "latitude": -30.15,
+    "longitude": 28.51667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 949037,
+    "name": "Three Sisters Pass",
+    "latitude": -30.14272,
+    "longitude": 28.51105,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 949021,
+    "name": "Thule",
+    "latitude": -29.96924,
+    "longitude": 29.10756,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 931996,
+    "name": "Thupa Likaka",
+    "latitude": -29.50268,
+    "longitude": 27.36734,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 948673,
+    "name": "Tlanyaku Pass",
+    "latitude": -29.04815,
+    "longitude": 29.22239,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 931985,
+    "name": "Tlapaneng",
+    "latitude": -29.2,
+    "longitude": 27.68333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 931984,
+    "name": "Tlhakanelo",
+    "latitude": -29.71667,
+    "longitude": 28.85,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 931981,
+    "name": "Tlodiea Seloba",
+    "latitude": -28.95,
+    "longitude": 28.53333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 931978,
+    "name": "Tlouoe",
+    "latitude": -29.58333,
+    "longitude": 27.6,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 931971,
+    "name": "Tsa Kholo Lake",
+    "latitude": -29.67331,
+    "longitude": 27.16638,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 948025,
+    "name": "Tsatsana",
+    "latitude": -30.48753,
+    "longitude": 28.18154,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 931948,
+    "name": "Tsikoane Mountain",
+    "latitude": -28.91121,
+    "longitude": 28.01121,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 931945,
+    "name": "Tsitas Nek",
+    "latitude": -29.70449,
+    "longitude": 27.28514,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 931930,
+    "name": "Tsupani",
+    "latitude": -29.70381,
+    "longitude": 27.08733,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 931929,
+    "name": "Tubati Rock",
+    "latitude": -29.3,
+    "longitude": 27.61667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 931926,
+    "name": "Ubutsuane",
+    "latitude": -29.2,
+    "longitude": 29.18333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 946126,
+    "name": "Umkomaas Pass",
+    "latitude": -29.48333,
+    "longitude": 29.3,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 942100,
+    "name": "Walker’s Peak",
+    "latitude": -29.72592,
+    "longitude": 29.14776,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 941610,
+    "name": "Watershed",
+    "latitude": -29.91568,
+    "longitude": 29.16964,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 939636,
+    "name": "Wilson’s Peak",
+    "latitude": -29.74026,
+    "longitude": 29.14526,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 939637,
+    "name": "Wilsons Peak",
+    "latitude": -29.7389,
+    "longitude": 29.1377,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 931922,
+    "name": "Windsor Castle",
+    "latitude": -29.02147,
+    "longitude": 29.2082,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  }
+]

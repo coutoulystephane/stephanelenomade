@@ -1,0 +1,402 @@
+[
+  {
+    "geonameId": 289722,
+    "name": "Al Jazīrah",
+    "latitude": 25.53518,
+    "longitude": 51.48701,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 289962,
+    "name": "Al Khawr",
+    "latitude": 25.68389,
+    "longitude": 51.50583,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 289915,
+    "name": "Al Wakrah",
+    "latitude": 25.17151,
+    "longitude": 51.60337,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 289913,
+    "name": "Al Wukayr",
+    "latitude": 25.15107,
+    "longitude": 51.53718,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 289888,
+    "name": "Ar Rayyān",
+    "latitude": 25.29194,
+    "longitude": 51.42444,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 289877,
+    "name": "Ash Shīḩānīyah",
+    "latitude": 25.37088,
+    "longitude": 51.22264,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 289847,
+    "name": "Az̧ Z̧a‘āyin",
+    "latitude": 25.57744,
+    "longitude": 51.48306,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 290030,
+    "name": "Doha",
+    "latitude": 25.28545,
+    "longitude": 51.53096,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 289813,
+    "name": "Dukhān",
+    "latitude": 25.42485,
+    "longitude": 50.78227,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 442546,
+    "name": "Ḩālat Wabīr",
+    "latitude": 25.60113,
+    "longitude": 51.53531,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 289790,
+    "name": "Ḩālūl",
+    "latitude": 25.67325,
+    "longitude": 52.41096,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 290055,
+    "name": "Jazīrat Abū Falītah",
+    "latitude": 25.61794,
+    "longitude": 50.92365,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 443232,
+    "name": "Jazīrat Abū Maţar",
+    "latitude": 25.63279,
+    "longitude": 51.55185,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 289982,
+    "name": "Jazīrat al ‘Āliyah",
+    "latitude": 25.40672,
+    "longitude": 51.56676,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 289881,
+    "name": "Jazīrat al Asḩāţ",
+    "latitude": 24.74972,
+    "longitude": 51.61167,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 289823,
+    "name": "Jazīrat al Bushayrīyah",
+    "latitude": 24.96769,
+    "longitude": 51.62004,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 406688,
+    "name": "Jazīrat al Khuwayr",
+    "latitude": 26.0773,
+    "longitude": 51.08466,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 411828,
+    "name": "Jazīrat an Nakhīl",
+    "latitude": 25.30496,
+    "longitude": 51.5276,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 289665,
+    "name": "Jazīrat as Sāfilīyah",
+    "latitude": 25.34651,
+    "longitude": 51.57779,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11207373,
+    "name": "Jazīrat Bin Ghannām",
+    "latitude": 25.69284,
+    "longitude": 51.54906,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 289772,
+    "name": "Jazīrat Jablah Ajīrah",
+    "latitude": 25.65,
+    "longitude": 50.81667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 290227,
+    "name": "Jazīrat Jinān",
+    "latitude": 25.5587,
+    "longitude": 50.73502,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 289720,
+    "name": "Jazīrat Mitrās",
+    "latitude": 25.76667,
+    "longitude": 50.75,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 289693,
+    "name": "Jazīrat Qarrāḑ",
+    "latitude": 26.15,
+    "longitude": 51.23333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 289678,
+    "name": "Jazīrat Rakan",
+    "latitude": 26.17735,
+    "longitude": 51.22043,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 289655,
+    "name": "Jazīrat Sawād",
+    "latitude": 25.68333,
+    "longitude": 50.81667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 289517,
+    "name": "Jazīrat Umm Tays",
+    "latitude": 26.15385,
+    "longitude": 51.27462,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11207374,
+    "name": "Jazīrat Yamāz",
+    "latitude": 25.72169,
+    "longitude": 51.59642,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 443265,
+    "name": "Juzur ad Dawākhil",
+    "latitude": 25.62107,
+    "longitude": 50.84325,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13512674,
+    "name": "Lusail",
+    "latitude": 25.4175,
+    "longitude": 51.5075,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 289739,
+    "name": "Madīnat ash Shamāl",
+    "latitude": 26.12933,
+    "longitude": 51.2009,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 289716,
+    "name": "Mu‘aydhir Rawḑat Rāshid",
+    "latitude": 25.2617,
+    "longitude": 51.39684,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 289525,
+    "name": "Musay‘īd",
+    "latitude": 24.99226,
+    "longitude": 51.55067,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 289698,
+    "name": "Nu‘ayjah",
+    "latitude": 25.24617,
+    "longitude": 51.53227,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 289645,
+    "name": "Sharā‘iwah",
+    "latitude": 25.03127,
+    "longitude": 52.23142,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10371921,
+    "name": "Thanīyat al Jamal",
+    "latitude": 25.36239,
+    "longitude": 51.1101,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11207322,
+    "name": "Umm al Fār",
+    "latitude": 25.74102,
+    "longitude": 51.56959,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 289545,
+    "name": "Umm Ghuwaylīnah",
+    "latitude": 25.58716,
+    "longitude": 51.14986,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 289524,
+    "name": "Umm Şalāl ‘Alī",
+    "latitude": 25.46972,
+    "longitude": 51.3975,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 289523,
+    "name": "Umm Şalāl Muḩammad",
+    "latitude": 25.41524,
+    "longitude": 51.40647,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  }
+]

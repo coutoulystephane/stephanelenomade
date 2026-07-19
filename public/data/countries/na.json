@@ -1,0 +1,8232 @@
+[
+  {
+    "geonameId": 12574796,
+    "name": "Aar",
+    "latitude": -26.76435,
+    "longitude": 16.40339,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358827,
+    "name": "Ababobosepberg",
+    "latitude": -22.0633,
+    "longitude": 15.70839,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358826,
+    "name": "Abachausberg",
+    "latitude": -19.72662,
+    "longitude": 16.78232,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371300,
+    "name": "Abendstein",
+    "latitude": -22.46219,
+    "longitude": 17.12359,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12576104,
+    "name": "Abos",
+    "latitude": -27.44194,
+    "longitude": 16.98566,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358806,
+    "name": "Adkus",
+    "latitude": -27.19843,
+    "longitude": 18.92651,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12727316,
+    "name": "Affenberg",
+    "latitude": -21.91497,
+    "longitude": 15.90555,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358790,
+    "name": "Ahub",
+    "latitude": -19.13318,
+    "longitude": 13.34483,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358675,
+    "name": "Ahus",
+    "latitude": -27.23293,
+    "longitude": 16.54927,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12576106,
+    "name": "Ahus Nord",
+    "latitude": -27.18153,
+    "longitude": 16.52636,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12630981,
+    "name": "Ai-Ais Hotspring Game Park",
+    "latitude": -27.81981,
+    "longitude": 17.12838,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12728579,
+    "name": "Aigub",
+    "latitude": -21.14843,
+    "longitude": 14.55463,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3370524,
+    "name": "Albatross Island",
+    "latitude": -27.1192,
+    "longitude": 15.23824,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12672224,
+    "name": "Aloekopf",
+    "latitude": -22.87218,
+    "longitude": 17.96746,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12693696,
+    "name": "Alphenberg",
+    "latitude": -22.72802,
+    "longitude": 16.5,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358755,
+    "name": "Alte Roemerberg",
+    "latitude": -20.60757,
+    "longitude": 16.53582,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12532674,
+    "name": "Am Einschnitt",
+    "latitude": -26.5093,
+    "longitude": 17.84935,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358730,
+    "name": "Am Felsentor",
+    "latitude": -27.57512,
+    "longitude": 17.61539,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12520614,
+    "name": "Am Vley",
+    "latitude": -27.95644,
+    "longitude": 18.40293,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12519878,
+    "name": "Amas",
+    "latitude": -27.86481,
+    "longitude": 18.9343,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358727,
+    "name": "Amichab",
+    "latitude": -23.2086,
+    "longitude": 15.52703,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358720,
+    "name": "Amkas",
+    "latitude": -27.62995,
+    "longitude": 17.36269,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12532667,
+    "name": "Ammonskopf",
+    "latitude": -26.71985,
+    "longitude": 17.94468,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12727378,
+    "name": "Amskuppe",
+    "latitude": -21.44498,
+    "longitude": 15.65769,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358717,
+    "name": "Amspoort",
+    "latitude": -19.36056,
+    "longitude": 13.15226,
+    "category": "Mountain",
+    "subcategory": "Canyon",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358674,
+    "name": "Aober Ecke",
+    "latitude": -27.50734,
+    "longitude": 19.01336,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358825,
+    "name": "Arahirar",
+    "latitude": -27.97401,
+    "longitude": 17.26245,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358670,
+    "name": "Arandis",
+    "latitude": -22.41749,
+    "longitude": 14.97385,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358663,
+    "name": "Arasab se Vaalkop",
+    "latitude": -27.08333,
+    "longitude": 16.31667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358647,
+    "name": "Arechadamab",
+    "latitude": -23.03694,
+    "longitude": 15.60601,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12531615,
+    "name": "Arep",
+    "latitude": -26.93993,
+    "longitude": 18.33558,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358622,
+    "name": "Arimasberg",
+    "latitude": -27.7511,
+    "longitude": 16.98699,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358612,
+    "name": "Arnamberg",
+    "latitude": -23.3385,
+    "longitude": 16.66244,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12556919,
+    "name": "Aruab",
+    "latitude": -25.73272,
+    "longitude": 16.55631,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12574793,
+    "name": "Arutal",
+    "latitude": -26.96173,
+    "longitude": 16.45699,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358589,
+    "name": "Aruvlei",
+    "latitude": -23.33902,
+    "longitude": 15.67591,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12530674,
+    "name": "Atlano",
+    "latitude": -26.40449,
+    "longitude": 16.07442,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358573,
+    "name": "Auas",
+    "latitude": -22.61743,
+    "longitude": 17.26157,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358570,
+    "name": "Auasende",
+    "latitude": -22.60454,
+    "longitude": 17.28923,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358552,
+    "name": "Auchasberg",
+    "latitude": -23.60549,
+    "longitude": 16.80019,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358551,
+    "name": "Auchobspringe",
+    "latitude": -27.69747,
+    "longitude": 17.49178,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12560911,
+    "name": "Auramberg",
+    "latitude": -25.59197,
+    "longitude": 16.41638,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358524,
+    "name": "Aurus",
+    "latitude": -27.65639,
+    "longitude": 16.31979,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358519,
+    "name": "Ausberg",
+    "latitude": -23.70988,
+    "longitude": 17.13869,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12718702,
+    "name": "Aussenkehr",
+    "latitude": -28.36274,
+    "longitude": 17.41272,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6956098,
+    "name": "Ausspannplatz",
+    "latitude": -22.57625,
+    "longitude": 17.08576,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12531616,
+    "name": "Autas",
+    "latitude": -26.9732,
+    "longitude": 18.31357,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358501,
+    "name": "Avis Dam",
+    "latitude": -22.57331,
+    "longitude": 17.13021,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12560913,
+    "name": "Awasibberge",
+    "latitude": -25.52027,
+    "longitude": 15.65833,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358488,
+    "name": "Axis Dam",
+    "latitude": -26.5062,
+    "longitude": 18.0391,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12522559,
+    "name": "Baak",
+    "latitude": -28.1959,
+    "longitude": 19.78389,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 877348,
+    "name": "Bagani Island",
+    "latitude": -18.1,
+    "longitude": 21.63333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12527772,
+    "name": "Bakenkop",
+    "latitude": -28.57576,
+    "longitude": 18.53334,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12553946,
+    "name": "Bakenskop",
+    "latitude": -25.43544,
+    "longitude": 16.71978,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358466,
+    "name": "Barrowberg",
+    "latitude": -23.63363,
+    "longitude": 15.48362,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371307,
+    "name": "Base East",
+    "latitude": -22.49108,
+    "longitude": 17.11327,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358458,
+    "name": "Baumhohe",
+    "latitude": -22.69914,
+    "longitude": 16.92115,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358457,
+    "name": "Baumhöhe",
+    "latitude": -27.26667,
+    "longitude": 17.53333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13060818,
+    "name": "Bella Vista",
+    "latitude": -22.32218,
+    "longitude": 16.89571,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358416,
+    "name": "Bethanie",
+    "latitude": -26.49958,
+    "longitude": 17.1599,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358406,
+    "name": "Billstein",
+    "latitude": -22.99845,
+    "longitude": 17.01028,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358400,
+    "name": "Bismarckfelsen",
+    "latitude": -22.8701,
+    "longitude": 17.03018,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 877343,
+    "name": "Biye",
+    "latitude": -18.23333,
+    "longitude": 21.76667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12534270,
+    "name": "Blaauw",
+    "latitude": -26.24035,
+    "longitude": 19.58428,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3369996,
+    "name": "Black Rock Island",
+    "latitude": -27.39462,
+    "longitude": 15.34626,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358378,
+    "name": "Blankenburg",
+    "latitude": -27.68333,
+    "longitude": 18.26667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12806750,
+    "name": "Blouberg",
+    "latitude": -19.65592,
+    "longitude": 15.24834,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358335,
+    "name": "Blue Mountain",
+    "latitude": -26.11667,
+    "longitude": 14.98333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358329,
+    "name": "Blutberg",
+    "latitude": -22.36118,
+    "longitude": 16.60893,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12553947,
+    "name": "Blutputz Naudaus",
+    "latitude": -25.46091,
+    "longitude": 16.62232,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358317,
+    "name": "Bockberg",
+    "latitude": -27.07238,
+    "longitude": 15.51682,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371296,
+    "name": "Bockstein",
+    "latitude": -22.43343,
+    "longitude": 17.12496,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358313,
+    "name": "Boegoeberg",
+    "latitude": -27.90478,
+    "longitude": 15.93674,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358311,
+    "name": "Boesmanberg",
+    "latitude": -27.77778,
+    "longitude": 16.41117,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12728583,
+    "name": "Boesmankop",
+    "latitude": -21.09815,
+    "longitude": 14.64136,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12519858,
+    "name": "Bondels",
+    "latitude": -27.91306,
+    "longitude": 18.67928,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358293,
+    "name": "Bontberg",
+    "latitude": -27.85568,
+    "longitude": 17.83906,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12528021,
+    "name": "Bos-Se-Berg",
+    "latitude": -27.1836,
+    "longitude": 19.04748,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358252,
+    "name": "Brandberg",
+    "latitude": -21.12582,
+    "longitude": 14.54865,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358251,
+    "name": "Brandberg Nature Reserve",
+    "latitude": -21.13333,
+    "longitude": 15.56667,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12561461,
+    "name": "Broodkop",
+    "latitude": -27.40135,
+    "longitude": 15.68396,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358233,
+    "name": "Brukkaros",
+    "latitude": -25.86552,
+    "longitude": 17.79635,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12552967,
+    "name": "Brusib",
+    "latitude": -24.92129,
+    "longitude": 16.87893,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358219,
+    "name": "Bunsenberge",
+    "latitude": -28.43351,
+    "longitude": 18.72006,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358212,
+    "name": "Buschmannklippe",
+    "latitude": -22.73397,
+    "longitude": 18.00955,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358209,
+    "name": "Bushman Hill",
+    "latitude": -25.10725,
+    "longitude": 15.79832,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 877330,
+    "name": "Catsho Island",
+    "latitude": -18.1,
+    "longitude": 21.6,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358184,
+    "name": "Chamaites",
+    "latitude": -27.21157,
+    "longitude": 17.77047,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358175,
+    "name": "Chamnaub",
+    "latitude": -27.73269,
+    "longitude": 16.08805,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358172,
+    "name": "Changansberg",
+    "latitude": -23.04176,
+    "longitude": 15.86586,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358167,
+    "name": "Charl Maraisdam",
+    "latitude": -18.9874,
+    "longitude": 15.51252,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358166,
+    "name": "Charlottenberg",
+    "latitude": -23.20249,
+    "longitude": 16.82481,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358161,
+    "name": "Chausibberg",
+    "latitude": -23.23333,
+    "longitude": 16.03333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358160,
+    "name": "Chilkop",
+    "latitude": -23.42149,
+    "longitude": 16.81945,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358151,
+    "name": "Chowagasberg",
+    "latitude": -25.27059,
+    "longitude": 15.7547,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12520604,
+    "name": "Chudaub",
+    "latitude": -27.77283,
+    "longitude": 17.55593,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13453032,
+    "name": "Chumberge",
+    "latitude": -27.76813,
+    "longitude": 17.40734,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358136,
+    "name": "Churutabis",
+    "latitude": -27.42908,
+    "longitude": 17.46174,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358126,
+    "name": "Collenberg",
+    "latitude": -22.11959,
+    "longitude": 16.6916,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358100,
+    "name": "Daan Viljoen Game Park",
+    "latitude": -22.53028,
+    "longitude": 16.96865,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12530758,
+    "name": "Daberas",
+    "latitude": -27.35085,
+    "longitude": 18.21072,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12537053,
+    "name": "Daberasweg",
+    "latitude": -25.80729,
+    "longitude": 18.30752,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12530757,
+    "name": "Damelack",
+    "latitude": -27.40903,
+    "longitude": 18.47887,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358066,
+    "name": "Dassiefontein",
+    "latitude": -27.2234,
+    "longitude": 18.59337,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358050,
+    "name": "De Beer se Pas",
+    "latitude": -27.56667,
+    "longitude": 17.48333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3358043,
+    "name": "Delbrückshöhe",
+    "latitude": -22.40868,
+    "longitude": 16.27487,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13060994,
+    "name": "Dernberg",
+    "latitude": -21.94176,
+    "longitude": 15.77223,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357973,
+    "name": "Dikwillem",
+    "latitude": -26.46811,
+    "longitude": 16.01965,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357966,
+    "name": "Dippenaarskop",
+    "latitude": -28.26667,
+    "longitude": 16.38333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 877306,
+    "name": "Diviju",
+    "latitude": -18.06965,
+    "longitude": 21.47121,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13286667,
+    "name": "Döbra Way of the Cross",
+    "latitude": -22.41826,
+    "longitude": 17.10304,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357944,
+    "name": "Dom",
+    "latitude": -27.64381,
+    "longitude": 18.21616,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12556906,
+    "name": "Donnersberg",
+    "latitude": -24.90873,
+    "longitude": 16.12537,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357930,
+    "name": "Doppelkopf",
+    "latitude": -20.18394,
+    "longitude": 17.09403,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357929,
+    "name": "Doppelkuppe",
+    "latitude": -25.56897,
+    "longitude": 16.20105,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357920,
+    "name": "Doroberg",
+    "latitude": -23.20191,
+    "longitude": 16.1808,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357904,
+    "name": "Dreigratberg",
+    "latitude": -28.11075,
+    "longitude": 16.87312,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12561725,
+    "name": "Dreigratberg Nord",
+    "latitude": -28.06746,
+    "longitude": 16.88299,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357902,
+    "name": "Dreihuk Dam",
+    "latitude": -28.09766,
+    "longitude": 18.61013,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357898,
+    "name": "Dreikopf",
+    "latitude": -28.0062,
+    "longitude": 17.50053,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357895,
+    "name": "Dreispitz",
+    "latitude": -22.70562,
+    "longitude": 17.4264,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357894,
+    "name": "Dreizackberg",
+    "latitude": -27.01631,
+    "longitude": 15.40211,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357873,
+    "name": "Dubisberg",
+    "latitude": -23.12485,
+    "longitude": 17.35624,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357861,
+    "name": "Duiwelspiek",
+    "latitude": -25.39688,
+    "longitude": 16.63398,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 877299,
+    "name": "Durumutji",
+    "latitude": -18.06072,
+    "longitude": 21.45545,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357846,
+    "name": "Duurdrift F.V.P",
+    "latitude": -27.59322,
+    "longitude": 19.00226,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357839,
+    "name": "Duwisib",
+    "latitude": -25.32013,
+    "longitude": 16.48719,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357825,
+    "name": "Eckberg",
+    "latitude": -25.14359,
+    "longitude": 16.16018,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357824,
+    "name": "Ecke",
+    "latitude": -19.77203,
+    "longitude": 13.77295,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357804,
+    "name": "Eenhana",
+    "latitude": -17.48535,
+    "longitude": 16.3294,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357774,
+    "name": "Eiderosberg",
+    "latitude": -23.23815,
+    "longitude": 16.13753,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357759,
+    "name": "Eisenberg",
+    "latitude": -20.81225,
+    "longitude": 16.10123,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357757,
+    "name": "Eisenstein",
+    "latitude": -26.38685,
+    "longitude": 18.33927,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357746,
+    "name": "Ekoto",
+    "latitude": -17.90964,
+    "longitude": 13.20338,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357721,
+    "name": "Elefantenberg",
+    "latitude": -26.73333,
+    "longitude": 16.08333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371297,
+    "name": "Elisenheim North",
+    "latitude": -22.43806,
+    "longitude": 17.10833,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357707,
+    "name": "Elisenhöhe",
+    "latitude": -22.78772,
+    "longitude": 17.5012,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357709,
+    "name": "Elizabethkuppe",
+    "latitude": -22.39494,
+    "longitude": 16.99722,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12693756,
+    "name": "Erekero",
+    "latitude": -22.36068,
+    "longitude": 16.03244,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357633,
+    "name": "Erichbrunn",
+    "latitude": -22.60989,
+    "longitude": 16.57351,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357631,
+    "name": "Erongo",
+    "latitude": -21.64356,
+    "longitude": 15.66907,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357624,
+    "name": "Eroroberg",
+    "latitude": -22.02139,
+    "longitude": 16.45004,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12530946,
+    "name": "Eroskloof",
+    "latitude": -26.6587,
+    "longitude": 18.92321,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357617,
+    "name": "Erzberg",
+    "latitude": -27.93284,
+    "longitude": 19.1842,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12650517,
+    "name": "Esberg",
+    "latitude": -23.039,
+    "longitude": 18.05324,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357605,
+    "name": "Esperanzapoort",
+    "latitude": -22.71667,
+    "longitude": 18.71667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357594,
+    "name": "Etanenoberg",
+    "latitude": -20.70254,
+    "longitude": 16.21033,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12727405,
+    "name": "Etendero",
+    "latitude": -21.22009,
+    "longitude": 15.81072,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357584,
+    "name": "Etjo",
+    "latitude": -21.11983,
+    "longitude": 16.46204,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357577,
+    "name": "Etosha National Park",
+    "latitude": -19,
+    "longitude": 16,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357557,
+    "name": "Eythsberg",
+    "latitude": -26.76667,
+    "longitude": 15.55,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357555,
+    "name": "Facherberg",
+    "latitude": -25.49513,
+    "longitude": 16.52635,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357554,
+    "name": "Fahle Kuppen",
+    "latitude": -18.61765,
+    "longitude": 13.85567,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357547,
+    "name": "Falkenstein",
+    "latitude": -22.73346,
+    "longitude": 17.12494,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12530584,
+    "name": "Falscher Freund",
+    "latitude": -27.49314,
+    "longitude": 18.54479,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12531623,
+    "name": "Feldberg",
+    "latitude": -26.71977,
+    "longitude": 18.39015,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357536,
+    "name": "Felsenkuppe",
+    "latitude": -27.77023,
+    "longitude": 19.71183,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357528,
+    "name": "Fischflussrucken",
+    "latitude": -27.39663,
+    "longitude": 17.62138,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12520603,
+    "name": "Fish River Canyon Park",
+    "latitude": -27.63818,
+    "longitude": 17.69149,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357527,
+    "name": "Flamingo Island",
+    "latitude": -26.58252,
+    "longitude": 15.16295,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12574399,
+    "name": "Foorie",
+    "latitude": -26.60574,
+    "longitude": 16.73765,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12528040,
+    "name": "Freier 1",
+    "latitude": -27.1656,
+    "longitude": 19.19838,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357499,
+    "name": "Friedenau Dam",
+    "latitude": -22.69304,
+    "longitude": 16.74761,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357238,
+    "name": "Gabis",
+    "latitude": -27.17509,
+    "longitude": 15.47897,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357480,
+    "name": "Gabusib",
+    "latitude": -27.34802,
+    "longitude": 15.9082,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12520945,
+    "name": "Gaibes",
+    "latitude": -28.09751,
+    "longitude": 17.73062,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357468,
+    "name": "Gaiser Ecke",
+    "latitude": -27.6981,
+    "longitude": 18.58932,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357457,
+    "name": "Gamgamichabberg",
+    "latitude": -22.09488,
+    "longitude": 15.62667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357456,
+    "name": "Gamgamkuberg",
+    "latitude": -19.68703,
+    "longitude": 16.71515,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357451,
+    "name": "Gamkab",
+    "latitude": -28.20449,
+    "longitude": 17.39602,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12565403,
+    "name": "Gamochas",
+    "latitude": -26.01348,
+    "longitude": 16.69116,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357445,
+    "name": "Gamsberg",
+    "latitude": -23.3499,
+    "longitude": 16.2168,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357443,
+    "name": "Gamsberg Pass",
+    "latitude": -23.23333,
+    "longitude": 16.25,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12556915,
+    "name": "Ganaams",
+    "latitude": -25.5843,
+    "longitude": 16.56854,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 877289,
+    "name": "Gangara Island",
+    "latitude": -18.01667,
+    "longitude": 21.38333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12849840,
+    "name": "Garas",
+    "latitude": -19.02608,
+    "longitude": 13.43676,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12560903,
+    "name": "Garup",
+    "latitude": -25.98261,
+    "longitude": 16.44777,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371316,
+    "name": "Gatdam",
+    "latitude": -22.48861,
+    "longitude": 17.48222,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357386,
+    "name": "Gauchab",
+    "latitude": -22.83971,
+    "longitude": 17.39134,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13061011,
+    "name": "Gauchas",
+    "latitude": -21.28672,
+    "longitude": 14.62349,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12556932,
+    "name": "Gauguab",
+    "latitude": -25.77347,
+    "longitude": 16.70329,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357353,
+    "name": "Geelkop",
+    "latitude": -23.07459,
+    "longitude": 17.03022,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12576097,
+    "name": "Geelperd",
+    "latitude": -27.41679,
+    "longitude": 16.81674,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12530934,
+    "name": "Geelplaat",
+    "latitude": -26.89633,
+    "longitude": 18.77478,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12565400,
+    "name": "Geimosis",
+    "latitude": -26.12249,
+    "longitude": 16.61971,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12532678,
+    "name": "Gellap",
+    "latitude": -26.43435,
+    "longitude": 17.97193,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357317,
+    "name": "Gemsbokberg",
+    "latitude": -28.35583,
+    "longitude": 17.77332,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357294,
+    "name": "Giams",
+    "latitude": -27.03256,
+    "longitude": 16.06541,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12806803,
+    "name": "Giraffenberge",
+    "latitude": -18.36456,
+    "longitude": 13.284,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12718340,
+    "name": "Giselaberg",
+    "latitude": -22.69432,
+    "longitude": 15.79541,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12530664,
+    "name": "Glatze",
+    "latitude": -27.10481,
+    "longitude": 15.96569,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357276,
+    "name": "Glockenberg",
+    "latitude": -27.33794,
+    "longitude": 18.53856,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357274,
+    "name": "Glynberg",
+    "latitude": -22.39289,
+    "longitude": 16.54612,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357262,
+    "name": "Goagos",
+    "latitude": -23.16026,
+    "longitude": 15.75781,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12556930,
+    "name": "Goais",
+    "latitude": -25.96009,
+    "longitude": 16.88962,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12556931,
+    "name": "Goaiser Kanzel",
+    "latitude": -25.94127,
+    "longitude": 16.99263,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357247,
+    "name": "Gobabis",
+    "latitude": -22.45338,
+    "longitude": 18.97159,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12728561,
+    "name": "Gomatsarab Kegel",
+    "latitude": -21.03811,
+    "longitude": 14.62311,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357208,
+    "name": "Gomgurib",
+    "latitude": -19.07615,
+    "longitude": 13.72075,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357206,
+    "name": "Gomtsawibberg",
+    "latitude": -28.16066,
+    "longitude": 16.80369,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12520601,
+    "name": "Gondwana Cañon Park",
+    "latitude": -27.69699,
+    "longitude": 17.83357,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357200,
+    "name": "Goodhouse se Poort",
+    "latitude": -28.8,
+    "longitude": 18.25,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357195,
+    "name": "Goreangab Dam",
+    "latitude": -22.52826,
+    "longitude": 17.01698,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 877277,
+    "name": "Gororo",
+    "latitude": -18.03333,
+    "longitude": 21.43333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12553348,
+    "name": "Gorrasis",
+    "latitude": -25.2961,
+    "longitude": 15.9639,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357183,
+    "name": "Gorus",
+    "latitude": -27.57941,
+    "longitude": 17.29187,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3367540,
+    "name": "Goum-Goum Falls",
+    "latitude": -28.86667,
+    "longitude": 18.83333,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357175,
+    "name": "Graberberg",
+    "latitude": -27.32918,
+    "longitude": 18.76487,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357167,
+    "name": "Graskuppe",
+    "latitude": -27.6,
+    "longitude": 17.95,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357164,
+    "name": "Graspforte",
+    "latitude": -26.73333,
+    "longitude": 16.16667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357161,
+    "name": "Grasvleikop",
+    "latitude": -28.09564,
+    "longitude": 19.48204,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12536450,
+    "name": "Grau",
+    "latitude": -26.2058,
+    "longitude": 18.19121,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12574400,
+    "name": "Graukegel",
+    "latitude": -26.60805,
+    "longitude": 16.61399,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357151,
+    "name": "Gray Hill",
+    "latitude": -28.43333,
+    "longitude": 17.5,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357145,
+    "name": "Great Table Mountain",
+    "latitude": -20.96667,
+    "longitude": 13.58333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357143,
+    "name": "Grenzberg",
+    "latitude": -27.8804,
+    "longitude": 18.57827,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13060799,
+    "name": "Grimmrücken",
+    "latitude": -22.89009,
+    "longitude": 17.6949,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12519871,
+    "name": "Groot Karasberg",
+    "latitude": -27.57159,
+    "longitude": 18.58349,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357109,
+    "name": "Groot Kleeberg",
+    "latitude": -22.56841,
+    "longitude": 18.09786,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357108,
+    "name": "Groot Lowenberg",
+    "latitude": -26.52009,
+    "longitude": 16.28137,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357096,
+    "name": "Groot Rooiberg",
+    "latitude": -21.88693,
+    "longitude": 15.6484,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12520605,
+    "name": "Groot-Droeboom",
+    "latitude": -27.59777,
+    "longitude": 17.59815,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13454728,
+    "name": "Grootberg",
+    "latitude": -19.90066,
+    "longitude": 14.08868,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357122,
+    "name": "Grootberg Quabis",
+    "latitude": -22.86864,
+    "longitude": 15.90065,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357114,
+    "name": "Grootfontein",
+    "latitude": -19.57328,
+    "longitude": 18.1003,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12693733,
+    "name": "Grosse Massiv",
+    "latitude": -22.31805,
+    "longitude": 16.90592,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357085,
+    "name": "Grosse Münzenberg",
+    "latitude": -27.01193,
+    "longitude": 15.72798,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357076,
+    "name": "Grosse Spitzkuppe",
+    "latitude": -21.8235,
+    "longitude": 15.169,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13061000,
+    "name": "Grosser Gottlieb 1",
+    "latitude": -21.48164,
+    "longitude": 15.61617,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13061001,
+    "name": "Grosser Gottlieb 2",
+    "latitude": -21.4689,
+    "longitude": 15.65147,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357083,
+    "name": "Grossherzog Friedrich Berg",
+    "latitude": -22.70942,
+    "longitude": 17.06056,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357081,
+    "name": "Grosskopf",
+    "latitude": -22.59442,
+    "longitude": 19.67771,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357067,
+    "name": "Grundorn",
+    "latitude": -27.54243,
+    "longitude": 18.26831,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12530754,
+    "name": "Gründorn Amkaus",
+    "latitude": -27.42404,
+    "longitude": 18.1765,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13100086,
+    "name": "Guchab Nase",
+    "latitude": -25.67429,
+    "longitude": 16.51497,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357056,
+    "name": "Gudenberg",
+    "latitude": -22.47209,
+    "longitude": 16.51096,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357041,
+    "name": "Guinasibberg",
+    "latitude": -25.26442,
+    "longitude": 15.50998,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12561724,
+    "name": "Gumchavib",
+    "latitude": -28.13801,
+    "longitude": 16.77786,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3357026,
+    "name": "Güntherberg",
+    "latitude": -22.94583,
+    "longitude": 16.10258,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356986,
+    "name": "Haanberg",
+    "latitude": -28.69377,
+    "longitude": 18.65495,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356992,
+    "name": "Habibberge",
+    "latitude": -22.05781,
+    "longitude": 15.79504,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12655349,
+    "name": "Habuab",
+    "latitude": -23.39264,
+    "longitude": 15.92399,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12560910,
+    "name": "Hahnenkamm",
+    "latitude": -25.64362,
+    "longitude": 16.46221,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356979,
+    "name": "Haibforte",
+    "latitude": -28.63333,
+    "longitude": 17.88333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3367073,
+    "name": "Halifax Island",
+    "latitude": -26.65098,
+    "longitude": 15.07998,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356958,
+    "name": "Halley Höhe",
+    "latitude": -22.37841,
+    "longitude": 16.60586,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356952,
+    "name": "Hamisberg",
+    "latitude": -23.00389,
+    "longitude": 17.43045,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356932,
+    "name": "Hardap Dam",
+    "latitude": -24.49683,
+    "longitude": 17.83863,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356923,
+    "name": "Haribes Dam",
+    "latitude": -24.62563,
+    "longitude": 17.53323,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356919,
+    "name": "Harichab",
+    "latitude": -27,
+    "longitude": 16.86667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12566772,
+    "name": "Harisberg",
+    "latitude": -27.70835,
+    "longitude": 16.73063,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12693726,
+    "name": "Harnischkop",
+    "latitude": -22.9834,
+    "longitude": 16.25628,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12574409,
+    "name": "Harris",
+    "latitude": -26.94664,
+    "longitude": 16.68093,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356905,
+    "name": "Hartebeeskop",
+    "latitude": -20.68725,
+    "longitude": 16.78572,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356896,
+    "name": "Hartigkuppe",
+    "latitude": -22.85638,
+    "longitude": 16.27311,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12565607,
+    "name": "Haruchas",
+    "latitude": -26.06037,
+    "longitude": 16.26506,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12531256,
+    "name": "Hasenkopje",
+    "latitude": -26.83167,
+    "longitude": 19.43392,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356872,
+    "name": "Hauneib",
+    "latitude": -23.35317,
+    "longitude": 16.85929,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356870,
+    "name": "Haynschlucht",
+    "latitude": -22.45663,
+    "longitude": 17.13936,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12574396,
+    "name": "Heigums",
+    "latitude": -26.89443,
+    "longitude": 16.96085,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356854,
+    "name": "Heinrichsberg",
+    "latitude": -23.20795,
+    "longitude": 15.48457,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356852,
+    "name": "Heioab",
+    "latitude": -27.41881,
+    "longitude": 15.98535,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12718330,
+    "name": "Heisseb",
+    "latitude": -22.97815,
+    "longitude": 15.92881,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12718704,
+    "name": "Helao Nafidi",
+    "latitude": -17.39321,
+    "longitude": 15.89107,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12553305,
+    "name": "Helnehietl",
+    "latitude": -24.8527,
+    "longitude": 15.99272,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356832,
+    "name": "Henties Bay",
+    "latitude": -22.11609,
+    "longitude": 14.28394,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356817,
+    "name": "Heuningberg",
+    "latitude": -20.37827,
+    "longitude": 16.77891,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356812,
+    "name": "Heynrichskuppe",
+    "latitude": -25.21067,
+    "longitude": 16.52977,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356807,
+    "name": "Hintere Rote Berge",
+    "latitude": -23.36667,
+    "longitude": 16.23333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 877267,
+    "name": "Hippo Island",
+    "latitude": -17.49297,
+    "longitude": 24.33812,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356798,
+    "name": "Hoamasberg",
+    "latitude": -22.92808,
+    "longitude": 16.51302,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12718363,
+    "name": "Hoasib",
+    "latitude": -22.9786,
+    "longitude": 15.88418,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356780,
+    "name": "Hochland",
+    "latitude": -27.1354,
+    "longitude": 18.3589,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356778,
+    "name": "Hochstein",
+    "latitude": -27.87283,
+    "longitude": 17.63209,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356777,
+    "name": "Höchster",
+    "latitude": -27.3072,
+    "longitude": 15.82371,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356767,
+    "name": "Hoffnung Dam",
+    "latitude": -22.53585,
+    "longitude": 17.19605,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356740,
+    "name": "Hohe Windhoek",
+    "latitude": -22.58211,
+    "longitude": 17.10685,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356760,
+    "name": "Hohekante",
+    "latitude": -23.09811,
+    "longitude": 16.28977,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12530590,
+    "name": "Hohenfels",
+    "latitude": -27.13536,
+    "longitude": 18.95415,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12727410,
+    "name": "Hohenstein",
+    "latitude": -21.72819,
+    "longitude": 15.52852,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12630985,
+    "name": "Hohenzollerberg",
+    "latitude": -27.86196,
+    "longitude": 17.21479,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356750,
+    "name": "Hohenzollern Mountain",
+    "latitude": -22.38183,
+    "longitude": 16.93135,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356748,
+    "name": "Hoher Rücken",
+    "latitude": -27.97841,
+    "longitude": 16.13582,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356746,
+    "name": "Hoher Schein",
+    "latitude": -22.92918,
+    "longitude": 17.38392,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356749,
+    "name": "Hoherberg",
+    "latitude": -26.4447,
+    "longitude": 15.30585,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356743,
+    "name": "Hohlenberg",
+    "latitude": -26.60926,
+    "longitude": 15.50376,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371211,
+    "name": "Hollandsbird Island",
+    "latitude": -24.63922,
+    "longitude": 14.53114,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12520607,
+    "name": "Holoog",
+    "latitude": -27.54047,
+    "longitude": 17.93501,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356730,
+    "name": "Holoogberg",
+    "latitude": -27.54047,
+    "longitude": 17.93501,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12630980,
+    "name": "Hons",
+    "latitude": -27.51571,
+    "longitude": 17.24283,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12532658,
+    "name": "Hoogland",
+    "latitude": -26.87207,
+    "longitude": 17.60333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356705,
+    "name": "Horibisberg",
+    "latitude": -22.57519,
+    "longitude": 15.64648,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12728567,
+    "name": "Horn",
+    "latitude": -21.10393,
+    "longitude": 14.53663,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356651,
+    "name": "Humansberg",
+    "latitude": -22.70577,
+    "longitude": 17.50469,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356635,
+    "name": "Hunds",
+    "latitude": -27.36885,
+    "longitude": 19.08155,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12728575,
+    "name": "Hungorob-Spitze",
+    "latitude": -21.20561,
+    "longitude": 14.55779,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356631,
+    "name": "Husabberg",
+    "latitude": -22.68056,
+    "longitude": 15.11087,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3366595,
+    "name": "Ichaboe Island",
+    "latitude": -26.28902,
+    "longitude": 14.93664,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 877032,
+    "name": "Impalila Island",
+    "latitude": -17.77852,
+    "longitude": 25.19848,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356604,
+    "name": "Inachab 5",
+    "latitude": -27.10268,
+    "longitude": 17.56454,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12530781,
+    "name": "Inachab 7",
+    "latitude": -27.20882,
+    "longitude": 17.522,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356602,
+    "name": "Inachabkuppe",
+    "latitude": -27.03297,
+    "longitude": 17.40032,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12536440,
+    "name": "Itsanisis",
+    "latitude": -26.32419,
+    "longitude": 18.12531,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356582,
+    "name": "Jagdberg",
+    "latitude": -22.62143,
+    "longitude": 15.94274,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356579,
+    "name": "Jagerhofberge",
+    "latitude": -20.27458,
+    "longitude": 16.75278,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356577,
+    "name": "Jagkop",
+    "latitude": -24.97898,
+    "longitude": 15.92028,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356574,
+    "name": "Jakkalsberg",
+    "latitude": -19.32103,
+    "longitude": 17.68862,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13095690,
+    "name": "Jojo",
+    "latitude": -17.6042,
+    "longitude": 25.02899,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356552,
+    "name": "Jordanhöhe",
+    "latitude": -17.81392,
+    "longitude": 13.85026,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12849855,
+    "name": "Junesdraai",
+    "latitude": -19.95059,
+    "longitude": 13.92055,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356546,
+    "name": "Jungfrau",
+    "latitude": -22.03313,
+    "longitude": 15.96152,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356535,
+    "name": "Kabere",
+    "latitude": -18.73093,
+    "longitude": 12.84386,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12728577,
+    "name": "Kafarakt",
+    "latitude": -21.15511,
+    "longitude": 14.53771,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356521,
+    "name": "Kahlenberg",
+    "latitude": -28.53333,
+    "longitude": 19.23333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356520,
+    "name": "Kahlerberg",
+    "latitude": -26.62088,
+    "longitude": 16.30399,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356519,
+    "name": "Kahlkopf",
+    "latitude": -22.50678,
+    "longitude": 17.11489,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356511,
+    "name": "Kaiser Wilhelm Berg",
+    "latitude": -22.61477,
+    "longitude": 17.02582,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356498,
+    "name": "Kakombo Berg",
+    "latitude": -20.75,
+    "longitude": 15.73333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 877233,
+    "name": "Kakumba Island",
+    "latitude": -17.78333,
+    "longitude": 25.25,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13095731,
+    "name": "Kalala",
+    "latitude": -17.71768,
+    "longitude": 25.09486,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 877224,
+    "name": "Kalimbeza Island",
+    "latitude": -17.52481,
+    "longitude": 24.52669,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12565398,
+    "name": "Kalk",
+    "latitude": -26.18201,
+    "longitude": 16.65527,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12534003,
+    "name": "Kalkrand",
+    "latitude": -26.83739,
+    "longitude": 19.53819,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356462,
+    "name": "Kamberg",
+    "latitude": -27.39543,
+    "longitude": 18.37352,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356454,
+    "name": "Kameelberg",
+    "latitude": -18.34695,
+    "longitude": 13.60375,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356429,
+    "name": "Kamelberg",
+    "latitude": -22.6408,
+    "longitude": 17.1592,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12556929,
+    "name": "Kammberg",
+    "latitude": -25.92446,
+    "longitude": 16.60711,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356401,
+    "name": "Kanebis",
+    "latitude": -27.77025,
+    "longitude": 17.82123,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356390,
+    "name": "Kanonenberg",
+    "latitude": -22.78844,
+    "longitude": 17.19294,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12519859,
+    "name": "Kanus",
+    "latitude": -27.79506,
+    "longitude": 18.60833,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356378,
+    "name": "Kanuspforte",
+    "latitude": -26.55,
+    "longitude": 16.15,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12770076,
+    "name": "Kapwakaraberg",
+    "latitude": -20.99762,
+    "longitude": 16.6168,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12536435,
+    "name": "Karakanas",
+    "latitude": -26.18648,
+    "longitude": 18.105,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12530932,
+    "name": "Karasberg",
+    "latitude": -26.94178,
+    "longitude": 18.83171,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356343,
+    "name": "Karasburg",
+    "latitude": -28.01658,
+    "longitude": 18.74797,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356342,
+    "name": "Karashohe",
+    "latitude": -27.21237,
+    "longitude": 18.13966,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 877201,
+    "name": "Karatia",
+    "latitude": -18.08333,
+    "longitude": 21.53333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356332,
+    "name": "Karibib",
+    "latitude": -21.93554,
+    "longitude": 15.85654,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12718365,
+    "name": "Karikas",
+    "latitude": -22.98279,
+    "longitude": 15.70911,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12693702,
+    "name": "Karlsfelsen",
+    "latitude": -22.52538,
+    "longitude": 16.12448,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 877178,
+    "name": "Katima Mulilo",
+    "latitude": -17.50467,
+    "longitude": 24.27574,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 877174,
+    "name": "Katoya Ka Musisanyane Island",
+    "latitude": -17.5,
+    "longitude": 24.65,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356292,
+    "name": "Katzberg",
+    "latitude": -22.25899,
+    "longitude": 16.83839,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356280,
+    "name": "Kaukuruspoort",
+    "latitude": -22.78333,
+    "longitude": 18.16667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356275,
+    "name": "Kavariberg",
+    "latitude": -22.28096,
+    "longitude": 16.98967,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356264,
+    "name": "Keetmanshoop",
+    "latitude": -26.57654,
+    "longitude": 18.13359,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356261,
+    "name": "Kegelberg",
+    "latitude": -27.58623,
+    "longitude": 16.42805,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13060851,
+    "name": "Kegelkop",
+    "latitude": -22.05849,
+    "longitude": 16.23881,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356247,
+    "name": "Kempinskiberg",
+    "latitude": -22.6692,
+    "longitude": 17.13351,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12693685,
+    "name": "Khomas",
+    "latitude": -22.49397,
+    "longitude": 16.64843,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356213,
+    "name": "Khorixas",
+    "latitude": -20.37711,
+    "longitude": 14.96203,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356209,
+    "name": "Khowarib",
+    "latitude": -19.27961,
+    "longitude": 13.87724,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356198,
+    "name": "Kinaskop",
+    "latitude": -27.03812,
+    "longitude": 19.20738,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356191,
+    "name": "Kirchberg",
+    "latitude": -26.23368,
+    "longitude": 15.75619,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12530952,
+    "name": "Kiriis",
+    "latitude": -26.6389,
+    "longitude": 18.84282,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356184,
+    "name": "Klammerberg",
+    "latitude": -26.60889,
+    "longitude": 15.39415,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356153,
+    "name": "Klein Etjo",
+    "latitude": -21.08066,
+    "longitude": 16.42462,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356149,
+    "name": "Klein Gamsberg",
+    "latitude": -23.33144,
+    "longitude": 16.25564,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12520612,
+    "name": "Klein Karas",
+    "latitude": -27.56523,
+    "longitude": 18.04714,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12693706,
+    "name": "Klein Okariro",
+    "latitude": -22.42925,
+    "longitude": 16.64231,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356118,
+    "name": "Klein Omatako",
+    "latitude": -21.27093,
+    "longitude": 16.8132,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356113,
+    "name": "Klein Paresis",
+    "latitude": -20.49228,
+    "longitude": 16.31125,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12727324,
+    "name": "Klein Rooiberg",
+    "latitude": -21.96377,
+    "longitude": 15.60537,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356110,
+    "name": "Klein Spitzkuppe",
+    "latitude": -21.85609,
+    "longitude": 15.05195,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356104,
+    "name": "Klein Waterberg",
+    "latitude": -20.67839,
+    "longitude": 17.0594,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356133,
+    "name": "Kleine Kuppe",
+    "latitude": -22.6346,
+    "longitude": 17.10213,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12530685,
+    "name": "Kleine Münzenberg",
+    "latitude": -27.00476,
+    "longitude": 15.71879,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356155,
+    "name": "Kleiner Löwenberg",
+    "latitude": -26.58333,
+    "longitude": 16.31667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356154,
+    "name": "Kleiner Tsirub",
+    "latitude": -26.78333,
+    "longitude": 16.06667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12553952,
+    "name": "Kleinfonteiner Nase",
+    "latitude": -25.1838,
+    "longitude": 16.83903,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12561460,
+    "name": "Klinghardtberge",
+    "latitude": -27.2318,
+    "longitude": 15.77409,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12576100,
+    "name": "Kliphoek",
+    "latitude": -27.28419,
+    "longitude": 16.70772,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12630975,
+    "name": "Kliphoop",
+    "latitude": -27.34765,
+    "longitude": 17.11584,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356082,
+    "name": "Kliprucken",
+    "latitude": -27.36705,
+    "longitude": 17.11275,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355917,
+    "name": "Koamsib",
+    "latitude": -27.97614,
+    "longitude": 17.08219,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356074,
+    "name": "Koanusberg",
+    "latitude": -22.60956,
+    "longitude": 17.56023,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356067,
+    "name": "Kobuserberg",
+    "latitude": -23.64802,
+    "longitude": 16.67321,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356060,
+    "name": "Koedoeberg",
+    "latitude": -23.24226,
+    "longitude": 17.03629,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12530752,
+    "name": "Koedoekoppies",
+    "latitude": -27.49375,
+    "longitude": 18.35515,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356035,
+    "name": "Koiimassis Nase",
+    "latitude": -25.8761,
+    "longitude": 16.31059,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12566781,
+    "name": "Koivib",
+    "latitude": -27.81958,
+    "longitude": 16.65636,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12520963,
+    "name": "Koker",
+    "latitude": -28.22586,
+    "longitude": 18.0389,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356021,
+    "name": "Komaquara",
+    "latitude": -18.25,
+    "longitude": 14.5,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356020,
+    "name": "Komaseck",
+    "latitude": -22.24802,
+    "longitude": 16.85503,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356008,
+    "name": "Königstein",
+    "latitude": -21.14935,
+    "longitude": 14.57766,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3356003,
+    "name": "Konubberg",
+    "latitude": -23.55537,
+    "longitude": 16.80939,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12560902,
+    "name": "Korais",
+    "latitude": -25.85914,
+    "longitude": 16.44095,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355978,
+    "name": "Kosberg",
+    "latitude": -23.20936,
+    "longitude": 16.1146,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355970,
+    "name": "Kotze Diamantkop",
+    "latitude": -27.96694,
+    "longitude": 16.33656,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355940,
+    "name": "Kransberg",
+    "latitude": -21.50393,
+    "longitude": 15.81414,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355939,
+    "name": "Krantzberg",
+    "latitude": -27.16582,
+    "longitude": 18.93001,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355937,
+    "name": "Kranz Kuppen",
+    "latitude": -18.68199,
+    "longitude": 13.89043,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12672230,
+    "name": "Kranzneusberge",
+    "latitude": -22.89547,
+    "longitude": 17.1634,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 877152,
+    "name": "Kremetartkop",
+    "latitude": -19.85978,
+    "longitude": 20.90919,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12553704,
+    "name": "Kronenberg",
+    "latitude": -25.48149,
+    "longitude": 16.36825,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12527708,
+    "name": "Kubub",
+    "latitude": -27.98573,
+    "longitude": 19.09061,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355895,
+    "name": "Kuckaus",
+    "latitude": -26.98478,
+    "longitude": 16.19186,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355885,
+    "name": "Kudu Kessel",
+    "latitude": -27.4,
+    "longitude": 18.38333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355887,
+    "name": "Kuduberg",
+    "latitude": -22.61807,
+    "longitude": 17.14627,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12693687,
+    "name": "Kuduspitze",
+    "latitude": -22.13813,
+    "longitude": 16.25492,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12574403,
+    "name": "Kuibskuppe",
+    "latitude": -26.68196,
+    "longitude": 16.87839,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355870,
+    "name": "Kuiseb Canyon",
+    "latitude": -23.3848,
+    "longitude": 15.66516,
+    "category": "Mountain",
+    "subcategory": "Canyon",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12560908,
+    "name": "Kumbis",
+    "latitude": -25.64176,
+    "longitude": 16.03767,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355853,
+    "name": "Kunenestein",
+    "latitude": -17.43723,
+    "longitude": 14.03381,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355847,
+    "name": "Kunistein",
+    "latitude": -22.21916,
+    "longitude": 17.48062,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12556921,
+    "name": "Kunjas",
+    "latitude": -25.94385,
+    "longitude": 16.71851,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11280764,
+    "name": "Kwandu Conservancy",
+    "latitude": -17.7423,
+    "longitude": 23.33487,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355818,
+    "name": "Lagerberg",
+    "latitude": -27.11667,
+    "longitude": 15.51667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355801,
+    "name": "Langberg",
+    "latitude": -20.95015,
+    "longitude": 16.23161,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355800,
+    "name": "Langeberg",
+    "latitude": -19.60167,
+    "longitude": 17.04662,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355797,
+    "name": "Langer Rücken",
+    "latitude": -22.74579,
+    "longitude": 16.98917,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12672231,
+    "name": "Lassberg",
+    "latitude": -22.47184,
+    "longitude": 17.94476,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355778,
+    "name": "Leeuberg",
+    "latitude": -23.83899,
+    "longitude": 17.00712,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355757,
+    "name": "Lekkerwaterpoort",
+    "latitude": -23.41667,
+    "longitude": 17.53333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355746,
+    "name": "Leopard’s Drink",
+    "latitude": -22.88703,
+    "longitude": 15.75302,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355747,
+    "name": "Leopardenberg",
+    "latitude": -21.96197,
+    "longitude": 16.80215,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 877141,
+    "name": "Liambezi Lake",
+    "latitude": -17.92244,
+    "longitude": 24.28981,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355731,
+    "name": "Lichtenstein",
+    "latitude": -22.76779,
+    "longitude": 16.97801,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12761856,
+    "name": "Liebenberg",
+    "latitude": -20.19769,
+    "longitude": 17.04599,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355724,
+    "name": "Liebenstein",
+    "latitude": -22.73428,
+    "longitude": 17.0343,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12528009,
+    "name": "Liefdood",
+    "latitude": -27.29146,
+    "longitude": 19.40719,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355719,
+    "name": "Lievenberg",
+    "latitude": -22.2676,
+    "longitude": 16.35039,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12727409,
+    "name": "Lions Head",
+    "latitude": -21.76255,
+    "longitude": 15.70164,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12552980,
+    "name": "Loerkuppe",
+    "latitude": -24.90786,
+    "longitude": 16.70045,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355709,
+    "name": "Logan’s Island",
+    "latitude": -18.78449,
+    "longitude": 15.88417,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355703,
+    "name": "Lord Hill",
+    "latitude": -27.18106,
+    "longitude": 18.72918,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355699,
+    "name": "Lorelei",
+    "latitude": -28.0368,
+    "longitude": 16.96358,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355695,
+    "name": "Losberg",
+    "latitude": -25.06819,
+    "longitude": 16.02945,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12814655,
+    "name": "Loskop",
+    "latitude": -19.50415,
+    "longitude": 15.00251,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355681,
+    "name": "Löwenberg",
+    "latitude": -22.02689,
+    "longitude": 16.67523,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355680,
+    "name": "Lowenhaupt",
+    "latitude": -22.5343,
+    "longitude": 17.13527,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355672,
+    "name": "Lüderitz",
+    "latitude": -26.64807,
+    "longitude": 15.15383,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355669,
+    "name": "Ludwigkop",
+    "latitude": -22.48344,
+    "longitude": 17.25398,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355668,
+    "name": "Luftenberg",
+    "latitude": -27.31727,
+    "longitude": 17.35836,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355666,
+    "name": "Luginsland",
+    "latitude": -28.33912,
+    "longitude": 18.49315,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 877116,
+    "name": "Lupala Island",
+    "latitude": -18.36563,
+    "longitude": 23.69948,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 877109,
+    "name": "Mabala Island",
+    "latitude": -17.56667,
+    "longitude": 25.01667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 877098,
+    "name": "Majenga Island",
+    "latitude": -18.06667,
+    "longitude": 21.48333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12561468,
+    "name": "Maltitz",
+    "latitude": -27.54542,
+    "longitude": 15.67676,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13095752,
+    "name": "Mansu",
+    "latitude": -17.69858,
+    "longitude": 24.99705,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355595,
+    "name": "Mariental",
+    "latitude": -24.62705,
+    "longitude": 17.96471,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12630986,
+    "name": "Marikas",
+    "latitude": -28.14613,
+    "longitude": 17.37242,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12728585,
+    "name": "Mason Shelter",
+    "latitude": -21.08406,
+    "longitude": 14.59877,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12630984,
+    "name": "Matenda",
+    "latitude": -27.72512,
+    "longitude": 17.22515,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13095733,
+    "name": "Maumbezi Lake",
+    "latitude": -17.6605,
+    "longitude": 24.32125,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3364190,
+    "name": "Mercury Island",
+    "latitude": -25.71946,
+    "longitude": 14.83293,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355528,
+    "name": "Merensky Dam",
+    "latitude": -26.44931,
+    "longitude": 18.08219,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13060934,
+    "name": "Merker",
+    "latitude": -21.94983,
+    "longitude": 16.98322,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355495,
+    "name": "Mickberg",
+    "latitude": -27.55355,
+    "longitude": 18.52806,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355481,
+    "name": "Moltkeblick",
+    "latitude": -22.65142,
+    "longitude": 17.1794,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12561467,
+    "name": "Monsuon",
+    "latitude": -27.54197,
+    "longitude": 15.85312,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355471,
+    "name": "Monte Christo",
+    "latitude": -22.40856,
+    "longitude": 16.96426,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355448,
+    "name": "Morgenberg",
+    "latitude": -27.38536,
+    "longitude": 16.14928,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12503603,
+    "name": "Mount Abbabis",
+    "latitude": -22.17597,
+    "longitude": 15.70216,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13037536,
+    "name": "Mudumu National park",
+    "latitude": -18.06342,
+    "longitude": 23.56436,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12536449,
+    "name": "Nabaos",
+    "latitude": -26.38225,
+    "longitude": 18.02331,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12630987,
+    "name": "Nabas",
+    "latitude": -28.27997,
+    "longitude": 17.39403,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12122940,
+    "name": "Nageib",
+    "latitude": -19.63966,
+    "longitude": 17.59046,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12553706,
+    "name": "Nagel",
+    "latitude": -25.31757,
+    "longitude": 16.22121,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12728568,
+    "name": "Naib-Spitze",
+    "latitude": -21.07566,
+    "longitude": 14.4969,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355365,
+    "name": "Naibberg",
+    "latitude": -22.34857,
+    "longitude": 15.64731,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12561465,
+    "name": "Namiams",
+    "latitude": -27.37999,
+    "longitude": 15.93499,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12553345,
+    "name": "Namib Nauluft Park",
+    "latitude": -25.05366,
+    "longitude": 15.63968,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12553347,
+    "name": "Namib Rand Nature Reserve",
+    "latitude": -25.15536,
+    "longitude": 15.94448,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355335,
+    "name": "Namib-Naukluft National Park",
+    "latitude": -23.08333,
+    "longitude": 15.16667,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8643095,
+    "name": "NamibRand",
+    "latitude": -25,
+    "longitude": 16,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355331,
+    "name": "Namisis North",
+    "latitude": -27.02122,
+    "longitude": 16.86544,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355330,
+    "name": "Namisis South",
+    "latitude": -27.11096,
+    "longitude": 16.87927,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355329,
+    "name": "Namitsis",
+    "latitude": -27.45829,
+    "longitude": 15.86122,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355317,
+    "name": "Namusberg",
+    "latitude": -27.96056,
+    "longitude": 16.89427,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355314,
+    "name": "Namuskluft",
+    "latitude": -27.80753,
+    "longitude": 16.87298,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12532654,
+    "name": "Nanebi",
+    "latitude": -26.96907,
+    "longitude": 17.9708,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 876973,
+    "name": "Nansansi Island",
+    "latitude": -17.77087,
+    "longitude": 25.2015,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 876969,
+    "name": "Nantungu Island",
+    "latitude": -17.63338,
+    "longitude": 25.05011,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12519863,
+    "name": "Nanzes",
+    "latitude": -27.80528,
+    "longitude": 18.82585,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355288,
+    "name": "Naraob",
+    "latitude": -27.67773,
+    "longitude": 19.28413,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355283,
+    "name": "Narichab",
+    "latitude": -22.49176,
+    "longitude": 16.9574,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12530598,
+    "name": "Narudas",
+    "latitude": -27.33867,
+    "longitude": 18.87962,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12574407,
+    "name": "Nastom",
+    "latitude": -26.88944,
+    "longitude": 16.55826,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355254,
+    "name": "Nauaspforte",
+    "latitude": -23.2721,
+    "longitude": 17.75875,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12565610,
+    "name": "Nausspitzkopf",
+    "latitude": -26.10845,
+    "longitude": 16.42318,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355228,
+    "name": "Naute Dam",
+    "latitude": -26.94992,
+    "longitude": 17.97399,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355219,
+    "name": "Naweb",
+    "latitude": -19.15501,
+    "longitude": 13.71161,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 876961,
+    "name": "Ndiyona",
+    "latitude": -18.03892,
+    "longitude": 20.70058,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 876959,
+    "name": "Ndongo",
+    "latitude": -18.1,
+    "longitude": 21.55,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355200,
+    "name": "Neinsberg",
+    "latitude": -19.88181,
+    "longitude": 16.44372,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12565389,
+    "name": "Neisip",
+    "latitude": -26.28634,
+    "longitude": 16.67553,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355187,
+    "name": "Neudammkuppe",
+    "latitude": -22.43889,
+    "longitude": 17.3064,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355144,
+    "name": "Niras",
+    "latitude": -27.44485,
+    "longitude": 16.559,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 876943,
+    "name": "Nkasa Island",
+    "latitude": -18.43221,
+    "longitude": 23.62673,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13037537,
+    "name": "Nkasa Rupara National Park",
+    "latitude": -18.3844,
+    "longitude": 23.64409,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355137,
+    "name": "Nkurenkuru",
+    "latitude": -17.64182,
+    "longitude": 18.61966,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355130,
+    "name": "Noachabeb",
+    "latitude": -27.38218,
+    "longitude": 18.51934,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12527713,
+    "name": "Noibis",
+    "latitude": -27.87168,
+    "longitude": 19.09364,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12693757,
+    "name": "Nomatsaus",
+    "latitude": -22.35926,
+    "longitude": 16.2666,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355097,
+    "name": "Norachaskop",
+    "latitude": -28.06444,
+    "longitude": 18.04747,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355093,
+    "name": "Nordeck",
+    "latitude": -26.89315,
+    "longitude": 18.22147,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355087,
+    "name": "Norotshama",
+    "latitude": -28.36667,
+    "longitude": 17.66667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3363581,
+    "name": "North Long Island",
+    "latitude": -26.82162,
+    "longitude": 15.12575,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12564362,
+    "name": "Nosua",
+    "latitude": -26.44172,
+    "longitude": 17.23028,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355059,
+    "name": "Nubebberg",
+    "latitude": -22.03923,
+    "longitude": 15.62189,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12553701,
+    "name": "Nubib",
+    "latitude": -25.05865,
+    "longitude": 16.03762,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12553700,
+    "name": "Nubibberge",
+    "latitude": -25.10155,
+    "longitude": 16.14745,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355057,
+    "name": "Nubuamisberg",
+    "latitude": -22.48201,
+    "longitude": 17.05295,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355056,
+    "name": "Nubuoros",
+    "latitude": -28.6,
+    "longitude": 17.51667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355040,
+    "name": "Nukurus",
+    "latitude": -23.2742,
+    "longitude": 16.16295,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3355038,
+    "name": "Numaisspitze",
+    "latitude": -27.84879,
+    "longitude": 16.75166,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12728559,
+    "name": "Numasfels",
+    "latitude": -21.13481,
+    "longitude": 14.51043,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12561459,
+    "name": "Numitsoab",
+    "latitude": -27.11802,
+    "longitude": 15.98108,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12527711,
+    "name": "Oas",
+    "latitude": -27.51994,
+    "longitude": 19.13015,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12728580,
+    "name": "Obere-Kaskaden",
+    "latitude": -21.13593,
+    "longitude": 14.54885,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12519879,
+    "name": "Obub",
+    "latitude": -27.88205,
+    "longitude": 18.78583,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354935,
+    "name": "Ohauwa",
+    "latitude": -18.28639,
+    "longitude": 13.9035,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12769963,
+    "name": "Ohiwaberg",
+    "latitude": -20.63919,
+    "longitude": 16.36551,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354909,
+    "name": "Oisib",
+    "latitude": -26.98333,
+    "longitude": 16.18333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354898,
+    "name": "Okahandja",
+    "latitude": -21.98141,
+    "longitude": 16.9029,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354897,
+    "name": "Okahao",
+    "latitude": -17.88758,
+    "longitude": 15.06677,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354895,
+    "name": "Okaheberg",
+    "latitude": -22.37765,
+    "longitude": 18.19843,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354803,
+    "name": "Okahimbo",
+    "latitude": -22.2695,
+    "longitude": 16.79196,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354876,
+    "name": "Okakarara",
+    "latitude": -20.58755,
+    "longitude": 17.45942,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12693727,
+    "name": "Okakoaraberg",
+    "latitude": -22.00905,
+    "longitude": 16.01876,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354869,
+    "name": "Okakora",
+    "latitude": -17.29022,
+    "longitude": 12.85813,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354842,
+    "name": "Okamanga",
+    "latitude": -17.87652,
+    "longitude": 12.86031,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354796,
+    "name": "Okanjandekop",
+    "latitude": -20.5938,
+    "longitude": 16.68456,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354784,
+    "name": "Okapauraberg",
+    "latitude": -20.94058,
+    "longitude": 16.12244,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354773,
+    "name": "Okarukuvisa",
+    "latitude": -20.35787,
+    "longitude": 17.23398,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12693734,
+    "name": "Okatjene",
+    "latitude": -22.1086,
+    "longitude": 16.09636,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12693698,
+    "name": "Okawakuejawaberg",
+    "latitude": -22.2673,
+    "longitude": 16.03517,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354693,
+    "name": "Okenyenya",
+    "latitude": -20.83832,
+    "longitude": 15.3273,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13061008,
+    "name": "Okombahe",
+    "latitude": -21.39073,
+    "longitude": 15.41898,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354672,
+    "name": "Okombepera",
+    "latitude": -21.73164,
+    "longitude": 16.68342,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12693752,
+    "name": "Okonduraberg",
+    "latitude": -22.01313,
+    "longitude": 16.33075,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12770072,
+    "name": "Okonjatiberg",
+    "latitude": -21.00643,
+    "longitude": 16.45765,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354638,
+    "name": "Okorusuberg",
+    "latitude": -20.04661,
+    "longitude": 16.74317,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12908470,
+    "name": "Olukolo",
+    "latitude": -17.0389,
+    "longitude": 13.09922,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12849842,
+    "name": "Oluyombo",
+    "latitude": -19.04942,
+    "longitude": 13.97123,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354519,
+    "name": "Omaheva",
+    "latitude": -17.17415,
+    "longitude": 12.91301,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12908527,
+    "name": "Omahohona",
+    "latitude": -17.87698,
+    "longitude": 13.2063,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354540,
+    "name": "Omaruru",
+    "latitude": -21.42403,
+    "longitude": 15.94611,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12730501,
+    "name": "Omaruru Koppie",
+    "latitude": -21.43156,
+    "longitude": 15.99958,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12730441,
+    "name": "Omatako",
+    "latitude": -21.20309,
+    "longitude": 16.71191,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354535,
+    "name": "Omatako Dam",
+    "latitude": -21.16556,
+    "longitude": 17.16778,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354513,
+    "name": "Omazorowe",
+    "latitude": -17.38184,
+    "longitude": 13.35398,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354483,
+    "name": "Omboroko",
+    "latitude": -20.86891,
+    "longitude": 16.69102,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354480,
+    "name": "Ombotozo",
+    "latitude": -21.64842,
+    "longitude": 16.84005,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354467,
+    "name": "Ombundje",
+    "latitude": -17.72116,
+    "longitude": 13.31013,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354464,
+    "name": "Omburo",
+    "latitude": -21.53939,
+    "longitude": 16.45751,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354450,
+    "name": "Omieveberg",
+    "latitude": -22.04955,
+    "longitude": 17.89602,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354443,
+    "name": "Omitaraberg",
+    "latitude": -22.24525,
+    "longitude": 18.01074,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12908509,
+    "name": "Omunhonga",
+    "latitude": -17.37305,
+    "longitude": 13.19707,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354367,
+    "name": "Omuthiya",
+    "latitude": -18.36463,
+    "longitude": 16.58146,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12849857,
+    "name": "Omutirapo",
+    "latitude": -19.13307,
+    "longitude": 13.95325,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354349,
+    "name": "Omuwerumepoort",
+    "latitude": -20.61667,
+    "longitude": 17.11667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354266,
+    "name": "Onanis",
+    "latitude": -22.75775,
+    "longitude": 15.65004,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354247,
+    "name": "Ondangwa",
+    "latitude": -17.90824,
+    "longitude": 15.98037,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12718705,
+    "name": "Ondangwa East",
+    "latitude": -17.93021,
+    "longitude": 16.0172,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354228,
+    "name": "Ondjamu",
+    "latitude": -17.81897,
+    "longitude": 12.78695,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354227,
+    "name": "Ondjeombaranga",
+    "latitude": -22.20849,
+    "longitude": 16.05445,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12726061,
+    "name": "Ondjona",
+    "latitude": -21.78039,
+    "longitude": 17.56097,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12908463,
+    "name": "Ondonga",
+    "latitude": -17.22194,
+    "longitude": 12.94823,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354213,
+    "name": "Ondorusu Falls",
+    "latitude": -17.40366,
+    "longitude": 13.93124,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354205,
+    "name": "Onduno",
+    "latitude": -22.42995,
+    "longitude": 16.87459,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354203,
+    "name": "Ondurakarume",
+    "latitude": -20.76918,
+    "longitude": 16.25625,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354174,
+    "name": "Onganjaberg",
+    "latitude": -22.09007,
+    "longitude": 17.57943,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354172,
+    "name": "Ongeama",
+    "latitude": -17.25563,
+    "longitude": 12.4018,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354147,
+    "name": "Ongwediva",
+    "latitude": -17.77198,
+    "longitude": 15.76564,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13060908,
+    "name": "Onjima",
+    "latitude": -21.79618,
+    "longitude": 16.55017,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354125,
+    "name": "Onyarakaha",
+    "latitude": -17.76904,
+    "longitude": 13.55922,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354094,
+    "name": "Oorlogskop",
+    "latitude": -28.70503,
+    "longitude": 19.07015,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371356,
+    "name": "Oorlogstein",
+    "latitude": -22.62085,
+    "longitude": 17.24789,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12849846,
+    "name": "Oponganga",
+    "latitude": -19.13753,
+    "longitude": 13.569,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354077,
+    "name": "Opuwo",
+    "latitude": -18.06068,
+    "longitude": 13.83998,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12728572,
+    "name": "Orabes Wand",
+    "latitude": -21.18297,
+    "longitude": 14.60972,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12728557,
+    "name": "Orabes-Kopf",
+    "latitude": -21.19621,
+    "longitude": 14.57749,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354071,
+    "name": "Oranjemund",
+    "latitude": -28.55153,
+    "longitude": 16.42728,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354070,
+    "name": "Oranjevalle",
+    "latitude": -28.83333,
+    "longitude": 19.25,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354055,
+    "name": "Orosberg",
+    "latitude": -20.22583,
+    "longitude": 17.0789,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371310,
+    "name": "Oruhunga Mountain",
+    "latitude": -22.28989,
+    "longitude": 17.29868,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354026,
+    "name": "Osanakuppe",
+    "latitude": -22.14499,
+    "longitude": 16.86539,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3354021,
+    "name": "Oshakati",
+    "latitude": -17.78833,
+    "longitude": 15.70436,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12718706,
+    "name": "Osire",
+    "latitude": -21.07391,
+    "longitude": 17.36599,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12553943,
+    "name": "Osis",
+    "latitude": -25.44889,
+    "longitude": 16.82778,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353934,
+    "name": "Otavi",
+    "latitude": -19.63805,
+    "longitude": 17.33986,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13060984,
+    "name": "Otjenga",
+    "latitude": -20.20797,
+    "longitude": 17.10358,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12730456,
+    "name": "Otjihaena",
+    "latitude": -21.09996,
+    "longitude": 16.34975,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12849862,
+    "name": "Otjihavera",
+    "latitude": -19.79351,
+    "longitude": 13.9914,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353902,
+    "name": "Otjihipa",
+    "latitude": -17.84629,
+    "longitude": 12.57769,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353889,
+    "name": "Otjikoko",
+    "latitude": -21.31004,
+    "longitude": 16.37742,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353881,
+    "name": "Otjikoto",
+    "latitude": -19.19469,
+    "longitude": 17.54976,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12730437,
+    "name": "Otjikuberg",
+    "latitude": -21.229,
+    "longitude": 16.82558,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13060967,
+    "name": "Otjimanambura",
+    "latitude": -21.40411,
+    "longitude": 16.5584,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353871,
+    "name": "Otjimbingwe",
+    "latitude": -22.35536,
+    "longitude": 16.12883,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353864,
+    "name": "Otjindu",
+    "latitude": -17.71881,
+    "longitude": 13.15206,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353858,
+    "name": "Otjipawaberge",
+    "latitude": -20.84035,
+    "longitude": 16.29346,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353856,
+    "name": "Otjiperekeheberg",
+    "latitude": -22.02053,
+    "longitude": 16.14085,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353820,
+    "name": "Otjivero Dam",
+    "latitude": -22.28941,
+    "longitude": 17.95393,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353818,
+    "name": "Otjivize",
+    "latitude": -17.61005,
+    "longitude": 13.4182,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353811,
+    "name": "Otjiwarongo",
+    "latitude": -20.46369,
+    "longitude": 16.64772,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12908502,
+    "name": "Otjombuhana",
+    "latitude": -17.91061,
+    "longitude": 12.51608,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353794,
+    "name": "Otjompaue",
+    "latitude": -22.54031,
+    "longitude": 16.88136,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353749,
+    "name": "Ottospoort",
+    "latitude": -25.8,
+    "longitude": 16.33333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371197,
+    "name": "Outapi",
+    "latitude": -17.50375,
+    "longitude": 14.98383,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353715,
+    "name": "Outjo",
+    "latitude": -20.10691,
+    "longitude": 16.15415,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12726089,
+    "name": "Ovikokorero",
+    "latitude": -21.62861,
+    "longitude": 17.36793,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353690,
+    "name": "Ozondjacheberg",
+    "latitude": -20.62481,
+    "longitude": 16.85439,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11821119,
+    "name": "Palm Tree Park",
+    "latitude": -22.56046,
+    "longitude": 17.08155,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353674,
+    "name": "Palmkop",
+    "latitude": -19.91101,
+    "longitude": 14.02141,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12849845,
+    "name": "Palmwag",
+    "latitude": -19.8131,
+    "longitude": 13.89098,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353655,
+    "name": "Paviansberg",
+    "latitude": -22.64214,
+    "longitude": 17.46758,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12536436,
+    "name": "Pavianskranz",
+    "latitude": -26.07106,
+    "longitude": 18.05365,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3362955,
+    "name": "Penguin Island",
+    "latitude": -26.61646,
+    "longitude": 15.15434,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12519864,
+    "name": "Pfingstberg",
+    "latitude": -27.82267,
+    "longitude": 18.67324,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12576096,
+    "name": "Piet Tafel",
+    "latitude": -27.30539,
+    "longitude": 16.86017,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12561463,
+    "name": "Pina",
+    "latitude": -27.26103,
+    "longitude": 15.70338,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3362766,
+    "name": "Plum-pudding Island",
+    "latitude": -27.64205,
+    "longitude": 15.5135,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353608,
+    "name": "Pockenbank",
+    "latitude": -27.18477,
+    "longitude": 16.4258,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3362738,
+    "name": "Pomona Island",
+    "latitude": -27.19404,
+    "longitude": 15.25821,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353599,
+    "name": "Poortberge",
+    "latitude": -25.78166,
+    "longitude": 16.3256,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 876914,
+    "name": "Popa Falls",
+    "latitude": -18.1162,
+    "longitude": 21.58262,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353591,
+    "name": "Potberg",
+    "latitude": -22.42678,
+    "longitude": 15.77149,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353587,
+    "name": "Prinz-Heinrichberg",
+    "latitude": -22.16492,
+    "longitude": 17.1584,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12630965,
+    "name": "Quartzite",
+    "latitude": -28.50552,
+    "longitude": 17.37451,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353574,
+    "name": "Quartzkoppie",
+    "latitude": -28.44043,
+    "longitude": 19.36827,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353573,
+    "name": "Quarzriff",
+    "latitude": -27.71601,
+    "longitude": 18.40774,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353571,
+    "name": "Quellkuppe",
+    "latitude": -27.21667,
+    "longitude": 15.7,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353551,
+    "name": "Ravensberg",
+    "latitude": -22.20062,
+    "longitude": 16.77956,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12520939,
+    "name": "Ravine",
+    "latitude": -28.26606,
+    "longitude": 17.59244,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353547,
+    "name": "Rechenberg",
+    "latitude": -26.35473,
+    "longitude": 15.49111,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353540,
+    "name": "Rehoboth",
+    "latitude": -23.317,
+    "longitude": 17.09,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12556926,
+    "name": "Remmhohe",
+    "latitude": -25.61301,
+    "longitude": 16.80238,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353522,
+    "name": "Richtberg",
+    "latitude": -27.37612,
+    "longitude": 16.98236,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353518,
+    "name": "Riegel",
+    "latitude": -27.54364,
+    "longitude": 18.55283,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353493,
+    "name": "Roastbeef Island",
+    "latitude": -27.93148,
+    "longitude": 15.67522,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353492,
+    "name": "Robbie’s Pass",
+    "latitude": -18.6631,
+    "longitude": 13.51425,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353475,
+    "name": "Rooiberg",
+    "latitude": -28.69046,
+    "longitude": 19.14051,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353465,
+    "name": "Rooifonteinkop",
+    "latitude": -28.45,
+    "longitude": 19.65,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12718366,
+    "name": "Rooikop",
+    "latitude": -22.42218,
+    "longitude": 15.38019,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353452,
+    "name": "Rooilepel",
+    "latitude": -28.25,
+    "longitude": 16.65,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12560909,
+    "name": "Rooirand",
+    "latitude": -25.67878,
+    "longitude": 16.43057,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353433,
+    "name": "Rosaberg",
+    "latitude": -22.61925,
+    "longitude": 17.43255,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353428,
+    "name": "Rosenthal",
+    "latitude": -22.31936,
+    "longitude": 16.71773,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12655348,
+    "name": "Rostockberg",
+    "latitude": -23.42683,
+    "longitude": 15.84428,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353419,
+    "name": "Rostockberge",
+    "latitude": -23.46507,
+    "longitude": 15.84637,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12727317,
+    "name": "Rote Kuppe",
+    "latitude": -21.996,
+    "longitude": 15.8189,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353412,
+    "name": "Rotenfels",
+    "latitude": -27.93065,
+    "longitude": 17.95217,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353410,
+    "name": "Roter Kamm",
+    "latitude": -27.76353,
+    "longitude": 16.30096,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12530679,
+    "name": "Rotkuppe",
+    "latitude": -27.0586,
+    "longitude": 15.58561,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353385,
+    "name": "Rundberg",
+    "latitude": -22.11749,
+    "longitude": 17.6646,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353384,
+    "name": "Rundkop",
+    "latitude": -22.41889,
+    "longitude": 16.09892,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353383,
+    "name": "Rundu",
+    "latitude": -17.91796,
+    "longitude": 19.77314,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353364,
+    "name": "Saagberg",
+    "latitude": -23.72276,
+    "longitude": 15.84985,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353328,
+    "name": "Sambokberg",
+    "latitude": -27.28372,
+    "longitude": 19.54269,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353322,
+    "name": "Sampanberge",
+    "latitude": -27.21184,
+    "longitude": 16.9927,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12727339,
+    "name": "Sandamapberg",
+    "latitude": -21.85426,
+    "longitude": 15.33693,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12182118,
+    "name": "Sandfontein Lodge and Nature Reserve",
+    "latitude": -28.75446,
+    "longitude": 18.58658,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353301,
+    "name": "Sandkop",
+    "latitude": -24.65333,
+    "longitude": 15.93849,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353286,
+    "name": "Sandsteenberg",
+    "latitude": -23.39202,
+    "longitude": 15.90409,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353266,
+    "name": "Sargdeckel",
+    "latitude": -22.02115,
+    "longitude": 15.93189,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353259,
+    "name": "Satanskop",
+    "latitude": -25.45537,
+    "longitude": 15.91435,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353256,
+    "name": "Sattelberg",
+    "latitude": -25.94148,
+    "longitude": 16.22337,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353251,
+    "name": "Schakalberg",
+    "latitude": -22.60151,
+    "longitude": 17.20941,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353244,
+    "name": "Schanzenberg",
+    "latitude": -25.57593,
+    "longitude": 16.61749,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353241,
+    "name": "Schettler",
+    "latitude": -26.76667,
+    "longitude": 16.4,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12574395,
+    "name": "Schieferberg",
+    "latitude": -26.99105,
+    "longitude": 16.57267,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353239,
+    "name": "Schildkrötenberg",
+    "latitude": -22.74866,
+    "longitude": 17.11848,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12566776,
+    "name": "Schlafkuppe",
+    "latitude": -27.76979,
+    "longitude": 16.49886,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353237,
+    "name": "Schlangenberg",
+    "latitude": -22.6195,
+    "longitude": 17.15995,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353221,
+    "name": "Schroffenstein",
+    "latitude": -27.18106,
+    "longitude": 18.72918,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12693712,
+    "name": "Schuckmann Spitze",
+    "latitude": -22.91091,
+    "longitude": 16.1815,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353217,
+    "name": "Schwarzberg",
+    "latitude": -27.85178,
+    "longitude": 19.80553,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353212,
+    "name": "Schwarze Kuppe",
+    "latitude": -23.98333,
+    "longitude": 16,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352222,
+    "name": "Schwarzekuppe",
+    "latitude": -27.64192,
+    "longitude": 16.45416,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12520608,
+    "name": "Schwarzenfels",
+    "latitude": -27.93686,
+    "longitude": 17.93491,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12565402,
+    "name": "Schwarzgrass",
+    "latitude": -26.18132,
+    "longitude": 16.91979,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353205,
+    "name": "Schwarzkopf",
+    "latitude": -22.85979,
+    "longitude": 17.24931,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12538009,
+    "name": "Schwarzrand",
+    "latitude": -25.18831,
+    "longitude": 17.75014,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3361716,
+    "name": "Seal Island",
+    "latitude": -26.59587,
+    "longitude": 15.15641,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353185,
+    "name": "Seeisberg",
+    "latitude": -22.53731,
+    "longitude": 17.68035,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353184,
+    "name": "Seepoort",
+    "latitude": -22.75,
+    "longitude": 18.68333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353183,
+    "name": "Sekelreeks",
+    "latitude": -27.46079,
+    "longitude": 17.17083,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353169,
+    "name": "Sesriem Canyon",
+    "latitude": -24.51883,
+    "longitude": 15.79174,
+    "category": "Mountain",
+    "subcategory": "Canyon",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 876865,
+    "name": "Shadjuku",
+    "latitude": -18.15,
+    "longitude": 21.71667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 876842,
+    "name": "Shaoha Island",
+    "latitude": -18.11667,
+    "longitude": 21.58333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 876834,
+    "name": "Shinyemba Island",
+    "latitude": -17.98333,
+    "longitude": 20.31667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 876825,
+    "name": "Sibanana Island",
+    "latitude": -18.01667,
+    "longitude": 21.41667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 876817,
+    "name": "Sidudu Island",
+    "latitude": -17.8,
+    "longitude": 25.13333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353125,
+    "name": "Signalberg",
+    "latitude": -27.66667,
+    "longitude": 16.3,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13095699,
+    "name": "Sigwe",
+    "latitude": -17.73244,
+    "longitude": 25.02381,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353111,
+    "name": "Sima",
+    "latitude": -19.21221,
+    "longitude": 13.04334,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3361616,
+    "name": "Sinclair’s Island",
+    "latitude": -27.66529,
+    "longitude": 15.52033,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 876787,
+    "name": "Sipalandwe Island",
+    "latitude": -17.7,
+    "longitude": 25.13333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353093,
+    "name": "Sirib",
+    "latitude": -19.13866,
+    "longitude": 13.51824,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353078,
+    "name": "Skaaprivierpoort",
+    "latitude": -23.36667,
+    "longitude": 17.56667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353076,
+    "name": "Skeleton Coast Park",
+    "latitude": -20,
+    "longitude": 13.33333,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353074,
+    "name": "Skerpioenkop",
+    "latitude": -27.71948,
+    "longitude": 16.46575,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12718312,
+    "name": "Skilderkop",
+    "latitude": -22.92787,
+    "longitude": 15.64728,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12520942,
+    "name": "Slate",
+    "latitude": -28.40298,
+    "longitude": 17.95693,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353062,
+    "name": "Slikdam",
+    "latitude": -22.45,
+    "longitude": 15.03333,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353057,
+    "name": "Sneyrivierkopf",
+    "latitude": -22.14925,
+    "longitude": 16.52946,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12531618,
+    "name": "Solo",
+    "latitude": -26.90708,
+    "longitude": 18.01122,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353032,
+    "name": "Sonnabend Hugel",
+    "latitude": -27.19574,
+    "longitude": 19.33004,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353035,
+    "name": "Sonnenberg",
+    "latitude": -28.00588,
+    "longitude": 17.00951,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353029,
+    "name": "Sonnenwende",
+    "latitude": -27.55363,
+    "longitude": 18.9083,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3353008,
+    "name": "South Island",
+    "latitude": -27.94404,
+    "longitude": 15.67611,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3361321,
+    "name": "South Long Island",
+    "latitude": -26.83257,
+    "longitude": 15.1281,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352991,
+    "name": "Sparrow Hawk Island",
+    "latitude": -27.68333,
+    "longitude": 15.53333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352984,
+    "name": "Spieëlberg",
+    "latitude": -27.85495,
+    "longitude": 17.36391,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352976,
+    "name": "Spitskop",
+    "latitude": -27.01332,
+    "longitude": 16.30231,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352971,
+    "name": "Spitzberg",
+    "latitude": -22.60711,
+    "longitude": 17.13871,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352966,
+    "name": "Spitzkuppe Nord",
+    "latitude": -27.2723,
+    "longitude": 15.7423,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12718355,
+    "name": "Stahlhelmberg",
+    "latitude": -22.67165,
+    "longitude": 15.72489,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12527700,
+    "name": "Steenboknek",
+    "latitude": -27.52435,
+    "longitude": 19.14561,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352926,
+    "name": "Stefansberg",
+    "latitude": -22.63253,
+    "longitude": 15.70761,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12519857,
+    "name": "Steinbruch",
+    "latitude": -27.75457,
+    "longitude": 18.7271,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352920,
+    "name": "Steinfeld",
+    "latitude": -27.33333,
+    "longitude": 18.76667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13060779,
+    "name": "Sternberg",
+    "latitude": -22.79752,
+    "longitude": 16.99892,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352904,
+    "name": "Stinkdorn",
+    "latitude": -27.54456,
+    "longitude": 19.09213,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352888,
+    "name": "Stormberg",
+    "latitude": -28.20656,
+    "longitude": 17.22914,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352880,
+    "name": "Straussenkuppe",
+    "latitude": -27.88438,
+    "longitude": 19.50936,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352867,
+    "name": "Stuckenberg",
+    "latitude": -22.7471,
+    "longitude": 16.41983,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352866,
+    "name": "Sturmhaube",
+    "latitude": -26.48428,
+    "longitude": 15.5457,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352844,
+    "name": "Swakopmund",
+    "latitude": -22.67842,
+    "longitude": 14.52663,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352842,
+    "name": "Swakoppoort Dam",
+    "latitude": -22.21203,
+    "longitude": 16.55073,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352834,
+    "name": "Swartberg",
+    "latitude": -28.58463,
+    "longitude": 18.44897,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352824,
+    "name": "Swartkloofberg",
+    "latitude": -27.48283,
+    "longitude": 16.45619,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352816,
+    "name": "Swartkop",
+    "latitude": -28.6911,
+    "longitude": 19.3717,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12520958,
+    "name": "Swartkoppie",
+    "latitude": -28.43758,
+    "longitude": 18.21195,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12576102,
+    "name": "Swartpunt",
+    "latitude": -27.50417,
+    "longitude": 16.72711,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12728590,
+    "name": "Tafel",
+    "latitude": -21.17006,
+    "longitude": 14.42448,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352777,
+    "name": "Tafelberg",
+    "latitude": -28.29895,
+    "longitude": 17.53141,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352769,
+    "name": "Tafelkop",
+    "latitude": -21.11712,
+    "longitude": 14.29255,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12530764,
+    "name": "Tafelkoppe",
+    "latitude": -27.10933,
+    "longitude": 18.26206,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352768,
+    "name": "Taghubberg",
+    "latitude": -22.23771,
+    "longitude": 15.61979,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 876773,
+    "name": "Tanhwe",
+    "latitude": -18.05,
+    "longitude": 21.45,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352759,
+    "name": "Tantusberg",
+    "latitude": -23.13623,
+    "longitude": 16.24632,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352740,
+    "name": "Teufelsberg",
+    "latitude": -22.20339,
+    "longitude": 16.9698,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 876760,
+    "name": "Thipanana",
+    "latitude": -18.02565,
+    "longitude": 21.42527,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352723,
+    "name": "Tien Kilometerkop",
+    "latitude": -28.63333,
+    "longitude": 18.98333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352720,
+    "name": "Tigerberg",
+    "latitude": -27.72113,
+    "longitude": 19.54708,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12565397,
+    "name": "Tiras",
+    "latitude": -26.19454,
+    "longitude": 16.57202,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 876756,
+    "name": "Tjaro",
+    "latitude": -18.08606,
+    "longitude": 21.51115,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12520610,
+    "name": "Toring",
+    "latitude": -27.93061,
+    "longitude": 18.15467,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10175811,
+    "name": "Torra Conservancy",
+    "latitude": -20.41414,
+    "longitude": 14.0062,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12533991,
+    "name": "Toulouse New",
+    "latitude": -26.58632,
+    "longitude": 19.71666,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352655,
+    "name": "Tsabiams",
+    "latitude": -27.16764,
+    "longitude": 15.63399,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12532688,
+    "name": "Tsachab",
+    "latitude": -26.34739,
+    "longitude": 17.80516,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352615,
+    "name": "Tsaukhaibspitze",
+    "latitude": -26.68998,
+    "longitude": 15.64846,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352621,
+    "name": "Tsaus",
+    "latitude": -27.11844,
+    "longitude": 16.17531,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352611,
+    "name": "Tsebrisberg",
+    "latitude": -23.26836,
+    "longitude": 16.91345,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352593,
+    "name": "Tsumeb",
+    "latitude": -19.24842,
+    "longitude": 17.71345,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12655336,
+    "name": "Tumasberg",
+    "latitude": -23.14892,
+    "longitude": 15.51619,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12565401,
+    "name": "Tumaub",
+    "latitude": -26.08579,
+    "longitude": 16.84699,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352575,
+    "name": "Turmberg",
+    "latitude": -22.73355,
+    "longitude": 16.86589,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12525507,
+    "name": "Tweelingbaken",
+    "latitude": -28.61359,
+    "longitude": 18.22042,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12784377,
+    "name": "Twyfelberg",
+    "latitude": -20.07406,
+    "longitude": 14.96154,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352547,
+    "name": "Ubib Dam",
+    "latitude": -28.00285,
+    "longitude": 18.68171,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12520948,
+    "name": "Udabis",
+    "latitude": -28.37971,
+    "longitude": 17.66629,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12528008,
+    "name": "Uib",
+    "latitude": -27.30164,
+    "longitude": 19.22051,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352521,
+    "name": "Uisberge",
+    "latitude": -21.14183,
+    "longitude": 14.88649,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12556911,
+    "name": "Uitkoms",
+    "latitude": -24.89024,
+    "longitude": 16.33315,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12630982,
+    "name": "Uitsig",
+    "latitude": -27.62702,
+    "longitude": 17.1733,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352486,
+    "name": "Ukama Pforte",
+    "latitude": -26.83333,
+    "longitude": 15.58333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352484,
+    "name": "Ukamasberge",
+    "latitude": -28.05144,
+    "longitude": 19.63935,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352481,
+    "name": "Umeis",
+    "latitude": -28.71441,
+    "longitude": 18.7357,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11821135,
+    "name": "UN plaza",
+    "latitude": -22.5206,
+    "longitude": 17.04938,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352476,
+    "name": "Unabib",
+    "latitude": -28.47453,
+    "longitude": 17.82597,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352461,
+    "name": "Usakos",
+    "latitude": -22.00219,
+    "longitude": 15.58601,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352406,
+    "name": "Van Zyl’s Pass",
+    "latitude": -17.66933,
+    "longitude": 12.70202,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352375,
+    "name": "Verloorkoppe",
+    "latitude": -28.51667,
+    "longitude": 18.98333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352372,
+    "name": "Verneukberg",
+    "latitude": -28.0899,
+    "longitude": 17.24991,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371338,
+    "name": "Viereckstein",
+    "latitude": -22.5434,
+    "longitude": 17.15775,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352356,
+    "name": "Vierkopf",
+    "latitude": -28.21667,
+    "longitude": 19.01667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352345,
+    "name": "Visrivier Canyon",
+    "latitude": -27.66804,
+    "longitude": 17.59277,
+    "category": "Mountain",
+    "subcategory": "Canyon",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352336,
+    "name": "Vogelfederberg",
+    "latitude": -23.05732,
+    "longitude": 14.98591,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352328,
+    "name": "Vohsenberg",
+    "latitude": -27.68562,
+    "longitude": 15.52243,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352325,
+    "name": "Voigtsgrund Dam",
+    "latitude": -24.75,
+    "longitude": 17.35,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352318,
+    "name": "Volstruiskloofberg",
+    "latitude": -26.94293,
+    "longitude": 16.93408,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352313,
+    "name": "Von Bach Dam",
+    "latitude": -22.00382,
+    "longitude": 16.96808,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352302,
+    "name": "Vordere Rote Berge",
+    "latitude": -23.36667,
+    "longitude": 16.35,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12533989,
+    "name": "Vryheid",
+    "latitude": -26.75353,
+    "longitude": 19.77238,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352281,
+    "name": "Vyftienberg",
+    "latitude": -23.7092,
+    "longitude": 17.19635,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371305,
+    "name": "Wachter",
+    "latitude": -22.47721,
+    "longitude": 17.12644,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12728582,
+    "name": "Wächter",
+    "latitude": -21.12181,
+    "longitude": 14.62492,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13060933,
+    "name": "Waldauberg",
+    "latitude": -21.9597,
+    "longitude": 16.76927,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13060912,
+    "name": "Waldheimberg",
+    "latitude": -21.99389,
+    "longitude": 16.27144,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3359638,
+    "name": "Walvis Bay",
+    "latitude": -22.9575,
+    "longitude": 14.50528,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352263,
+    "name": "Warmbad",
+    "latitude": -28.44611,
+    "longitude": 18.73569,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12531635,
+    "name": "Warmbakies F.V.P",
+    "latitude": -26.79854,
+    "longitude": 18.4186,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352249,
+    "name": "Wasserkuppe",
+    "latitude": -27.70922,
+    "longitude": 16.42095,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371339,
+    "name": "Wasserort",
+    "latitude": -22.55222,
+    "longitude": 17.17025,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352244,
+    "name": "Waterberg Plateau Park",
+    "latitude": -20.36922,
+    "longitude": 17.32809,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12728574,
+    "name": "Waterfall plain",
+    "latitude": -21.17924,
+    "longitude": 14.55355,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352227,
+    "name": "Weissberg",
+    "latitude": -22.51394,
+    "longitude": 18.16333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12556904,
+    "name": "Weisses Riff",
+    "latitude": -24.98827,
+    "longitude": 16.171,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12814705,
+    "name": "Werda",
+    "latitude": -19.24021,
+    "longitude": 14.39139,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352169,
+    "name": "Wetterkopf",
+    "latitude": -27.79189,
+    "longitude": 17.95049,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352163,
+    "name": "Wiesenrücken",
+    "latitude": -27.55,
+    "longitude": 17.51667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13060911,
+    "name": "Wilhelmstal",
+    "latitude": -21.98984,
+    "longitude": 16.31398,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352136,
+    "name": "Windhoek",
+    "latitude": -22.55941,
+    "longitude": 17.08323,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352132,
+    "name": "Witberg",
+    "latitude": -27.47703,
+    "longitude": 18.45923,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352116,
+    "name": "Witkopberg",
+    "latitude": -22.04327,
+    "longitude": 15.72689,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352097,
+    "name": "Witputz Horn",
+    "latitude": -27.53638,
+    "longitude": 16.60922,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352096,
+    "name": "Witputzkuppe",
+    "latitude": -27.59113,
+    "longitude": 16.7367,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12530593,
+    "name": "Wittenhorst",
+    "latitude": -27.12407,
+    "longitude": 18.643,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352087,
+    "name": "Wittmund",
+    "latitude": -27.30523,
+    "longitude": 18.67399,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12718308,
+    "name": "Witvrouberg",
+    "latitude": -22.8417,
+    "longitude": 15.96596,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352073,
+    "name": "Wolfkop",
+    "latitude": -23.56969,
+    "longitude": 17.03827,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352074,
+    "name": "Wolfsberg",
+    "latitude": -25.23325,
+    "longitude": 16.40616,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11280763,
+    "name": "Wuparo Conservancy",
+    "latitude": -18.2444,
+    "longitude": 23.68511,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352048,
+    "name": "Xabpoort",
+    "latitude": -22.76667,
+    "longitude": 18.65,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 876733,
+    "name": "Xhamukwe",
+    "latitude": -18.05136,
+    "longitude": 21.45175,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352013,
+    "name": "Ysterberg",
+    "latitude": -28.1141,
+    "longitude": 18.12971,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3352005,
+    "name": "Zackenberg",
+    "latitude": -25.78492,
+    "longitude": 16.27485,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371306,
+    "name": "Zagenicht",
+    "latitude": -22.49173,
+    "longitude": 17.12223,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12556912,
+    "name": "Zariser Warte",
+    "latitude": -24.95959,
+    "longitude": 16.38444,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3351994,
+    "name": "Zastroberg",
+    "latitude": -20.25259,
+    "longitude": 17.22031,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3351991,
+    "name": "Zebraberg",
+    "latitude": -23.23129,
+    "longitude": 17.48403,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3351983,
+    "name": "Ziegenberge",
+    "latitude": -22.58115,
+    "longitude": 17.47789,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3351982,
+    "name": "Ziegenrucken",
+    "latitude": -23.56773,
+    "longitude": 16.323,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3351981,
+    "name": "Zisab Spitze",
+    "latitude": -21.1567,
+    "longitude": 14.65037,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3351978,
+    "name": "Zuckerhutberg",
+    "latitude": -22.44642,
+    "longitude": 16.90937,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3351973,
+    "name": "Zweikuppenberg",
+    "latitude": -26.93355,
+    "longitude": 15.33211,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12530675,
+    "name": "Zwischen Den Dunen",
+    "latitude": -26.62482,
+    "longitude": 16.0117,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  }
+]

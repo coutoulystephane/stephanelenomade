@@ -1,0 +1,332 @@
+[
+  {
+    "geonameId": 7603127,
+    "name": "Alofi",
+    "latitude": -8.56846,
+    "longitude": -172.50938,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7603128,
+    "name": "Alofi Lahi",
+    "latitude": -8.573,
+    "longitude": -172.50844,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7603118,
+    "name": "Atafu",
+    "latitude": -8.53464,
+    "longitude": -172.51947,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7522183,
+    "name": "Atafu Village",
+    "latitude": -8.54212,
+    "longitude": -172.51591,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031095,
+    "name": "Fakanava",
+    "latitude": -9.11786,
+    "longitude": -171.86065,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031117,
+    "name": "Fale",
+    "latitude": -9.38574,
+    "longitude": -171.24732,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031110,
+    "name": "Fale old settlement",
+    "latitude": -9.38516,
+    "longitude": -171.24675,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7626193,
+    "name": "Fataliga",
+    "latitude": -9.39656,
+    "longitude": -171.23581,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031109,
+    "name": "Fenua Fala",
+    "latitude": -9.37573,
+    "longitude": -171.26953,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031108,
+    "name": "Fenua Loa",
+    "latitude": -9.44303,
+    "longitude": -171.20661,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7603126,
+    "name": "Fenualoa",
+    "latitude": -8.58393,
+    "longitude": -172.50743,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7603123,
+    "name": "Hakatagu Motu Chain",
+    "latitude": -8.54612,
+    "longitude": -172.48441,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7603133,
+    "name": "Kamu",
+    "latitude": -9.15796,
+    "longitude": -171.85943,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7603119,
+    "name": "Kokoloa",
+    "latitude": -8.53426,
+    "longitude": -172.49544,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031103,
+    "name": "Matagi",
+    "latitude": -9.35831,
+    "longitude": -171.18285,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7626197,
+    "name": "Metu",
+    "latitude": -9.42988,
+    "longitude": -171.19648,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7603130,
+    "name": "Motuhaga",
+    "latitude": -9.20462,
+    "longitude": -171.84528,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031107,
+    "name": "Mulifenua",
+    "latitude": -9.32653,
+    "longitude": -171.21192,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7603138,
+    "name": "Na Taulaga",
+    "latitude": -9.19955,
+    "longitude": -171.7709,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7603131,
+    "name": "Nokunonu",
+    "latitude": -9.19425,
+    "longitude": -171.85531,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031094,
+    "name": "Nukulakia",
+    "latitude": -9.41867,
+    "longitude": -171.21631,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031092,
+    "name": "Nukumatau",
+    "latitude": -9.39505,
+    "longitude": -171.23773,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7522181,
+    "name": "Nukunonu",
+    "latitude": -9.20045,
+    "longitude": -171.84804,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031086,
+    "name": "Palea",
+    "latitude": -9.36454,
+    "longitude": -171.18843,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7603134,
+    "name": "Puka i Muli",
+    "latitude": -9.14216,
+    "longitude": -171.85849,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7603125,
+    "name": "Te Atu Hakea Motu Chain",
+    "latitude": -8.57688,
+    "longitude": -172.48926,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031072,
+    "name": "Te Atu Motu Chain",
+    "latitude": -9.39889,
+    "longitude": -171.19785,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7603124,
+    "name": "Te Lafu",
+    "latitude": -8.5653,
+    "longitude": -172.46767,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031113,
+    "name": "Te Lafu Island Chain",
+    "latitude": -9.33972,
+    "longitude": -171.19562,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031114,
+    "name": "Te Loto",
+    "latitude": -9.41784,
+    "longitude": -171.19493,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031096,
+    "name": "Te Tu Fa Motu Chain",
+    "latitude": -9.37571,
+    "longitude": -171.19484,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7603136,
+    "name": "Tokelau",
+    "latitude": -9.10438,
+    "longitude": -171.78184,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031081,
+    "name": "Vini",
+    "latitude": -9.33263,
+    "longitude": -171.20296,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  }
+]

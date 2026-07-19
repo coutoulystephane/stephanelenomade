@@ -1,0 +1,1052 @@
+[
+  {
+    "geonameId": 933906,
+    "name": "Ad’Ao Island",
+    "latitude": -19.4,
+    "longitude": 23.41667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933903,
+    "name": "Ai’Ao Island",
+    "latitude": -19.56667,
+    "longitude": 22.93333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933886,
+    "name": "Bobo Island",
+    "latitude": -19.66667,
+    "longitude": 23.1,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933885,
+    "name": "Bobonong",
+    "latitude": -21.96554,
+    "longitude": 28.43625,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933881,
+    "name": "Bokaa",
+    "latitude": -24.45,
+    "longitude": 26.01667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933879,
+    "name": "Bokwi Island",
+    "latitude": -19.66667,
+    "longitude": 23.16667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933868,
+    "name": "Borokwe Island",
+    "latitude": -19.46667,
+    "longitude": 23.26667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11258456,
+    "name": "Borolong",
+    "latitude": -21.10361,
+    "longitude": 27.33611,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7754329,
+    "name": "Chadibe",
+    "latitude": -21.06532,
+    "longitude": 27.34786,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11204768,
+    "name": "Charles Hill",
+    "latitude": -22.27639,
+    "longitude": 20.09278,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933839,
+    "name": "Chobe National Park",
+    "latitude": -18.66667,
+    "longitude": 24.5,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7575036,
+    "name": "Crocodile Island",
+    "latitude": -17.83927,
+    "longitude": 25.0786,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11961478,
+    "name": "Delta de l’Okavango, ile privee de Nxharaga",
+    "latitude": -19.69766,
+    "longitude": 23.05207,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11961476,
+    "name": "Est de la reserve de Moremi, region de Khwai",
+    "latitude": -18.93043,
+    "longitude": 23.76893,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933778,
+    "name": "Francistown",
+    "latitude": -21.17,
+    "longitude": 27.50778,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933777,
+    "name": "Gabane",
+    "latitude": -24.66667,
+    "longitude": 25.78222,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933776,
+    "name": "Gabasari Island",
+    "latitude": -20.63333,
+    "longitude": 25.18333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933773,
+    "name": "Gaborone",
+    "latitude": -24.65451,
+    "longitude": 25.90859,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1106179,
+    "name": "Gaborone Dam",
+    "latitude": -24.71833,
+    "longitude": 25.89472,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933764,
+    "name": "Gechia Island",
+    "latitude": -19.83333,
+    "longitude": 23.51667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933760,
+    "name": "Geune Kan Island",
+    "latitude": -19.56667,
+    "longitude": 23.08333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933759,
+    "name": "Ghanzi",
+    "latitude": -21.69785,
+    "longitude": 21.64581,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7739165,
+    "name": "Good Hope",
+    "latitude": -25.46712,
+    "longitude": 25.43921,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11205277,
+    "name": "Gumare",
+    "latitude": -19.36917,
+    "longitude": 22.16167,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933734,
+    "name": "Gweta",
+    "latitude": -20.18333,
+    "longitude": 25.23333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933726,
+    "name": "Hukuntsi",
+    "latitude": -23.9988,
+    "longitude": 21.77962,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11961484,
+    "name": "Ile de Paradis, delta de l’Okavango",
+    "latitude": -19.00086,
+    "longitude": 22.99811,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11961483,
+    "name": "Ile privee de Jao, delta de l’Okavango",
+    "latitude": -19.00069,
+    "longitude": 22.99842,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933719,
+    "name": "Janeng",
+    "latitude": -25.41667,
+    "longitude": 25.55,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8308627,
+    "name": "Jwaneng",
+    "latitude": -24.60167,
+    "longitude": 24.72806,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933706,
+    "name": "Kai’kau Island",
+    "latitude": -19.75,
+    "longitude": 23.43333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933699,
+    "name": "Kalahari Desert",
+    "latitude": -23,
+    "longitude": 22,
+    "category": "Desert",
+    "subcategory": "Desert",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933692,
+    "name": "Kang",
+    "latitude": -23.67518,
+    "longitude": 22.78762,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933685,
+    "name": "Kanye",
+    "latitude": -24.96675,
+    "longitude": 25.33273,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933677,
+    "name": "Kasane",
+    "latitude": -17.80165,
+    "longitude": 25.16024,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7575075,
+    "name": "Kasane Forest Reserve",
+    "latitude": -17.85888,
+    "longitude": 25.19286,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7575078,
+    "name": "Kasane Forest Reserve Extension",
+    "latitude": -17.96076,
+    "longitude": 25.19828,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933596,
+    "name": "Kopong",
+    "latitude": -24.48333,
+    "longitude": 25.88333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11126881,
+    "name": "Kubu Island",
+    "latitude": -20.893,
+    "longitude": 25.819,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7752587,
+    "name": "Kumakwane",
+    "latitude": -24.65522,
+    "longitude": 25.69918,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933588,
+    "name": "Kutswe Pass",
+    "latitude": -22.70047,
+    "longitude": 26.61741,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7908686,
+    "name": "Lentsweletau",
+    "latitude": -24.24863,
+    "longitude": 25.85215,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933535,
+    "name": "Letlhakane",
+    "latitude": -21.41494,
+    "longitude": 25.59263,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933534,
+    "name": "Letlhakeng",
+    "latitude": -24.09442,
+    "longitude": 25.02977,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933521,
+    "name": "Lobatse",
+    "latitude": -25.22435,
+    "longitude": 25.67728,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933506,
+    "name": "Lotlhakane",
+    "latitude": -25.08612,
+    "longitude": 25.4586,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933495,
+    "name": "Mabeleapodi Hill",
+    "latitude": -22.94716,
+    "longitude": 27.32581,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7883439,
+    "name": "Machibaba Hill",
+    "latitude": -22.76649,
+    "longitude": 27.74017,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933471,
+    "name": "Mahalapye",
+    "latitude": -23.10407,
+    "longitude": 26.81421,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7573795,
+    "name": "Maitengwe",
+    "latitude": -20.12889,
+    "longitude": 27.20997,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11048842,
+    "name": "Makgadikgadi National Park",
+    "latitude": -20.44281,
+    "longitude": 24.79995,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933390,
+    "name": "Masunga",
+    "latitude": -20.62455,
+    "longitude": 27.44875,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11467814,
+    "name": "Mathangwane",
+    "latitude": -21,
+    "longitude": 27.33333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933369,
+    "name": "Matuba",
+    "latitude": -22.01667,
+    "longitude": 26.3,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933366,
+    "name": "Maun",
+    "latitude": -19.98333,
+    "longitude": 23.41667,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1106206,
+    "name": "Metsemotlhaba",
+    "latitude": -24.55139,
+    "longitude": 25.80306,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12640340,
+    "name": "Mmadinare",
+    "latitude": -21.8765,
+    "longitude": 27.7518,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7752616,
+    "name": "Mmankgodi",
+    "latitude": -24.72601,
+    "longitude": 25.64963,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7739123,
+    "name": "Mmathete",
+    "latitude": -25.32189,
+    "longitude": 25.26911,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1106213,
+    "name": "Mmopone",
+    "latitude": -24.56694,
+    "longitude": 25.87417,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933340,
+    "name": "Mochudi",
+    "latitude": -24.41667,
+    "longitude": 26.15,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933331,
+    "name": "Mogoditshane",
+    "latitude": -24.62694,
+    "longitude": 25.86556,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933305,
+    "name": "Molepolole",
+    "latitude": -24.40659,
+    "longitude": 25.49508,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933287,
+    "name": "Mopipi Dam",
+    "latitude": -21.24897,
+    "longitude": 24.815,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933271,
+    "name": "Mosopa",
+    "latitude": -24.7718,
+    "longitude": 25.42156,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933261,
+    "name": "Motsaod Island",
+    "latitude": -19.83333,
+    "longitude": 23.53333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933904,
+    "name": "Mount Aha",
+    "latitude": -19.78333,
+    "longitude": 21.1,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933242,
+    "name": "Namakha Island",
+    "latitude": -19.5,
+    "longitude": 23.53333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933238,
+    "name": "Nata",
+    "latitude": -20.21667,
+    "longitude": 26.18333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933224,
+    "name": "Ngindi Island",
+    "latitude": -19.35,
+    "longitude": 23.36667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11961477,
+    "name": "Nord de la reserve de Moremi",
+    "latitude": -19.44275,
+    "longitude": 23.09327,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11961474,
+    "name": "Nord du parc national de Chobe, riviere de Chobe",
+    "latitude": -18.38918,
+    "longitude": 24.81813,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12060419,
+    "name": "Nxai Pan National Park",
+    "latitude": -19.92688,
+    "longitude": 24.82635,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11205201,
+    "name": "Oodi",
+    "latitude": -24.57306,
+    "longitude": 26.03389,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933186,
+    "name": "Orapa",
+    "latitude": -21.3115,
+    "longitude": 25.37642,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933184,
+    "name": "Otse",
+    "latitude": -25.01667,
+    "longitude": 25.73333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933182,
+    "name": "Palapye",
+    "latitude": -22.54605,
+    "longitude": 27.12507,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11961481,
+    "name": "Parc national de Nxai Pan",
+    "latitude": -20.25313,
+    "longitude": 24.8291,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7845068,
+    "name": "Phalachwe Hill",
+    "latitude": -22.57382,
+    "longitude": 27.28295,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933141,
+    "name": "Ramotswa",
+    "latitude": -24.87158,
+    "longitude": 25.86989,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12640342,
+    "name": "Ramotswa Station/Taung",
+    "latitude": -24.978,
+    "longitude": 25.67825,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11353058,
+    "name": "Rasesa",
+    "latitude": -24.37306,
+    "longitude": 26.07287,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11961482,
+    "name": "Reserve de Kwedi, nord du delta de l’Okavango",
+    "latitude": -19.00031,
+    "longitude": 23.00005,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933123,
+    "name": "Santantadibe Island",
+    "latitude": -19.81667,
+    "longitude": 23.56667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933112,
+    "name": "Sefophe",
+    "latitude": -22.18333,
+    "longitude": 27.96667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933099,
+    "name": "Selebi-Phikwe",
+    "latitude": -21.97895,
+    "longitude": 27.84296,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7845079,
+    "name": "Sephikamolelo Hill",
+    "latitude": -22.70654,
+    "longitude": 27.43523,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933088,
+    "name": "Serowe",
+    "latitude": -22.38754,
+    "longitude": 26.71077,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11258235,
+    "name": "Sese",
+    "latitude": -24.6561,
+    "longitude": 24.8063,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7845073,
+    "name": "Sete Hill",
+    "latitude": -22.6996,
+    "longitude": 27.29645,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933077,
+    "name": "Shakawe",
+    "latitude": -18.36536,
+    "longitude": 21.84219,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933070,
+    "name": "Shashe Dam",
+    "latitude": -21.36667,
+    "longitude": 27.4,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7754332,
+    "name": "Shashe Mooke",
+    "latitude": -21.18794,
+    "longitude": 27.37868,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933064,
+    "name": "Shoshong",
+    "latitude": -23.0389,
+    "longitude": 26.51,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7575070,
+    "name": "Sidudu",
+    "latitude": -17.81558,
+    "longitude": 25.13061,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 954978,
+    "name": "Skuinsdam",
+    "latitude": -24.76346,
+    "longitude": 25.85133,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11961475,
+    "name": "Sud du parc national de Chobe, region de Savute",
+    "latitude": -18.82258,
+    "longitude": 24.06831,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11205055,
+    "name": "Tati Siding",
+    "latitude": -21.27345,
+    "longitude": 27.49002,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933018,
+    "name": "Thamaga",
+    "latitude": -24.67014,
+    "longitude": 25.53975,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933004,
+    "name": "Tlokweng",
+    "latitude": -24.66861,
+    "longitude": 25.97111,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 933000,
+    "name": "Tonota",
+    "latitude": -21.44236,
+    "longitude": 27.46153,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7847878,
+    "name": "Tsetsebjwe",
+    "latitude": -22.41595,
+    "longitude": 28.39797,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932987,
+    "name": "Tshabong",
+    "latitude": -26.05,
+    "longitude": 22.45,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7573818,
+    "name": "Tutume",
+    "latitude": -20.4943,
+    "longitude": 27.03479,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 932955,
+    "name": "Xgara Island",
+    "latitude": -19.15,
+    "longitude": 22.43333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  }
+]

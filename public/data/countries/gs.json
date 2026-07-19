@@ -1,0 +1,2022 @@
+[
+  {
+    "geonameId": 3474116,
+    "name": "Admiralty Peak",
+    "latitude": -54.21972,
+    "longitude": -36.83306,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426607,
+    "name": "Albatross Island",
+    "latitude": -54.01972,
+    "longitude": -37.33222,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426599,
+    "name": "Aniline Island",
+    "latitude": -54.31667,
+    "longitude": -36.46667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426598,
+    "name": "Annenkov Island",
+    "latitude": -54.49,
+    "longitude": -37.07861,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787427,
+    "name": "Atherton Peak",
+    "latitude": -54.11667,
+    "longitude": -36.75,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426592,
+    "name": "Babe Island",
+    "latitude": -54.26667,
+    "longitude": -36.3,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787434,
+    "name": "Basilisk Peak",
+    "latitude": -59.41667,
+    "longitude": -27.08333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426584,
+    "name": "Bellingshausen Island",
+    "latitude": -59.41667,
+    "longitude": -27.05,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787437,
+    "name": "Best Peak",
+    "latitude": -54.11667,
+    "longitude": -36.81667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3474139,
+    "name": "Binary Peaks",
+    "latitude": -54.49056,
+    "longitude": -36.09472,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787440,
+    "name": "Binnie Peaks",
+    "latitude": -54.05,
+    "longitude": -37.86667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426579,
+    "name": "Bird Island",
+    "latitude": -54.00444,
+    "longitude": -38.05972,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3474134,
+    "name": "Black Peak",
+    "latitude": -54.32972,
+    "longitude": -36.30639,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787443,
+    "name": "Black Rock",
+    "latitude": -53.65,
+    "longitude": -41.8,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787445,
+    "name": "Blechnum Peaks",
+    "latitude": -54.2,
+    "longitude": -36.71667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787446,
+    "name": "Block Lake",
+    "latitude": -54.16667,
+    "longitude": -36.71667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787448,
+    "name": "Blue Whale Mountain",
+    "latitude": -54.06667,
+    "longitude": -37.03333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3474093,
+    "name": "Bomford Peak",
+    "latitude": -54.13889,
+    "longitude": -37.62972,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426569,
+    "name": "Brain Island",
+    "latitude": -54.16667,
+    "longitude": -36.7,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426567,
+    "name": "Bristol Island",
+    "latitude": -59.03844,
+    "longitude": -26.56837,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787462,
+    "name": "Brocken",
+    "latitude": -54.48333,
+    "longitude": -36.06667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426566,
+    "name": "Brøde Island",
+    "latitude": -54.90722,
+    "longitude": -36.11972,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426561,
+    "name": "Brutus Island",
+    "latitude": -54.06667,
+    "longitude": -37.15,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787475,
+    "name": "Camp Peak",
+    "latitude": -54.23333,
+    "longitude": -36.53333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426554,
+    "name": "Candlemas Island",
+    "latitude": -57.08217,
+    "longitude": -26.67309,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426553,
+    "name": "Candlemas Islands",
+    "latitude": -57.05,
+    "longitude": -26.71667,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787477,
+    "name": "Carcelles Peak",
+    "latitude": -54.36667,
+    "longitude": -36.5,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787492,
+    "name": "Coal Island",
+    "latitude": -54.03333,
+    "longitude": -37.95,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426543,
+    "name": "Coffin Top",
+    "latitude": -54.5,
+    "longitude": -36.1,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3474087,
+    "name": "Comer Crag",
+    "latitude": -54.02333,
+    "longitude": -37.63972,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426537,
+    "name": "Cook Island",
+    "latitude": -59.45,
+    "longitude": -27.16667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426534,
+    "name": "Cooper Island",
+    "latitude": -54.80639,
+    "longitude": -35.7825,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787494,
+    "name": "Copestake Peak",
+    "latitude": -54.25,
+    "longitude": -36.76667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426531,
+    "name": "Cornwall Peaks",
+    "latitude": -54.18333,
+    "longitude": -36.86667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787496,
+    "name": "Coronda Peak",
+    "latitude": -54.11667,
+    "longitude": -36.68333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426528,
+    "name": "Crescent Island",
+    "latitude": -54.01667,
+    "longitude": -37.31667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787501,
+    "name": "Diamond Peak",
+    "latitude": -54.2,
+    "longitude": -36.65,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787504,
+    "name": "Dixon Peak",
+    "latitude": -54.05,
+    "longitude": -38.01667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426509,
+    "name": "Dot Island",
+    "latitude": -54.05,
+    "longitude": -37.35,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426502,
+    "name": "East Skerry",
+    "latitude": -54.25,
+    "longitude": -36.3,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426501,
+    "name": "Echo Pass",
+    "latitude": -54.28333,
+    "longitude": -36.55,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3474135,
+    "name": "Ellerbeck Peak",
+    "latitude": -54.38306,
+    "longitude": -36.32556,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787513,
+    "name": "Evans Lake",
+    "latitude": -54.25,
+    "longitude": -36.5,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787516,
+    "name": "Fan Lake",
+    "latitude": -54.5,
+    "longitude": -37.05,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787518,
+    "name": "Ferguson Peak",
+    "latitude": -54.78333,
+    "longitude": -35.83333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787520,
+    "name": "Fortuna Peak",
+    "latitude": -54.11667,
+    "longitude": -36.78333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787521,
+    "name": "Foxtail Peak",
+    "latitude": -54.23333,
+    "longitude": -36.7,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787524,
+    "name": "Fusilier Mountain",
+    "latitude": -54.41667,
+    "longitude": -36.25,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787525,
+    "name": "Gazella Peak",
+    "latitude": -54,
+    "longitude": -38.05,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787528,
+    "name": "Gjelstad Pass",
+    "latitude": -54.28333,
+    "longitude": -36.95,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426469,
+    "name": "Grass Island",
+    "latitude": -54.15831,
+    "longitude": -36.66859,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426468,
+    "name": "Green Island",
+    "latitude": -54.89361,
+    "longitude": -36.1025,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426466,
+    "name": "Grytviken",
+    "latitude": -54.28111,
+    "longitude": -36.5092,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787536,
+    "name": "Gulbrandsen Lake",
+    "latitude": -54.2,
+    "longitude": -36.73333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426464,
+    "name": "Gull Lake",
+    "latitude": -54.28333,
+    "longitude": -36.51667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787537,
+    "name": "Hall Island",
+    "latitude": -54,
+    "longitude": -38.13333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3474140,
+    "name": "Harcourt Island",
+    "latitude": -54.50167,
+    "longitude": -35.995,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787540,
+    "name": "Harper Peak",
+    "latitude": -54.11667,
+    "longitude": -36.75,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426453,
+    "name": "Hash Island",
+    "latitude": -54.81667,
+    "longitude": -35.98333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787542,
+    "name": "Havfruen Peak",
+    "latitude": -59.03333,
+    "longitude": -26.53333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787543,
+    "name": "Hay Peak",
+    "latitude": -54.06667,
+    "longitude": -37.16667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787544,
+    "name": "Headland Peak",
+    "latitude": -54.26667,
+    "longitude": -36.71667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787549,
+    "name": "Hesse Peak",
+    "latitude": -54.03333,
+    "longitude": -38,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787558,
+    "name": "Humic Lake",
+    "latitude": -54.25,
+    "longitude": -36.5,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426432,
+    "name": "Inner Lee Island",
+    "latitude": -54.03333,
+    "longitude": -37.26667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787563,
+    "name": "Intrusion Lake",
+    "latitude": -54.48333,
+    "longitude": -37.06667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426431,
+    "name": "Invisible Island",
+    "latitude": -54.01667,
+    "longitude": -37.31667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426425,
+    "name": "Jason Island",
+    "latitude": -54.17889,
+    "longitude": -36.49528,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3474117,
+    "name": "Jason Peak",
+    "latitude": -54.19,
+    "longitude": -36.62111,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426421,
+    "name": "Jomfruene",
+    "latitude": -54.06278,
+    "longitude": -38.04639,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787573,
+    "name": "Justa Peak",
+    "latitude": -54.16667,
+    "longitude": -36.56667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3474150,
+    "name": "Kupriyanov Islands",
+    "latitude": -54.75278,
+    "longitude": -36.32056,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787578,
+    "name": "Lancetes Lake",
+    "latitude": -54.25,
+    "longitude": -36.51667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787579,
+    "name": "Larssen Peak",
+    "latitude": -54.31667,
+    "longitude": -36.76667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787583,
+    "name": "Lawther Knoll",
+    "latitude": -54.48333,
+    "longitude": -37.05,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426399,
+    "name": "Leskov Island",
+    "latitude": -56.66667,
+    "longitude": -28.16667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787587,
+    "name": "Lewis Pass",
+    "latitude": -54.26667,
+    "longitude": -36.5,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426395,
+    "name": "Lonely Island",
+    "latitude": -54.05,
+    "longitude": -37.98333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787594,
+    "name": "Lyell Lake",
+    "latitude": -54.31667,
+    "longitude": -36.58333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426387,
+    "name": "Main Island",
+    "latitude": -54.00694,
+    "longitude": -38.21972,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787600,
+    "name": "Maivatn",
+    "latitude": -54.25,
+    "longitude": -36.51667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787601,
+    "name": "Marikoppa",
+    "latitude": -54.31667,
+    "longitude": -36.7,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787605,
+    "name": "McCarthy Island",
+    "latitude": -54.16667,
+    "longitude": -37.43333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787606,
+    "name": "McIlroy Peak",
+    "latitude": -54.18333,
+    "longitude": -36.76667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787607,
+    "name": "McNish Island",
+    "latitude": -54.15,
+    "longitude": -37.46667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787612,
+    "name": "Mills Peak",
+    "latitude": -54.26667,
+    "longitude": -36.35,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426377,
+    "name": "Mollyhawk Island",
+    "latitude": -54.01667,
+    "longitude": -37.31667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426375,
+    "name": "Montagu Island",
+    "latitude": -58.41667,
+    "longitude": -26.33333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787618,
+    "name": "Mount Antell",
+    "latitude": -54.11667,
+    "longitude": -36.7,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787619,
+    "name": "Mount Ashley",
+    "latitude": -54.11667,
+    "longitude": -37.35,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787620,
+    "name": "Mount Back",
+    "latitude": -54.48333,
+    "longitude": -36.11667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3474115,
+    "name": "Mount Barren",
+    "latitude": -54.17333,
+    "longitude": -36.76056,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3474147,
+    "name": "Mount Baume",
+    "latitude": -54.6525,
+    "longitude": -36.22472,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426585,
+    "name": "Mount Belinda",
+    "latitude": -58.43559,
+    "longitude": -26.38176,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3474142,
+    "name": "Mount Brooker",
+    "latitude": -54.50861,
+    "longitude": -36.24361,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787621,
+    "name": "Mount Burley",
+    "latitude": -54.48333,
+    "longitude": -36.15,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3474158,
+    "name": "Mount Carse",
+    "latitude": -54.71722,
+    "longitude": -36.09194,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787622,
+    "name": "Mount Clara",
+    "latitude": -54.85,
+    "longitude": -36.03333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787623,
+    "name": "Mount Constance",
+    "latitude": -54.06667,
+    "longitude": -37,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787624,
+    "name": "Mount Corneliussen",
+    "latitude": -54.28333,
+    "longitude": -36.96667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3474100,
+    "name": "Mount Cunningham",
+    "latitude": -54.20667,
+    "longitude": -37.29806,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426517,
+    "name": "Mount Darnley",
+    "latitude": -59.05,
+    "longitude": -26.5,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787626,
+    "name": "Mount Dow",
+    "latitude": -54.7,
+    "longitude": -36.16667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426504,
+    "name": "Mount Duse",
+    "latitude": -54.26667,
+    "longitude": -36.48333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3474138,
+    "name": "Mount Fagan",
+    "latitude": -54.50278,
+    "longitude": -36.15944,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787627,
+    "name": "Mount Fagerli",
+    "latitude": -54.33333,
+    "longitude": -36.71667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3474144,
+    "name": "Mount Fraser",
+    "latitude": -54.62917,
+    "longitude": -36.34778,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787628,
+    "name": "Mount Globus",
+    "latitude": -54.31667,
+    "longitude": -37,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787629,
+    "name": "Mount Grant",
+    "latitude": -54.25,
+    "longitude": -37.11667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426456,
+    "name": "Mount Harmer",
+    "latitude": -59.43333,
+    "longitude": -27.15,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426444,
+    "name": "Mount Hodges",
+    "latitude": -54.26861,
+    "longitude": -36.52306,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426443,
+    "name": "Mount Hodson",
+    "latitude": -56.7,
+    "longitude": -27.21667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787630,
+    "name": "Mount Holdgate",
+    "latitude": -59.46667,
+    "longitude": -27.18333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787631,
+    "name": "Mount Kling",
+    "latitude": -54.5,
+    "longitude": -36.3,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426405,
+    "name": "Mount Krokisius",
+    "latitude": -54.5,
+    "longitude": -36.05,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426404,
+    "name": "Mount Larsen",
+    "latitude": -59.45,
+    "longitude": -27.3,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3474157,
+    "name": "Mount Macklin",
+    "latitude": -54.75028,
+    "longitude": -36.04222,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787632,
+    "name": "Mount Mair",
+    "latitude": -54.81667,
+    "longitude": -36.03333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426380,
+    "name": "Mount Michael",
+    "latitude": -57.8,
+    "longitude": -26.46667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787633,
+    "name": "Mount Normann",
+    "latitude": -54.85,
+    "longitude": -36.06667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787634,
+    "name": "Mount Oceanite",
+    "latitude": -58.48333,
+    "longitude": -26.25,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426349,
+    "name": "Mount Paget",
+    "latitude": -54.44611,
+    "longitude": -36.52778,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3474148,
+    "name": "Mount Paterson",
+    "latitude": -54.65889,
+    "longitude": -36.12694,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426337,
+    "name": "Mount Pirner",
+    "latitude": -54.51667,
+    "longitude": -36.06667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787636,
+    "name": "Mount Regulator",
+    "latitude": -54,
+    "longitude": -37.73333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426313,
+    "name": "Mount Roots",
+    "latitude": -54.47417,
+    "longitude": -36.4125,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787637,
+    "name": "Mount Sabatier",
+    "latitude": -54.81667,
+    "longitude": -36.13333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787638,
+    "name": "Mount Senderens",
+    "latitude": -54.83333,
+    "longitude": -36.11667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426283,
+    "name": "Mount Skittle",
+    "latitude": -54.40861,
+    "longitude": -36.18306,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787639,
+    "name": "Mount Sourabaya",
+    "latitude": -59.05,
+    "longitude": -26.6,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787640,
+    "name": "Mount Spaaman",
+    "latitude": -54.26667,
+    "longitude": -36.86667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426265,
+    "name": "Mount Sugartop",
+    "latitude": -54.36444,
+    "longitude": -36.62694,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787641,
+    "name": "Mount Woodward",
+    "latitude": -54.1,
+    "longitude": -36.9,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787642,
+    "name": "Mount Worsley",
+    "latitude": -54.18333,
+    "longitude": -37.15,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787643,
+    "name": "Murphy Wall",
+    "latitude": -54.08333,
+    "longitude": -37.4,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426371,
+    "name": "Nachtigal Peak",
+    "latitude": -54.48944,
+    "longitude": -36.23472,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787646,
+    "name": "Neighbour Peak",
+    "latitude": -54.51667,
+    "longitude": -36.1,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3474145,
+    "name": "Nilsen Island",
+    "latitude": -54.64611,
+    "longitude": -36.40111,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426361,
+    "name": "Nordenskjöld Peak",
+    "latitude": -54.48444,
+    "longitude": -36.35889,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3474133,
+    "name": "O’Conner Peak",
+    "latitude": -54.27972,
+    "longitude": -36.33222,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787652,
+    "name": "Olstad Peak",
+    "latitude": -54.48333,
+    "longitude": -37.08333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787653,
+    "name": "Orca Peak",
+    "latitude": -54.26667,
+    "longitude": -36.53333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426351,
+    "name": "Outer Lee Island",
+    "latitude": -54.03333,
+    "longitude": -37.23333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787656,
+    "name": "Parochlus Lake",
+    "latitude": -54.16667,
+    "longitude": -36.75,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787657,
+    "name": "Parsons Peak",
+    "latitude": -54.18333,
+    "longitude": -36.56667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426345,
+    "name": "Paulsen Peak",
+    "latitude": -54.33778,
+    "longitude": -36.66611,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426342,
+    "name": "Petrel Island",
+    "latitude": -54.03333,
+    "longitude": -37.28333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787685,
+    "name": "Petrel Peak",
+    "latitude": -54.26667,
+    "longitude": -36.53333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426339,
+    "name": "Pickersgill Islands",
+    "latitude": -54.62472,
+    "longitude": -36.75694,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426336,
+    "name": "Pirner Peak",
+    "latitude": -54.52278,
+    "longitude": -36.09472,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426329,
+    "name": "Prion Island",
+    "latitude": -54.02361,
+    "longitude": -37.25944,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787694,
+    "name": "Proud Island",
+    "latitude": -54,
+    "longitude": -38.13333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426327,
+    "name": "Pyramid Peak",
+    "latitude": -54,
+    "longitude": -37.38333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787719,
+    "name": "Quadrant Peak",
+    "latitude": -57.1,
+    "longitude": -26.78333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787724,
+    "name": "Roché Peak",
+    "latitude": -54,
+    "longitude": -38.03333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426309,
+    "name": "Ross Pass",
+    "latitude": -54.54361,
+    "longitude": -36.26278,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787727,
+    "name": "Ruby Peak",
+    "latitude": -54.2,
+    "longitude": -36.66667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3474092,
+    "name": "Saddle Island",
+    "latitude": -54.13778,
+    "longitude": -37.75472,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787733,
+    "name": "Samuel Islands",
+    "latitude": -54.18333,
+    "longitude": -37.61667,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426298,
+    "name": "Saunders Island",
+    "latitude": -57.78333,
+    "longitude": -26.45,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787761,
+    "name": "Shackleton Gap",
+    "latitude": -54.13333,
+    "longitude": -37.2,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3474137,
+    "name": "Sheridan Peak",
+    "latitude": -54.44056,
+    "longitude": -36.34917,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426281,
+    "name": "Skua Island",
+    "latitude": -54.01667,
+    "longitude": -37.25,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426278,
+    "name": "Smillie Peak",
+    "latitude": -54.27778,
+    "longitude": -36.95083,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426277,
+    "name": "Smoky Wall",
+    "latitude": -54.58917,
+    "longitude": -36.19889,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426276,
+    "name": "Snow Peak",
+    "latitude": -54.00917,
+    "longitude": -37.92167,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787774,
+    "name": "Sørlle Buttress",
+    "latitude": -54.28333,
+    "longitude": -36.83333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426223,
+    "name": "South Georgia",
+    "latitude": -54.25,
+    "longitude": -36.75,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426222,
+    "name": "South Sandwich Islands",
+    "latitude": -57.75,
+    "longitude": -26.5,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426273,
+    "name": "Southern Thule",
+    "latitude": -59.43333,
+    "longitude": -27.2,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787776,
+    "name": "Spencer Peak",
+    "latitude": -54.25,
+    "longitude": -36.48333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3474114,
+    "name": "Stanley Peak",
+    "latitude": -54.185,
+    "longitude": -36.92667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787802,
+    "name": "Starbuck Peak",
+    "latitude": -54.73333,
+    "longitude": -36.2,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787804,
+    "name": "Stejneger Peak",
+    "latitude": -54,
+    "longitude": -38.06667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787805,
+    "name": "Stenhouse Peak",
+    "latitude": -54.25,
+    "longitude": -36.55,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787811,
+    "name": "Swinhoe Peak",
+    "latitude": -54.33333,
+    "longitude": -36.53333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787813,
+    "name": "Tanner Island",
+    "latitude": -54.63333,
+    "longitude": -36.76667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787814,
+    "name": "Tawny Gap",
+    "latitude": -54.01667,
+    "longitude": -37.6,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426259,
+    "name": "Tern Island",
+    "latitude": -54.05,
+    "longitude": -37.33333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426524,
+    "name": "The Crutch",
+    "latitude": -54.18333,
+    "longitude": -36.53333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426465,
+    "name": "The Guides",
+    "latitude": -54.07722,
+    "longitude": -36.85861,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426257,
+    "name": "Three Brothers",
+    "latitude": -54.29028,
+    "longitude": -36.8025,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426256,
+    "name": "Thule Island",
+    "latitude": -59.45,
+    "longitude": -27.31667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426249,
+    "name": "Traversay Islands",
+    "latitude": -56.6,
+    "longitude": -27.71667,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787846,
+    "name": "Treble Peak",
+    "latitude": -54.11667,
+    "longitude": -36.75,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426248,
+    "name": "Trinity Island",
+    "latitude": -53.99917,
+    "longitude": -38.17556,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787848,
+    "name": "Turmoil Point",
+    "latitude": -59.03333,
+    "longitude": -26.66667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787850,
+    "name": "Tussock Island",
+    "latitude": -54.48333,
+    "longitude": -37.11667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787852,
+    "name": "Vaughan Island",
+    "latitude": -54,
+    "longitude": -38.18333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426239,
+    "name": "Verdant Islands",
+    "latitude": -54,
+    "longitude": -38.15,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3474121,
+    "name": "Vestfold Island",
+    "latitude": -54.37139,
+    "longitude": -36.92028,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787853,
+    "name": "Vincent Islands",
+    "latitude": -54.15,
+    "longitude": -37.26667,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426238,
+    "name": "Vindication Island",
+    "latitude": -57.06667,
+    "longitude": -26.76667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426237,
+    "name": "Visokoi Island",
+    "latitude": -56.71496,
+    "longitude": -27.14361,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787854,
+    "name": "Vogel Peak",
+    "latitude": -54.56667,
+    "longitude": -36.23333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3474091,
+    "name": "Warburton Peak",
+    "latitude": -54.08611,
+    "longitude": -37.57472,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426233,
+    "name": "Welcome Islands",
+    "latitude": -53.97028,
+    "longitude": -37.49444,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426232,
+    "name": "West Skerry",
+    "latitude": -54.25,
+    "longitude": -36.33333,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787884,
+    "name": "Wilckens Peaks",
+    "latitude": -54.2,
+    "longitude": -36.95,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426231,
+    "name": "Willis Islands",
+    "latitude": -54.00083,
+    "longitude": -38.19528,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3426225,
+    "name": "Zavodovski Island",
+    "latitude": -56.2994,
+    "longitude": -27.56847,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10787890,
+    "name": "Zigzag Pass",
+    "latitude": -54.2,
+    "longitude": -36.98333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  }
+]

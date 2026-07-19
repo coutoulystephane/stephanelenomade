@@ -1,0 +1,212 @@
+[
+  {
+    "geonameId": 2462608,
+    "name": "Adreig el Hiran",
+    "latitude": 24.13333,
+    "longitude": -13.7,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2463362,
+    "name": "Ahberi",
+    "latitude": 22.25,
+    "longitude": -15.33333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13645465,
+    "name": "Bir Ghandouz",
+    "latitude": 22.05318,
+    "longitude": -16.74836,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2463029,
+    "name": "Boujdour",
+    "latitude": 26.13073,
+    "longitude": -14.48513,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2463447,
+    "name": "Dakhla",
+    "latitude": 23.68477,
+    "longitude": -15.95798,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2462879,
+    "name": "El Aargub",
+    "latitude": 23.60882,
+    "longitude": -15.86726,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2461993,
+    "name": "El Marsa",
+    "latitude": 27.09611,
+    "longitude": -13.41583,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2462610,
+    "name": "Isla Herne",
+    "latitude": 23.872,
+    "longitude": -15.785,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2462607,
+    "name": "Jang el Hiran",
+    "latitude": 24.13333,
+    "longitude": -13.13333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2461969,
+    "name": "Jang Ramla",
+    "latitude": 25.9,
+    "longitude": -12.11667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2463431,
+    "name": "Janguet Mdira",
+    "latitude": 24.46667,
+    "longitude": -13.35,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2462529,
+    "name": "Jauga",
+    "latitude": 26.03333,
+    "longitude": -11.98333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2461869,
+    "name": "Jeneig Sentamat",
+    "latitude": 25.6,
+    "longitude": -12.2,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2462881,
+    "name": "Laayoune",
+    "latitude": 27.1418,
+    "longitude": -13.18797,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2461446,
+    "name": "Lahjayra Lakbira",
+    "latitude": 22.153,
+    "longitude": -16.83727,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2462571,
+    "name": "Magsem Imilili",
+    "latitude": 23.2825,
+    "longitude": -15.89667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2461522,
+    "name": "Megsem Uld Mereisig",
+    "latitude": 25.8,
+    "longitude": -13.4,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2461501,
+    "name": "Megsem Um el Beida",
+    "latitude": 26.35,
+    "longitude": -11.98333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13608369,
+    "name": "Meharrize",
+    "latitude": 26.14763,
+    "longitude": -11.0693,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2461995,
+    "name": "Roque Chico",
+    "latitude": 22.20667,
+    "longitude": -16.82028,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2461677,
+    "name": "Tichla",
+    "latitude": 21.5837,
+    "longitude": -14.97222,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  }
+]

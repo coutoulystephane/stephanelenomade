@@ -1,0 +1,1552 @@
+[
+  {
+    "geonameId": 4031158,
+    "name": "Ahu-a-manu",
+    "latitude": -9.11667,
+    "longitude": -157.96667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031432,
+    "name": "Ahu-A-Miria",
+    "latitude": -9.05009,
+    "longitude": -157.9029,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031157,
+    "name": "Ahuapapa",
+    "latitude": -9.08061,
+    "longitude": -157.94735,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036508,
+    "name": "Aitutaki",
+    "latitude": -18.86142,
+    "longitude": -159.78713,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035548,
+    "name": "Akaiami",
+    "latitude": -18.90576,
+    "longitude": -159.72967,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035756,
+    "name": "Akaro",
+    "latitude": -10.01759,
+    "longitude": -161.08295,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036512,
+    "name": "Akitua Island",
+    "latitude": -18.85011,
+    "longitude": -159.75604,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035745,
+    "name": "Anchorage Island",
+    "latitude": -13.25,
+    "longitude": -163.08333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036523,
+    "name": "Angarei Island",
+    "latitude": -18.85707,
+    "longitude": -159.75331,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11876870,
+    "name": "Atiati",
+    "latitude": -9.08339,
+    "longitude": -157.96049,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035723,
+    "name": "Atimoono",
+    "latitude": -10.43651,
+    "longitude": -160.95526,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035722,
+    "name": "Atiu Island",
+    "latitude": -19.99167,
+    "longitude": -158.11944,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031156,
+    "name": "Atutahi",
+    "latitude": -9.0821,
+    "longitude": -157.92546,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035715,
+    "name": "Avarua",
+    "latitude": -21.2075,
+    "longitude": -159.77546,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036456,
+    "name": "Bird Islands",
+    "latitude": -18.03609,
+    "longitude": -163.13554,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035707,
+    "name": "Brushwood Islands",
+    "latitude": -13.21667,
+    "longitude": -163.1,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035706,
+    "name": "Cook Islands",
+    "latitude": -20,
+    "longitude": -158,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036422,
+    "name": "Cooks",
+    "latitude": -18.08508,
+    "longitude": -163.19474,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036524,
+    "name": "Ee Island",
+    "latitude": -18.86316,
+    "longitude": -159.7519,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035704,
+    "name": "Entrance Island",
+    "latitude": -13.31667,
+    "longitude": -163.06667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035702,
+    "name": "Fanu",
+    "latitude": -13.21667,
+    "longitude": -163.1,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036593,
+    "name": "Fifinui",
+    "latitude": -10.43708,
+    "longitude": -161.01335,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035700,
+    "name": "Gull Islands",
+    "latitude": -13.25,
+    "longitude": -163.05,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036537,
+    "name": "Hakamaru",
+    "latitude": -10.44312,
+    "longitude": -160.95553,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036542,
+    "name": "Hakari Manu",
+    "latitude": -10.4571,
+    "longitude": -160.98841,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035699,
+    "name": "Haratini",
+    "latitude": -10.45285,
+    "longitude": -160.96442,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035698,
+    "name": "High Island",
+    "latitude": -13.28333,
+    "longitude": -163.16667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036560,
+    "name": "Hohake Iti",
+    "latitude": -10.44279,
+    "longitude": -161.02534,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036561,
+    "name": "Hohake Rahi",
+    "latitude": -10.44191,
+    "longitude": -161.02676,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035697,
+    "name": "Hunanui",
+    "latitude": -10.02194,
+    "longitude": -161.08422,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035696,
+    "name": "Ikurangi",
+    "latitude": -21.22167,
+    "longitude": -159.76306,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036461,
+    "name": "Karakerake",
+    "latitude": -18.0431,
+    "longitude": -163.13846,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031427,
+    "name": "Kavea",
+    "latitude": -8.97383,
+    "longitude": -157.92127,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035686,
+    "name": "Kavera Mountain",
+    "latitude": -21.23005,
+    "longitude": -159.8162,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035681,
+    "name": "Koromiri",
+    "latitude": -21.25749,
+    "longitude": -159.72643,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036482,
+    "name": "Lake Tiriara",
+    "latitude": -21.95124,
+    "longitude": -157.92947,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036453,
+    "name": "Lee to Us",
+    "latitude": -18.03396,
+    "longitude": -163.14585,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035670,
+    "name": "Maina",
+    "latitude": -18.91396,
+    "longitude": -159.83532,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031151,
+    "name": "Makeeatta",
+    "latitude": -9.1,
+    "longitude": -157.98333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031150,
+    "name": "Maketau",
+    "latitude": -9.02961,
+    "longitude": -158.00275,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035667,
+    "name": "Mangaia",
+    "latitude": -21.92715,
+    "longitude": -157.91867,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031400,
+    "name": "Mangarongaro",
+    "latitude": -9.0584,
+    "longitude": -157.9826,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035666,
+    "name": "Mangere Island",
+    "latitude": -18.8685,
+    "longitude": -159.75014,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035661,
+    "name": "Manu",
+    "latitude": -13.25,
+    "longitude": -163.16667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035660,
+    "name": "Manuae",
+    "latitude": -19.27404,
+    "longitude": -158.96165,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031147,
+    "name": "Matunga",
+    "latitude": -8.93773,
+    "longitude": -158.04803,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035646,
+    "name": "Mauke",
+    "latitude": -20.16105,
+    "longitude": -157.34067,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035645,
+    "name": "Maungaroa",
+    "latitude": -21.23167,
+    "longitude": -159.80417,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035644,
+    "name": "Maungatea",
+    "latitude": -21.22861,
+    "longitude": -159.78333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035476,
+    "name": "Maungatongaiti",
+    "latitude": -21.24611,
+    "longitude": -159.81028,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036564,
+    "name": "Mehau Daniela",
+    "latitude": -10.40076,
+    "longitude": -161.00164,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035642,
+    "name": "Mitiaro",
+    "latitude": -19.867,
+    "longitude": -157.7,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031142,
+    "name": "Moananui",
+    "latitude": -8.99903,
+    "longitude": -158.04082,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031133,
+    "name": "Motu a Saka",
+    "latitude": -9.08065,
+    "longitude": -157.92263,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035687,
+    "name": "Motu Kavata",
+    "latitude": -10.8935,
+    "longitude": -165.87083,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035684,
+    "name": "Motu Koe",
+    "latitude": -10.95,
+    "longitude": -165.8,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035643,
+    "name": "Motu Mahuta",
+    "latitude": -10.0236,
+    "longitude": -161.08305,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035628,
+    "name": "Motu Ngangie",
+    "latitude": -10.02,
+    "longitude": -161.08333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036562,
+    "name": "Motu o Koteka",
+    "latitude": -10.44164,
+    "longitude": -161.02878,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036559,
+    "name": "Motu o Poia",
+    "latitude": -10.44706,
+    "longitude": -161.01812,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035607,
+    "name": "Motu Okakara",
+    "latitude": -10.02396,
+    "longitude": -161.08504,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036553,
+    "name": "Motu Roa",
+    "latitude": -10.45216,
+    "longitude": -161.01188,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036540,
+    "name": "Motu Tou",
+    "latitude": -10.45337,
+    "longitude": -160.97279,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036551,
+    "name": "Motu Vahine",
+    "latitude": -10.4544,
+    "longitude": -161.09176,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035641,
+    "name": "Motukitiu",
+    "latitude": -18.94814,
+    "longitude": -159.73284,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035639,
+    "name": "Motupae",
+    "latitude": -10.41667,
+    "longitude": -161.03333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035640,
+    "name": "Moturakau",
+    "latitude": -18.92521,
+    "longitude": -159.74997,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031146,
+    "name": "Moturakina",
+    "latitude": -9.08108,
+    "longitude": -157.94001,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035638,
+    "name": "Motutapu",
+    "latitude": -21.2475,
+    "longitude": -159.72583,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035635,
+    "name": "Murihiti",
+    "latitude": -10.39551,
+    "longitude": -161.02499,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11876912,
+    "name": "Muritapua",
+    "latitude": -18.91493,
+    "longitude": -159.73017,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036545,
+    "name": "Nafarakura",
+    "latitude": -10.45966,
+    "longitude": -160.99422,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035633,
+    "name": "Nassau Island",
+    "latitude": -11.55,
+    "longitude": -165.41667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035630,
+    "name": "New Island",
+    "latitude": -13.33333,
+    "longitude": -163.1,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035492,
+    "name": "Ngake",
+    "latitude": -10.40301,
+    "longitude": -160.98446,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11876831,
+    "name": "Norrie Park",
+    "latitude": -21.21788,
+    "longitude": -159.73385,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036441,
+    "name": "North Island",
+    "latitude": -17.99443,
+    "longitude": -163.18073,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035617,
+    "name": "Northern Cook Islands",
+    "latitude": -10,
+    "longitude": -161,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036539,
+    "name": "Nukuhiro",
+    "latitude": -10.45214,
+    "longitude": -160.96302,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035600,
+    "name": "One Tree Island",
+    "latitude": -13.21667,
+    "longitude": -163.1,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035604,
+    "name": "Oneroa",
+    "latitude": -21.25306,
+    "longitude": -159.72556,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036500,
+    "name": "Oroenga",
+    "latitude": -21.22055,
+    "longitude": -159.75116,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036556,
+    "name": "Paheke Iti",
+    "latitude": -10.44842,
+    "longitude": -161.01544,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036555,
+    "name": "Paheke Rahi",
+    "latitude": -10.44947,
+    "longitude": -161.01503,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031140,
+    "name": "Painko",
+    "latitude": -8.92289,
+    "longitude": -158.01129,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035590,
+    "name": "Palmerston Island",
+    "latitude": -18.05737,
+    "longitude": -163.20994,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036525,
+    "name": "Papua",
+    "latitude": -18.88239,
+    "longitude": -159.74969,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031429,
+    "name": "Patanga",
+    "latitude": -8.99165,
+    "longitude": -157.91166,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035574,
+    "name": "Piako",
+    "latitude": -21.23333,
+    "longitude": -159.75,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031127,
+    "name": "Pokerekere",
+    "latitude": -8.96108,
+    "longitude": -157.92393,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035568,
+    "name": "Porea",
+    "latitude": -10.46098,
+    "longitude": -161.00076,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036424,
+    "name": "Primrose",
+    "latitude": -18.07035,
+    "longitude": -163.15532,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035563,
+    "name": "Pukapuka",
+    "latitude": -10.85,
+    "longitude": -165.84,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036547,
+    "name": "Punganui Iti",
+    "latitude": -10.45686,
+    "longitude": -161.00234,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036546,
+    "name": "Punganui Rahi",
+    "latitude": -10.4582,
+    "longitude": -161.00336,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035560,
+    "name": "Putangaroa",
+    "latitude": -10.45407,
+    "longitude": -160.97007,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035558,
+    "name": "Raemaru",
+    "latitude": -21.23583,
+    "longitude": -159.81306,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036563,
+    "name": "Rangahoe",
+    "latitude": -10.4414,
+    "longitude": -161.03046,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035553,
+    "name": "Rapota",
+    "latitude": -18.92841,
+    "longitude": -159.75799,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035552,
+    "name": "Rarotonga",
+    "latitude": -21.23509,
+    "longitude": -159.78035,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035550,
+    "name": "Raukotaha",
+    "latitude": -10.45711,
+    "longitude": -161.00667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035547,
+    "name": "Royston Patch",
+    "latitude": -13.28333,
+    "longitude": -163.11667,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031136,
+    "name": "Ruahara",
+    "latitude": -8.92797,
+    "longitude": -157.97665,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031134,
+    "name": "Ruapou",
+    "latitude": -9.03333,
+    "longitude": -157.9,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031132,
+    "name": "Sanisanireka",
+    "latitude": -9.11667,
+    "longitude": -157.96667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036460,
+    "name": "Small Cooks",
+    "latitude": -18.04215,
+    "longitude": -163.13679,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035674,
+    "name": "Southern Cook Islands",
+    "latitude": -20,
+    "longitude": -159,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2208396,
+    "name": "Suatumu",
+    "latitude": -18.03946,
+    "longitude": -163.13705,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035541,
+    "name": "Taakoka",
+    "latitude": -21.26362,
+    "longitude": -159.7307,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036594,
+    "name": "Takaniko",
+    "latitude": -10.43743,
+    "longitude": -161.02327,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035532,
+    "name": "Takutea",
+    "latitude": -19.81266,
+    "longitude": -158.28827,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035529,
+    "name": "Tapu Mountain",
+    "latitude": -21.23513,
+    "longitude": -159.78035,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11876911,
+    "name": "Tapuaetai",
+    "latitude": -18.93746,
+    "longitude": -159.73472,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036444,
+    "name": "Tara i Tokerau",
+    "latitude": -17.99625,
+    "longitude": -163.17668,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036543,
+    "name": "Tarakete Iti",
+    "latitude": -10.45734,
+    "longitude": -160.99023,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035527,
+    "name": "Tarakete Rahi",
+    "latitude": -10.45878,
+    "longitude": -160.99165,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035524,
+    "name": "Tauhunu",
+    "latitude": -10.42107,
+    "longitude": -161.03299,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036527,
+    "name": "Tavaerua",
+    "latitude": -18.89398,
+    "longitude": -159.74095,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036526,
+    "name": "Tavaeruaiti",
+    "latitude": -18.89102,
+    "longitude": -159.74301,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035513,
+    "name": "Te Atukura",
+    "latitude": -21.24028,
+    "longitude": -159.76167,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035512,
+    "name": "Te Au Otu",
+    "latitude": -19.26736,
+    "longitude": -158.92509,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035508,
+    "name": "Te Kainga",
+    "latitude": -10.02807,
+    "longitude": -161.09874,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036505,
+    "name": "Te Kaki Motu",
+    "latitude": -21.22111,
+    "longitude": -159.8025,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035504,
+    "name": "Te Kou",
+    "latitude": -21.24167,
+    "longitude": -159.77722,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035501,
+    "name": "Te Manga",
+    "latitude": -21.23583,
+    "longitude": -159.76361,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036554,
+    "name": "Te Motu o Tarakapoe",
+    "latitude": -10.45058,
+    "longitude": -161.01318,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036557,
+    "name": "Te Pa",
+    "latitude": -10.44855,
+    "longitude": -161.01636,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036504,
+    "name": "Te Reinga o Pora",
+    "latitude": -21.22389,
+    "longitude": -159.80333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035482,
+    "name": "Te Roto",
+    "latitude": -20.00955,
+    "longitude": -158.12368,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036466,
+    "name": "Te Rotonui",
+    "latitude": -19.86795,
+    "longitude": -157.69102,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035486,
+    "name": "Te Rua Manga",
+    "latitude": -21.23889,
+    "longitude": -159.78917,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036549,
+    "name": "Te Ruerue Iti",
+    "latitude": -10.45689,
+    "longitude": -161.00459,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036548,
+    "name": "Te Ruerue Rahi",
+    "latitude": -10.45856,
+    "longitude": -161.0051,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036499,
+    "name": "Te Tanga",
+    "latitude": -21.23556,
+    "longitude": -159.74139,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035484,
+    "name": "Te Vaakauta",
+    "latitude": -21.23528,
+    "longitude": -159.75,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036552,
+    "name": "Tehapai",
+    "latitude": -10.4536,
+    "longitude": -161.01057,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031124,
+    "name": "Tekasi",
+    "latitude": -8.92449,
+    "longitude": -158.05137,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035676,
+    "name": "Tekopua",
+    "latitude": -18.92939,
+    "longitude": -159.72941,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031428,
+    "name": "Temata",
+    "latitude": -8.98247,
+    "longitude": -157.91924,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031122,
+    "name": "Tepuka",
+    "latitude": -9.02918,
+    "longitude": -157.88396,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11876847,
+    "name": "Tetaha Kiraro",
+    "latitude": -10.01179,
+    "longitude": -161.09765,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11876848,
+    "name": "Tetukono",
+    "latitude": -10.0005,
+    "longitude": -161.08461,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036544,
+    "name": "Tevahavaha",
+    "latitude": -10.45915,
+    "longitude": -160.9934,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035544,
+    "name": "The Seven Islands",
+    "latitude": -13.28333,
+    "longitude": -163.03333,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036558,
+    "name": "Tima",
+    "latitude": -10.44749,
+    "longitude": -161.01759,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036541,
+    "name": "Tiri Kopu",
+    "latitude": -10.45564,
+    "longitude": -160.98431,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031121,
+    "name": "Tokerau",
+    "latitude": -8.92206,
+    "longitude": -158.04262,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036421,
+    "name": "Toms",
+    "latitude": -18.08891,
+    "longitude": -163.1803,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036501,
+    "name": "Toroume",
+    "latitude": -21.25944,
+    "longitude": -159.75194,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036538,
+    "name": "Totia",
+    "latitude": -10.45006,
+    "longitude": -160.96199,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031119,
+    "name": "Tuirai",
+    "latitude": -8.95282,
+    "longitude": -157.92688,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036550,
+    "name": "Tupuaekaha",
+    "latitude": -10.45538,
+    "longitude": -161.00765,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031118,
+    "name": "Vaiere",
+    "latitude": -9.08347,
+    "longitude": -157.96057,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4031426,
+    "name": "Veseru",
+    "latitude": -8.94685,
+    "longitude": -157.92884,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4035436,
+    "name": "Whale Island",
+    "latitude": -13.25,
+    "longitude": -163.1,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  }
+]

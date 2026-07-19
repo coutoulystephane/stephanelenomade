@@ -1,0 +1,622 @@
+[
+  {
+    "geonameId": 6896274,
+    "name": "Anniversary Island",
+    "latitude": -7.23789,
+    "longitude": 72.40336,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1281792,
+    "name": "Chagos Archipelago",
+    "latitude": -6.05589,
+    "longitude": 72.04834,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282582,
+    "name": "Coin du Mire",
+    "latitude": -5.4278,
+    "longitude": 71.88116,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282579,
+    "name": "Danger Island",
+    "latitude": -6.38866,
+    "longitude": 71.2396,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11777531,
+    "name": "Eagle Island",
+    "latitude": -6.18817,
+    "longitude": 71.32745,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282574,
+    "name": "Eagle Islands",
+    "latitude": -6.21838,
+    "longitude": 71.30384,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282573,
+    "name": "East Island",
+    "latitude": -7.22683,
+    "longitude": 72.41926,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282569,
+    "name": "Egmont Islands",
+    "latitude": -6.65443,
+    "longitude": 71.35028,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6902749,
+    "name": "Grande Île Bois Mangue",
+    "latitude": -5.26983,
+    "longitude": 71.89604,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282562,
+    "name": "Grande Île Coquillage",
+    "latitude": -5.37309,
+    "longitude": 71.96975,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282561,
+    "name": "Grande Île Mapou",
+    "latitude": -5.26544,
+    "longitude": 71.75087,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282560,
+    "name": "Grande Soeur",
+    "latitude": -5.34513,
+    "longitude": 71.74977,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282594,
+    "name": "Île Anglaise",
+    "latitude": -5.43964,
+    "longitude": 71.75342,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13156609,
+    "name": "Île Animaux",
+    "latitude": -5.24968,
+    "longitude": 71.94948,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282589,
+    "name": "Île Boddam",
+    "latitude": -5.35928,
+    "longitude": 72.20569,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282586,
+    "name": "Île Carre Pate",
+    "latitude": -6.67808,
+    "longitude": 71.36322,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13156608,
+    "name": "Île de Chama",
+    "latitude": -5.32539,
+    "longitude": 71.74169,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282533,
+    "name": "Île de la Passe",
+    "latitude": -5.30237,
+    "longitude": 72.25326,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282522,
+    "name": "Île des Rats",
+    "latitude": -6.64542,
+    "longitude": 71.31352,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282577,
+    "name": "Île Diable",
+    "latitude": -5.34612,
+    "longitude": 72.2039,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282576,
+    "name": "Île Diamant",
+    "latitude": -5.25344,
+    "longitude": 71.7632,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282583,
+    "name": "Île du Coin",
+    "latitude": -5.45398,
+    "longitude": 71.76619,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282519,
+    "name": "Île du Sel",
+    "latitude": -5.35478,
+    "longitude": 72.22685,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282567,
+    "name": "Île Finon",
+    "latitude": -5.33211,
+    "longitude": 71.74483,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282565,
+    "name": "Île Fouquet",
+    "latitude": -5.46295,
+    "longitude": 71.8112,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282564,
+    "name": "Île Gabrielle",
+    "latitude": -5.42303,
+    "longitude": 71.74963,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282557,
+    "name": "Île Jacobin",
+    "latitude": -5.35045,
+    "longitude": 72.24545,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1281795,
+    "name": "Île Longue",
+    "latitude": -5.25,
+    "longitude": 71.86667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282553,
+    "name": "Île Lubine",
+    "latitude": -6.66823,
+    "longitude": 71.33102,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282551,
+    "name": "Île Manöel",
+    "latitude": -5.25937,
+    "longitude": 71.92246,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282550,
+    "name": "Île Manon",
+    "latitude": -5.31494,
+    "longitude": 71.73641,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282549,
+    "name": "Île Mapou",
+    "latitude": -5.31134,
+    "longitude": 72.26483,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282542,
+    "name": "Île Monpatre",
+    "latitude": -5.42379,
+    "longitude": 71.75165,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282536,
+    "name": "Île Parasol",
+    "latitude": -5.26377,
+    "longitude": 71.84394,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282527,
+    "name": "Île Pierre",
+    "latitude": -5.29518,
+    "longitude": 71.73678,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282524,
+    "name": "Île Poule",
+    "latitude": -5.40571,
+    "longitude": 71.75079,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282521,
+    "name": "Île Saint Brandon",
+    "latitude": -5.24841,
+    "longitude": 71.83397,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282518,
+    "name": "Île Sepulture",
+    "latitude": -5.34922,
+    "longitude": 72.25365,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282516,
+    "name": "Île Sipaille",
+    "latitude": -6.65571,
+    "longitude": 71.3164,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282513,
+    "name": "Île Sudest",
+    "latitude": -6.68777,
+    "longitude": 71.38785,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282512,
+    "name": "Île Takamaka",
+    "latitude": -5.33108,
+    "longitude": 72.27112,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282511,
+    "name": "Île Tattamucca",
+    "latitude": -6.68184,
+    "longitude": 71.3676,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282509,
+    "name": "Île Vache Marine",
+    "latitude": -5.42432,
+    "longitude": 71.82962,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282507,
+    "name": "Île Verte",
+    "latitude": -5.3289,
+    "longitude": 71.74341,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282503,
+    "name": "Île Yeye",
+    "latitude": -5.24319,
+    "longitude": 71.96255,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282548,
+    "name": "Mapou de Î’ile du Coin",
+    "latitude": -5.46243,
+    "longitude": 71.79281,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11777526,
+    "name": "Middle Brother",
+    "latitude": -6.15536,
+    "longitude": 71.5164,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282546,
+    "name": "Middle Island",
+    "latitude": -7.22861,
+    "longitude": 72.40855,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282541,
+    "name": "Moresby Island",
+    "latitude": -5.237,
+    "longitude": 71.82596,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1281793,
+    "name": "Nelsons Island",
+    "latitude": -5.68167,
+    "longitude": 72.31544,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11777525,
+    "name": "North Brother",
+    "latitude": -6.13676,
+    "longitude": 71.50336,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13449558,
+    "name": "North Island",
+    "latitude": -6.13694,
+    "longitude": 71.50328,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6902750,
+    "name": "Petite Île Bois Mangue",
+    "latitude": -5.27097,
+    "longitude": 71.88551,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282531,
+    "name": "Petite Île Coquillage",
+    "latitude": -5.33954,
+    "longitude": 71.97314,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282530,
+    "name": "Petite Île de la Passe",
+    "latitude": -5.23343,
+    "longitude": 71.81728,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282529,
+    "name": "Petite Île Mapou",
+    "latitude": -5.27335,
+    "longitude": 71.74702,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282528,
+    "name": "Petite Soeur",
+    "latitude": -5.36379,
+    "longitude": 71.75529,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11777530,
+    "name": "Resurgent Island",
+    "latitude": -6.16342,
+    "longitude": 71.52941,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11777532,
+    "name": "Sea Cow Island",
+    "latitude": -6.23536,
+    "longitude": 71.29449,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11777527,
+    "name": "South Brother",
+    "latitude": -6.17128,
+    "longitude": 71.54117,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282510,
+    "name": "Three Brothers",
+    "latitude": -6.15566,
+    "longitude": 71.5204,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282505,
+    "name": "West Island",
+    "latitude": -7.2481,
+    "longitude": 72.38471,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  }
+]

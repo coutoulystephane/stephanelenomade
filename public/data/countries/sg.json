@@ -1,0 +1,1802 @@
+[
+  {
+    "geonameId": 1884338,
+    "name": "Aljunied Park",
+    "latitude": 1.33028,
+    "longitude": 103.88778,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13118138,
+    "name": "Anak Bukit",
+    "latitude": 1.34067,
+    "longitude": 103.77301,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880821,
+    "name": "Anak Pulau",
+    "latitude": 1.28833,
+    "longitude": 103.69417,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1884365,
+    "name": "Ang Mo Kio New Town",
+    "latitude": 1.38028,
+    "longitude": 103.83972,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882560,
+    "name": "Ang Mo Kio Park",
+    "latitude": 1.36028,
+    "longitude": 103.84889,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1884382,
+    "name": "Bedok New Town",
+    "latitude": 1.32639,
+    "longitude": 103.94167,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882762,
+    "name": "Bedok Reservoir",
+    "latitude": 1.34261,
+    "longitude": 103.92539,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1884343,
+    "name": "Bedok Town Park",
+    "latitude": 1.33694,
+    "longitude": 103.93833,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1884298,
+    "name": "Bishan Park",
+    "latitude": 1.36528,
+    "longitude": 103.83583,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880761,
+    "name": "Boon Lay",
+    "latitude": 1.311,
+    "longitude": 103.694,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1881920,
+    "name": "Botanic Gardens",
+    "latitude": 1.31028,
+    "longitude": 103.81639,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1884296,
+    "name": "Bukit Batok Nature Park",
+    "latitude": 1.34889,
+    "longitude": 103.76528,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1884297,
+    "name": "Bukit Batok Town Park",
+    "latitude": 1.35556,
+    "longitude": 103.76361,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1884367,
+    "name": "Bukit Panjang New Town",
+    "latitude": 1.37972,
+    "longitude": 103.76472,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880744,
+    "name": "Bukit Timah",
+    "latitude": 1.328,
+    "longitude": 103.791,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880355,
+    "name": "Bukit Timah Nature Reserve",
+    "latitude": 1.38694,
+    "longitude": 103.80083,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882435,
+    "name": "Changi Beach Park",
+    "latitude": 1.39028,
+    "longitude": 103.99444,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1884252,
+    "name": "Changi Creek Reservoir",
+    "latitude": 1.38611,
+    "longitude": 103.99556,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11694444,
+    "name": "Chestnut Nature Park",
+    "latitude": 1.37174,
+    "longitude": 103.77964,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882507,
+    "name": "Chinese Garden",
+    "latitude": 1.33861,
+    "longitude": 103.73,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1884737,
+    "name": "Choa Chu Kang New Town",
+    "latitude": 1.3825,
+    "longitude": 103.74972,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880700,
+    "name": "Clementi Park",
+    "latitude": 1.3275,
+    "longitude": 103.76806,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11694442,
+    "name": "Dairy Farm Nature Park",
+    "latitude": 1.36248,
+    "longitude": 103.77522,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882743,
+    "name": "Duran Darat",
+    "latitude": 1.2475,
+    "longitude": 103.84472,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880690,
+    "name": "East Coast Park",
+    "latitude": 1.31417,
+    "longitude": 103.93417,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7289731,
+    "name": "Eunos",
+    "latitude": 1.32252,
+    "longitude": 103.89822,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1881924,
+    "name": "Farrer Park",
+    "latitude": 1.31222,
+    "longitude": 103.84889,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6951477,
+    "name": "Fort Canning Park",
+    "latitude": 1.29369,
+    "longitude": 103.84665,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882726,
+    "name": "Fort Canning Reservoir",
+    "latitude": 1.29344,
+    "longitude": 103.84669,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1881926,
+    "name": "Haw Par Villa",
+    "latitude": 1.28528,
+    "longitude": 103.78278,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1881947,
+    "name": "Hong Lim Park",
+    "latitude": 1.28528,
+    "longitude": 103.84528,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7289742,
+    "name": "International Business Park",
+    "latitude": 1.32958,
+    "longitude": 103.7475,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882508,
+    "name": "Japanese Garden",
+    "latitude": 1.33528,
+    "longitude": 103.73111,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1881951,
+    "name": "Jurong Bird Park",
+    "latitude": 1.31917,
+    "longitude": 103.70611,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1881952,
+    "name": "Jurong East",
+    "latitude": 1.32888,
+    "longitude": 103.73995,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1884285,
+    "name": "Jurong Hill Park",
+    "latitude": 1.31861,
+    "longitude": 103.70639,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1884287,
+    "name": "Jurong Lake",
+    "latitude": 1.34194,
+    "longitude": 103.72639,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1885169,
+    "name": "Jurong Park",
+    "latitude": 1.32694,
+    "longitude": 103.72833,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1881953,
+    "name": "Jurong Town",
+    "latitude": 1.33417,
+    "longitude": 103.72278,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1881955,
+    "name": "Jurong West",
+    "latitude": 1.35028,
+    "longitude": 103.72278,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1881959,
+    "name": "Kallang Park",
+    "latitude": 1.30333,
+    "longitude": 103.87722,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1884307,
+    "name": "Kampong Java Park",
+    "latitude": 1.31083,
+    "longitude": 103.84611,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880597,
+    "name": "Kampong Java Teban",
+    "latitude": 1.33333,
+    "longitude": 103.73333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880586,
+    "name": "Kampong Loyang",
+    "latitude": 1.37778,
+    "longitude": 103.95944,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880574,
+    "name": "Kampong Pasir Ris",
+    "latitude": 1.37833,
+    "longitude": 103.93194,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880532,
+    "name": "Kampong Ubi",
+    "latitude": 1.31667,
+    "longitude": 103.9,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1881966,
+    "name": "Katong Park",
+    "latitude": 1.29722,
+    "longitude": 103.90111,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880517,
+    "name": "Keat Hong Village",
+    "latitude": 1.37778,
+    "longitude": 103.74417,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1884315,
+    "name": "Kent Ridge Park",
+    "latitude": 1.28639,
+    "longitude": 103.79,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1881970,
+    "name": "Kranji Nature Reserve",
+    "latitude": 1.42889,
+    "longitude": 103.75861,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1881971,
+    "name": "Kranji Reservoir",
+    "latitude": 1.43139,
+    "longitude": 103.74278,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882255,
+    "name": "Kranji Reservoir Park",
+    "latitude": 1.43972,
+    "longitude": 103.73778,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1881972,
+    "name": "Labrador Nature Reserve",
+    "latitude": 1.26583,
+    "longitude": 103.80194,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880394,
+    "name": "Lower Peirce Reservoir",
+    "latitude": 1.37056,
+    "longitude": 103.82139,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882031,
+    "name": "Lower Seletar Reservoir",
+    "latitude": 1.41528,
+    "longitude": 103.85528,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882033,
+    "name": "MacPherson",
+    "latitude": 1.32713,
+    "longitude": 103.88413,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880481,
+    "name": "MacRitchie Reservoir",
+    "latitude": 1.345,
+    "longitude": 103.82389,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882034,
+    "name": "MacRitchie Reservoir Park",
+    "latitude": 1.34472,
+    "longitude": 103.83472,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1884302,
+    "name": "Marina Park",
+    "latitude": 1.29972,
+    "longitude": 103.86472,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882727,
+    "name": "Marina South City Park",
+    "latitude": 1.28,
+    "longitude": 103.86111,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882778,
+    "name": "Marine Parade",
+    "latitude": 1.30306,
+    "longitude": 103.90778,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880469,
+    "name": "Marsiling",
+    "latitude": 1.43254,
+    "longitude": 103.77407,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880463,
+    "name": "Matilda Estate",
+    "latitude": 1.39944,
+    "longitude": 103.90278,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1884211,
+    "name": "Mayang",
+    "latitude": 1.42389,
+    "longitude": 103.84833,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882738,
+    "name": "Mount Faber Scenic Park",
+    "latitude": 1.27222,
+    "longitude": 103.82083,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882042,
+    "name": "Murai Reservoir",
+    "latitude": 1.40028,
+    "longitude": 103.67361,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880444,
+    "name": "Murnane Reservoir",
+    "latitude": 1.35111,
+    "longitude": 103.78611,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7289746,
+    "name": "Newton",
+    "latitude": 1.30902,
+    "longitude": 103.83757,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7281987,
+    "name": "Novena",
+    "latitude": 1.31697,
+    "longitude": 103.8438,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880415,
+    "name": "Pandan Nature Reserve",
+    "latitude": 1.31667,
+    "longitude": 103.73333,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882046,
+    "name": "Pandan Reservoir",
+    "latitude": 1.3125,
+    "longitude": 103.74444,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880402,
+    "name": "Pasir Panjang Park",
+    "latitude": 1.27583,
+    "longitude": 103.79194,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882429,
+    "name": "Pasir Ris Beach Park",
+    "latitude": 1.38361,
+    "longitude": 103.94528,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1885259,
+    "name": "Pearl’s Hill City Park",
+    "latitude": 1.28444,
+    "longitude": 103.83917,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882733,
+    "name": "Pearl’s Hill Reservoir",
+    "latitude": 1.28444,
+    "longitude": 103.84,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880787,
+    "name": "Pedra Branca",
+    "latitude": 1.33027,
+    "longitude": 104.40588,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882323,
+    "name": "Phoenix Park",
+    "latitude": 1.37639,
+    "longitude": 103.75639,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882074,
+    "name": "Poyan Reservoir",
+    "latitude": 1.37778,
+    "longitude": 103.66333,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880363,
+    "name": "Prawn Pond Reserve",
+    "latitude": 1.31667,
+    "longitude": 103.75,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1881650,
+    "name": "Pulau Anak Bukum",
+    "latitude": 1.23111,
+    "longitude": 103.75717,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880815,
+    "name": "Pulau Ayer Chawan",
+    "latitude": 1.27694,
+    "longitude": 103.70056,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880810,
+    "name": "Pulau Ayer Merbau",
+    "latitude": 1.26778,
+    "longitude": 103.71639,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880805,
+    "name": "Pulau Bajau",
+    "latitude": 1.36472,
+    "longitude": 103.64917,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880801,
+    "name": "Pulau Bakau",
+    "latitude": 1.25725,
+    "longitude": 103.70854,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880775,
+    "name": "Pulau Berkas",
+    "latitude": 1.18944,
+    "longitude": 103.73694,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880767,
+    "name": "Pulau Biola",
+    "latitude": 1.16444,
+    "longitude": 103.74222,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880752,
+    "name": "Pulau Buaya",
+    "latitude": 1.28444,
+    "longitude": 103.70389,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880743,
+    "name": "Pulau Bukum",
+    "latitude": 1.23256,
+    "longitude": 103.76913,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880740,
+    "name": "Pulau Bukum Kechil",
+    "latitude": 1.2275,
+    "longitude": 103.76528,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880738,
+    "name": "Pulau Buloh",
+    "latitude": 1.45056,
+    "longitude": 103.72528,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880733,
+    "name": "Pulau Buran",
+    "latitude": 1.23889,
+    "longitude": 103.84667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880732,
+    "name": "Pulau Busing",
+    "latitude": 1.23444,
+    "longitude": 103.74556,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882491,
+    "name": "Pulau Damien",
+    "latitude": 1.43611,
+    "longitude": 104.06694,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880660,
+    "name": "Pulau Hantu",
+    "latitude": 1.22472,
+    "longitude": 103.74861,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880633,
+    "name": "Pulau Jong",
+    "latitude": 1.21528,
+    "longitude": 103.78667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880659,
+    "name": "Pulau Keppel",
+    "latitude": 1.26389,
+    "longitude": 103.81194,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880513,
+    "name": "Pulau Ketam",
+    "latitude": 1.40361,
+    "longitude": 103.94917,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880458,
+    "name": "Pulau Merawang",
+    "latitude": 1.33333,
+    "longitude": 103.63333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880455,
+    "name": "Pulau Merlimau",
+    "latitude": 1.28639,
+    "longitude": 103.71222,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880453,
+    "name": "Pulau Mesemut Darat",
+    "latitude": 1.285,
+    "longitude": 103.72194,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880452,
+    "name": "Pulau Mesemut Laut",
+    "latitude": 1.28833,
+    "longitude": 103.72278,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880451,
+    "name": "Pulau Meskol",
+    "latitude": 1.28,
+    "longitude": 103.71667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880400,
+    "name": "Pulau Pawai",
+    "latitude": 1.18571,
+    "longitude": 103.72417,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880384,
+    "name": "Pulau Pergam",
+    "latitude": 1.39806,
+    "longitude": 103.66139,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880379,
+    "name": "Pulau Pesek",
+    "latitude": 1.28528,
+    "longitude": 103.68833,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1881621,
+    "name": "Pulau Pesek Kecil",
+    "latitude": 1.2775,
+    "longitude": 103.68139,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880336,
+    "name": "Pulau Renggis",
+    "latitude": 1.26028,
+    "longitude": 103.81472,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1881642,
+    "name": "Pulau Retan Laut",
+    "latitude": 1.28194,
+    "longitude": 103.76278,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882718,
+    "name": "Pulau Saigon",
+    "latitude": 1.28972,
+    "longitude": 103.84167,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880326,
+    "name": "Pulau Sajahat",
+    "latitude": 1.40115,
+    "longitude": 104.02023,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880325,
+    "name": "Pulau Sajahat Kechil",
+    "latitude": 1.40078,
+    "longitude": 104.02308,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880324,
+    "name": "Pulau Sakeng",
+    "latitude": 1.20722,
+    "longitude": 103.77806,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880323,
+    "name": "Pulau Sakijang Bendera",
+    "latitude": 1.21889,
+    "longitude": 103.84806,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880322,
+    "name": "Pulau Sakijang Pelepah",
+    "latitude": 1.22222,
+    "longitude": 103.855,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880321,
+    "name": "Pulau Sakra",
+    "latitude": 1.25942,
+    "longitude": 103.70149,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880316,
+    "name": "Pulau Salu",
+    "latitude": 1.21639,
+    "longitude": 103.70694,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880311,
+    "name": "Pulau Sanyongkong",
+    "latitude": 1.395,
+    "longitude": 104.06639,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880308,
+    "name": "Pulau Sarimbun",
+    "latitude": 1.43417,
+    "longitude": 103.685,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880305,
+    "name": "Pulau Satumu",
+    "latitude": 1.15989,
+    "longitude": 103.74076,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880302,
+    "name": "Pulau Sebarok",
+    "latitude": 1.20527,
+    "longitude": 103.79593,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880301,
+    "name": "Pulau Seburus Dalam",
+    "latitude": 1.26667,
+    "longitude": 103.73333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880300,
+    "name": "Pulau Seburus Luar",
+    "latitude": 1.28333,
+    "longitude": 103.73333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880298,
+    "name": "Pulau Sekudu",
+    "latitude": 1.40478,
+    "longitude": 103.9883,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880296,
+    "name": "Pulau Selegu",
+    "latitude": 1.25944,
+    "longitude": 103.81833,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880293,
+    "name": "Pulau Seletar",
+    "latitude": 1.44278,
+    "longitude": 103.86222,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880284,
+    "name": "Pulau Semakau",
+    "latitude": 1.20491,
+    "longitude": 103.7702,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880277,
+    "name": "Pulau Semechek",
+    "latitude": 1.41278,
+    "longitude": 104.03167,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880276,
+    "name": "Pulau Senang",
+    "latitude": 1.17111,
+    "longitude": 103.73528,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880270,
+    "name": "Pulau Serangoon",
+    "latitude": 1.40917,
+    "longitude": 103.92389,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880264,
+    "name": "Pulau Seraya",
+    "latitude": 1.2775,
+    "longitude": 103.7275,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880263,
+    "name": "Pulau Seringat",
+    "latitude": 1.23028,
+    "longitude": 103.85417,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882045,
+    "name": "Pulau Seringat Kecil",
+    "latitude": 1.22694,
+    "longitude": 103.84778,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880233,
+    "name": "Pulau Subar Darat",
+    "latitude": 1.21601,
+    "longitude": 103.83267,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880232,
+    "name": "Pulau Subar Laut",
+    "latitude": 1.2141,
+    "longitude": 103.83492,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880231,
+    "name": "Pulau Sudong",
+    "latitude": 1.2075,
+    "longitude": 103.72056,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880204,
+    "name": "Pulau Tekong",
+    "latitude": 1.41667,
+    "longitude": 104.05583,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880203,
+    "name": "Pulau Tekong Kechil",
+    "latitude": 1.41667,
+    "longitude": 104.02306,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882487,
+    "name": "Pulau Tekong Reservoir",
+    "latitude": 1.415,
+    "longitude": 104.04417,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880202,
+    "name": "Pulau Tekukor",
+    "latitude": 1.23047,
+    "longitude": 103.83806,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880197,
+    "name": "Pulau Tembakul",
+    "latitude": 1.22376,
+    "longitude": 103.86048,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880162,
+    "name": "Pulau Ubin",
+    "latitude": 1.41194,
+    "longitude": 103.96389,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880161,
+    "name": "Pulau Ular",
+    "latitude": 1.23278,
+    "longitude": 103.75639,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880157,
+    "name": "Pulau Unum",
+    "latitude": 1.43306,
+    "longitude": 104.05583,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880348,
+    "name": "Punggol",
+    "latitude": 1.41444,
+    "longitude": 103.90694,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882076,
+    "name": "Queen Elizabeth Walk",
+    "latitude": 1.28972,
+    "longitude": 103.85528,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1884386,
+    "name": "Queenstown Estate",
+    "latitude": 1.29417,
+    "longitude": 103.8025,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13118130,
+    "name": "Rochor",
+    "latitude": 1.30415,
+    "longitude": 103.85239,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880327,
+    "name": "Saint John Islands",
+    "latitude": 1.21667,
+    "longitude": 103.85,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882087,
+    "name": "Sarimbun Reservoir",
+    "latitude": 1.42667,
+    "longitude": 103.68389,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880289,
+    "name": "Seletar Reservoir",
+    "latitude": 1.39972,
+    "longitude": 103.79944,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882361,
+    "name": "Seletar Reservoir Park",
+    "latitude": 1.39972,
+    "longitude": 103.80694,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1884204,
+    "name": "Sembawang End Park",
+    "latitude": 1.46361,
+    "longitude": 103.83694,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880283,
+    "name": "Sembawang Estate",
+    "latitude": 1.45083,
+    "longitude": 103.82861,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7289760,
+    "name": "Sengkang New Town",
+    "latitude": 1.39167,
+    "longitude": 103.89444,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882686,
+    "name": "Serangoon Park",
+    "latitude": 1.35056,
+    "longitude": 103.86694,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882102,
+    "name": "Siglap Park",
+    "latitude": 1.31667,
+    "longitude": 103.92806,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880252,
+    "name": "Singapore",
+    "latitude": 1.28967,
+    "longitude": 103.85007,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880249,
+    "name": "Singapore Island",
+    "latitude": 1.36667,
+    "longitude": 103.8,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882106,
+    "name": "Singapore Zoological Gardens",
+    "latitude": 1.40389,
+    "longitude": 103.79389,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1888673,
+    "name": "South Bukom",
+    "latitude": 1.22083,
+    "longitude": 103.78056,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882756,
+    "name": "South End Reservoir",
+    "latitude": 1.34416,
+    "longitude": 103.9765,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880226,
+    "name": "Sungai Simpang",
+    "latitude": 1.43806,
+    "longitude": 103.82667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1885256,
+    "name": "Symphony Lake",
+    "latitude": 1.31444,
+    "longitude": 103.81472,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880414,
+    "name": "Tanjong Pangkong",
+    "latitude": 1.26861,
+    "longitude": 103.68861,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13118140,
+    "name": "Teck Whye",
+    "latitude": 1.3803,
+    "longitude": 103.75197,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1884310,
+    "name": "Telok Blangah Hill Park",
+    "latitude": 1.28222,
+    "longitude": 103.81222,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882123,
+    "name": "Tengeh Reservoir",
+    "latitude": 1.35194,
+    "longitude": 103.64111,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11776694,
+    "name": "The Green Oval",
+    "latitude": 1.38187,
+    "longitude": 103.93744,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882144,
+    "name": "The Sisters",
+    "latitude": 1.21491,
+    "longitude": 103.8338,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882509,
+    "name": "Tropical Garden",
+    "latitude": 1.33056,
+    "longitude": 103.73083,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880159,
+    "name": "Ulu Bedok",
+    "latitude": 1.33333,
+    "longitude": 103.93333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882030,
+    "name": "Upper Peirce Reservoir",
+    "latitude": 1.36849,
+    "longitude": 103.80061,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882049,
+    "name": "Upper Seletar Reservoir",
+    "latitude": 1.40194,
+    "longitude": 103.80028,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880144,
+    "name": "West Coast Village",
+    "latitude": 1.31667,
+    "longitude": 103.75,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882152,
+    "name": "West Point Garden",
+    "latitude": 1.29,
+    "longitude": 103.76917,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882316,
+    "name": "Woodlands",
+    "latitude": 1.43801,
+    "longitude": 103.78877,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1884203,
+    "name": "Woodlands Garden",
+    "latitude": 1.43861,
+    "longitude": 103.77,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880137,
+    "name": "Yew Tee",
+    "latitude": 1.39665,
+    "longitude": 103.74738,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1880135,
+    "name": "Yio Chu Kang",
+    "latitude": 1.39111,
+    "longitude": 103.85139,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1882155,
+    "name": "Yishun New Town",
+    "latitude": 1.43333,
+    "longitude": 103.83111,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  }
+]

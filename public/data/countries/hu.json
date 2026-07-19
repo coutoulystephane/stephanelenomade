@@ -1,0 +1,8832 @@
+[
+  {
+    "geonameId": 723030,
+    "name": "Abony",
+    "latitude": 47.1899,
+    "longitude": 20.00476,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3056437,
+    "name": "Ács",
+    "latitude": 47.71231,
+    "longitude": 18.01131,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3056392,
+    "name": "Agár-tető",
+    "latitude": 46.96667,
+    "longitude": 17.5,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3056390,
+    "name": "Ágasegyházai-rét",
+    "latitude": 46.83333,
+    "longitude": 19.48333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3056382,
+    "name": "Ágasvár",
+    "latitude": 47.91667,
+    "longitude": 19.83333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12514094,
+    "name": "Aggtelek National Park",
+    "latitude": 48.50284,
+    "longitude": 20.57325,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3056357,
+    "name": "Ajka",
+    "latitude": 47.10196,
+    "longitude": 17.55892,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3056323,
+    "name": "Alberti Tó",
+    "latitude": 47.53333,
+    "longitude": 19.73333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3056326,
+    "name": "Albertirsa",
+    "latitude": 47.24315,
+    "longitude": 19.61686,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7284899,
+    "name": "Algyő",
+    "latitude": 46.33472,
+    "longitude": 20.20849,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 722951,
+    "name": "Almás-bérc",
+    "latitude": 48.01667,
+    "longitude": 20.6,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3056045,
+    "name": "Alsó Sziget",
+    "latitude": 46.77676,
+    "longitude": 18.96267,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 722888,
+    "name": "Alsó Tó",
+    "latitude": 48.21667,
+    "longitude": 21.71667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 722930,
+    "name": "Alsó-Csákány",
+    "latitude": 47.98333,
+    "longitude": 20.53333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3056201,
+    "name": "Alsó-Hajag",
+    "latitude": 47.18023,
+    "longitude": 17.75203,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3056044,
+    "name": "Alsó-sziget",
+    "latitude": 47.74194,
+    "longitude": 18.38583,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3056164,
+    "name": "Alsókélesi Tó",
+    "latitude": 46.35,
+    "longitude": 19.25,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 722882,
+    "name": "Alsózsolca",
+    "latitude": 48.06982,
+    "longitude": 20.88046,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 722880,
+    "name": "Altracs-tó",
+    "latitude": 46.85,
+    "longitude": 20.36667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3055990,
+    "name": "Ámos",
+    "latitude": 47.2,
+    "longitude": 17.93333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3055973,
+    "name": "Angerwald",
+    "latitude": 47.63333,
+    "longitude": 16.5,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6694191,
+    "name": "Arborétum",
+    "latitude": 47.25461,
+    "longitude": 16.60802,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3055857,
+    "name": "Árboz-tó",
+    "latitude": 47.03333,
+    "longitude": 19.9,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3055833,
+    "name": "Asszonytó",
+    "latitude": 47.64863,
+    "longitude": 18.2541,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3054693,
+    "name": "Aszód",
+    "latitude": 47.65174,
+    "longitude": 19.4785,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3055817,
+    "name": "Asztag-kő",
+    "latitude": 47.85999,
+    "longitude": 19.92396,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 722766,
+    "name": "Átány",
+    "latitude": 47.61559,
+    "longitude": 20.36247,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12172714,
+    "name": "Bába-hegy",
+    "latitude": 48.53555,
+    "longitude": 21.50496,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3055760,
+    "name": "Bácsalmás",
+    "latitude": 46.12648,
+    "longitude": 19.3326,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3338798,
+    "name": "Bácsbokodi-víztároló",
+    "latitude": 46.14806,
+    "longitude": 19.17472,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 722740,
+    "name": "Bácsvár-orom",
+    "latitude": 48,
+    "longitude": 20.55,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3055736,
+    "name": "Badacsony",
+    "latitude": 46.8035,
+    "longitude": 17.4958,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3055712,
+    "name": "Baglyas-hegy",
+    "latitude": 47.73333,
+    "longitude": 19.05,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3055685,
+    "name": "Baja",
+    "latitude": 46.18299,
+    "longitude": 18.95307,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3055612,
+    "name": "Bakostető",
+    "latitude": 48.00267,
+    "longitude": 19.00394,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 722682,
+    "name": "Baktalórántháza",
+    "latitude": 48,
+    "longitude": 22.08333,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3055601,
+    "name": "Balassagyarmat",
+    "latitude": 48.07296,
+    "longitude": 19.29614,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3055598,
+    "name": "Baláta-tó",
+    "latitude": 46.31061,
+    "longitude": 17.20713,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3055597,
+    "name": "Balaton",
+    "latitude": 46.83333,
+    "longitude": 17.75,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3055590,
+    "name": "Balatonalmádi",
+    "latitude": 47.03526,
+    "longitude": 18.02076,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3055584,
+    "name": "Balatonboglár",
+    "latitude": 46.77525,
+    "longitude": 17.64415,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3055566,
+    "name": "Balatonfüred",
+    "latitude": 46.96188,
+    "longitude": 17.87187,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 722650,
+    "name": "Balkány",
+    "latitude": 47.77066,
+    "longitude": 21.86314,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 722636,
+    "name": "Balmazújváros",
+    "latitude": 47.61667,
+    "longitude": 21.35,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 722615,
+    "name": "Bálvány",
+    "latitude": 48.09991,
+    "longitude": 20.4732,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12213978,
+    "name": "Bán-hegy",
+    "latitude": 48.42077,
+    "longitude": 21.32885,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3055383,
+    "name": "Barát-hegy",
+    "latitude": 47.94058,
+    "longitude": 19.63295,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3055384,
+    "name": "Baráthalom",
+    "latitude": 47.76765,
+    "longitude": 19.00777,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3055370,
+    "name": "Barbacsi-tó",
+    "latitude": 47.63443,
+    "longitude": 17.32398,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3055368,
+    "name": "Barcs",
+    "latitude": 45.96,
+    "longitude": 17.45861,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3055315,
+    "name": "Bartasz-vég",
+    "latitude": 47.63333,
+    "longitude": 18.43333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3055298,
+    "name": "Bátaszék",
+    "latitude": 46.19373,
+    "longitude": 18.72307,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3055287,
+    "name": "Bátonyterenye",
+    "latitude": 47.96962,
+    "longitude": 19.84076,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 722477,
+    "name": "Battonya",
+    "latitude": 46.28333,
+    "longitude": 21.01667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 722456,
+    "name": "Begécsi-víztároló",
+    "latitude": 46.83333,
+    "longitude": 21.55,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 722439,
+    "name": "Békés",
+    "latitude": 46.76667,
+    "longitude": 21.13333,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 722437,
+    "name": "Békéscsaba",
+    "latitude": 46.68333,
+    "longitude": 21.1,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 722409,
+    "name": "Bél-kő",
+    "latitude": 48.03333,
+    "longitude": 20.36667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 722424,
+    "name": "Bélapátfalva",
+    "latitude": 48.05,
+    "longitude": 20.36667,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3055154,
+    "name": "Belső-tó",
+    "latitude": 46.90806,
+    "longitude": 17.88171,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 722324,
+    "name": "Berettyóújfalu",
+    "latitude": 47.22362,
+    "longitude": 21.53656,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3055091,
+    "name": "Berhida",
+    "latitude": 47.11131,
+    "longitude": 18.12948,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 722307,
+    "name": "Berva",
+    "latitude": 47.98333,
+    "longitude": 20.38333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 722304,
+    "name": "Bésató",
+    "latitude": 47.23333,
+    "longitude": 21.78333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3055046,
+    "name": "Bézma",
+    "latitude": 47.93333,
+    "longitude": 19.6,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3055039,
+    "name": "Biai-tó",
+    "latitude": 47.46809,
+    "longitude": 18.79704,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3055038,
+    "name": "Biatorbágy",
+    "latitude": 47.4706,
+    "longitude": 18.81892,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3055030,
+    "name": "Bicske",
+    "latitude": 47.48419,
+    "longitude": 18.64404,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 722260,
+    "name": "Bikató",
+    "latitude": 47.43333,
+    "longitude": 20.48333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 722256,
+    "name": "Bikkbérc",
+    "latitude": 47.93333,
+    "longitude": 20.45,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3338800,
+    "name": "Bilabara",
+    "latitude": 46.01611,
+    "longitude": 19.15778,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3054988,
+    "name": "Birkás-tó",
+    "latitude": 46.19653,
+    "longitude": 17.28061,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3054979,
+    "name": "Bite-szék",
+    "latitude": 46.2,
+    "longitude": 19.9,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 722163,
+    "name": "Bogárzó Tó",
+    "latitude": 46.65111,
+    "longitude": 20.02388,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3054894,
+    "name": "Bogárzó-tó",
+    "latitude": 47.33333,
+    "longitude": 19.5,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 722158,
+    "name": "Bogdán-tető",
+    "latitude": 48.25,
+    "longitude": 21.33333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3054868,
+    "name": "Bókai Tó",
+    "latitude": 46.76667,
+    "longitude": 18.68333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3054862,
+    "name": "Bokodi-hűtőtó",
+    "latitude": 47.5,
+    "longitude": 18.26667,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3054851,
+    "name": "Bölcső-hegy",
+    "latitude": 47.68333,
+    "longitude": 18.98333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3054848,
+    "name": "Boldogasszonyi-tó",
+    "latitude": 47.68997,
+    "longitude": 18.19079,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3054828,
+    "name": "Bóly",
+    "latitude": 45.96722,
+    "longitude": 18.51833,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3054820,
+    "name": "Bonaj-tó",
+    "latitude": 46.61667,
+    "longitude": 18.68333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3054815,
+    "name": "Boncsos-tető",
+    "latitude": 46.93333,
+    "longitude": 17.53333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3054809,
+    "name": "Bonyhád",
+    "latitude": 46.29921,
+    "longitude": 18.53024,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 722097,
+    "name": "Borbás-tó",
+    "latitude": 47.31667,
+    "longitude": 21.13333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3054790,
+    "name": "Börgői Tó",
+    "latitude": 46.18333,
+    "longitude": 17.23333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3054764,
+    "name": "Borostás Hegy",
+    "latitude": 47.71899,
+    "longitude": 18.82439,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 722052,
+    "name": "Borsó-hegy",
+    "latitude": 48.44415,
+    "longitude": 21.3152,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 722050,
+    "name": "Borsosi-tó",
+    "latitude": 47.56667,
+    "longitude": 21.15,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 722044,
+    "name": "Borzás",
+    "latitude": 48.41667,
+    "longitude": 21.45,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6694180,
+    "name": "Brenner Park",
+    "latitude": 47.22685,
+    "longitude": 16.62719,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3054648,
+    "name": "Budakeszi",
+    "latitude": 47.51083,
+    "longitude": 18.92717,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3054646,
+    "name": "Budaörs",
+    "latitude": 47.46181,
+    "longitude": 18.95845,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3054643,
+    "name": "Budapest",
+    "latitude": 47.49835,
+    "longitude": 19.04045,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 721995,
+    "name": "Büdös Tó",
+    "latitude": 46.46667,
+    "longitude": 20.2,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3054618,
+    "name": "Büdös-lápos",
+    "latitude": 47.368,
+    "longitude": 19.85239,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044910,
+    "name": "Büdös-szék",
+    "latitude": 46.868,
+    "longitude": 19.17015,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3054606,
+    "name": "Bugyi",
+    "latitude": 47.22748,
+    "longitude": 19.14664,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 721969,
+    "name": "Bükk-tető",
+    "latitude": 48.23333,
+    "longitude": 20.56667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 721976,
+    "name": "Bükkös-Mátra",
+    "latitude": 48.03333,
+    "longitude": 20.61667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 721975,
+    "name": "Bükkös-tető",
+    "latitude": 47.86667,
+    "longitude": 20.1,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 721944,
+    "name": "Búzás Tó",
+    "latitude": 47.31667,
+    "longitude": 21.66667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3054543,
+    "name": "Cegléd",
+    "latitude": 47.17266,
+    "longitude": 19.79952,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3054533,
+    "name": "Celldömölk",
+    "latitude": 47.25713,
+    "longitude": 17.15027,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 721913,
+    "name": "Cigánd",
+    "latitude": 48.25561,
+    "longitude": 21.89195,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 721909,
+    "name": "Cigány-hegy",
+    "latitude": 48.21667,
+    "longitude": 21.36667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3054502,
+    "name": "Cigány-zátony",
+    "latitude": 45.97674,
+    "longitude": 18.71621,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3054508,
+    "name": "Cigányhegy",
+    "latitude": 46.21667,
+    "longitude": 18.36667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 721902,
+    "name": "Cina-derék",
+    "latitude": 47.25,
+    "longitude": 20.81667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 721875,
+    "name": "Csaj-tó",
+    "latitude": 46.58333,
+    "longitude": 20.08333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3054434,
+    "name": "Csákvár",
+    "latitude": 47.39184,
+    "longitude": 18.46501,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3054426,
+    "name": "Csalán-hegy",
+    "latitude": 46.21876,
+    "longitude": 18.38229,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3054424,
+    "name": "Csalános",
+    "latitude": 47.93333,
+    "longitude": 19.81667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3338797,
+    "name": "Csávolyi-víztároló",
+    "latitude": 46.16861,
+    "longitude": 19.16389,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3054304,
+    "name": "Cseke-tó",
+    "latitude": 47.65064,
+    "longitude": 18.33494,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 721789,
+    "name": "Csenger",
+    "latitude": 47.83582,
+    "longitude": 22.68096,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3054276,
+    "name": "Csengő-hegy",
+    "latitude": 47.23911,
+    "longitude": 17.84497,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3054266,
+    "name": "Csepel-sziget",
+    "latitude": 47.25,
+    "longitude": 18.95,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 721667,
+    "name": "Csikorgó",
+    "latitude": 48.11667,
+    "longitude": 20.51667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3054093,
+    "name": "Csikós-tó",
+    "latitude": 48.06164,
+    "longitude": 19.16657,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 721657,
+    "name": "Csiktó",
+    "latitude": 46.96667,
+    "longitude": 21.61667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3054053,
+    "name": "Csipáné Tó",
+    "latitude": 46.4,
+    "longitude": 17.48333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3054040,
+    "name": "Csirke Tó",
+    "latitude": 47.01667,
+    "longitude": 19.58333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3054039,
+    "name": "Csirkota-tó",
+    "latitude": 45.96667,
+    "longitude": 17.56667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 721626,
+    "name": "Csizmás Tó",
+    "latitude": 47.01667,
+    "longitude": 20.01667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053971,
+    "name": "Csömör",
+    "latitude": 47.55,
+    "longitude": 19.23333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053965,
+    "name": "Csomoszvár",
+    "latitude": 47.93847,
+    "longitude": 19.91963,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6694199,
+    "name": "Csónakázó-tó",
+    "latitude": 47.05121,
+    "longitude": 16.79003,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 721592,
+    "name": "Csongrád",
+    "latitude": 46.71332,
+    "longitude": 20.14241,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6422150,
+    "name": "Csonkás-hegy",
+    "latitude": 47.68833,
+    "longitude": 18.4675,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053919,
+    "name": "Csór-hegy",
+    "latitude": 47.89315,
+    "longitude": 19.9702,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6690914,
+    "name": "Csór-réti víztározó",
+    "latitude": 47.88711,
+    "longitude": 19.95675,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053918,
+    "name": "Csorna",
+    "latitude": 47.61155,
+    "longitude": 17.25012,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 721559,
+    "name": "Csorvás",
+    "latitude": 46.63333,
+    "longitude": 20.83333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053891,
+    "name": "Csóványos",
+    "latitude": 47.95,
+    "longitude": 18.95,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053885,
+    "name": "Csúcs-hegy",
+    "latitude": 46.71782,
+    "longitude": 17.78521,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053880,
+    "name": "Csuhús Tó",
+    "latitude": 46.98333,
+    "longitude": 18.6,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053874,
+    "name": "Csukás Tó",
+    "latitude": 46.04096,
+    "longitude": 17.46774,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 721538,
+    "name": "Csukás-tó",
+    "latitude": 46.66667,
+    "longitude": 20.01667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053863,
+    "name": "Csurgó",
+    "latitude": 46.25314,
+    "longitude": 17.1006,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053850,
+    "name": "Cuha-hegy",
+    "latitude": 47.31581,
+    "longitude": 17.86506,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053836,
+    "name": "Dabas",
+    "latitude": 47.18594,
+    "longitude": 19.31091,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053808,
+    "name": "Darabos-hegy",
+    "latitude": 47.90553,
+    "longitude": 18.94043,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 721473,
+    "name": "Debornyafő",
+    "latitude": 48.11667,
+    "longitude": 20.13333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 721472,
+    "name": "Debrecen",
+    "latitude": 47.53167,
+    "longitude": 21.62444,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053765,
+    "name": "Dedre-bérc",
+    "latitude": 48.01553,
+    "longitude": 18.97648,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 721428,
+    "name": "Derecske",
+    "latitude": 47.35,
+    "longitude": 21.56667,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053724,
+    "name": "Deres Tó",
+    "latitude": 46.66381,
+    "longitude": 18.76743,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 721404,
+    "name": "Dévaványa",
+    "latitude": 47.03333,
+    "longitude": 20.96667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053712,
+    "name": "Devecser",
+    "latitude": 47.10316,
+    "longitude": 17.43802,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053684,
+    "name": "Diósd",
+    "latitude": 47.4095,
+    "longitude": 18.94898,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053661,
+    "name": "Disznótó",
+    "latitude": 47.61431,
+    "longitude": 18.07605,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053657,
+    "name": "Dobkereki",
+    "latitude": 47.11667,
+    "longitude": 17.73333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053654,
+    "name": "Dobogó",
+    "latitude": 46.22609,
+    "longitude": 18.36095,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053647,
+    "name": "Dobogó-kő",
+    "latitude": 47.71932,
+    "longitude": 18.89567,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053644,
+    "name": "Dobogó-tető",
+    "latitude": 47.97734,
+    "longitude": 19.55401,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053632,
+    "name": "Dobos-tó",
+    "latitude": 46.68527,
+    "longitude": 19.92593,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053598,
+    "name": "Domaszék",
+    "latitude": 46.28333,
+    "longitude": 19.95,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053590,
+    "name": "Dombóvár",
+    "latitude": 46.37657,
+    "longitude": 18.13696,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053577,
+    "name": "Dömsöd",
+    "latitude": 47.09005,
+    "longitude": 19.01106,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 721298,
+    "name": "Dongér-tó",
+    "latitude": 46.54568,
+    "longitude": 20.03481,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053564,
+    "name": "Dormány Tó",
+    "latitude": 46.34513,
+    "longitude": 17.23572,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053562,
+    "name": "Dorog",
+    "latitude": 47.72095,
+    "longitude": 18.73641,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7910304,
+    "name": "Duna-Drava National Park",
+    "latitude": 46.08635,
+    "longitude": 18.22636,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053446,
+    "name": "Duna-sziget",
+    "latitude": 47.71667,
+    "longitude": 17.6,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053489,
+    "name": "Dunaföldvár",
+    "latitude": 46.80713,
+    "longitude": 18.92763,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053485,
+    "name": "Dunaharaszti",
+    "latitude": 47.3545,
+    "longitude": 19.09822,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053476,
+    "name": "Dunakeszi",
+    "latitude": 47.63641,
+    "longitude": 19.13864,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053438,
+    "name": "Dunaújváros",
+    "latitude": 46.96479,
+    "longitude": 18.93974,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053434,
+    "name": "Dunavarsány",
+    "latitude": 47.27859,
+    "longitude": 19.06617,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 721246,
+    "name": "Edelény",
+    "latitude": 48.3,
+    "longitude": 20.73333,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053395,
+    "name": "Edericsi-hegy",
+    "latitude": 46.8,
+    "longitude": 17.33333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 721239,
+    "name": "Eger",
+    "latitude": 47.90265,
+    "longitude": 20.37329,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 721208,
+    "name": "Egyek",
+    "latitude": 47.63333,
+    "longitude": 20.9,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 721189,
+    "name": "Elek",
+    "latitude": 46.53333,
+    "longitude": 21.25,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 721177,
+    "name": "Elő-galya",
+    "latitude": 48.03333,
+    "longitude": 20.68333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 721161,
+    "name": "Emőd",
+    "latitude": 47.93333,
+    "longitude": 20.81667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 721159,
+    "name": "Encs",
+    "latitude": 48.33333,
+    "longitude": 21.13333,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053297,
+    "name": "Enying",
+    "latitude": 46.93046,
+    "longitude": 18.24202,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053283,
+    "name": "Ercsi",
+    "latitude": 47.25194,
+    "longitude": 18.89623,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053281,
+    "name": "Érd",
+    "latitude": 47.39489,
+    "longitude": 18.91361,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053253,
+    "name": "Erdőkertes",
+    "latitude": 47.67261,
+    "longitude": 19.30786,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 721124,
+    "name": "Erdősziget",
+    "latitude": 47.76667,
+    "longitude": 21,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 721112,
+    "name": "Eresztő-galya",
+    "latitude": 48.05,
+    "longitude": 20.68333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053163,
+    "name": "Esztergom",
+    "latitude": 47.7928,
+    "longitude": 18.74148,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6694182,
+    "name": "Ezredévi Park",
+    "latitude": 47.2306,
+    "longitude": 16.60538,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720992,
+    "name": "Fegyvernek",
+    "latitude": 47.26667,
+    "longitude": 20.53333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720979,
+    "name": "Fehér Szik",
+    "latitude": 47.78333,
+    "longitude": 21.51667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3053040,
+    "name": "Fehér Tó",
+    "latitude": 47.51667,
+    "longitude": 19.75,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720978,
+    "name": "Fehér-szik",
+    "latitude": 47.96667,
+    "longitude": 21.43333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720970,
+    "name": "Fehér-tó",
+    "latitude": 46.64063,
+    "longitude": 19.9836,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720988,
+    "name": "Fehérgyarmat",
+    "latitude": 47.98333,
+    "longitude": 22.51667,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3052984,
+    "name": "Fekete Tó",
+    "latitude": 46.68333,
+    "longitude": 18.75,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720939,
+    "name": "Fekete-hegy",
+    "latitude": 48.45,
+    "longitude": 21.43333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720936,
+    "name": "Fekete-Papaj",
+    "latitude": 48.38333,
+    "longitude": 21.45,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3052975,
+    "name": "Félegyházi Tó",
+    "latitude": 46.65,
+    "longitude": 19.93333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3052741,
+    "name": "Felső Sziget",
+    "latitude": 46.81667,
+    "longitude": 18.93333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720903,
+    "name": "Felső-Csákány",
+    "latitude": 48,
+    "longitude": 20.53333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3052895,
+    "name": "Felső-Hajag",
+    "latitude": 47.2,
+    "longitude": 17.73333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3052713,
+    "name": "Felső-tó",
+    "latitude": 46.83333,
+    "longitude": 18.9,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720857,
+    "name": "Felsőzsolca",
+    "latitude": 48.1,
+    "longitude": 20.86667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720840,
+    "name": "Fényes Tó",
+    "latitude": 47.67944,
+    "longitude": 21.92877,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720823,
+    "name": "Fertő",
+    "latitude": 46.83333,
+    "longitude": 20.13333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3052494,
+    "name": "Fertő tó",
+    "latitude": 47.7324,
+    "longitude": 16.71432,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720819,
+    "name": "Fertő-laposi-tő",
+    "latitude": 47.53333,
+    "longitude": 21.28333,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720818,
+    "name": "Fertős-tető",
+    "latitude": 48.51667,
+    "longitude": 20.55,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3052629,
+    "name": "Filagóriai Tó",
+    "latitude": 46.23242,
+    "longitude": 17.22475,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3052574,
+    "name": "Fonyód",
+    "latitude": 46.74303,
+    "longitude": 17.55754,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3052567,
+    "name": "Forgó-tó",
+    "latitude": 46.31707,
+    "longitude": 18.90234,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3052542,
+    "name": "Fót",
+    "latitude": 47.6177,
+    "longitude": 19.1887,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3052538,
+    "name": "Fövenyes Tó",
+    "latitude": 47.6742,
+    "longitude": 17.00744,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3338790,
+    "name": "Fülöp-tó",
+    "latitude": 46.5825,
+    "longitude": 19.98472,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720687,
+    "name": "Füzesabony",
+    "latitude": 47.75,
+    "longitude": 20.41667,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720679,
+    "name": "Füzesgyarmat",
+    "latitude": 47.1,
+    "longitude": 21.21667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3052450,
+    "name": "Gabriella-sziget",
+    "latitude": 45.93333,
+    "longitude": 18.78333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720614,
+    "name": "Galuzsnya-tető",
+    "latitude": 48.05,
+    "longitude": 20.65,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3052404,
+    "name": "Galya-tető",
+    "latitude": 47.91667,
+    "longitude": 19.91667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720611,
+    "name": "Galyas-tető",
+    "latitude": 47.98333,
+    "longitude": 20.55,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3052386,
+    "name": "Garancsi-tó",
+    "latitude": 47.62353,
+    "longitude": 18.80731,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3052381,
+    "name": "Gárdony",
+    "latitude": 47.20942,
+    "longitude": 18.63607,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6694179,
+    "name": "Gayer Park",
+    "latitude": 47.22911,
+    "longitude": 16.62667,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3052363,
+    "name": "Gazdák Szigetei",
+    "latitude": 47.82422,
+    "longitude": 17.55146,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3052322,
+    "name": "Gerecse",
+    "latitude": 47.68067,
+    "longitude": 18.48589,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720543,
+    "name": "Gergely-hegy",
+    "latitude": 48.41636,
+    "longitude": 21.31034,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8411042,
+    "name": "Gida-pataki tó",
+    "latitude": 47.64548,
+    "longitude": 16.59039,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3052241,
+    "name": "Göd",
+    "latitude": 47.68324,
+    "longitude": 19.13417,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3052236,
+    "name": "Gödöllő",
+    "latitude": 47.59657,
+    "longitude": 19.35515,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720494,
+    "name": "Gönc",
+    "latitude": 48.46667,
+    "longitude": 21.28333,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720482,
+    "name": "Görbe Fertő",
+    "latitude": 47.51667,
+    "longitude": 20.31667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3052174,
+    "name": "Görbe Tó",
+    "latitude": 46.72481,
+    "longitude": 19.61537,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3052163,
+    "name": "Görgő-bükk",
+    "latitude": 47.86667,
+    "longitude": 19.96667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720419,
+    "name": "Gulicska",
+    "latitude": 48.1,
+    "longitude": 20.65,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3052123,
+    "name": "Gulyamajori-tó",
+    "latitude": 46.85,
+    "longitude": 18.83333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3052101,
+    "name": "Gyál",
+    "latitude": 47.38449,
+    "longitude": 19.2214,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720405,
+    "name": "Gyálai-Holt-Tisza",
+    "latitude": 47.62468,
+    "longitude": 20.68176,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12172712,
+    "name": "Gyep-hegy",
+    "latitude": 48.51039,
+    "longitude": 21.3707,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720364,
+    "name": "Gyomaendrőd",
+    "latitude": 46.93333,
+    "longitude": 20.83333,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3052045,
+    "name": "Gyömrő",
+    "latitude": 47.42733,
+    "longitude": 19.40133,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3052040,
+    "name": "Gyöngyös",
+    "latitude": 47.78257,
+    "longitude": 19.928,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720355,
+    "name": "Gyopáros-tó",
+    "latitude": 46.56667,
+    "longitude": 20.61667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3052009,
+    "name": "Győr",
+    "latitude": 47.68333,
+    "longitude": 17.63512,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720347,
+    "name": "Győri Szék",
+    "latitude": 46.4,
+    "longitude": 20.06667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720334,
+    "name": "Gyula",
+    "latitude": 46.65,
+    "longitude": 21.28333,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3051926,
+    "name": "Gyuri-sziget",
+    "latitude": 46.17064,
+    "longitude": 18.90229,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3051910,
+    "name": "Habostó",
+    "latitude": 47.07009,
+    "longitude": 19.59124,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720297,
+    "name": "Hajagos-tető",
+    "latitude": 48.36667,
+    "longitude": 21.38333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720292,
+    "name": "Hajdúböszörmény",
+    "latitude": 47.66667,
+    "longitude": 21.51667,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720290,
+    "name": "Hajdúdorog",
+    "latitude": 47.81667,
+    "longitude": 21.5,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720287,
+    "name": "Hajdúhadház",
+    "latitude": 47.68333,
+    "longitude": 21.66667,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720284,
+    "name": "Hajdúnánás",
+    "latitude": 47.85,
+    "longitude": 21.43333,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720280,
+    "name": "Hajdúsámson",
+    "latitude": 47.6,
+    "longitude": 21.76667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720276,
+    "name": "Hajdúszoboszló",
+    "latitude": 47.45,
+    "longitude": 21.4,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3051883,
+    "name": "Hajlékos Bérc",
+    "latitude": 47.76163,
+    "longitude": 19.01349,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3051876,
+    "name": "Hajnács-hegy",
+    "latitude": 47.94705,
+    "longitude": 19.90352,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720265,
+    "name": "Hajnács-kő",
+    "latitude": 47.84162,
+    "longitude": 20.01925,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3051850,
+    "name": "Halas Tó",
+    "latitude": 47.48333,
+    "longitude": 18.66667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3051858,
+    "name": "Hálás-bérc",
+    "latitude": 47.91174,
+    "longitude": 18.9255,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3051854,
+    "name": "Halasi-tó",
+    "latitude": 47.63333,
+    "longitude": 18.26667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720246,
+    "name": "Halastó",
+    "latitude": 47.76667,
+    "longitude": 21.08333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3051822,
+    "name": "Halásztelek",
+    "latitude": 47.36173,
+    "longitude": 18.98119,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3051794,
+    "name": "Halyagos",
+    "latitude": 47.59989,
+    "longitude": 18.4248,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720213,
+    "name": "Hámori-tó",
+    "latitude": 48.1,
+    "longitude": 20.61667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3051723,
+    "name": "Harkai-tó",
+    "latitude": 46.47417,
+    "longitude": 19.58722,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3051698,
+    "name": "Hármas Tó",
+    "latitude": 46.22805,
+    "longitude": 17.22112,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3051702,
+    "name": "Hármas-hegy",
+    "latitude": 46.17686,
+    "longitude": 18.33723,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3051709,
+    "name": "Hármashatár-hegy",
+    "latitude": 47.99009,
+    "longitude": 19.66586,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3051679,
+    "name": "Háros-sziget",
+    "latitude": 47.39806,
+    "longitude": 19.02506,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 724739,
+    "name": "Hársas Hegy",
+    "latitude": 48.54046,
+    "longitude": 21.51543,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6695550,
+    "name": "Hársas-tó",
+    "latitude": 46.93623,
+    "longitude": 16.31156,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3051641,
+    "name": "Határtó",
+    "latitude": 46.71017,
+    "longitude": 19.62538,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3338792,
+    "name": "Hattyús-szék",
+    "latitude": 46.87389,
+    "longitude": 19.42611,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3051621,
+    "name": "Hatvan",
+    "latitude": 47.66667,
+    "longitude": 19.68333,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3051616,
+    "name": "Havas",
+    "latitude": 47.83952,
+    "longitude": 19.8023,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3051543,
+    "name": "Hegy-tó",
+    "latitude": 46.86667,
+    "longitude": 17.65,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3051572,
+    "name": "Hegyes Orom",
+    "latitude": 47.92762,
+    "longitude": 18.86318,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720076,
+    "name": "Hegyes-hegy",
+    "latitude": 47.85,
+    "longitude": 20.1,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720070,
+    "name": "Hegyes-tető",
+    "latitude": 48.1,
+    "longitude": 20.65,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3051537,
+    "name": "Helemba-sziget",
+    "latitude": 47.81667,
+    "longitude": 18.8,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3051505,
+    "name": "Herkató",
+    "latitude": 46.73898,
+    "longitude": 19.6951,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 720006,
+    "name": "Heves",
+    "latitude": 47.6,
+    "longitude": 20.28333,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719996,
+    "name": "Hidas-bérc",
+    "latitude": 47.86019,
+    "longitude": 20.01544,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3051461,
+    "name": "Hideg-hegy",
+    "latitude": 47.95,
+    "longitude": 18.91667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3051455,
+    "name": "Hidegkút-hegy",
+    "latitude": 47.88333,
+    "longitude": 19.8,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719965,
+    "name": "Hódmezővásárhely",
+    "latitude": 46.41667,
+    "longitude": 20.33333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3051409,
+    "name": "Holló-kő",
+    "latitude": 47.97315,
+    "longitude": 18.8843,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719944,
+    "name": "Hollós-tető",
+    "latitude": 48.25,
+    "longitude": 21.3,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3051406,
+    "name": "Hollósfai Tó",
+    "latitude": 46.22022,
+    "longitude": 17.22286,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719939,
+    "name": "Holt-Szamos",
+    "latitude": 47.76667,
+    "longitude": 22.45,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3051348,
+    "name": "Homorú-tető",
+    "latitude": 48.16743,
+    "longitude": 19.77743,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719901,
+    "name": "Horgas Tó",
+    "latitude": 47.75,
+    "longitude": 21.35,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719902,
+    "name": "Horgas-tó",
+    "latitude": 47.35,
+    "longitude": 21.65,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7932507,
+    "name": "Hortobágy National Park",
+    "latitude": 47.6,
+    "longitude": 21.1,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719888,
+    "name": "Hortobágyi Nemzeti Park",
+    "latitude": 47.56667,
+    "longitude": 21.16667,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719887,
+    "name": "Hortobágyi Víztároló",
+    "latitude": 47.56667,
+    "longitude": 21.16667,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719891,
+    "name": "Hortobágyi-halastó",
+    "latitude": 47.61667,
+    "longitude": 21.08333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719834,
+    "name": "Hosszú Tó",
+    "latitude": 46.46667,
+    "longitude": 20.18333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3051260,
+    "name": "Hosszú Víz",
+    "latitude": 46.58333,
+    "longitude": 19.41667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719846,
+    "name": "Hosszú-kő",
+    "latitude": 48.43333,
+    "longitude": 21.38333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3051250,
+    "name": "Hosszú-Vontató",
+    "latitude": 47.69458,
+    "longitude": 18.41265,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719859,
+    "name": "Hosszúgalya-tető",
+    "latitude": 47.98333,
+    "longitude": 20.38333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719843,
+    "name": "Hosszúpályi",
+    "latitude": 47.39303,
+    "longitude": 21.7328,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8411009,
+    "name": "Ibolya-tó",
+    "latitude": 47.69399,
+    "longitude": 16.57987,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719806,
+    "name": "Ibrány",
+    "latitude": 48.12329,
+    "longitude": 21.70953,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6690915,
+    "name": "Ilona-völgyi vízesés",
+    "latitude": 47.87946,
+    "longitude": 20.06104,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3051118,
+    "name": "Inó-tó",
+    "latitude": 48.05738,
+    "longitude": 19.1953,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3051102,
+    "name": "Irány-hegy",
+    "latitude": 47.37752,
+    "longitude": 16.49546,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3051077,
+    "name": "Isaszeg",
+    "latitude": 47.53011,
+    "longitude": 19.40205,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719745,
+    "name": "Istállós-kő",
+    "latitude": 48.06988,
+    "longitude": 20.43043,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3051016,
+    "name": "Izsák",
+    "latitude": 46.80454,
+    "longitude": 19.35172,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3051000,
+    "name": "Jakab-hegy",
+    "latitude": 46.09373,
+    "longitude": 18.14192,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3050948,
+    "name": "János-hegy",
+    "latitude": 47.51813,
+    "longitude": 18.95966,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3050967,
+    "name": "Jánoshalma",
+    "latitude": 46.29861,
+    "longitude": 19.32583,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3050927,
+    "name": "Jánossomorja",
+    "latitude": 47.78621,
+    "longitude": 17.13603,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719655,
+    "name": "Jászapáti",
+    "latitude": 47.51667,
+    "longitude": 20.15,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3050909,
+    "name": "Jászárokszállás",
+    "latitude": 47.64238,
+    "longitude": 19.98038,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3050907,
+    "name": "Jászberény",
+    "latitude": 47.5,
+    "longitude": 19.91667,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719643,
+    "name": "Jászkisér",
+    "latitude": 47.45,
+    "longitude": 20.21667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719640,
+    "name": "Jászladány",
+    "latitude": 47.36667,
+    "longitude": 20.16667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3050878,
+    "name": "Jenői-tó",
+    "latitude": 47.92926,
+    "longitude": 19.06719,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3050794,
+    "name": "Kab-hegy",
+    "latitude": 47.05,
+    "longitude": 17.65,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719555,
+    "name": "Kaba",
+    "latitude": 47.35,
+    "longitude": 21.28333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719533,
+    "name": "Kaján-szik",
+    "latitude": 47.76667,
+    "longitude": 21.38333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3050757,
+    "name": "Kákás-tó",
+    "latitude": 48.05666,
+    "longitude": 19.18543,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719519,
+    "name": "Kakasszéki-tó",
+    "latitude": 46.55,
+    "longitude": 20.58333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3050758,
+    "name": "Kakastaréj",
+    "latitude": 47.12151,
+    "longitude": 17.67803,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3050719,
+    "name": "Kalocsa",
+    "latitude": 46.52981,
+    "longitude": 18.97283,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3050692,
+    "name": "Kámor",
+    "latitude": 47.97694,
+    "longitude": 19.01957,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719462,
+    "name": "Kánya-hegy",
+    "latitude": 48.51157,
+    "longitude": 21.39298,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3050662,
+    "name": "Kapitány-hegy",
+    "latitude": 47.70966,
+    "longitude": 19.00209,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719443,
+    "name": "Kapitány-tó",
+    "latitude": 48.15,
+    "longitude": 21.43333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3050616,
+    "name": "Kaposvár",
+    "latitude": 46.36667,
+    "longitude": 17.8,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3050594,
+    "name": "Kapuvár",
+    "latitude": 47.59224,
+    "longitude": 17.02886,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3059568,
+    "name": "Karancs",
+    "latitude": 48.15,
+    "longitude": 19.78333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719404,
+    "name": "Karcag",
+    "latitude": 47.31667,
+    "longitude": 20.93333,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3050526,
+    "name": "Kartal",
+    "latitude": 47.67133,
+    "longitude": 19.542,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719350,
+    "name": "Kaszálás-tető",
+    "latitude": 48.01667,
+    "longitude": 20.4,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3050472,
+    "name": "Káva",
+    "latitude": 47.85,
+    "longitude": 19.81667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719311,
+    "name": "Kazincbarcika",
+    "latitude": 48.25,
+    "longitude": 20.63333,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3050454,
+    "name": "Kecel",
+    "latitude": 46.52528,
+    "longitude": 19.25194,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12172717,
+    "name": "Kecske-hegy",
+    "latitude": 48.39572,
+    "longitude": 21.61972,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3050434,
+    "name": "Kecskemét",
+    "latitude": 46.90618,
+    "longitude": 19.69128,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719295,
+    "name": "Kecskeri-víztároló",
+    "latitude": 47.26667,
+    "longitude": 20.8,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3050411,
+    "name": "Kék-hegy",
+    "latitude": 47.30554,
+    "longitude": 17.76851,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719276,
+    "name": "Kékes",
+    "latitude": 47.87191,
+    "longitude": 20.00709,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719270,
+    "name": "Kelemen-fertő",
+    "latitude": 47.53333,
+    "longitude": 20.31667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3050400,
+    "name": "Kelemenhalmi Tó",
+    "latitude": 46.81465,
+    "longitude": 18.78871,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3050380,
+    "name": "Kellő Tó",
+    "latitude": 46.55,
+    "longitude": 19.85,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719260,
+    "name": "Kemecse",
+    "latitude": 48.07532,
+    "longitude": 21.80625,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719252,
+    "name": "Kenderes",
+    "latitude": 47.25,
+    "longitude": 20.68333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3050348,
+    "name": "Kenderes Tó",
+    "latitude": 47.66703,
+    "longitude": 17.35426,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3050335,
+    "name": "Kendi Hegy",
+    "latitude": 47.36667,
+    "longitude": 16.48333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10630156,
+    "name": "Kendig",
+    "latitude": 47.36264,
+    "longitude": 16.47769,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3050320,
+    "name": "Kercsek-tető",
+    "latitude": 48.13771,
+    "longitude": 19.80038,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719195,
+    "name": "Kerek-hegy",
+    "latitude": 48.1,
+    "longitude": 20.51667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719184,
+    "name": "Kerek-szik-tó",
+    "latitude": 47.35,
+    "longitude": 21.66667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3050311,
+    "name": "Kerekegyháza",
+    "latitude": 46.93722,
+    "longitude": 19.47806,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719190,
+    "name": "Kerékkötő-hegy",
+    "latitude": 48,
+    "longitude": 20.58333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7284912,
+    "name": "Kerepes",
+    "latitude": 47.56008,
+    "longitude": 19.28289,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3050212,
+    "name": "Keszthely",
+    "latitude": 46.76812,
+    "longitude": 17.24317,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3050195,
+    "name": "Kettős Tó",
+    "latitude": 46.21667,
+    "longitude": 17.26477,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3050176,
+    "name": "Kígyós Tó",
+    "latitude": 46.08675,
+    "longitude": 19.32945,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3050156,
+    "name": "Kinder-tó",
+    "latitude": 46.98791,
+    "longitude": 17.62245,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3338784,
+    "name": "Király-tó",
+    "latitude": 46.94194,
+    "longitude": 19.39639,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719047,
+    "name": "Királytelki Tó",
+    "latitude": 48.03333,
+    "longitude": 21.61667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049845,
+    "name": "Kis Madarasi-tó",
+    "latitude": 47.03891,
+    "longitude": 19.48312,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 718876,
+    "name": "Kis Mihály-tó",
+    "latitude": 47.21667,
+    "longitude": 20,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3050116,
+    "name": "Kis-Átal-kő",
+    "latitude": 47.9,
+    "longitude": 19.9,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 719019,
+    "name": "Kis-bodzás",
+    "latitude": 48.03333,
+    "longitude": 20.6,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3050072,
+    "name": "Kis-Büdös-tó",
+    "latitude": 46.61315,
+    "longitude": 19.42269,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 718996,
+    "name": "Kis-dél",
+    "latitude": 48.06667,
+    "longitude": 20.63333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3050004,
+    "name": "Kis-galya",
+    "latitude": 47.89379,
+    "longitude": 19.93169,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049928,
+    "name": "Kis-Inóc",
+    "latitude": 47.91462,
+    "longitude": 18.91022,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 718915,
+    "name": "Kis-kő",
+    "latitude": 47.8499,
+    "longitude": 20.02469,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049898,
+    "name": "Kis-Koppány",
+    "latitude": 47.90909,
+    "longitude": 18.83863,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 718871,
+    "name": "Kis-morotva",
+    "latitude": 48.08333,
+    "longitude": 21.46667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049807,
+    "name": "Kis-Papod",
+    "latitude": 47.17627,
+    "longitude": 17.87873,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3338783,
+    "name": "Kis-rét",
+    "latitude": 46.86861,
+    "longitude": 19.18889,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049766,
+    "name": "Kis-Salgó",
+    "latitude": 48.13847,
+    "longitude": 19.84324,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 718820,
+    "name": "Kis-Sóstó",
+    "latitude": 46.53333,
+    "longitude": 20.63333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049748,
+    "name": "Kis-Széksóstó",
+    "latitude": 46.2,
+    "longitude": 19.96667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3050088,
+    "name": "Kisbér",
+    "latitude": 47.50289,
+    "longitude": 18.03665,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 718978,
+    "name": "Kisfertő",
+    "latitude": 47.46667,
+    "longitude": 20.65,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049900,
+    "name": "Kiskondai-halastavak",
+    "latitude": 46.46667,
+    "longitude": 18.13333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 718910,
+    "name": "Kiskörei-Víztároló",
+    "latitude": 47.51667,
+    "longitude": 20.6,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049896,
+    "name": "Kiskőrös",
+    "latitude": 46.62139,
+    "longitude": 19.28528,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049885,
+    "name": "Kiskunfélegyháza",
+    "latitude": 46.71213,
+    "longitude": 19.84458,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049880,
+    "name": "Kiskunhalas",
+    "latitude": 46.43402,
+    "longitude": 19.48479,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049878,
+    "name": "Kiskunlacháza",
+    "latitude": 47.18839,
+    "longitude": 19.0093,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049875,
+    "name": "Kiskunmajsa",
+    "latitude": 46.49028,
+    "longitude": 19.74,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12501412,
+    "name": "Kiskunság national park",
+    "latitude": 46.88375,
+    "longitude": 19.40318,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3050290,
+    "name": "Kistarcsa",
+    "latitude": 47.54757,
+    "longitude": 19.26247,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049719,
+    "name": "Kistelek",
+    "latitude": 46.4725,
+    "longitude": 19.97972,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8411010,
+    "name": "Kistómalom",
+    "latitude": 47.71047,
+    "longitude": 16.62564,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 718744,
+    "name": "Kisújszállás",
+    "latitude": 47.21667,
+    "longitude": 20.76667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 718739,
+    "name": "Kisvárda",
+    "latitude": 48.21667,
+    "longitude": 22.08333,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049667,
+    "name": "Kiván-tó",
+    "latitude": 45.91667,
+    "longitude": 17.8,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049624,
+    "name": "Kocsis-tó",
+    "latitude": 46.8182,
+    "longitude": 19.65159,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049622,
+    "name": "Kocsma-tó",
+    "latitude": 46.55453,
+    "longitude": 19.68444,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049612,
+    "name": "Kőember",
+    "latitude": 47.98877,
+    "longitude": 19.0254,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049549,
+    "name": "Kolera-sziget",
+    "latitude": 47.74475,
+    "longitude": 17.76318,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049527,
+    "name": "Kolon-tó",
+    "latitude": 46.78333,
+    "longitude": 19.33333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 718639,
+    "name": "Kőlyuk-galya",
+    "latitude": 48.03333,
+    "longitude": 20.65,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 718637,
+    "name": "Komádi",
+    "latitude": 47,
+    "longitude": 21.5,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049519,
+    "name": "Komárom",
+    "latitude": 47.74318,
+    "longitude": 18.11913,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049512,
+    "name": "Komló",
+    "latitude": 46.19278,
+    "longitude": 18.26494,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049502,
+    "name": "Kondás Tó",
+    "latitude": 48.0559,
+    "longitude": 19.16763,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049497,
+    "name": "Kondor-tó",
+    "latitude": 46.91709,
+    "longitude": 19.41257,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 718615,
+    "name": "Kondoros",
+    "latitude": 46.76667,
+    "longitude": 20.8,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 718603,
+    "name": "Kónyai-halastavak",
+    "latitude": 47.6,
+    "longitude": 21.25,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049468,
+    "name": "Kopasz-hegy",
+    "latitude": 47.88239,
+    "longitude": 18.88636,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049433,
+    "name": "Kőris-hegy",
+    "latitude": 47.29414,
+    "longitude": 17.75468,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 718554,
+    "name": "Kőris-tető",
+    "latitude": 48.01667,
+    "longitude": 20.6,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049430,
+    "name": "Körmend",
+    "latitude": 47.01096,
+    "longitude": 16.60596,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 718541,
+    "name": "Kormó Tó",
+    "latitude": 47.35,
+    "longitude": 20.53333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049417,
+    "name": "Kornyi-tó",
+    "latitude": 46.86194,
+    "longitude": 17.59425,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12172715,
+    "name": "Korom-tettő",
+    "latitude": 48.51107,
+    "longitude": 21.53084,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 718529,
+    "name": "Kőrös-hegy",
+    "latitude": 48.33333,
+    "longitude": 21.36667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 718528,
+    "name": "Körösladány",
+    "latitude": 46.96667,
+    "longitude": 21.08333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049381,
+    "name": "Körtvélyes-sziget",
+    "latitude": 47.754,
+    "longitude": 18.67479,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049366,
+    "name": "Kőszeg",
+    "latitude": 47.38922,
+    "longitude": 16.541,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 718453,
+    "name": "Kovács-kő",
+    "latitude": 48.11667,
+    "longitude": 20.6,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 718409,
+    "name": "Köves-mál-tető",
+    "latitude": 48.21667,
+    "longitude": 20.46667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049286,
+    "name": "Köves-tető",
+    "latitude": 46.81667,
+    "longitude": 17.33333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049222,
+    "name": "Középső-Hajag",
+    "latitude": 47.1893,
+    "longitude": 17.73847,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049172,
+    "name": "Kukacos-tó",
+    "latitude": 46.96988,
+    "longitude": 17.37508,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049121,
+    "name": "Külső-Üsti-hegy",
+    "latitude": 47.10808,
+    "longitude": 17.68717,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 718324,
+    "name": "Kun György-tó",
+    "latitude": 47.58333,
+    "longitude": 21.1,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049112,
+    "name": "Kun-Fehér-tó",
+    "latitude": 46.37889,
+    "longitude": 19.38972,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 718321,
+    "name": "Kunhegyes",
+    "latitude": 47.36667,
+    "longitude": 20.63333,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 718315,
+    "name": "Kunmadaras",
+    "latitude": 47.43333,
+    "longitude": 20.8,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 718312,
+    "name": "Kunszentmárton",
+    "latitude": 46.83916,
+    "longitude": 20.28879,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049100,
+    "name": "Kunszentmiklós",
+    "latitude": 47.02699,
+    "longitude": 19.12575,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049079,
+    "name": "Kuruc-bérc",
+    "latitude": 47.95441,
+    "longitude": 18.9061,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049042,
+    "name": "Kutya-hegy",
+    "latitude": 47.58933,
+    "longitude": 18.85164,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049036,
+    "name": "Lábatlan",
+    "latitude": 47.74735,
+    "longitude": 18.49623,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049029,
+    "name": "Laci-sziget",
+    "latitude": 47.81667,
+    "longitude": 17.56667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 718235,
+    "name": "Lajos-tó",
+    "latitude": 46.63333,
+    "longitude": 20.36667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3049002,
+    "name": "Lajosmizse",
+    "latitude": 47.02133,
+    "longitude": 19.56171,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3048994,
+    "name": "Lajszka",
+    "latitude": 47.95,
+    "longitude": 19.91667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12217368,
+    "name": "Lapishegy",
+    "latitude": 48.37114,
+    "longitude": 21.27583,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 718164,
+    "name": "Láz-bérci-víztároló",
+    "latitude": 48.2,
+    "longitude": 20.46667,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3048900,
+    "name": "Lázár-tó",
+    "latitude": 46.56574,
+    "longitude": 19.49361,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3048847,
+    "name": "Lenti",
+    "latitude": 46.62403,
+    "longitude": 16.53863,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 718113,
+    "name": "Létavértes",
+    "latitude": 47.38333,
+    "longitude": 21.9,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3048820,
+    "name": "Letenye",
+    "latitude": 46.43301,
+    "longitude": 16.72583,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3048758,
+    "name": "Líviai-halastavak",
+    "latitude": 47.1,
+    "longitude": 18.81667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3048743,
+    "name": "Ló-hegy",
+    "latitude": 47.90403,
+    "longitude": 18.9006,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3048731,
+    "name": "Lom-hegy",
+    "latitude": 47.69087,
+    "longitude": 18.96667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3048725,
+    "name": "Lőrinci",
+    "latitude": 47.73295,
+    "longitude": 19.67867,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 718030,
+    "name": "Luci Sziget",
+    "latitude": 48.01667,
+    "longitude": 21.06667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 718014,
+    "name": "Ludas Tó",
+    "latitude": 46.95,
+    "longitude": 21.61667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 718013,
+    "name": "Ludas-tó",
+    "latitude": 47.98333,
+    "longitude": 21.85,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3048673,
+    "name": "Luppa-sziget",
+    "latitude": 47.61667,
+    "longitude": 19.08333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717996,
+    "name": "Lyukas Szik",
+    "latitude": 47.93333,
+    "longitude": 21.38333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3048667,
+    "name": "Macakás Tó",
+    "latitude": 45.98333,
+    "longitude": 17.81667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3048660,
+    "name": "Macska-hegy",
+    "latitude": 47.96238,
+    "longitude": 19.64476,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3048654,
+    "name": "Madarasi-tó",
+    "latitude": 47.05238,
+    "longitude": 19.46952,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3048652,
+    "name": "Madarász-sziget",
+    "latitude": 47.81667,
+    "longitude": 17.61667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3048651,
+    "name": "Madarász-tó",
+    "latitude": 46.18722,
+    "longitude": 19.92473,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717972,
+    "name": "Magas",
+    "latitude": 48.1,
+    "longitude": 20.18333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3048646,
+    "name": "Magas-Bérc",
+    "latitude": 47.65192,
+    "longitude": 16.46398,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717965,
+    "name": "Magas-hegy",
+    "latitude": 48.40197,
+    "longitude": 21.63155,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3048630,
+    "name": "Maglód",
+    "latitude": 47.44258,
+    "longitude": 19.36438,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717950,
+    "name": "Magoska",
+    "latitude": 48.35,
+    "longitude": 21.28333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717902,
+    "name": "Makó",
+    "latitude": 46.21667,
+    "longitude": 20.48333,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717893,
+    "name": "Mákszem",
+    "latitude": 47.98333,
+    "longitude": 20.51667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3048517,
+    "name": "Málna-hegy",
+    "latitude": 47.952,
+    "longitude": 18.96961,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3048456,
+    "name": "Marcali",
+    "latitude": 46.58498,
+    "longitude": 17.41196,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3048434,
+    "name": "Margit-sziget",
+    "latitude": 47.5267,
+    "longitude": 19.04783,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3048377,
+    "name": "Markazi-víztároló",
+    "latitude": 47.81736,
+    "longitude": 20.06807,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3048366,
+    "name": "Márkus Szekrénye",
+    "latitude": 47.23333,
+    "longitude": 18.06667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8449649,
+    "name": "Martin Kertváros",
+    "latitude": 48.09224,
+    "longitude": 20.81394,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3048326,
+    "name": "Martonvásár",
+    "latitude": 47.31601,
+    "longitude": 18.79045,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717771,
+    "name": "Mátészalka",
+    "latitude": 47.95528,
+    "longitude": 22.32348,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3048301,
+    "name": "Matkói Tó",
+    "latitude": 46.8,
+    "longitude": 19.68333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3048276,
+    "name": "Mattyi-tó",
+    "latitude": 45.79083,
+    "longitude": 18.25361,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3048246,
+    "name": "Mecsektó",
+    "latitude": 46.18333,
+    "longitude": 17.28333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3048240,
+    "name": "Medves",
+    "latitude": 48.16667,
+    "longitude": 19.88333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3048202,
+    "name": "Meleg-hegy",
+    "latitude": 47.26667,
+    "longitude": 18.58333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3048194,
+    "name": "Mélykút",
+    "latitude": 46.21509,
+    "longitude": 19.38102,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3048166,
+    "name": "Merenyei-víztároló",
+    "latitude": 46.1,
+    "longitude": 17.68333,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717669,
+    "name": "Mezőberény",
+    "latitude": 46.81667,
+    "longitude": 21.03333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717667,
+    "name": "Mezőcsát",
+    "latitude": 47.81667,
+    "longitude": 20.91667,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717662,
+    "name": "Mezőhegyes",
+    "latitude": 46.31667,
+    "longitude": 20.81667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717656,
+    "name": "Mezőkovácsháza",
+    "latitude": 46.4,
+    "longitude": 20.91667,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717652,
+    "name": "Mezőkövesd",
+    "latitude": 47.81667,
+    "longitude": 20.58333,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3048093,
+    "name": "Mezőtó",
+    "latitude": 47.48997,
+    "longitude": 18.13494,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717635,
+    "name": "Mezőtúr",
+    "latitude": 47,
+    "longitude": 20.63333,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3048045,
+    "name": "Miklós-tető",
+    "latitude": 47.97418,
+    "longitude": 18.90867,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717591,
+    "name": "Mindszent",
+    "latitude": 46.52362,
+    "longitude": 20.19038,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3048018,
+    "name": "Misina",
+    "latitude": 46.09895,
+    "longitude": 18.21933,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3048013,
+    "name": "Miskei Tó",
+    "latitude": 46.43333,
+    "longitude": 18.98333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717582,
+    "name": "Miskolc",
+    "latitude": 48.10327,
+    "longitude": 20.77806,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717574,
+    "name": "Mocsárka-hegy",
+    "latitude": 48.35,
+    "longitude": 21.33333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047993,
+    "name": "Mocsi-sziget",
+    "latitude": 47.75,
+    "longitude": 18.41667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047988,
+    "name": "Mög-szeg",
+    "latitude": 47.08333,
+    "longitude": 17.76667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047980,
+    "name": "Mogyorós-bérc",
+    "latitude": 47.97636,
+    "longitude": 18.94249,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047967,
+    "name": "Mohács",
+    "latitude": 45.9902,
+    "longitude": 18.68621,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717550,
+    "name": "Mohos-tó",
+    "latitude": 47.89603,
+    "longitude": 21.93687,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047942,
+    "name": "Monor",
+    "latitude": 47.35133,
+    "longitude": 19.44733,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047933,
+    "name": "Monostori-tó",
+    "latitude": 46.91243,
+    "longitude": 17.59366,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047927,
+    "name": "Mór",
+    "latitude": 47.37787,
+    "longitude": 18.20353,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047922,
+    "name": "Mórahalom",
+    "latitude": 46.21806,
+    "longitude": 19.8851,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047905,
+    "name": "Móricz-sziget",
+    "latitude": 46.174,
+    "longitude": 18.882,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717507,
+    "name": "Morotva",
+    "latitude": 48.11667,
+    "longitude": 21.45,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047896,
+    "name": "Mosonmagyaróvár",
+    "latitude": 47.86789,
+    "longitude": 17.26994,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717492,
+    "name": "Müller-szék",
+    "latitude": 46.45,
+    "longitude": 20.05,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047861,
+    "name": "Muzsla",
+    "latitude": 47.88743,
+    "longitude": 19.75877,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717470,
+    "name": "Nádas Fertő",
+    "latitude": 47.48333,
+    "longitude": 20.8,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717462,
+    "name": "Nádas Szék",
+    "latitude": 47.38333,
+    "longitude": 21.56667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047842,
+    "name": "Nádas Tó",
+    "latitude": 47.77337,
+    "longitude": 17.55461,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717459,
+    "name": "Nádas-tó",
+    "latitude": 48.08333,
+    "longitude": 22.21667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717449,
+    "name": "Nádudvar",
+    "latitude": 47.41667,
+    "longitude": 21.16667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047789,
+    "name": "Nagy Bogárzó Tó",
+    "latitude": 46.38333,
+    "longitude": 19.78333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717342,
+    "name": "Nagy Hallgató",
+    "latitude": 48.43333,
+    "longitude": 21.58333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12172711,
+    "name": "Nagy hrabó",
+    "latitude": 48.55827,
+    "longitude": 21.40731,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717287,
+    "name": "Nagy Ivács-hegy",
+    "latitude": 48.06667,
+    "longitude": 20.63333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047680,
+    "name": "Nagy Kákástó",
+    "latitude": 47.07734,
+    "longitude": 19.50447,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047652,
+    "name": "Nagy Koppány",
+    "latitude": 47.89908,
+    "longitude": 18.8522,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047555,
+    "name": "Nagy Sménkes",
+    "latitude": 47.71667,
+    "longitude": 18.51667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717131,
+    "name": "Nagy Szék Tó",
+    "latitude": 46.26667,
+    "longitude": 20.01667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717121,
+    "name": "Nagy Szik-tó",
+    "latitude": 47.3,
+    "longitude": 21.75,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047488,
+    "name": "Nagy Tó",
+    "latitude": 48.05712,
+    "longitude": 19.15491,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047816,
+    "name": "Nagy-Átal-kő",
+    "latitude": 47.9075,
+    "longitude": 19.89169,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717429,
+    "name": "Nagy-Bekecs",
+    "latitude": 48.41667,
+    "longitude": 21.36667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717424,
+    "name": "Nagy-bodzás",
+    "latitude": 48.05,
+    "longitude": 20.6,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047779,
+    "name": "Nagy-Csákány",
+    "latitude": 47.5,
+    "longitude": 18.46667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047770,
+    "name": "Nagy-Csukás-tó",
+    "latitude": 46.58333,
+    "longitude": 19.25,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717402,
+    "name": "Nagy-dél",
+    "latitude": 48.08333,
+    "longitude": 20.58333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717393,
+    "name": "Nagy-Eged",
+    "latitude": 47.93333,
+    "longitude": 20.41667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047752,
+    "name": "Nagy-Erebe",
+    "latitude": 47.74072,
+    "longitude": 17.86131,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047742,
+    "name": "Nagy-Gella",
+    "latitude": 46.99249,
+    "longitude": 17.79478,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047740,
+    "name": "Nagy-Gete",
+    "latitude": 47.70916,
+    "longitude": 18.68304,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717329,
+    "name": "Nagy-hárs",
+    "latitude": 48.1,
+    "longitude": 20.55,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047722,
+    "name": "Nagy-hársas",
+    "latitude": 47.83172,
+    "longitude": 19.70953,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717305,
+    "name": "Nagy-hegy",
+    "latitude": 48.51935,
+    "longitude": 21.35511,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047702,
+    "name": "Nagy-Henc",
+    "latitude": 47.87266,
+    "longitude": 19.88706,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047699,
+    "name": "Nagy-Hideg-hegy",
+    "latitude": 47.9382,
+    "longitude": 18.92138,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047686,
+    "name": "Nagy-Inóc",
+    "latitude": 47.929,
+    "longitude": 18.91502,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047664,
+    "name": "Nagy-Kevély",
+    "latitude": 47.6241,
+    "longitude": 18.97794,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047661,
+    "name": "Nagy-kő",
+    "latitude": 48.09343,
+    "longitude": 19.95182,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717250,
+    "name": "Nagy-kő-tető",
+    "latitude": 48.03333,
+    "longitude": 20.63333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047658,
+    "name": "Nagy-Koncsúr",
+    "latitude": 47.87143,
+    "longitude": 19.74353,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047653,
+    "name": "Nagy-Kopasz",
+    "latitude": 47.54982,
+    "longitude": 18.86616,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717254,
+    "name": "Nagy-Kőrös-hegy",
+    "latitude": 48.4,
+    "longitude": 21.41667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717253,
+    "name": "Nagy-Korsós",
+    "latitude": 48.31667,
+    "longitude": 21.3,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047623,
+    "name": "Nagy-Mána",
+    "latitude": 47.96558,
+    "longitude": 18.94844,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717214,
+    "name": "Nagy-Mész-tető",
+    "latitude": 48.13333,
+    "longitude": 20.58333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717203,
+    "name": "Nagy-Milic",
+    "latitude": 48.57672,
+    "longitude": 21.45793,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717198,
+    "name": "Nagy-morotva",
+    "latitude": 48.11667,
+    "longitude": 21.46667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717193,
+    "name": "Nagy-Nádas-tó",
+    "latitude": 48.15,
+    "longitude": 21.41667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717187,
+    "name": "Nagy-oldal",
+    "latitude": 48.51667,
+    "longitude": 20.56667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717179,
+    "name": "Nagy-Papaj",
+    "latitude": 48.35,
+    "longitude": 21.5,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047587,
+    "name": "Nagy-Patkó",
+    "latitude": 47.79726,
+    "longitude": 17.62667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047573,
+    "name": "Nagy-rét",
+    "latitude": 47.03333,
+    "longitude": 19.13333,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047561,
+    "name": "Nagy-Sas-hegy",
+    "latitude": 47.77581,
+    "longitude": 19.00465,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047560,
+    "name": "Nagy-Sás-tó",
+    "latitude": 47.01096,
+    "longitude": 17.63052,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047553,
+    "name": "Nagy-Som-hegy",
+    "latitude": 47.25338,
+    "longitude": 17.77785,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717149,
+    "name": "Nagy-Som-tető",
+    "latitude": 48.05,
+    "longitude": 20.66667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047550,
+    "name": "Nagy-Somlyó",
+    "latitude": 47.70417,
+    "longitude": 18.40794,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717148,
+    "name": "Nagy-sóstó",
+    "latitude": 48.13333,
+    "longitude": 21.65,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717138,
+    "name": "Nagy-szék",
+    "latitude": 46.95,
+    "longitude": 20.08333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047536,
+    "name": "Nagy-Széksós-tó",
+    "latitude": 46.21667,
+    "longitude": 19.95,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047534,
+    "name": "Nagy-szénás",
+    "latitude": 47.59031,
+    "longitude": 18.87105,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047529,
+    "name": "Nagy-sziget",
+    "latitude": 47.13045,
+    "longitude": 18.87262,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717122,
+    "name": "Nagy-sziki-tó",
+    "latitude": 46.95,
+    "longitude": 21.63333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047519,
+    "name": "Nagy-Szoplák",
+    "latitude": 47.71042,
+    "longitude": 18.8547,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717081,
+    "name": "Nagy-Tiba",
+    "latitude": 47.95,
+    "longitude": 20.43333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717078,
+    "name": "Nagy-tó",
+    "latitude": 46.83259,
+    "longitude": 19.99121,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717065,
+    "name": "Nagy-Vadas-tó",
+    "latitude": 47.85,
+    "longitude": 21.66667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047819,
+    "name": "Nagyatád",
+    "latitude": 46.22961,
+    "longitude": 17.35788,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047809,
+    "name": "Nagybakos Tó",
+    "latitude": 45.96667,
+    "longitude": 17.81667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717397,
+    "name": "Nagyecsed",
+    "latitude": 47.86547,
+    "longitude": 22.39159,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717364,
+    "name": "Nagyfertő",
+    "latitude": 48.1,
+    "longitude": 21.78333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717360,
+    "name": "Nagyfok-tó",
+    "latitude": 47.3,
+    "longitude": 20.36667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047743,
+    "name": "Nagygát-tó",
+    "latitude": 47.05,
+    "longitude": 19.98333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717345,
+    "name": "Nagyhalász",
+    "latitude": 48.13266,
+    "longitude": 21.76104,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047687,
+    "name": "Nagyigmándi-tó",
+    "latitude": 47.65525,
+    "longitude": 18.07744,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717281,
+    "name": "Nagykálló",
+    "latitude": 47.87491,
+    "longitude": 21.84082,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047679,
+    "name": "Nagykanizsa",
+    "latitude": 46.45347,
+    "longitude": 16.99104,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047669,
+    "name": "Nagykáta",
+    "latitude": 47.41514,
+    "longitude": 19.7441,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717270,
+    "name": "Nagykecskeritó",
+    "latitude": 47.28333,
+    "longitude": 20.8,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047648,
+    "name": "Nagykő-tető",
+    "latitude": 47.97458,
+    "longitude": 19.65011,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047651,
+    "name": "Nagykőrös",
+    "latitude": 47.03419,
+    "longitude": 19.77857,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047646,
+    "name": "Nagykovácsi",
+    "latitude": 47.5814,
+    "longitude": 18.88549,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717171,
+    "name": "Nagyrakottyás",
+    "latitude": 47.3,
+    "longitude": 21.76667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717140,
+    "name": "Nagyszeg",
+    "latitude": 48.13333,
+    "longitude": 21.61667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047545,
+    "name": "Nagyszék",
+    "latitude": 46.7,
+    "longitude": 19.55,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717130,
+    "name": "Nagyszénás",
+    "latitude": 46.68333,
+    "longitude": 20.66667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 717080,
+    "name": "Nagytó",
+    "latitude": 46.6,
+    "longitude": 20.15,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8063083,
+    "name": "Nagytómalom",
+    "latitude": 47.71853,
+    "longitude": 16.62522,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047444,
+    "name": "Naszály",
+    "latitude": 47.83333,
+    "longitude": 19.15,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047367,
+    "name": "Nép-sziget",
+    "latitude": 47.55527,
+    "longitude": 19.06918,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047322,
+    "name": "Nyálas-tó",
+    "latitude": 46.85,
+    "longitude": 17.63333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047303,
+    "name": "Nyáros-sziget",
+    "latitude": 47.76093,
+    "longitude": 18.68146,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047283,
+    "name": "Nyerges-tető",
+    "latitude": 47.85466,
+    "longitude": 19.94724,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047282,
+    "name": "Nyergesújfalu",
+    "latitude": 47.76027,
+    "longitude": 18.55694,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047273,
+    "name": "Nyikom",
+    "latitude": 47.90647,
+    "longitude": 19.76972,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047242,
+    "name": "Nyír-tó",
+    "latitude": 47.07819,
+    "longitude": 19.56457,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 716951,
+    "name": "Nyíradony",
+    "latitude": 47.69746,
+    "longitude": 21.91878,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 716948,
+    "name": "Nyírbátor",
+    "latitude": 47.83333,
+    "longitude": 22.13333,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 716935,
+    "name": "Nyíregyháza",
+    "latitude": 47.95539,
+    "longitude": 21.71671,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047262,
+    "name": "Nyíres",
+    "latitude": 47.65073,
+    "longitude": 16.52324,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 716893,
+    "name": "Nyírtelek",
+    "latitude": 48.01667,
+    "longitude": 21.63333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047227,
+    "name": "Nyulas Tó",
+    "latitude": 46.54715,
+    "longitude": 18.72949,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047210,
+    "name": "Óbudai-sziget",
+    "latitude": 47.55362,
+    "longitude": 19.0548,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047206,
+    "name": "Ócsa",
+    "latitude": 47.29986,
+    "longitude": 19.23057,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 716862,
+    "name": "Odor-hegy",
+    "latitude": 47.98333,
+    "longitude": 20.5,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047188,
+    "name": "Óház",
+    "latitude": 47.38333,
+    "longitude": 16.5,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 716846,
+    "name": "Ökör-hegy",
+    "latitude": 48.1,
+    "longitude": 20.16667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 716845,
+    "name": "Ököri-tó",
+    "latitude": 47.93333,
+    "longitude": 21.76667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047165,
+    "name": "Oláritó",
+    "latitude": 46.38333,
+    "longitude": 19,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047127,
+    "name": "Őrbottyán",
+    "latitude": 47.68711,
+    "longitude": 19.28239,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047120,
+    "name": "Ordasi-sziget",
+    "latitude": 46.64169,
+    "longitude": 18.93845,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 716781,
+    "name": "Ördög-hegy",
+    "latitude": 48.05,
+    "longitude": 20.4,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047108,
+    "name": "Ördög-tó",
+    "latitude": 47.60332,
+    "longitude": 18.08976,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3047089,
+    "name": "Öreg-Futóné",
+    "latitude": 47.22554,
+    "longitude": 18.03297,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046987,
+    "name": "Öreg-Kovács",
+    "latitude": 47.63751,
+    "longitude": 18.4251,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046972,
+    "name": "Öreg-szigetek",
+    "latitude": 47.91837,
+    "longitude": 17.42529,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046948,
+    "name": "Öregtó",
+    "latitude": 46.74224,
+    "longitude": 17.59843,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046916,
+    "name": "Örkény",
+    "latitude": 47.12991,
+    "longitude": 19.43324,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 716736,
+    "name": "Orosháza",
+    "latitude": 46.56667,
+    "longitude": 20.66667,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046888,
+    "name": "Oroszlány",
+    "latitude": 47.48671,
+    "longitude": 18.31225,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 716719,
+    "name": "Orozd-tó",
+    "latitude": 48.15,
+    "longitude": 21.86667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 716712,
+    "name": "Örvény-kő",
+    "latitude": 48.13333,
+    "longitude": 20.55,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046848,
+    "name": "Ősze-szék",
+    "latitude": 46.40176,
+    "longitude": 19.98435,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046812,
+    "name": "Óvár",
+    "latitude": 47.91877,
+    "longitude": 19.81044,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 716671,
+    "name": "Ózd",
+    "latitude": 48.21667,
+    "longitude": 20.3,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046801,
+    "name": "Pacona-tó",
+    "latitude": 46.77171,
+    "longitude": 18.70067,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 716649,
+    "name": "Pákra Tó",
+    "latitude": 47.1,
+    "longitude": 20.08333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046768,
+    "name": "Paks",
+    "latitude": 46.6221,
+    "longitude": 18.85569,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046747,
+    "name": "Pálházi-hegy",
+    "latitude": 47.29328,
+    "longitude": 17.73742,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046712,
+    "name": "Palotai Sziget",
+    "latitude": 47.58333,
+    "longitude": 19.08333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046710,
+    "name": "Palotási-víztároló",
+    "latitude": 47.8,
+    "longitude": 19.6,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046698,
+    "name": "Pandur-sziget",
+    "latitude": 46.16667,
+    "longitude": 18.88333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046693,
+    "name": "Pannonhalma",
+    "latitude": 47.54946,
+    "longitude": 17.75535,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046630,
+    "name": "Pap-sziget",
+    "latitude": 47.66667,
+    "longitude": 19.08333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 716560,
+    "name": "Pap-tó",
+    "latitude": 48.11667,
+    "longitude": 21.45,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046686,
+    "name": "Pápa",
+    "latitude": 47.33004,
+    "longitude": 17.4674,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046678,
+    "name": "Pápavár",
+    "latitude": 47.23302,
+    "longitude": 17.68066,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046651,
+    "name": "Papod",
+    "latitude": 47.1813,
+    "longitude": 17.85607,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6694212,
+    "name": "Parkerdő",
+    "latitude": 47.22423,
+    "longitude": 16.55631,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046593,
+    "name": "Pártos Szék",
+    "latitude": 46.81667,
+    "longitude": 19.23333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046580,
+    "name": "Pásztó",
+    "latitude": 47.92019,
+    "longitude": 19.69829,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046546,
+    "name": "Páty",
+    "latitude": 47.51709,
+    "longitude": 18.82851,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046531,
+    "name": "Pécel",
+    "latitude": 47.48962,
+    "longitude": 19.34162,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046526,
+    "name": "Pécs",
+    "latitude": 46.07617,
+    "longitude": 18.22814,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6694176,
+    "name": "Pelikán park",
+    "latitude": 47.23691,
+    "longitude": 16.62309,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046498,
+    "name": "Pellérdi-halastavak",
+    "latitude": 46.04695,
+    "longitude": 18.14158,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 716490,
+    "name": "Pepi-kert",
+    "latitude": 46.88333,
+    "longitude": 20.53333,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046447,
+    "name": "Pes-kő",
+    "latitude": 47.60382,
+    "longitude": 18.46902,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046407,
+    "name": "Péteri-tó",
+    "latitude": 46.59031,
+    "longitude": 19.90327,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 716439,
+    "name": "Pétervására",
+    "latitude": 48.01667,
+    "longitude": 20.1,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046355,
+    "name": "Pilis",
+    "latitude": 47.28904,
+    "longitude": 19.54848,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046353,
+    "name": "Piliscsaba",
+    "latitude": 47.63417,
+    "longitude": 18.82886,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046340,
+    "name": "Pilisvörösvár",
+    "latitude": 47.61386,
+    "longitude": 18.90893,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046289,
+    "name": "Pisznice",
+    "latitude": 47.7,
+    "longitude": 18.5,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3048795,
+    "name": "Pittner-fürdő",
+    "latitude": 47.66802,
+    "longitude": 16.69527,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 716356,
+    "name": "Polgár",
+    "latitude": 47.86667,
+    "longitude": 21.11667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046249,
+    "name": "Polgárdi",
+    "latitude": 47.06099,
+    "longitude": 18.302,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046230,
+    "name": "Pomáz",
+    "latitude": 47.64227,
+    "longitude": 19.02784,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046162,
+    "name": "Prédikálószék",
+    "latitude": 47.73812,
+    "longitude": 18.92118,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046138,
+    "name": "Purga",
+    "latitude": 47.95696,
+    "longitude": 19.64372,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 716306,
+    "name": "Puskaporos",
+    "latitude": 48.13333,
+    "longitude": 20.78333,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 716301,
+    "name": "Püspökladány",
+    "latitude": 47.31667,
+    "longitude": 21.11667,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046087,
+    "name": "Pusztaszabolcs",
+    "latitude": 47.13718,
+    "longitude": 18.76704,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 716247,
+    "name": "Putnok",
+    "latitude": 48.3,
+    "longitude": 20.43333,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046032,
+    "name": "Rácházi Tó",
+    "latitude": 46.56667,
+    "longitude": 19.63333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3046026,
+    "name": "Ráckeve",
+    "latitude": 47.16095,
+    "longitude": 18.94478,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 716225,
+    "name": "Rádi-tó",
+    "latitude": 48.1,
+    "longitude": 21.8,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 716205,
+    "name": "Rakaca-víztároló",
+    "latitude": 48.45,
+    "longitude": 20.78333,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 716204,
+    "name": "Rakamaz",
+    "latitude": 48.12372,
+    "longitude": 21.46429,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 716197,
+    "name": "Rákóczifalva",
+    "latitude": 47.08333,
+    "longitude": 20.23333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 716176,
+    "name": "Rákos-lápa-bérc",
+    "latitude": 48.07837,
+    "longitude": 20.01048,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 716124,
+    "name": "Remete-hegy",
+    "latitude": 48.56667,
+    "longitude": 21.45,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 716122,
+    "name": "Remete-tető",
+    "latitude": 47.9,
+    "longitude": 20.13333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 716110,
+    "name": "Repcés Tó",
+    "latitude": 47.26667,
+    "longitude": 21.86667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3045807,
+    "name": "Riha-tó",
+    "latitude": 46.01212,
+    "longitude": 18.76553,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3045786,
+    "name": "Ródli Széktó",
+    "latitude": 46.7212,
+    "longitude": 19.64371,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3045757,
+    "name": "Romhányi-hegy",
+    "latitude": 47.89834,
+    "longitude": 19.2325,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 716043,
+    "name": "Róna",
+    "latitude": 48.08333,
+    "longitude": 20.26667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715999,
+    "name": "Rózsa-szék",
+    "latitude": 46.3,
+    "longitude": 20.03333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715986,
+    "name": "Ruda-tető",
+    "latitude": 48.03333,
+    "longitude": 20.68333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3045654,
+    "name": "Sajikút-hegy",
+    "latitude": 47.93176,
+    "longitude": 18.97236,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715945,
+    "name": "Sajószentpéter",
+    "latitude": 48.21667,
+    "longitude": 20.71667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3045649,
+    "name": "Sákola-tető",
+    "latitude": 47.89713,
+    "longitude": 18.82198,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3045645,
+    "name": "Salgó",
+    "latitude": 48.14486,
+    "longitude": 19.84819,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3045643,
+    "name": "Salgótarján",
+    "latitude": 48.09872,
+    "longitude": 19.80303,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715924,
+    "name": "Sándorfalva",
+    "latitude": 46.36087,
+    "longitude": 20.09889,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3045551,
+    "name": "Sár-hegy",
+    "latitude": 47.79523,
+    "longitude": 19.97257,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3045564,
+    "name": "Sárbogárd",
+    "latitude": 46.88692,
+    "longitude": 18.62041,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715888,
+    "name": "Sarkad",
+    "latitude": 46.75,
+    "longitude": 21.38333,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3045506,
+    "name": "Sáros Szék",
+    "latitude": 46.28333,
+    "longitude": 19.98333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715867,
+    "name": "Sárospatak",
+    "latitude": 48.3245,
+    "longitude": 21.57383,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3045487,
+    "name": "Sárvár",
+    "latitude": 47.25395,
+    "longitude": 16.93525,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715848,
+    "name": "Sas-kút",
+    "latitude": 48.35,
+    "longitude": 21.31667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3045479,
+    "name": "Sásd",
+    "latitude": 46.2552,
+    "longitude": 18.10776,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715835,
+    "name": "Sátor-hegy",
+    "latitude": 48.38869,
+    "longitude": 21.62504,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715839,
+    "name": "Sátoraljaújhely",
+    "latitude": 48.39492,
+    "longitude": 21.65871,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3045406,
+    "name": "Sellye",
+    "latitude": 45.87247,
+    "longitude": 17.84711,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3045390,
+    "name": "Semlyékes-tó",
+    "latitude": 47.02191,
+    "longitude": 17.67063,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715806,
+    "name": "Seres Tó",
+    "latitude": 47.06667,
+    "longitude": 20.01667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715802,
+    "name": "Serház-sziget",
+    "latitude": 46.7,
+    "longitude": 20.16667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3045364,
+    "name": "Siklós",
+    "latitude": 45.85499,
+    "longitude": 18.29752,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715784,
+    "name": "Síma Tó",
+    "latitude": 46.93333,
+    "longitude": 21.58333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3045342,
+    "name": "Simon Tó",
+    "latitude": 46.48333,
+    "longitude": 19.5,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3045332,
+    "name": "Siófok",
+    "latitude": 46.90413,
+    "longitude": 18.058,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715752,
+    "name": "Sóhely-orom",
+    "latitude": 48,
+    "longitude": 20.36667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3045303,
+    "name": "Solt",
+    "latitude": 46.80101,
+    "longitude": 19.00098,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3045298,
+    "name": "Soltvadkert",
+    "latitude": 46.57889,
+    "longitude": 19.39389,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3045294,
+    "name": "Solymár",
+    "latitude": 47.59246,
+    "longitude": 18.93212,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715744,
+    "name": "Solymos-tó",
+    "latitude": 48.11667,
+    "longitude": 21.43333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3045292,
+    "name": "Sólyom-sziget",
+    "latitude": 47.80392,
+    "longitude": 18.97071,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3045288,
+    "name": "Som-berek",
+    "latitude": 47.6799,
+    "longitude": 18.55084,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715736,
+    "name": "Som-hegy",
+    "latitude": 48.45,
+    "longitude": 21.5,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3045196,
+    "name": "Som-tető",
+    "latitude": 47.91476,
+    "longitude": 19.84343,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715739,
+    "name": "Sombokor",
+    "latitude": 47.87911,
+    "longitude": 19.99434,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3045261,
+    "name": "Somlyó",
+    "latitude": 48.078,
+    "longitude": 19.844,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3045190,
+    "name": "Sopron",
+    "latitude": 47.68501,
+    "longitude": 16.59049,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3045150,
+    "name": "Sörös Tó",
+    "latitude": 47.01438,
+    "longitude": 19.61219,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715689,
+    "name": "Sós Tó",
+    "latitude": 48.1,
+    "longitude": 21.48333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715673,
+    "name": "Sós Víz",
+    "latitude": 47.38333,
+    "longitude": 21.6,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715690,
+    "name": "Sós-tó",
+    "latitude": 48.00371,
+    "longitude": 21.72804,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3045147,
+    "name": "Sóshegy",
+    "latitude": 47.89333,
+    "longitude": 18.89288,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715701,
+    "name": "Sóskúti-halastó",
+    "latitude": 47.31667,
+    "longitude": 20.73333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3045134,
+    "name": "Sóstó",
+    "latitude": 46.46,
+    "longitude": 19.46826,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6694178,
+    "name": "Sportliget",
+    "latitude": 47.23855,
+    "longitude": 16.59863,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8126059,
+    "name": "Sportpálya",
+    "latitude": 46.42202,
+    "longitude": 17.11508,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715637,
+    "name": "Sulymos Tó",
+    "latitude": 47.3,
+    "longitude": 20.41667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044154,
+    "name": "Sülysáp",
+    "latitude": 47.45206,
+    "longitude": 19.53369,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3045070,
+    "name": "Sümeg",
+    "latitude": 46.97703,
+    "longitude": 17.28209,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715628,
+    "name": "Sűrű-bérc",
+    "latitude": 48.06667,
+    "longitude": 20.68333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3045017,
+    "name": "Szabadszállás",
+    "latitude": 46.87575,
+    "longitude": 19.22324,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3045013,
+    "name": "Szabadvölgyi Tó",
+    "latitude": 47.05,
+    "longitude": 18.73333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044971,
+    "name": "Szakó-nyereg",
+    "latitude": 47.74386,
+    "longitude": 18.87359,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044942,
+    "name": "Szalki Sziget",
+    "latitude": 46.98333,
+    "longitude": 18.95,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715540,
+    "name": "Szállás-hegy",
+    "latitude": 47.88333,
+    "longitude": 20.02838,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715515,
+    "name": "Szána-bérc",
+    "latitude": 48.1,
+    "longitude": 20.43333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044921,
+    "name": "Szanda",
+    "latitude": 47.91353,
+    "longitude": 19.40924,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3338786,
+    "name": "Szappan-szék",
+    "latitude": 46.88846,
+    "longitude": 19.42267,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044902,
+    "name": "Szappanos-tó",
+    "latitude": 46.6525,
+    "longitude": 19.49472,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715476,
+    "name": "Szár-hegy",
+    "latitude": 48.48333,
+    "longitude": 20.73333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12213980,
+    "name": "Szár-kő",
+    "latitude": 48.41842,
+    "longitude": 21.33219,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715481,
+    "name": "Szárdóka",
+    "latitude": 48.1,
+    "longitude": 20.6,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044862,
+    "name": "Szársomlyó",
+    "latitude": 45.85556,
+    "longitude": 18.41111,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715466,
+    "name": "Szarvas",
+    "latitude": 46.86667,
+    "longitude": 20.55,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715462,
+    "name": "Szarvas-kő",
+    "latitude": 48.11667,
+    "longitude": 20.16667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044840,
+    "name": "Szarvas-tó",
+    "latitude": 46.54465,
+    "longitude": 19.48229,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044821,
+    "name": "Százhalombatta",
+    "latitude": 47.32949,
+    "longitude": 18.93878,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044809,
+    "name": "Szécsény",
+    "latitude": 48.08057,
+    "longitude": 19.52019,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715436,
+    "name": "Szederjes",
+    "latitude": 47.88333,
+    "longitude": 20.11667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715429,
+    "name": "Szeged",
+    "latitude": 46.253,
+    "longitude": 20.14824,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715422,
+    "name": "Szeghalom",
+    "latitude": 47.03333,
+    "longitude": 21.16667,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044754,
+    "name": "Szék-tó",
+    "latitude": 46.45805,
+    "longitude": 19.76241,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044785,
+    "name": "Szekercés-szék",
+    "latitude": 46.71309,
+    "longitude": 19.56963,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3338789,
+    "name": "Székes",
+    "latitude": 46.64269,
+    "longitude": 19.74481,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044769,
+    "name": "Székes Tó",
+    "latitude": 47.13333,
+    "longitude": 19.41667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044774,
+    "name": "Székesfehérvár",
+    "latitude": 47.18995,
+    "longitude": 18.41034,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044760,
+    "name": "Szekszárd",
+    "latitude": 46.34723,
+    "longitude": 18.71189,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044753,
+    "name": "Széktó",
+    "latitude": 46.95,
+    "longitude": 19.48333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044745,
+    "name": "Széles Kő",
+    "latitude": 47.33333,
+    "longitude": 16.46667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044739,
+    "name": "Széles Tó",
+    "latitude": 46.19067,
+    "longitude": 17.25355,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044734,
+    "name": "Szelidi-tó",
+    "latitude": 46.62821,
+    "longitude": 19.04377,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044717,
+    "name": "Szénás-hegy",
+    "latitude": 47.91772,
+    "longitude": 18.88962,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6694181,
+    "name": "Szent István Park",
+    "latitude": 47.22662,
+    "longitude": 16.60493,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044588,
+    "name": "Szent László-hegy",
+    "latitude": 47.73333,
+    "longitude": 19.00866,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044681,
+    "name": "Szentendre",
+    "latitude": 47.66943,
+    "longitude": 19.07561,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044679,
+    "name": "Szentendrei-sziget",
+    "latitude": 47.69618,
+    "longitude": 19.10643,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715337,
+    "name": "Szentes",
+    "latitude": 46.65834,
+    "longitude": 20.2608,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044669,
+    "name": "Szentgotthárd",
+    "latitude": 46.95261,
+    "longitude": 16.27358,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044586,
+    "name": "Szentlászlói-tó",
+    "latitude": 46.55,
+    "longitude": 19.8,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044575,
+    "name": "Szentlőrinc",
+    "latitude": 46.04016,
+    "longitude": 17.98719,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715302,
+    "name": "Szerencs",
+    "latitude": 48.15993,
+    "longitude": 21.2097,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044487,
+    "name": "Szigethalom",
+    "latitude": 47.32228,
+    "longitude": 19.00262,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044475,
+    "name": "Szigetszentmiklós",
+    "latitude": 47.34382,
+    "longitude": 19.04335,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044469,
+    "name": "Szigetvár",
+    "latitude": 46.04865,
+    "longitude": 17.80554,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715259,
+    "name": "Szikszó",
+    "latitude": 48.2,
+    "longitude": 20.93333,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715237,
+    "name": "Szilas-fő",
+    "latitude": 48.13333,
+    "longitude": 20.5,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044414,
+    "name": "Szilvás-kő",
+    "latitude": 48.11436,
+    "longitude": 19.90344,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12196238,
+    "name": "Szilvási-kő",
+    "latitude": 48.07249,
+    "longitude": 20.43657,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715194,
+    "name": "Szirtos Szék",
+    "latitude": 46.4,
+    "longitude": 20.05,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3338785,
+    "name": "Szívós-szék",
+    "latitude": 46.88085,
+    "longitude": 19.43967,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044381,
+    "name": "Szluha-tó",
+    "latitude": 46.76667,
+    "longitude": 18.7,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044380,
+    "name": "Szob",
+    "latitude": 47.81921,
+    "longitude": 18.8702,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715152,
+    "name": "Szokolya",
+    "latitude": 48.3,
+    "longitude": 21.38333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715126,
+    "name": "Szolnok",
+    "latitude": 47.18066,
+    "longitude": 20.19835,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044310,
+    "name": "Szombathely",
+    "latitude": 47.23088,
+    "longitude": 16.62155,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044258,
+    "name": "Szűcs-tó",
+    "latitude": 46.58333,
+    "longitude": 19.5,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 715030,
+    "name": "Szurok-hegy",
+    "latitude": 48.55725,
+    "longitude": 21.37984,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044221,
+    "name": "Tab",
+    "latitude": 46.73135,
+    "longitude": 18.03201,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044207,
+    "name": "Tábor-hegy",
+    "latitude": 47.44438,
+    "longitude": 18.44277,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044181,
+    "name": "Taksony",
+    "latitude": 47.32968,
+    "longitude": 19.06695,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044171,
+    "name": "Tamási",
+    "latitude": 46.63333,
+    "longitude": 18.28333,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044153,
+    "name": "Tápiószecső",
+    "latitude": 47.45,
+    "longitude": 19.60923,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044151,
+    "name": "Tápiószele",
+    "latitude": 47.33609,
+    "longitude": 19.87724,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044149,
+    "name": "Tápiószentmárton",
+    "latitude": 47.3399,
+    "longitude": 19.74648,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044141,
+    "name": "Tapolca",
+    "latitude": 46.88152,
+    "longitude": 17.44117,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 714954,
+    "name": "Tar-kő",
+    "latitude": 48.06667,
+    "longitude": 20.46667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044124,
+    "name": "Tarcsi Tó",
+    "latitude": 47.56667,
+    "longitude": 17.93333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044121,
+    "name": "Tardosi Hegy",
+    "latitude": 47.66667,
+    "longitude": 18.43333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044103,
+    "name": "Tárnok",
+    "latitude": 47.37327,
+    "longitude": 18.84579,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 714939,
+    "name": "Taró-fő",
+    "latitude": 48.11667,
+    "longitude": 20.46667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044084,
+    "name": "Tát",
+    "latitude": 47.74148,
+    "longitude": 18.64813,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044083,
+    "name": "Tata",
+    "latitude": 47.65289,
+    "longitude": 18.31838,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044082,
+    "name": "Tatabánya",
+    "latitude": 47.59247,
+    "longitude": 18.38099,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044077,
+    "name": "Tatai-tó",
+    "latitude": 47.63922,
+    "longitude": 18.32937,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044070,
+    "name": "Táti-sziget",
+    "latitude": 47.75337,
+    "longitude": 18.64363,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3044073,
+    "name": "Tátika",
+    "latitude": 46.90554,
+    "longitude": 17.25817,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 714914,
+    "name": "Téglás",
+    "latitude": 47.71667,
+    "longitude": 21.68333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 714884,
+    "name": "Telekhalmi-halastavak",
+    "latitude": 47.31667,
+    "longitude": 20.55,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3043980,
+    "name": "Tenkes",
+    "latitude": 45.88944,
+    "longitude": 18.25028,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3043977,
+    "name": "Tepke",
+    "latitude": 47.94867,
+    "longitude": 19.63734,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3043946,
+    "name": "Tét",
+    "latitude": 47.51922,
+    "longitude": 17.50802,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3338787,
+    "name": "Tiszaalpár",
+    "latitude": 46.81279,
+    "longitude": 19.99841,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 714774,
+    "name": "Tiszaföldvár",
+    "latitude": 46.98333,
+    "longitude": 20.25,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 714772,
+    "name": "Tiszafüred",
+    "latitude": 47.61667,
+    "longitude": 20.76667,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 714754,
+    "name": "Tiszakécske",
+    "latitude": 46.93261,
+    "longitude": 20.10349,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 714742,
+    "name": "Tiszalök",
+    "latitude": 48.01667,
+    "longitude": 21.38333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 714739,
+    "name": "Tiszalúc",
+    "latitude": 48.03774,
+    "longitude": 21.07261,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 714697,
+    "name": "Tiszaújváros",
+    "latitude": 47.93333,
+    "longitude": 21.08333,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 714692,
+    "name": "Tiszavasvári",
+    "latitude": 47.96667,
+    "longitude": 21.35,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3043892,
+    "name": "Tiva-tó",
+    "latitude": 45.98333,
+    "longitude": 17.56667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 714659,
+    "name": "Tokaj",
+    "latitude": 48.11717,
+    "longitude": 21.40922,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 714657,
+    "name": "Tokaji-hegy",
+    "latitude": 48.11667,
+    "longitude": 21.38333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3043860,
+    "name": "Tököl",
+    "latitude": 47.32178,
+    "longitude": 18.96249,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 714636,
+    "name": "Tölgyes-Mátra",
+    "latitude": 48.03333,
+    "longitude": 20.63333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3043851,
+    "name": "Tolmács-hegy",
+    "latitude": 47.9107,
+    "longitude": 18.86765,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3043849,
+    "name": "Tolna",
+    "latitude": 46.42677,
+    "longitude": 18.78248,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3043812,
+    "name": "Tönkölös-hegy",
+    "latitude": 47.26972,
+    "longitude": 17.72725,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3043801,
+    "name": "Tordai-sziget",
+    "latitude": 47.73333,
+    "longitude": 17.78333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3043778,
+    "name": "Törökbálint",
+    "latitude": 47.42931,
+    "longitude": 18.91356,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 714581,
+    "name": "Törökszentmiklós",
+    "latitude": 47.18333,
+    "longitude": 20.41667,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3043744,
+    "name": "Tót-hegyes",
+    "latitude": 47.87324,
+    "longitude": 19.83276,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 714548,
+    "name": "Tótkomlós",
+    "latitude": 46.41667,
+    "longitude": 20.73333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3043699,
+    "name": "Tubes",
+    "latitude": 46.11667,
+    "longitude": 18.21667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3043695,
+    "name": "Tükör-tó",
+    "latitude": 47.56667,
+    "longitude": 18.36667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3043681,
+    "name": "Tündér-tó",
+    "latitude": 47.61581,
+    "longitude": 17.36009,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3043679,
+    "name": "Tunyog-hegy",
+    "latitude": 47.22562,
+    "longitude": 17.96056,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3043678,
+    "name": "Tura",
+    "latitude": 47.60924,
+    "longitude": 19.60279,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 714504,
+    "name": "Túrkeve",
+    "latitude": 47.1,
+    "longitude": 20.75,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3043449,
+    "name": "Új-sziget",
+    "latitude": 47.85303,
+    "longitude": 17.51399,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 714464,
+    "name": "Újfehértó",
+    "latitude": 47.8,
+    "longitude": 21.68333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 714449,
+    "name": "Újkígyós",
+    "latitude": 46.58333,
+    "longitude": 21.03333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 714421,
+    "name": "Újszász",
+    "latitude": 47.3,
+    "longitude": 20.08333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3043356,
+    "name": "Üllő",
+    "latitude": 47.38771,
+    "longitude": 19.35533,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3043343,
+    "name": "Urak Asztala",
+    "latitude": 47.75365,
+    "longitude": 19.00689,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3043313,
+    "name": "Üsti-hegy",
+    "latitude": 47.11731,
+    "longitude": 17.6955,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3043311,
+    "name": "Üstök-fő",
+    "latitude": 47.86662,
+    "longitude": 19.92388,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3043293,
+    "name": "Vác",
+    "latitude": 47.77591,
+    "longitude": 19.13612,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3043255,
+    "name": "Vad-tó",
+    "latitude": 46.91007,
+    "longitude": 17.17946,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 714323,
+    "name": "Vadas Fertő",
+    "latitude": 47.58333,
+    "longitude": 20.8,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3338793,
+    "name": "Vadkerti-tó",
+    "latitude": 46.61333,
+    "longitude": 19.39056,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 714298,
+    "name": "Vágott-hegy",
+    "latitude": 48.56097,
+    "longitude": 21.42881,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 714278,
+    "name": "Vaj-tó",
+    "latitude": 46.6197,
+    "longitude": 20.16157,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 714292,
+    "name": "Vajai Nagy Rét",
+    "latitude": 47.98148,
+    "longitude": 22.15301,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 714281,
+    "name": "Vajdavár",
+    "latitude": 48.11667,
+    "longitude": 20.18333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 714265,
+    "name": "Vámospércs",
+    "latitude": 47.53333,
+    "longitude": 21.9,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3043180,
+    "name": "Vár-bükk",
+    "latitude": 47.95947,
+    "longitude": 18.8776,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 714220,
+    "name": "Vár-hegy",
+    "latitude": 47.96667,
+    "longitude": 20.45,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6690562,
+    "name": "Városliget",
+    "latitude": 47.51387,
+    "longitude": 19.08527,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3043095,
+    "name": "Várpalota",
+    "latitude": 47.19936,
+    "longitude": 18.13954,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 714188,
+    "name": "Vásárosnamény",
+    "latitude": 48.12542,
+    "longitude": 22.31325,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3043019,
+    "name": "Vecsés",
+    "latitude": 47.40705,
+    "longitude": 19.28648,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042993,
+    "name": "Velencei-tó",
+    "latitude": 47.21364,
+    "longitude": 18.60944,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042968,
+    "name": "Veresegyház",
+    "latitude": 47.6459,
+    "longitude": 19.29536,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 714112,
+    "name": "Vereshomoki-tó",
+    "latitude": 46.26667,
+    "longitude": 20.03333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 714083,
+    "name": "Verő-tető",
+    "latitude": 48.53333,
+    "longitude": 20.6,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042929,
+    "name": "Veszprém",
+    "latitude": 47.09327,
+    "longitude": 17.91149,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 714073,
+    "name": "Vésztő",
+    "latitude": 46.91667,
+    "longitude": 21.26667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042892,
+    "name": "Világos",
+    "latitude": 47.85962,
+    "longitude": 19.8402,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 714042,
+    "name": "Villogó",
+    "latitude": 47.3,
+    "longitude": 20.7,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 713962,
+    "name": "Vörös Csik",
+    "latitude": 47.33333,
+    "longitude": 20,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 713952,
+    "name": "Vörös-sár-hegy",
+    "latitude": 48.08333,
+    "longitude": 20.45,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 713943,
+    "name": "Zabarla",
+    "latitude": 48.36667,
+    "longitude": 21.38333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 713929,
+    "name": "Záhony",
+    "latitude": 48.40906,
+    "longitude": 22.17614,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042638,
+    "name": "Zalaegerszeg",
+    "latitude": 46.83695,
+    "longitude": 16.84401,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042603,
+    "name": "Zalaszentgrót",
+    "latitude": 46.94474,
+    "longitude": 17.07925,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042550,
+    "name": "Zengő",
+    "latitude": 46.18333,
+    "longitude": 18.38333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042536,
+    "name": "Zirc",
+    "latitude": 47.26362,
+    "longitude": 17.87373,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 713896,
+    "name": "Zöldhalom-tó",
+    "latitude": 46.96667,
+    "longitude": 21.63333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042512,
+    "name": "Zörög-tető",
+    "latitude": 47.35901,
+    "longitude": 17.84666,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042507,
+    "name": "Zsámbék",
+    "latitude": 47.54814,
+    "longitude": 18.72011,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 713867,
+    "name": "Zsérci-Nagy-dél",
+    "latitude": 48.08333,
+    "longitude": 20.51667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  }
+]

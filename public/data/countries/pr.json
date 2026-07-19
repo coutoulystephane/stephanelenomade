@@ -1,0 +1,8442 @@
+[
+  {
+    "geonameId": 4562479,
+    "name": "Abraham Lincoln Statue",
+    "latitude": 18.46744,
+    "longitude": -66.11433,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562485,
+    "name": "Adjuntas",
+    "latitude": 18.16274,
+    "longitude": -66.72212,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562502,
+    "name": "Aguada",
+    "latitude": 18.37939,
+    "longitude": -67.18824,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562504,
+    "name": "Aguada Parque de Colón",
+    "latitude": 18.39189,
+    "longitude": -67.19463,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562506,
+    "name": "Aguadilla",
+    "latitude": 18.42745,
+    "longitude": -67.15407,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562513,
+    "name": "Aguas Buenas",
+    "latitude": 18.2569,
+    "longitude": -66.10294,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562529,
+    "name": "Aibonito",
+    "latitude": 18.13996,
+    "longitude": -66.266,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562538,
+    "name": "Alcarraza",
+    "latitude": 18.36107,
+    "longitude": -65.36905,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564083,
+    "name": "Aljibe las Curias",
+    "latitude": 18.34301,
+    "longitude": -66.05072,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562562,
+    "name": "Alto de la Bandera",
+    "latitude": 18.1294,
+    "longitude": -66.89045,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562563,
+    "name": "Alto del Descanso",
+    "latitude": 18.15746,
+    "longitude": -66.99879,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562561,
+    "name": "Alto Las Ovejas",
+    "latitude": 18.4793,
+    "longitude": -66.26925,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562600,
+    "name": "Añasco",
+    "latitude": 18.28273,
+    "longitude": -67.13962,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562617,
+    "name": "Antiguo Estadio Municipal (historical)",
+    "latitude": 18.37745,
+    "longitude": -67.19518,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562634,
+    "name": "Área de Recreo El Yunque",
+    "latitude": 18.30245,
+    "longitude": -65.78572,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562630,
+    "name": "Area Recreativa Alfonso Costa Fornes",
+    "latitude": 18.18079,
+    "longitude": -66.98129,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562632,
+    "name": "Area Recreativa Orlando Lopez Martinez",
+    "latitude": 18.08468,
+    "longitude": -66.95879,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562633,
+    "name": "Area Recreativa Real Patillas",
+    "latitude": 18.0758,
+    "longitude": -66.05489,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562635,
+    "name": "Arecibo",
+    "latitude": 18.47245,
+    "longitude": -66.71573,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562636,
+    "name": "Arecibo Centro Plaza",
+    "latitude": 18.47467,
+    "longitude": -66.72073,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562681,
+    "name": "Arroyo",
+    "latitude": 17.9658,
+    "longitude": -66.06128,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562707,
+    "name": "Bairoa Park",
+    "latitude": 18.26106,
+    "longitude": -66.04433,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562738,
+    "name": "Ballaja Plaza",
+    "latitude": 18.46967,
+    "longitude": -66.12183,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562760,
+    "name": "Bano de Oro Natural Area",
+    "latitude": 18.29301,
+    "longitude": -65.76988,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562761,
+    "name": "Bano de Oro Trail",
+    "latitude": 18.30273,
+    "longitude": -65.75461,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562758,
+    "name": "Bano Grade Pool",
+    "latitude": 18.30162,
+    "longitude": -65.78516,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562768,
+    "name": "Barceloneta",
+    "latitude": 18.4505,
+    "longitude": -66.53851,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562778,
+    "name": "Barranquitas",
+    "latitude": 18.18662,
+    "longitude": -66.30628,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562824,
+    "name": "Bastion de las Palmas (historical)",
+    "latitude": 18.46383,
+    "longitude": -66.116,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562831,
+    "name": "Bayamón",
+    "latitude": 18.39856,
+    "longitude": -66.15572,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562896,
+    "name": "Boca de La Zanja",
+    "latitude": 18.3946,
+    "longitude": -67.19145,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562909,
+    "name": "Boqueron Wildlife Refuge",
+    "latitude": 17.95635,
+    "longitude": -67.08296,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562992,
+    "name": "Cabeza de Perro",
+    "latitude": 18.24837,
+    "longitude": -65.57766,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562996,
+    "name": "Cabo Rojo",
+    "latitude": 18.08663,
+    "longitude": -67.14573,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562998,
+    "name": "Cabo Rojo National Wildlife Refuge",
+    "latitude": 17.96173,
+    "longitude": -67.1896,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563008,
+    "name": "Caguas",
+    "latitude": 18.23412,
+    "longitude": -66.0485,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563053,
+    "name": "Campanilla",
+    "latitude": 18.42134,
+    "longitude": -66.23683,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563064,
+    "name": "Camuy",
+    "latitude": 18.48383,
+    "longitude": -66.8449,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563105,
+    "name": "Cancha Arquelio Torres Ramirez",
+    "latitude": 18.07802,
+    "longitude": -67.0299,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563106,
+    "name": "Cancha Bajo Techo",
+    "latitude": 18.21579,
+    "longitude": -66.22822,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563109,
+    "name": "Cancha Doctoro Edwin Puruco Halasco",
+    "latitude": 18.06635,
+    "longitude": -66.36934,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563110,
+    "name": "Cancha Doctoro Pedro Albizu Campos",
+    "latitude": 18.04635,
+    "longitude": -65.87238,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563119,
+    "name": "Cancha el Bolo Jimenez",
+    "latitude": 18.48411,
+    "longitude": -66.84157,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563111,
+    "name": "Cancha Ernesto Vaquez Diaz",
+    "latitude": 18.00413,
+    "longitude": -66.01516,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563112,
+    "name": "Cancha La Puntilla",
+    "latitude": 18.44272,
+    "longitude": -66.11489,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563113,
+    "name": "Cancha Lauro Davila",
+    "latitude": 18.39106,
+    "longitude": -66.25072,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563114,
+    "name": "Cancha Lincoln",
+    "latitude": 18.47328,
+    "longitude": -66.71295,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563115,
+    "name": "Cancha Mickey Coll",
+    "latitude": 18.49994,
+    "longitude": -67.02185,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563116,
+    "name": "Cancha Municipal Bajo Techo",
+    "latitude": 18.19746,
+    "longitude": -66.30767,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563117,
+    "name": "Cancha Pepin Cestero",
+    "latitude": 18.38856,
+    "longitude": -66.17156,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563118,
+    "name": "Cancha Viejas",
+    "latitude": 18.403,
+    "longitude": -66.04628,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563120,
+    "name": "Cancho Pedro Hernandez",
+    "latitude": 18.47744,
+    "longitude": -66.93823,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563122,
+    "name": "Candelaria",
+    "latitude": 18.40411,
+    "longitude": -66.20878,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563123,
+    "name": "Candelaria Arenas",
+    "latitude": 18.41717,
+    "longitude": -66.21739,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563127,
+    "name": "Caneha Benjamin Choby Ortiz",
+    "latitude": 18.26023,
+    "longitude": -66.10461,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4050096,
+    "name": "Caño Boquernón",
+    "latitude": 18.00774,
+    "longitude": -67.17379,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563168,
+    "name": "Canovanas",
+    "latitude": 18.3751,
+    "longitude": -65.89934,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563243,
+    "name": "Carolina",
+    "latitude": 18.38078,
+    "longitude": -65.95739,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563298,
+    "name": "Cataño",
+    "latitude": 18.44134,
+    "longitude": -66.11822,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563308,
+    "name": "Cayey",
+    "latitude": 18.11191,
+    "longitude": -66.166,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563315,
+    "name": "Cayo Ahogado",
+    "latitude": 18.32245,
+    "longitude": -65.61933,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563316,
+    "name": "Cayo Alfeñique",
+    "latitude": 17.92691,
+    "longitude": -66.35184,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563317,
+    "name": "Cayo Algodones",
+    "latitude": 18.19274,
+    "longitude": -65.68349,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563318,
+    "name": "Cayo Arenas",
+    "latitude": 17.95969,
+    "longitude": -66.67406,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563319,
+    "name": "Cayo Ballena",
+    "latitude": 18.34746,
+    "longitude": -65.23682,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563320,
+    "name": "Cayo Batata",
+    "latitude": 18.11552,
+    "longitude": -65.77127,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563321,
+    "name": "Cayo Bayo",
+    "latitude": 17.97135,
+    "longitude": -67.06101,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563322,
+    "name": "Cayo Berbería",
+    "latitude": 17.92858,
+    "longitude": -66.45684,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563323,
+    "name": "Cayo Botella",
+    "latitude": 18.32496,
+    "longitude": -65.24071,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563324,
+    "name": "Cayo Cabritas",
+    "latitude": 18.22079,
+    "longitude": -65.60155,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563325,
+    "name": "Cayo Caracoles",
+    "latitude": 17.95997,
+    "longitude": -67.03823,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563326,
+    "name": "Cayo Caribe",
+    "latitude": 17.96997,
+    "longitude": -66.73267,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563327,
+    "name": "Cayo Chiva",
+    "latitude": 18.1058,
+    "longitude": -65.41599,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563328,
+    "name": "Cayo Collado",
+    "latitude": 17.96247,
+    "longitude": -67.03546,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7309530,
+    "name": "Cayo Conejo",
+    "latitude": 18.12228,
+    "longitude": -65.30812,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563329,
+    "name": "Cayo Corral",
+    "latitude": 17.9358,
+    "longitude": -67.01934,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563365,
+    "name": "Cayo de Luis Peña",
+    "latitude": 18.30635,
+    "longitude": -65.33294,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563366,
+    "name": "Cayo de Tierra",
+    "latitude": 18.08885,
+    "longitude": -65.4671,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563368,
+    "name": "Cayo del Agua",
+    "latitude": 18.31107,
+    "longitude": -65.34738,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7309529,
+    "name": "Cayo Desgraciado",
+    "latitude": 17.96583,
+    "longitude": -66.56556,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563330,
+    "name": "Cayo Diablo",
+    "latitude": 18.36245,
+    "longitude": -65.53127,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563331,
+    "name": "Cayo Don Luis",
+    "latitude": 17.94386,
+    "longitude": -66.97157,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563332,
+    "name": "Cayo Enrique",
+    "latitude": 17.9533,
+    "longitude": -67.04657,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563333,
+    "name": "Cayo Fanduca",
+    "latitude": 18.0869,
+    "longitude": -67.2149,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565456,
+    "name": "Cayo Icacos",
+    "latitude": 18.38634,
+    "longitude": -65.58877,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563335,
+    "name": "Cayo Jalova",
+    "latitude": 18.11858,
+    "longitude": -65.35877,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563336,
+    "name": "Cayo Jalovita",
+    "latitude": 18.1158,
+    "longitude": -65.3546,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563338,
+    "name": "Cayo Lobito",
+    "latitude": 18.33412,
+    "longitude": -65.39266,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563339,
+    "name": "Cayo Lobo",
+    "latitude": 18.3244,
+    "longitude": -65.37738,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563340,
+    "name": "Cayo Lobos",
+    "latitude": 18.37745,
+    "longitude": -65.56988,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563341,
+    "name": "Cayo María Langa",
+    "latitude": 17.96552,
+    "longitude": -66.75017,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563342,
+    "name": "Cayo Mata",
+    "latitude": 17.98913,
+    "longitude": -66.76351,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563344,
+    "name": "Cayo Mata Seca",
+    "latitude": 17.96108,
+    "longitude": -67.00934,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563345,
+    "name": "Cayo Matojo",
+    "latitude": 18.33634,
+    "longitude": -65.28988,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563346,
+    "name": "Cayo Morrillo",
+    "latitude": 17.92691,
+    "longitude": -66.27295,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566420,
+    "name": "Cayo Norte",
+    "latitude": 18.3369,
+    "longitude": -65.25655,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563348,
+    "name": "Cayo Palomas",
+    "latitude": 17.97469,
+    "longitude": -66.74879,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563349,
+    "name": "Cayo Parguera",
+    "latitude": 17.97858,
+    "longitude": -66.7174,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563350,
+    "name": "Cayo Piñerito",
+    "latitude": 18.24496,
+    "longitude": -65.59461,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563351,
+    "name": "Cayo Pirata",
+    "latitude": 18.30635,
+    "longitude": -65.29544,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563352,
+    "name": "Cayo Puerca",
+    "latitude": 17.92941,
+    "longitude": -66.23683,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563353,
+    "name": "Cayo Ratón",
+    "latitude": 18.31412,
+    "longitude": -65.35321,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563354,
+    "name": "Cayo Ratones",
+    "latitude": 18.1169,
+    "longitude": -67.18824,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563356,
+    "name": "Cayo Real",
+    "latitude": 18.08858,
+    "longitude": -65.47266,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563357,
+    "name": "Cayo Río",
+    "latitude": 17.98247,
+    "longitude": -66.73795,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563358,
+    "name": "Cayo Santiago",
+    "latitude": 18.15635,
+    "longitude": -65.73405,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563359,
+    "name": "Cayo Sombrerito",
+    "latitude": 18.33773,
+    "longitude": -65.24543,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563360,
+    "name": "Cayo Terremoto",
+    "latitude": 17.92997,
+    "longitude": -66.9724,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563361,
+    "name": "Cayo Tiburón",
+    "latitude": 18.34496,
+    "longitude": -65.23793,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7309528,
+    "name": "Cayo Tuna",
+    "latitude": 18.3375,
+    "longitude": -65.39306,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563362,
+    "name": "Cayo Verde",
+    "latitude": 18.3069,
+    "longitude": -65.29044,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563363,
+    "name": "Cayo Vieques",
+    "latitude": 17.96413,
+    "longitude": -67.07073,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563364,
+    "name": "Cayo Yerba",
+    "latitude": 18.31884,
+    "longitude": -65.35377,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563369,
+    "name": "Cayos Cabezazos",
+    "latitude": 17.92163,
+    "longitude": -66.38295,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563234,
+    "name": "Cayos Caribes",
+    "latitude": 17.92719,
+    "longitude": -66.21211,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563371,
+    "name": "Cayos de Barca",
+    "latitude": 17.91636,
+    "longitude": -66.23961,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563372,
+    "name": "Cayos de Caña Gorda",
+    "latitude": 17.94219,
+    "longitude": -66.87129,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563373,
+    "name": "Cayos de Caracoles",
+    "latitude": 17.9283,
+    "longitude": -66.36628,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563375,
+    "name": "Cayos de la Cordillera Nature Reserve",
+    "latitude": 18.33968,
+    "longitude": -65.61961,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563374,
+    "name": "Cayos de Pájaros",
+    "latitude": 17.9233,
+    "longitude": -66.261,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4567590,
+    "name": "Cayos de Ratones",
+    "latitude": 17.93497,
+    "longitude": -66.29267,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563370,
+    "name": "Cayos Geniquí",
+    "latitude": 18.33829,
+    "longitude": -65.23154,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563378,
+    "name": "Ceiba",
+    "latitude": 18.26412,
+    "longitude": -65.6485,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563457,
+    "name": "Centro Comunal",
+    "latitude": 18.34551,
+    "longitude": -66.00655,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563483,
+    "name": "Centro Plaza Lajas",
+    "latitude": 18.04413,
+    "longitude": -67.06018,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563488,
+    "name": "Centro Vacacional de Boqueron",
+    "latitude": 18.01302,
+    "longitude": -67.17268,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563533,
+    "name": "Cerro Algarrobo",
+    "latitude": 18.05802,
+    "longitude": -67.0049,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563534,
+    "name": "Cerro Algódon",
+    "latitude": 18.04357,
+    "longitude": -67.18074,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563535,
+    "name": "Cerro Almirante",
+    "latitude": 18.18079,
+    "longitude": -66.19822,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563536,
+    "name": "Cerro Alto",
+    "latitude": 18.47939,
+    "longitude": -66.95573,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563537,
+    "name": "Cerro Amargura",
+    "latitude": 18.15107,
+    "longitude": -65.39905,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563538,
+    "name": "Cerro Amoldadero",
+    "latitude": 18.16829,
+    "longitude": -66.23739,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7309537,
+    "name": "Cerro Anterior",
+    "latitude": 18.18333,
+    "longitude": -67.11667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563539,
+    "name": "Cerro Augustinillo",
+    "latitude": 18.10096,
+    "longitude": -66.55081,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563540,
+    "name": "Cerro Avispa",
+    "latitude": 18.20523,
+    "longitude": -66.81879,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563544,
+    "name": "Cerro Balcón",
+    "latitude": 18.31607,
+    "longitude": -65.26599,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563545,
+    "name": "Cerro Bartolo",
+    "latitude": 18.15079,
+    "longitude": -66.75156,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563546,
+    "name": "Cerro Boca del Infierno",
+    "latitude": 18.00552,
+    "longitude": -66.05211,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563547,
+    "name": "Cerro Bone",
+    "latitude": 18.15802,
+    "longitude": -65.38794,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563548,
+    "name": "Cerro Bravo",
+    "latitude": 18.39217,
+    "longitude": -65.78516,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563549,
+    "name": "Cerro Buena Vista",
+    "latitude": 18.07357,
+    "longitude": -67.12351,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563550,
+    "name": "Cerro Camacho",
+    "latitude": 18.15857,
+    "longitude": -65.40683,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563551,
+    "name": "Cerro Candelero",
+    "latitude": 18.10968,
+    "longitude": -65.83655,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563552,
+    "name": "Cerro Candiles",
+    "latitude": 18.04441,
+    "longitude": -66.81268,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563553,
+    "name": "Cerro Canta Gallo",
+    "latitude": 18.31217,
+    "longitude": -67.18213,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563554,
+    "name": "Cerro Caprón",
+    "latitude": 17.9608,
+    "longitude": -66.90268,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563555,
+    "name": "Cerro Caracas",
+    "latitude": 18.11108,
+    "longitude": -65.41488,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563556,
+    "name": "Cerro Cariblanco",
+    "latitude": 18.05385,
+    "longitude": -66.291,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563557,
+    "name": "Cerro Cascajillo",
+    "latitude": 18.30412,
+    "longitude": -67.03935,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563558,
+    "name": "Cerro Cayures",
+    "latitude": 18.37772,
+    "longitude": -67.16685,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563559,
+    "name": "Cerro Cedro",
+    "latitude": 18.25857,
+    "longitude": -66.47128,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563560,
+    "name": "Cerro Charcas",
+    "latitude": 18.00274,
+    "longitude": -66.15267,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563561,
+    "name": "Cerro Cibuco",
+    "latitude": 18.48356,
+    "longitude": -66.37878,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563562,
+    "name": "Cerro Collores",
+    "latitude": 18.19135,
+    "longitude": -65.83766,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563563,
+    "name": "Cerro Conde Ávila",
+    "latitude": 18.1044,
+    "longitude": -67.16462,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563564,
+    "name": "Cerro Corazón",
+    "latitude": 18.01302,
+    "longitude": -66.0835,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563565,
+    "name": "Cerro Cornelia",
+    "latitude": 18.1619,
+    "longitude": -67.1774,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563566,
+    "name": "Cerro Corozal",
+    "latitude": 18.27829,
+    "longitude": -65.66933,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563567,
+    "name": "Cerro Curet",
+    "latitude": 18.11302,
+    "longitude": -66.81823,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563568,
+    "name": "Cerro Dagüey",
+    "latitude": 18.30551,
+    "longitude": -67.13407,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563727,
+    "name": "Cerro de la Bandera",
+    "latitude": 18.37162,
+    "longitude": -66.46406,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563729,
+    "name": "Cerro de la Candelaria",
+    "latitude": 18.14718,
+    "longitude": -67.01962,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563731,
+    "name": "Cerro de la Tabla",
+    "latitude": 18.05163,
+    "longitude": -66.12489,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563732,
+    "name": "Cerro de las Avispas",
+    "latitude": 18.09496,
+    "longitude": -66.80573,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563734,
+    "name": "Cerro de las Cuevas",
+    "latitude": 18.05357,
+    "longitude": -67.02046,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563722,
+    "name": "Cerro de Las Mulas",
+    "latitude": 18.1869,
+    "longitude": -66.87907,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563737,
+    "name": "Cerro de las Velas",
+    "latitude": 18.31745,
+    "longitude": -67.0499,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563738,
+    "name": "Cerro de los Bonelli",
+    "latitude": 18.05302,
+    "longitude": -66.95768,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563739,
+    "name": "Cerro de los Cielos",
+    "latitude": 18.05469,
+    "longitude": -66.22572,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563723,
+    "name": "Cerro de Luis Pena",
+    "latitude": 18.30718,
+    "longitude": -65.33349,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563724,
+    "name": "Cerro de Nuestra Madre",
+    "latitude": 18.10302,
+    "longitude": -66.02266,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563725,
+    "name": "Cerro de Punta",
+    "latitude": 18.17246,
+    "longitude": -66.59184,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563726,
+    "name": "Cerro de Vergara",
+    "latitude": 18.31467,
+    "longitude": -66.15517,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563740,
+    "name": "Cerro del Cabro",
+    "latitude": 18.07357,
+    "longitude": -66.0085,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563742,
+    "name": "Cerro del Chícharo",
+    "latitude": 18.27662,
+    "longitude": -66.13072,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563743,
+    "name": "Cerro del Diablo",
+    "latitude": 18.10329,
+    "longitude": -66.6349,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563744,
+    "name": "Cerro del Faro",
+    "latitude": 18.41106,
+    "longitude": -66.40961,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563745,
+    "name": "Cerro del Indio",
+    "latitude": 18.38495,
+    "longitude": -66.96768,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563746,
+    "name": "Cerro del Muerto",
+    "latitude": 18.0083,
+    "longitude": -66.40489,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563569,
+    "name": "Cerro Don Quiño",
+    "latitude": 18.19773,
+    "longitude": -66.77462,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563570,
+    "name": "Cerro Doña Juana",
+    "latitude": 18.1719,
+    "longitude": -66.48045,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563571,
+    "name": "Cerro El Alto",
+    "latitude": 18.06857,
+    "longitude": -66.81712,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563572,
+    "name": "Cerro El Asomante",
+    "latitude": 18.13913,
+    "longitude": -65.87127,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563573,
+    "name": "Cerro El Bolo",
+    "latitude": 18.16718,
+    "longitude": -66.49601,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563574,
+    "name": "Cerro El Buey",
+    "latitude": 18.10635,
+    "longitude": -65.54127,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563575,
+    "name": "Cerro El Faro",
+    "latitude": 18.38301,
+    "longitude": -65.76877,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563576,
+    "name": "Cerro El Gato",
+    "latitude": 18.25134,
+    "longitude": -66.46323,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563578,
+    "name": "Cerro El Gigante",
+    "latitude": 18.14107,
+    "longitude": -66.72906,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563579,
+    "name": "Cerro El Indio",
+    "latitude": 18.14913,
+    "longitude": -66.24517,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563580,
+    "name": "Cerro El Malo",
+    "latitude": 18.17357,
+    "longitude": -66.42045,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563581,
+    "name": "Cerro El Peligro",
+    "latitude": 18.09357,
+    "longitude": -66.7674,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563582,
+    "name": "Cerro El Pico",
+    "latitude": 18.1369,
+    "longitude": -66.331,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563583,
+    "name": "Cerro El Retiro",
+    "latitude": 18.06107,
+    "longitude": -67.0274,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568340,
+    "name": "Cerro El Sombreito",
+    "latitude": 18.0208,
+    "longitude": -65.881,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563584,
+    "name": "Cerro El Sombrero",
+    "latitude": 18.39439,
+    "longitude": -67.00462,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563748,
+    "name": "Cerro el Vigia",
+    "latitude": 18.02135,
+    "longitude": -66.62017,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563585,
+    "name": "Cerro Farallón",
+    "latitude": 18.23912,
+    "longitude": -66.30656,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563587,
+    "name": "Cerro Franchón",
+    "latitude": 18.04941,
+    "longitude": -66.94518,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563588,
+    "name": "Cerro Garau",
+    "latitude": 18.02024,
+    "longitude": -66.17767,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563589,
+    "name": "Cerro Garrote",
+    "latitude": 18.1244,
+    "longitude": -66.6999,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563590,
+    "name": "Cerro Garzas",
+    "latitude": 18.17107,
+    "longitude": -66.75017,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563591,
+    "name": "Cerro Goden",
+    "latitude": 18.25079,
+    "longitude": -67.04907,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563592,
+    "name": "Cerro Gordo",
+    "latitude": 18.33773,
+    "longitude": -67.13796,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563601,
+    "name": "Cerro Gozos",
+    "latitude": 18.4705,
+    "longitude": -66.336,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563602,
+    "name": "Cerro Gregorio",
+    "latitude": 18.14913,
+    "longitude": -66.01211,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563603,
+    "name": "Cerro Gritadero",
+    "latitude": 18.30051,
+    "longitude": -67.04073,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563604,
+    "name": "Cerro Guaniquilla",
+    "latitude": 18.04357,
+    "longitude": -67.20074,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563605,
+    "name": "Cerro Guarico",
+    "latitude": 18.46745,
+    "longitude": -66.41906,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563606,
+    "name": "Cerro Herencia",
+    "latitude": 18.24551,
+    "longitude": -66.95379,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563607,
+    "name": "Cerro Honoré",
+    "latitude": 18.10524,
+    "longitude": -66.04461,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563608,
+    "name": "Cerro Indio",
+    "latitude": 18.13302,
+    "longitude": -65.27877,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563609,
+    "name": "Cerro Jobo Dulce",
+    "latitude": 18.07996,
+    "longitude": -66.25295,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563610,
+    "name": "Cerro La Chorrera",
+    "latitude": 18.22023,
+    "longitude": -66.73795,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563611,
+    "name": "Cerro La Coroza",
+    "latitude": 18.11357,
+    "longitude": -66.4685,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563749,
+    "name": "Cerro la Cuchilla",
+    "latitude": 18.22024,
+    "longitude": -65.79766,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563612,
+    "name": "Cerro La Guánica",
+    "latitude": 18.03941,
+    "longitude": -67.00129,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563613,
+    "name": "Cerro La Guásima",
+    "latitude": 18.12913,
+    "longitude": -66.15767,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563614,
+    "name": "Cerro La Mira",
+    "latitude": 18.2319,
+    "longitude": -66.80518,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563615,
+    "name": "Cerro La Montería",
+    "latitude": 18.12857,
+    "longitude": -66.46628,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563616,
+    "name": "Cerro La Pandura",
+    "latitude": 18.03247,
+    "longitude": -65.90016,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563617,
+    "name": "Cerro La Parra",
+    "latitude": 18.05857,
+    "longitude": -67.05157,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563618,
+    "name": "Cerro La Peña",
+    "latitude": 18.29079,
+    "longitude": -66.15406,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563619,
+    "name": "Cerro La Quinta",
+    "latitude": 18.21079,
+    "longitude": -66.82601,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563620,
+    "name": "Cerro La Santa",
+    "latitude": 18.11357,
+    "longitude": -66.05211,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563621,
+    "name": "Cerro La Silla",
+    "latitude": 18.39522,
+    "longitude": -67.01573,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563622,
+    "name": "Cerro La Tiza",
+    "latitude": 18.24134,
+    "longitude": -66.18406,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563623,
+    "name": "Cerro La Torre",
+    "latitude": 18.2494,
+    "longitude": -66.85518,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563625,
+    "name": "Cerro La Torrecilla",
+    "latitude": 18.04496,
+    "longitude": -65.98572,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563626,
+    "name": "Cerro La Tuna",
+    "latitude": 18.04191,
+    "longitude": -66.78323,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563627,
+    "name": "Cerro Lajara",
+    "latitude": 17.97108,
+    "longitude": -66.94962,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563628,
+    "name": "Cerro Lambedora",
+    "latitude": 18.04913,
+    "longitude": -66.00044,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563629,
+    "name": "Cerro Las Piñas",
+    "latitude": 18.15218,
+    "longitude": -66.08544,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563630,
+    "name": "Cerro Lazo",
+    "latitude": 18.2144,
+    "longitude": -66.21545,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563631,
+    "name": "Cerro Leclerc",
+    "latitude": 18.22162,
+    "longitude": -67.07768,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563632,
+    "name": "Cerro Leoncilla",
+    "latitude": 18.19079,
+    "longitude": -66.82879,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563633,
+    "name": "Cerro Limones",
+    "latitude": 18.04996,
+    "longitude": -66.82823,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563634,
+    "name": "Cerro Lloroso",
+    "latitude": 18.20051,
+    "longitude": -66.75712,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563635,
+    "name": "Cerro Los Negrones",
+    "latitude": 18.01969,
+    "longitude": -66.58351,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563636,
+    "name": "Cerro Lucero",
+    "latitude": 18.11635,
+    "longitude": -66.06072,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563638,
+    "name": "Cerro Mabú",
+    "latitude": 18.17496,
+    "longitude": -65.82572,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563639,
+    "name": "Cerro Magoyo",
+    "latitude": 18.26384,
+    "longitude": -66.58823,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563640,
+    "name": "Cerro Magueyes",
+    "latitude": 18.23134,
+    "longitude": -66.22628,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563643,
+    "name": "Cerro Mala Pascua",
+    "latitude": 17.98497,
+    "longitude": -65.91988,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563644,
+    "name": "Cerro Malo",
+    "latitude": 18.20246,
+    "longitude": -66.87268,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563646,
+    "name": "Cerro Malojillo",
+    "latitude": 18.14024,
+    "longitude": -65.41044,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563647,
+    "name": "Cerro Maravillas",
+    "latitude": 18.15301,
+    "longitude": -66.55406,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563648,
+    "name": "Cerro Mariquita",
+    "latitude": 17.99913,
+    "longitude": -67.11101,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563649,
+    "name": "Cerro Marquesa",
+    "latitude": 18.27968,
+    "longitude": -66.11239,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563650,
+    "name": "Cerro Martineau",
+    "latitude": 18.13191,
+    "longitude": -65.47571,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563651,
+    "name": "Cerro Martinica",
+    "latitude": 18.35606,
+    "longitude": -67.26379,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563652,
+    "name": "Cerro Mata de Plátano",
+    "latitude": 18.10218,
+    "longitude": -66.73434,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563653,
+    "name": "Cerro Matías Jalobre",
+    "latitude": 18.13107,
+    "longitude": -65.31766,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563654,
+    "name": "Cerro Medina",
+    "latitude": 18.20051,
+    "longitude": -66.76795,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563655,
+    "name": "Cerro Mercado",
+    "latitude": 18.20829,
+    "longitude": -66.78545,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563656,
+    "name": "Cerro Mime",
+    "latitude": 18.24662,
+    "longitude": -66.43878,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563657,
+    "name": "Cerro Miraflores",
+    "latitude": 18.07885,
+    "longitude": -66.04183,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563659,
+    "name": "Cerro Modesto",
+    "latitude": 17.99385,
+    "longitude": -66.29739,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563660,
+    "name": "Cerro Montalva",
+    "latitude": 17.95691,
+    "longitude": -66.95851,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563661,
+    "name": "Cerro Morales",
+    "latitude": 18.24745,
+    "longitude": -66.62462,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563662,
+    "name": "Cerro Morrillo",
+    "latitude": 17.88414,
+    "longitude": -66.52878,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563663,
+    "name": "Cerro Mula",
+    "latitude": 18.27384,
+    "longitude": -66.14711,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563664,
+    "name": "Cerro Novillo",
+    "latitude": 18.20968,
+    "longitude": -66.76962,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563665,
+    "name": "Cerro Palma",
+    "latitude": 18.29384,
+    "longitude": -66.85434,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563667,
+    "name": "Cerro Palo de Café",
+    "latitude": 18.25245,
+    "longitude": -66.58378,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563666,
+    "name": "Cerro Palo Seco",
+    "latitude": 18.23384,
+    "longitude": -66.78906,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563668,
+    "name": "Cerro Palomas",
+    "latitude": 18.14024,
+    "longitude": -65.34738,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563669,
+    "name": "Cerro Pelao",
+    "latitude": 18.31523,
+    "longitude": -67.10379,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563670,
+    "name": "Cerro Pelota",
+    "latitude": 18.38023,
+    "longitude": -66.50767,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563671,
+    "name": "Cerro Petronila",
+    "latitude": 18.11468,
+    "longitude": -66.431,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563672,
+    "name": "Cerro Pichón",
+    "latitude": 18.31078,
+    "longitude": -67.06185,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563674,
+    "name": "Cerro Piedra Gorda",
+    "latitude": 18.02052,
+    "longitude": -66.03989,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563675,
+    "name": "Cerro Piedra Hueca",
+    "latitude": 17.98552,
+    "longitude": -65.99489,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563676,
+    "name": "Cerro Piñas",
+    "latitude": 18.08357,
+    "longitude": -67.17185,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563677,
+    "name": "Cerro Pío",
+    "latitude": 18.22662,
+    "longitude": -66.42434,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563678,
+    "name": "Cerro Pío Juan",
+    "latitude": 18.03802,
+    "longitude": -66.30322,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563679,
+    "name": "Cerro Pitahaya",
+    "latitude": 18.32384,
+    "longitude": -65.881,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563680,
+    "name": "Cerro Plan Bonito",
+    "latitude": 18.20829,
+    "longitude": -66.95323,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563681,
+    "name": "Cerro Plana",
+    "latitude": 18.15385,
+    "longitude": -66.21072,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563682,
+    "name": "Cerro Planada",
+    "latitude": 18.08663,
+    "longitude": -66.20878,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563683,
+    "name": "Cerro Playuela",
+    "latitude": 18.11052,
+    "longitude": -65.42155,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563684,
+    "name": "Cerro Presidio",
+    "latitude": 18.05135,
+    "longitude": -66.32461,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563685,
+    "name": "Cerro Prieto",
+    "latitude": 18.19718,
+    "longitude": -66.66295,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563686,
+    "name": "Cerro Pulguillas",
+    "latitude": 18.15024,
+    "longitude": -66.33684,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563687,
+    "name": "Cerro Purrón",
+    "latitude": 18.31301,
+    "longitude": -66.45462,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563688,
+    "name": "Cerro Quemado",
+    "latitude": 18.04496,
+    "longitude": -67.09435,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563689,
+    "name": "Cerro Quirós",
+    "latitude": 18.28329,
+    "longitude": -66.38656,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7315802,
+    "name": "Cerro Respaldo",
+    "latitude": 18.00941,
+    "longitude": -66.33017,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563690,
+    "name": "Cerro Roncador",
+    "latitude": 18.23301,
+    "longitude": -66.7599,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563691,
+    "name": "Cerro Rosa",
+    "latitude": 18.17774,
+    "longitude": -66.53212,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563692,
+    "name": "Cerro Saliente",
+    "latitude": 18.17829,
+    "longitude": -66.55962,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563693,
+    "name": "Cerro San José",
+    "latitude": 18.37578,
+    "longitude": -67.18129,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563695,
+    "name": "Cerro Santa Ana",
+    "latitude": 18.09274,
+    "longitude": -66.326,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563697,
+    "name": "Cerro Santa Bárbara",
+    "latitude": 18.2294,
+    "longitude": -66.15628,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563699,
+    "name": "Cerro Santa Elena",
+    "latitude": 18.02802,
+    "longitude": -65.86905,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563700,
+    "name": "Cerro Santo Domingo",
+    "latitude": 18.18551,
+    "longitude": -66.85323,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563702,
+    "name": "Cerro Sonadora",
+    "latitude": 18.12274,
+    "longitude": -65.48933,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563703,
+    "name": "Cerro Taita",
+    "latitude": 18.22051,
+    "longitude": -66.47184,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563704,
+    "name": "Cerro Tirano",
+    "latitude": 18.2769,
+    "longitude": -67.04073,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563705,
+    "name": "Cerro Toro",
+    "latitude": 17.96747,
+    "longitude": -66.80573,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563706,
+    "name": "Cerro Tumbado",
+    "latitude": 18.02219,
+    "longitude": -66.09489,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563707,
+    "name": "Cerro Vadi",
+    "latitude": 18.37911,
+    "longitude": -67.17351,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563708,
+    "name": "Cerro Valladares",
+    "latitude": 18.25801,
+    "longitude": -67.02407,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563709,
+    "name": "Cerro Vaquiña",
+    "latitude": 18.15051,
+    "longitude": -66.77379,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563710,
+    "name": "Cerro Vargas",
+    "latitude": 18.05968,
+    "longitude": -67.11823,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563711,
+    "name": "Cerro Verdún",
+    "latitude": 18.09357,
+    "longitude": -66.25711,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563712,
+    "name": "Cerro Vertero",
+    "latitude": 17.98802,
+    "longitude": -66.00322,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563713,
+    "name": "Cerro Viento Caliente",
+    "latitude": 18.17551,
+    "longitude": -66.211,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563714,
+    "name": "Cerro Vieques",
+    "latitude": 18.37689,
+    "longitude": -67.17935,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563715,
+    "name": "Cerro Vigía",
+    "latitude": 18.45967,
+    "longitude": -67.14129,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563717,
+    "name": "Cerro Vista Alegre",
+    "latitude": 18.25801,
+    "longitude": -66.51323,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563718,
+    "name": "Cerro Viviana",
+    "latitude": 18.14718,
+    "longitude": -65.92822,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563719,
+    "name": "Cerro Yaitini",
+    "latitude": 18.29856,
+    "longitude": -67.0224,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563720,
+    "name": "Cerro Yaurel",
+    "latitude": 18.03802,
+    "longitude": -66.05322,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563750,
+    "name": "Cerros de Higuillar",
+    "latitude": 18.44245,
+    "longitude": -66.27739,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563752,
+    "name": "Cerrote de Peñuelas",
+    "latitude": 18.11913,
+    "longitude": -66.70045,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562701,
+    "name": "Charco Azul",
+    "latitude": 18.09167,
+    "longitude": -66.03141,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563773,
+    "name": "Ciales",
+    "latitude": 18.33606,
+    "longitude": -66.46878,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563777,
+    "name": "Cidra",
+    "latitude": 18.17579,
+    "longitude": -66.16128,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563795,
+    "name": "Ciudad Deportiva Roberto Clemente",
+    "latitude": 18.41967,
+    "longitude": -66.00683,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563811,
+    "name": "Coamo",
+    "latitude": 18.07996,
+    "longitude": -66.35795,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563816,
+    "name": "Coco",
+    "latitude": 18.00719,
+    "longitude": -66.25933,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4829033,
+    "name": "College Park",
+    "latitude": 18.47106,
+    "longitude": -66.72795,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7269357,
+    "name": "Colliseo Gallistico",
+    "latitude": 18.44128,
+    "longitude": -66.01526,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563919,
+    "name": "Comerío",
+    "latitude": 18.21801,
+    "longitude": -66.226,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563927,
+    "name": "Complejo Deportivo",
+    "latitude": 18.458,
+    "longitude": -66.54239,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563931,
+    "name": "Complejo Deportivo Carcano Alicea",
+    "latitude": 18.37523,
+    "longitude": -66.15906,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563932,
+    "name": "Complejo Deportivo Francisco Pancho Coimbre",
+    "latitude": 18.06607,
+    "longitude": -66.36795,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563933,
+    "name": "Complejo Deportivo Jose Changy Diaz",
+    "latitude": 18.19357,
+    "longitude": -66.97268,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563934,
+    "name": "Complejo Deportivo Jose Vicente Rivera Borras",
+    "latitude": 17.97497,
+    "longitude": -66.06461,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563935,
+    "name": "Complejo Deportivo Municipal",
+    "latitude": 18.23801,
+    "longitude": -66.05461,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563936,
+    "name": "Complejo Recreativo Angel Lile Medina",
+    "latitude": 18.26718,
+    "longitude": -66.70212,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563937,
+    "name": "Complejo Recreativo Guarionex",
+    "latitude": 18.17051,
+    "longitude": -66.72962,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563938,
+    "name": "Complejo Recreativo Isabelino Vicicora",
+    "latitude": 17.9783,
+    "longitude": -66.0685,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564003,
+    "name": "Corozal",
+    "latitude": 18.34106,
+    "longitude": -66.31684,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564065,
+    "name": "Cuesta de la Yuca",
+    "latitude": 18.31523,
+    "longitude": -67.04573,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564070,
+    "name": "Culebra",
+    "latitude": 18.30301,
+    "longitude": -65.30099,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564072,
+    "name": "Culebra National Wildlife Refuge",
+    "latitude": 18.32669,
+    "longitude": -65.28993,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564074,
+    "name": "Culebra Nature Reserve",
+    "latitude": 18.33523,
+    "longitude": -65.33044,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11382995,
+    "name": "Desecheo National Wildlife Refuge",
+    "latitude": 18.3833,
+    "longitude": -67.48016,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7269358,
+    "name": "Don Juan de Amezouita y Quixano Monument",
+    "latitude": 18.46905,
+    "longitude": -66.12226,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564132,
+    "name": "Dora Colon Clavell Urban Park",
+    "latitude": 18.00719,
+    "longitude": -66.61378,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564133,
+    "name": "Dorado",
+    "latitude": 18.45883,
+    "longitude": -66.26767,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562956,
+    "name": "El Alto de Breñas",
+    "latitude": 18.47967,
+    "longitude": -66.32711,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562606,
+    "name": "El Ancón",
+    "latitude": 18.35162,
+    "longitude": -65.34294,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563004,
+    "name": "El Cacique",
+    "latitude": 18.28912,
+    "longitude": -65.82155,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563529,
+    "name": "El Centro",
+    "latitude": 18.45022,
+    "longitude": -66.95601,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562700,
+    "name": "El Cerro Avispa",
+    "latitude": 18.1569,
+    "longitude": -67.03101,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563918,
+    "name": "El Comeijén",
+    "latitude": 18.12274,
+    "longitude": -66.96879,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565384,
+    "name": "El Horno",
+    "latitude": 18.42356,
+    "longitude": -66.17822,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566282,
+    "name": "El Mono",
+    "latitude": 18.31773,
+    "longitude": -65.36821,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566338,
+    "name": "El Morrillo",
+    "latitude": 18.14468,
+    "longitude": -65.76905,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566411,
+    "name": "El Negro",
+    "latitude": 18.27079,
+    "longitude": -65.84822,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564222,
+    "name": "El Paterre",
+    "latitude": 18.43133,
+    "longitude": -67.15407,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566681,
+    "name": "El Peñon",
+    "latitude": 17.98885,
+    "longitude": -66.9399,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568060,
+    "name": "El Salto",
+    "latitude": 18.39106,
+    "longitude": -66.45323,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568417,
+    "name": "El Torito",
+    "latitude": 18.08246,
+    "longitude": -66.15517,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568420,
+    "name": "El Toro",
+    "latitude": 18.27218,
+    "longitude": -65.82933,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568929,
+    "name": "El Yunque",
+    "latitude": 18.31051,
+    "longitude": -65.79127,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564253,
+    "name": "Eleanor Roosevelt",
+    "latitude": 18.41634,
+    "longitude": -66.06405,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564872,
+    "name": "Estadio Adolfo Hanni Carillo",
+    "latitude": 18.20912,
+    "longitude": -65.73238,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564873,
+    "name": "Estadio Cristobal Caguitas Colon",
+    "latitude": 18.18662,
+    "longitude": -65.96711,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564893,
+    "name": "Estadio de Aguada",
+    "latitude": 18.37856,
+    "longitude": -67.19629,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564894,
+    "name": "Estadio de Barranquitas",
+    "latitude": 18.19162,
+    "longitude": -66.30684,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564874,
+    "name": "Estadio Felix Mantilla",
+    "latitude": 18.5005,
+    "longitude": -67.01851,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564875,
+    "name": "Estadio Felix Millan",
+    "latitude": 18.04552,
+    "longitude": -65.87155,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564876,
+    "name": "Estadio Hnos Ernesto y Juan Mira",
+    "latitude": 18.13885,
+    "longitude": -67.12046,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564877,
+    "name": "Estadio Jose Cheo Cruz",
+    "latitude": 17.97886,
+    "longitude": -66.07072,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564878,
+    "name": "Estadio Jose Joe Barbosa",
+    "latitude": 18.0433,
+    "longitude": -67.0574,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564879,
+    "name": "Estadio Juan Ramon Loubriel",
+    "latitude": 18.39384,
+    "longitude": -66.15072,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564880,
+    "name": "Estadio Luis A Canena Marquez",
+    "latitude": 18.44356,
+    "longitude": -67.14629,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564881,
+    "name": "Estadio Luis Tite Arroyo",
+    "latitude": 18.05246,
+    "longitude": -66.71823,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564882,
+    "name": "Estadio Manuel Carrasquillo Herpen",
+    "latitude": 18.41772,
+    "longitude": -65.99572,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564883,
+    "name": "Estadio Manuel Gomez La Norsa",
+    "latitude": 18.19301,
+    "longitude": -65.97378,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564884,
+    "name": "Estadio Manuel Gonzales",
+    "latitude": 17.97608,
+    "longitude": -66.29378,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564885,
+    "name": "Estadio Municipal Guaynabo",
+    "latitude": 18.37495,
+    "longitude": -66.11267,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7269359,
+    "name": "Estadio Municipal Juan Ramon Lubriel",
+    "latitude": 18.39401,
+    "longitude": -66.15117,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564887,
+    "name": "Estadio Municipal Luis Guillermo Moreno",
+    "latitude": 17.95524,
+    "longitude": -66.40295,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564888,
+    "name": "Estadio Osvaldo Gutierrez",
+    "latitude": 17.97524,
+    "longitude": -66.90712,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564889,
+    "name": "Estadio Ovidio de Jesus",
+    "latitude": 18.37689,
+    "longitude": -65.8435,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564890,
+    "name": "Estadio Peruchin Cepeda",
+    "latitude": 18.43884,
+    "longitude": -66.12711,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564891,
+    "name": "Estadio Rafael Marrero",
+    "latitude": 18.36412,
+    "longitude": -66.55267,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564892,
+    "name": "Estadio Rosario Francisco Paoli",
+    "latitude": 18.00274,
+    "longitude": -65.89544,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564901,
+    "name": "Estancias de Florida",
+    "latitude": 18.36662,
+    "longitude": -66.56962,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564914,
+    "name": "Estuanna Nacional Bahia Jobos Hunting Reserve",
+    "latitude": 17.96386,
+    "longitude": -66.20683,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564946,
+    "name": "Fajardo",
+    "latitude": 18.32579,
+    "longitude": -65.65238,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564991,
+    "name": "Florida",
+    "latitude": 18.36245,
+    "longitude": -66.56128,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564999,
+    "name": "Fort Amezquita San Juan Nacional Historico Sitio",
+    "latitude": 18.47,
+    "longitude": -66.13667,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565024,
+    "name": "Fuente de los Leones",
+    "latitude": 18.01135,
+    "longitude": -66.61434,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7309539,
+    "name": "Gata Islets",
+    "latitude": 17.96667,
+    "longitude": -66.61667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565057,
+    "name": "General Antonio Valero Statue",
+    "latitude": 18.33106,
+    "longitude": -65.64822,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565060,
+    "name": "Gilligans Island",
+    "latitude": 17.94247,
+    "longitude": -66.87101,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565090,
+    "name": "Guánica",
+    "latitude": 17.97163,
+    "longitude": -66.90795,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565105,
+    "name": "Guayama",
+    "latitude": 17.98413,
+    "longitude": -66.11378,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565111,
+    "name": "Guayanilla",
+    "latitude": 18.01913,
+    "longitude": -66.79184,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565119,
+    "name": "Guaynabo",
+    "latitude": 18.35745,
+    "longitude": -66.111,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565125,
+    "name": "Gurabo",
+    "latitude": 18.2544,
+    "longitude": -65.97294,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565346,
+    "name": "Hatillo",
+    "latitude": 18.48633,
+    "longitude": -66.82545,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565370,
+    "name": "Hipodromo el Nuevo Comandante",
+    "latitude": 18.36689,
+    "longitude": -65.90572,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565380,
+    "name": "Hormigueros",
+    "latitude": 18.13968,
+    "longitude": -67.1274,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565564,
+    "name": "Humacao",
+    "latitude": 18.14968,
+    "longitude": -65.82738,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565551,
+    "name": "Ingenio",
+    "latitude": 18.44217,
+    "longitude": -66.226,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565575,
+    "name": "Isabel Segunda",
+    "latitude": 18.14913,
+    "longitude": -65.44266,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565577,
+    "name": "Isabela",
+    "latitude": 18.50078,
+    "longitude": -67.02435,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565583,
+    "name": "Isla Ballena",
+    "latitude": 17.94469,
+    "longitude": -66.86684,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565584,
+    "name": "Isla Cabras",
+    "latitude": 18.21223,
+    "longitude": -65.60176,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565585,
+    "name": "Isla Caja de Muerto Nature Reserve",
+    "latitude": 17.89497,
+    "longitude": -66.521,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563017,
+    "name": "Isla Caja de Muertos",
+    "latitude": 17.89469,
+    "longitude": -66.51989,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565586,
+    "name": "Isla Chiva",
+    "latitude": 18.10719,
+    "longitude": -65.38405,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565587,
+    "name": "Isla Cueva",
+    "latitude": 17.96219,
+    "longitude": -67.08018,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564080,
+    "name": "Isla Culebrita",
+    "latitude": 18.31571,
+    "longitude": -65.22922,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565602,
+    "name": "Isla de Cabras",
+    "latitude": 18.47078,
+    "longitude": -66.13628,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563224,
+    "name": "Isla de Cardona",
+    "latitude": 17.95686,
+    "longitude": -66.63514,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565603,
+    "name": "Isla de Cerro Gordo",
+    "latitude": 18.48633,
+    "longitude": -66.34878,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564075,
+    "name": "Isla de Culebra",
+    "latitude": 18.31468,
+    "longitude": -65.28294,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7309535,
+    "name": "Isla de Jueyes",
+    "latitude": 17.96111,
+    "longitude": -66.59,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565606,
+    "name": "Isla de las Palomas",
+    "latitude": 18.47606,
+    "longitude": -66.1885,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566279,
+    "name": "Isla de Mona",
+    "latitude": 18.08134,
+    "longitude": -67.8913,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565604,
+    "name": "Isla de Mona Nature Reserve",
+    "latitude": 18.08662,
+    "longitude": -67.91019,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565605,
+    "name": "Isla de Ramos",
+    "latitude": 18.31273,
+    "longitude": -65.60961,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4567591,
+    "name": "Isla de Ratones",
+    "latitude": 17.95302,
+    "longitude": -66.68101,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564280,
+    "name": "Isla del Frio",
+    "latitude": 17.96219,
+    "longitude": -66.55517,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7309526,
+    "name": "Isla Desecheo",
+    "latitude": 18.38457,
+    "longitude": -67.48062,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565588,
+    "name": "Isla Guachinanga",
+    "latitude": 18.42995,
+    "longitude": -66.03544,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565589,
+    "name": "Isla Guayacán",
+    "latitude": 17.95747,
+    "longitude": -67.09018,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565590,
+    "name": "Isla La Cancora",
+    "latitude": 18.46578,
+    "longitude": -65.99739,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565591,
+    "name": "Isla Magueyes",
+    "latitude": 17.96885,
+    "longitude": -67.04407,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565592,
+    "name": "Isla Matei",
+    "latitude": 17.96774,
+    "longitude": -67.00768,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566281,
+    "name": "Isla Monito",
+    "latitude": 18.15988,
+    "longitude": -67.94913,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565593,
+    "name": "Isla Morrillito",
+    "latitude": 17.88219,
+    "longitude": -66.53323,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565594,
+    "name": "Isla Palominitos",
+    "latitude": 18.33884,
+    "longitude": -65.56711,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566499,
+    "name": "Isla Palominos",
+    "latitude": 18.34856,
+    "longitude": -65.56794,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565595,
+    "name": "Isla Piedra",
+    "latitude": 18.46467,
+    "longitude": -66.04489,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566735,
+    "name": "Isla Piñeros",
+    "latitude": 18.25218,
+    "longitude": -65.59127,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565596,
+    "name": "Isla Puerca",
+    "latitude": 17.95913,
+    "longitude": -66.36322,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565597,
+    "name": "Isla San Juan",
+    "latitude": 18.46606,
+    "longitude": -66.10378,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565598,
+    "name": "Isla Verde",
+    "latitude": 18.448,
+    "longitude": -66.01655,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565600,
+    "name": "Isla Verde Mall",
+    "latitude": 18.44189,
+    "longitude": -66.03211,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565601,
+    "name": "Isla Yallis",
+    "latitude": 18.14802,
+    "longitude": -65.30905,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565609,
+    "name": "Isleta de San Juan",
+    "latitude": 18.46411,
+    "longitude": -66.09739,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7309534,
+    "name": "Isleta Marina",
+    "latitude": 18.3396,
+    "longitude": -65.61816,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565051,
+    "name": "Isletas de Garzas",
+    "latitude": 18.48967,
+    "longitude": -66.37461,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565611,
+    "name": "Islote de Juan Pérez",
+    "latitude": 18.43606,
+    "longitude": -65.93433,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566426,
+    "name": "Islote Número dos",
+    "latitude": 18.44106,
+    "longitude": -65.97822,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11102034,
+    "name": "Jaime Benitez Park",
+    "latitude": 18.4546,
+    "longitude": -66.07592,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565679,
+    "name": "Jayuya",
+    "latitude": 18.21857,
+    "longitude": -66.59156,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565712,
+    "name": "Juana Díaz",
+    "latitude": 18.05246,
+    "longitude": -66.50656,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565718,
+    "name": "Juncos",
+    "latitude": 18.22746,
+    "longitude": -65.921,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562881,
+    "name": "La Blanquilla",
+    "latitude": 18.37106,
+    "longitude": -65.55377,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563998,
+    "name": "La Cordillera",
+    "latitude": 18.38218,
+    "longitude": -65.57319,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564082,
+    "name": "La Curena",
+    "latitude": 18.29051,
+    "longitude": -67.11129,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564087,
+    "name": "La Damas Pool",
+    "latitude": 18.32412,
+    "longitude": -65.74211,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566240,
+    "name": "La Mesa",
+    "latitude": 18.11441,
+    "longitude": -66.55989,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566250,
+    "name": "La Mina",
+    "latitude": 18.26051,
+    "longitude": -65.81211,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566696,
+    "name": "La Peregrina",
+    "latitude": 18.30634,
+    "longitude": -65.86961,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566729,
+    "name": "La Piedra",
+    "latitude": 18.11968,
+    "longitude": -66.21878,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568332,
+    "name": "La Silla",
+    "latitude": 18.3044,
+    "longitude": -65.98794,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568427,
+    "name": "La Torrecilla",
+    "latitude": 18.20162,
+    "longitude": -66.33239,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6458925,
+    "name": "La Ventana al Mar",
+    "latitude": 18.4581,
+    "longitude": -66.075,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565834,
+    "name": "Lago Adjuntas",
+    "latitude": 18.19855,
+    "longitude": -66.73179,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565835,
+    "name": "Lago Alto",
+    "latitude": 18.3655,
+    "longitude": -66.00489,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565836,
+    "name": "Lago Bronce",
+    "latitude": 18.03044,
+    "longitude": -66.56914,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563182,
+    "name": "Lago Caonillas",
+    "latitude": 18.25155,
+    "longitude": -66.64939,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563237,
+    "name": "Lago Carite",
+    "latitude": 18.0678,
+    "longitude": -66.09537,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 9683563,
+    "name": "Lago Cerrillos",
+    "latitude": 18.08883,
+    "longitude": -66.57921,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565837,
+    "name": "Lago Coamo",
+    "latitude": 18.01413,
+    "longitude": -66.38961,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563780,
+    "name": "Lago de Cidra",
+    "latitude": 18.19718,
+    "longitude": -66.14044,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565084,
+    "name": "Lago de Guajataca",
+    "latitude": 18.37661,
+    "longitude": -66.9161,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565858,
+    "name": "Lago de Matrullas",
+    "latitude": 18.20608,
+    "longitude": -66.47962,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565860,
+    "name": "Lago de Riego",
+    "latitude": 18.04885,
+    "longitude": -66.50184,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564144,
+    "name": "Lago Dos Bocas",
+    "latitude": 18.32388,
+    "longitude": -66.65753,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565838,
+    "name": "Lago El Guineo",
+    "latitude": 18.15739,
+    "longitude": -66.52891,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565839,
+    "name": "Lago Garzas",
+    "latitude": 18.1354,
+    "longitude": -66.7439,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4050022,
+    "name": "Lago Gely",
+    "latitude": 18.04719,
+    "longitude": -66.57184,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565840,
+    "name": "Lago Giles",
+    "latitude": 18.03858,
+    "longitude": -66.56489,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565102,
+    "name": "Lago Guayabal",
+    "latitude": 18.09508,
+    "longitude": -66.50305,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565841,
+    "name": "Lago Guayo",
+    "latitude": 18.20058,
+    "longitude": -66.83392,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565842,
+    "name": "Lago Jordan",
+    "latitude": 18.24139,
+    "longitude": -66.66841,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 9683558,
+    "name": "Lago La Plata",
+    "latitude": 18.32438,
+    "longitude": -66.2328,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565843,
+    "name": "Lago La Torre",
+    "latitude": 18.04969,
+    "longitude": -66.54045,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565844,
+    "name": "Lago Loiza",
+    "latitude": 18.32801,
+    "longitude": -66.016,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565845,
+    "name": "Lago Lucchetti",
+    "latitude": 18.09163,
+    "longitude": -66.86434,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565846,
+    "name": "Lago Managua",
+    "latitude": 18.43411,
+    "longitude": -65.97794,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565847,
+    "name": "Lago Melania",
+    "latitude": 17.9783,
+    "longitude": -66.14461,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565848,
+    "name": "Lago Moline",
+    "latitude": 18.05552,
+    "longitude": -66.56573,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565849,
+    "name": "Lago Número Cinco",
+    "latitude": 18.05941,
+    "longitude": -66.56267,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565850,
+    "name": "Lago Número Cuatro",
+    "latitude": 18.05579,
+    "longitude": -66.57177,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565851,
+    "name": "Lago Número Dos",
+    "latitude": 18.06302,
+    "longitude": -66.56378,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565852,
+    "name": "Lago Número Tres",
+    "latitude": 18.0595,
+    "longitude": -66.56777,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565853,
+    "name": "Lago Número Uno",
+    "latitude": 18.06552,
+    "longitude": -66.56267,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566656,
+    "name": "Lago Patillas",
+    "latitude": 18.02408,
+    "longitude": -66.02154,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565854,
+    "name": "Lago Pellejas",
+    "latitude": 18.20984,
+    "longitude": -66.70553,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565855,
+    "name": "Lago Ponceña",
+    "latitude": 18.05691,
+    "longitude": -66.54073,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 9683560,
+    "name": "Lago Toa Vaca",
+    "latitude": 18.10107,
+    "longitude": -66.47329,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565856,
+    "name": "Lago Vista Alegre",
+    "latitude": 18.0658,
+    "longitude": -66.55267,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565857,
+    "name": "Lago Vivi",
+    "latitude": 18.22767,
+    "longitude": -66.67969,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566003,
+    "name": "Lagos de Levitttown",
+    "latitude": 18.45708,
+    "longitude": -66.19018,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565863,
+    "name": "Laguna Algodones",
+    "latitude": 18.15607,
+    "longitude": -65.37377,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565864,
+    "name": "Laguna Anones",
+    "latitude": 18.13746,
+    "longitude": -65.29682,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565865,
+    "name": "Laguna Arenas",
+    "latitude": 18.11607,
+    "longitude": -65.57072,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565866,
+    "name": "Laguna Atolladero",
+    "latitude": 18.13173,
+    "longitude": -67.18369,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565867,
+    "name": "Laguna Bocanasilla",
+    "latitude": 18.15301,
+    "longitude": -67.1649,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565868,
+    "name": "Laguna Cartagena",
+    "latitude": 18.01385,
+    "longitude": -67.10101,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11383083,
+    "name": "Laguna Cartagena National Wildlife Refuge",
+    "latitude": 18.01148,
+    "longitude": -67.1002,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565889,
+    "name": "Laguna de Cornelio",
+    "latitude": 18.31051,
+    "longitude": -65.31488,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565895,
+    "name": "Laguna de las Salinas",
+    "latitude": 17.97136,
+    "longitude": -66.66934,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565890,
+    "name": "Laguna de Lobine",
+    "latitude": 18.30135,
+    "longitude": -65.30099,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565891,
+    "name": "Laguna de Molino",
+    "latitude": 18.32023,
+    "longitude": -65.2371,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565892,
+    "name": "Laguna de Pinoñes",
+    "latitude": 18.43828,
+    "longitude": -65.95322,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565893,
+    "name": "Laguna de Puerto Nuevo",
+    "latitude": 18.483,
+    "longitude": -66.40739,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565896,
+    "name": "Laguna del Condado",
+    "latitude": 18.45828,
+    "longitude": -66.07989,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565897,
+    "name": "Laguna del Flamenco",
+    "latitude": 18.3244,
+    "longitude": -65.31627,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565869,
+    "name": "Laguna El Pobre",
+    "latitude": 18.11913,
+    "longitude": -65.56266,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565871,
+    "name": "Laguna Grande",
+    "latitude": 18.37634,
+    "longitude": -65.62322,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565872,
+    "name": "Laguna Guaniquilla",
+    "latitude": 18.03746,
+    "longitude": -67.20185,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565873,
+    "name": "Laguna Joyuda",
+    "latitude": 18.12951,
+    "longitude": -67.17742,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565874,
+    "name": "Laguna Kiani",
+    "latitude": 18.11469,
+    "longitude": -65.56127,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565875,
+    "name": "Laguna La Plata",
+    "latitude": 18.11941,
+    "longitude": -65.37794,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565876,
+    "name": "Laguna La Torrecilla",
+    "latitude": 18.44383,
+    "longitude": -65.98294,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565877,
+    "name": "Laguna Lobina",
+    "latitude": 18.30135,
+    "longitude": -65.30071,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565878,
+    "name": "Laguna Los Corozos",
+    "latitude": 18.43967,
+    "longitude": -66.0385,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565879,
+    "name": "Laguna Mata Redonda",
+    "latitude": 18.47411,
+    "longitude": -66.31072,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565880,
+    "name": "Laguna Matías",
+    "latitude": 18.12496,
+    "longitude": -65.32905,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565881,
+    "name": "Laguna Monte Largo",
+    "latitude": 18.15302,
+    "longitude": -65.36294,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565882,
+    "name": "Laguna Playa Grande",
+    "latitude": 18.08996,
+    "longitude": -65.5171,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565883,
+    "name": "Laguna Puerto Diablo",
+    "latitude": 18.14469,
+    "longitude": -65.3321,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565884,
+    "name": "Laguna Rica",
+    "latitude": 18.45189,
+    "longitude": -66.42656,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565885,
+    "name": "Laguna San José",
+    "latitude": 18.42495,
+    "longitude": -66.02489,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565886,
+    "name": "Laguna Tortuguero",
+    "latitude": 18.46328,
+    "longitude": -66.44128,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7316025,
+    "name": "Laguna Tortuguero Nature Reserve",
+    "latitude": 18.46328,
+    "longitude": -66.43962,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565887,
+    "name": "Laguna Yanuel",
+    "latitude": 18.12691,
+    "longitude": -65.3721,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565888,
+    "name": "Laguna Zoní",
+    "latitude": 18.32023,
+    "longitude": -65.25932,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565898,
+    "name": "Lajas",
+    "latitude": 18.04996,
+    "longitude": -67.05934,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565903,
+    "name": "Lake Luchetti Reserve",
+    "latitude": 18.11357,
+    "longitude": -66.86795,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565908,
+    "name": "Lares",
+    "latitude": 18.29467,
+    "longitude": -66.87712,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565921,
+    "name": "Las Cabritas",
+    "latitude": 18.47328,
+    "longitude": -66.13433,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565934,
+    "name": "Las Cruces",
+    "latitude": 18.04774,
+    "longitude": -66.82462,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565935,
+    "name": "Las Cucarachas",
+    "latitude": 18.40051,
+    "longitude": -65.61155,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565947,
+    "name": "Las Hermanas",
+    "latitude": 18.31468,
+    "longitude": -65.35238,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8479941,
+    "name": "Las Lavanderas",
+    "latitude": 18.26667,
+    "longitude": -65.55,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565948,
+    "name": "Las Lavanderas del Este",
+    "latitude": 18.26523,
+    "longitude": -65.5396,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565949,
+    "name": "Las Lavanderas del Oeste",
+    "latitude": 18.2619,
+    "longitude": -65.55905,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565958,
+    "name": "Las Marías",
+    "latitude": 18.2519,
+    "longitude": -66.99212,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565970,
+    "name": "Las Mesas",
+    "latitude": 18.18135,
+    "longitude": -67.09962,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565980,
+    "name": "Las Piedras",
+    "latitude": 18.18301,
+    "longitude": -65.86627,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565988,
+    "name": "Las Tetas",
+    "latitude": 18.09329,
+    "longitude": -66.23128,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565990,
+    "name": "Las Tres Palmas",
+    "latitude": 18.22301,
+    "longitude": -66.55378,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566002,
+    "name": "Levittown",
+    "latitude": 18.44995,
+    "longitude": -66.18156,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566022,
+    "name": "Loíza",
+    "latitude": 18.43134,
+    "longitude": -65.88016,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566029,
+    "name": "Loma Correa",
+    "latitude": 18.37245,
+    "longitude": -66.6124,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566033,
+    "name": "Loma de la Caridad Picnel",
+    "latitude": 18.12218,
+    "longitude": -66.95601,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566034,
+    "name": "Loma de la Zarza",
+    "latitude": 18.27301,
+    "longitude": -66.56767,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566032,
+    "name": "Loma Pelagatos",
+    "latitude": 18.11079,
+    "longitude": -66.411,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566040,
+    "name": "Lomas de Santa Marta",
+    "latitude": 18.09024,
+    "longitude": -67.05101,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566042,
+    "name": "Lomas de Seboruco",
+    "latitude": 17.98413,
+    "longitude": -66.88295,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562810,
+    "name": "Los Barros",
+    "latitude": 18.12107,
+    "longitude": -66.96157,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566053,
+    "name": "Los Cerros Cusualidad",
+    "latitude": 18.3855,
+    "longitude": -67.18713,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563916,
+    "name": "Los Cerros del Comandante",
+    "latitude": 18.38689,
+    "longitude": -65.99544,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566054,
+    "name": "Los Cerros Viñet",
+    "latitude": 18.40772,
+    "longitude": -67.13712,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564956,
+    "name": "Los Farallones",
+    "latitude": 18.39801,
+    "longitude": -65.59822,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565056,
+    "name": "Los Gemelos",
+    "latitude": 18.35857,
+    "longitude": -65.36155,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566410,
+    "name": "Los Negritos",
+    "latitude": 18.49328,
+    "longitude": -66.60462,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566685,
+    "name": "Los Penones",
+    "latitude": 18.1519,
+    "longitude": -67.06768,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566704,
+    "name": "Los Picachos",
+    "latitude": 18.30922,
+    "longitude": -65.78694,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568446,
+    "name": "Los Tres Picachos",
+    "latitude": 18.21468,
+    "longitude": -66.54128,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566094,
+    "name": "Luis A Ferre Science Park",
+    "latitude": 18.40995,
+    "longitude": -66.16017,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566103,
+    "name": "Luquillo",
+    "latitude": 18.37245,
+    "longitude": -65.71655,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566137,
+    "name": "Manatí",
+    "latitude": 18.42745,
+    "longitude": -66.49212,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566412,
+    "name": "Mar Negro",
+    "latitude": 17.94525,
+    "longitude": -66.25989,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566178,
+    "name": "Maricao",
+    "latitude": 18.18079,
+    "longitude": -66.9799,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566201,
+    "name": "Mata Redonda",
+    "latitude": 17.9508,
+    "longitude": -66.206,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566208,
+    "name": "Maunabo",
+    "latitude": 18.00719,
+    "longitude": -65.89933,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566385,
+    "name": "Mayagüez",
+    "latitude": 18.20107,
+    "longitude": -67.13962,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566216,
+    "name": "Mayaguez Mall",
+    "latitude": 18.19579,
+    "longitude": -67.15018,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4050324,
+    "name": "Mayaguez Zoo",
+    "latitude": 18.21384,
+    "longitude": -67.13101,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566270,
+    "name": "Moca",
+    "latitude": 18.39467,
+    "longitude": -67.11324,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562964,
+    "name": "Monte Britton",
+    "latitude": 18.30079,
+    "longitude": -65.79322,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562953,
+    "name": "Monte de la Brea",
+    "latitude": 17.93858,
+    "longitude": -66.94156,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566111,
+    "name": "Monte de la Luz",
+    "latitude": 18.45078,
+    "longitude": -66.95462,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568191,
+    "name": "Monte de Santa Ana",
+    "latitude": 18.40523,
+    "longitude": -66.14517,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565054,
+    "name": "Monte el Gato",
+    "latitude": 18.08413,
+    "longitude": -66.18017,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566442,
+    "name": "Monte el Ojo",
+    "latitude": 18.40217,
+    "longitude": -67.08518,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564259,
+    "name": "Monte Encantado",
+    "latitude": 18.41578,
+    "longitude": -67.04212,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564971,
+    "name": "Monte Figueroa",
+    "latitude": 18.03052,
+    "longitude": -66.50101,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565079,
+    "name": "Monte Grande",
+    "latitude": 18.07552,
+    "longitude": -67.09462,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565123,
+    "name": "Monte Guilarte",
+    "latitude": 18.14163,
+    "longitude": -66.76906,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565378,
+    "name": "Monte Hormiga",
+    "latitude": 18.21218,
+    "longitude": -66.74212,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565539,
+    "name": "Monte Iguina",
+    "latitude": 18.46272,
+    "longitude": -66.88657,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565683,
+    "name": "Monte Jayuya",
+    "latitude": 18.16774,
+    "longitude": -66.57462,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565979,
+    "name": "Monte Las Pardas",
+    "latitude": 17.95302,
+    "longitude": -66.92545,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566188,
+    "name": "Monte Mariquilla",
+    "latitude": 18.39939,
+    "longitude": -67.06351,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566189,
+    "name": "Monte Marqueno",
+    "latitude": 18.09857,
+    "longitude": -66.6524,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566234,
+    "name": "Monte Membrillo",
+    "latitude": 18.15607,
+    "longitude": -66.83434,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566488,
+    "name": "Monte Palmero",
+    "latitude": 18.1094,
+    "longitude": -66.97212,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566741,
+    "name": "Monte Pirata",
+    "latitude": 18.09302,
+    "longitude": -65.55155,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4567634,
+    "name": "Monte Resaca",
+    "latitude": 18.32301,
+    "longitude": -65.29044,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566322,
+    "name": "Montes de Barina",
+    "latitude": 18.01052,
+    "longitude": -66.82462,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566323,
+    "name": "Montes de Caneja",
+    "latitude": 18.41884,
+    "longitude": -66.10794,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566324,
+    "name": "Montes de Hatillo",
+    "latitude": 18.38134,
+    "longitude": -66.03294,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566325,
+    "name": "Montes de San Patricio",
+    "latitude": 18.41189,
+    "longitude": -66.09405,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566321,
+    "name": "Montes La Toyosa",
+    "latitude": 18.14163,
+    "longitude": -66.4385,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566327,
+    "name": "Monumiento a los Soldados Caidos en Combate",
+    "latitude": 18.37745,
+    "longitude": -67.18129,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566328,
+    "name": "Monumiento a o Colon Delgado",
+    "latitude": 18.49106,
+    "longitude": -66.8249,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566326,
+    "name": "Monumiento a Santa Rosa de Lima",
+    "latitude": 18.08163,
+    "longitude": -67.0374,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566333,
+    "name": "Morovis",
+    "latitude": 18.32578,
+    "longitude": -66.40656,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565451,
+    "name": "Morro de Humacao",
+    "latitude": 18.11468,
+    "longitude": -65.78155,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566354,
+    "name": "Munoz Rivera Plaza",
+    "latitude": 18.14941,
+    "longitude": -65.44127,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566396,
+    "name": "Naguabo",
+    "latitude": 18.21162,
+    "longitude": -65.73488,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566402,
+    "name": "Naranjito",
+    "latitude": 18.30079,
+    "longitude": -66.24489,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8643157,
+    "name": "Obispo Cay",
+    "latitude": 18.3408,
+    "longitude": -65.62046,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566454,
+    "name": "Orocovis",
+    "latitude": 18.2269,
+    "longitude": -66.391,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566470,
+    "name": "Pájaros",
+    "latitude": 18.36856,
+    "longitude": -66.21683,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566486,
+    "name": "Palmer Plaza",
+    "latitude": 18.23495,
+    "longitude": -66.03517,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566523,
+    "name": "Parque Acuatico",
+    "latitude": 18.42411,
+    "longitude": -66.07128,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566524,
+    "name": "Parque Alejandro Jerena Colon",
+    "latitude": 18.4905,
+    "longitude": -66.82323,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566525,
+    "name": "Parque Angel Guifo Montalvo",
+    "latitude": 18.07885,
+    "longitude": -66.95712,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566526,
+    "name": "Parque Angel Ramon Mora",
+    "latitude": 18.04941,
+    "longitude": -66.50628,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566527,
+    "name": "Parque Angelita Linda",
+    "latitude": 18.00608,
+    "longitude": -66.01794,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566528,
+    "name": "Parque Arturo Lluveras",
+    "latitude": 18.03358,
+    "longitude": -66.84906,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566529,
+    "name": "Parque Atletico Charles H Terry",
+    "latitude": 18.01413,
+    "longitude": -66.60878,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566533,
+    "name": "Parque Atletico de Paris",
+    "latitude": 18.20468,
+    "longitude": -67.13379,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566531,
+    "name": "Parque Atlético Ildefonso Sola Morals",
+    "latitude": 18.22634,
+    "longitude": -66.04878,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566532,
+    "name": "Parque Atlético Ovidio Rodriquez",
+    "latitude": 18.03163,
+    "longitude": -66.84684,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566534,
+    "name": "Parque Barbosa",
+    "latitude": 18.45133,
+    "longitude": -66.04878,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566536,
+    "name": "Parque Carlos Cajigas",
+    "latitude": 18.38189,
+    "longitude": -67.19351,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566537,
+    "name": "Parque Central",
+    "latitude": 18.43995,
+    "longitude": -66.07822,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566538,
+    "name": "Parque Central de Bayamon",
+    "latitude": 18.39495,
+    "longitude": -66.15406,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566540,
+    "name": "Parque Ceremonial de Indigena Caguana",
+    "latitude": 18.31079,
+    "longitude": -66.77879,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566539,
+    "name": "Parque Ceremonial Tibes",
+    "latitude": 18.04496,
+    "longitude": -66.6224,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566541,
+    "name": "Parque Damaso Rivera",
+    "latitude": 18.38023,
+    "longitude": -65.74044,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566600,
+    "name": "Parque de Benefencia",
+    "latitude": 18.46689,
+    "longitude": -66.11989,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566603,
+    "name": "Parque de Cabailos de Paso Fino",
+    "latitude": 18.35856,
+    "longitude": -66.00183,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566604,
+    "name": "Parque de Colón",
+    "latitude": 18.41356,
+    "longitude": -67.16101,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562478,
+    "name": "Parque de la Abolición",
+    "latitude": 18.00631,
+    "longitude": -66.61275,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4563410,
+    "name": "Parque de la Ceiba",
+    "latitude": 18.0083,
+    "longitude": -66.60599,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566605,
+    "name": "Parque de Las Flores",
+    "latitude": 17.9658,
+    "longitude": -66.92906,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566612,
+    "name": "Parque de las Palomas",
+    "latitude": 18.46416,
+    "longitude": -66.11786,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566613,
+    "name": "Parque de los Proceres",
+    "latitude": 18.20523,
+    "longitude": -67.13824,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7269360,
+    "name": "Parque de los Salseros",
+    "latitude": 18.44633,
+    "longitude": -66.04595,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566606,
+    "name": "Parque de Pelota",
+    "latitude": 18.458,
+    "longitude": -66.72156,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566609,
+    "name": "Parque de Santo Domingo",
+    "latitude": 18.08218,
+    "longitude": -67.04046,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566610,
+    "name": "Parque de Valenciano",
+    "latitude": 18.2319,
+    "longitude": -65.92433,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566614,
+    "name": "Parque del Monte",
+    "latitude": 18.24273,
+    "longitude": -66.05878,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566616,
+    "name": "Parque del Rio",
+    "latitude": 18.35745,
+    "longitude": -65.99211,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566617,
+    "name": "Parque del Sol",
+    "latitude": 18.00552,
+    "longitude": -66.00822,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566618,
+    "name": "Parque del Turabo",
+    "latitude": 18.24579,
+    "longitude": -66.04961,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566542,
+    "name": "Parque Doctor José N Gándara",
+    "latitude": 18.42217,
+    "longitude": -66.05933,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7269361,
+    "name": "Parque Dolores Cruz",
+    "latitude": 18.42885,
+    "longitude": -66.17175,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566543,
+    "name": "Parque Don Pedro Albizu Campos",
+    "latitude": 18.05024,
+    "longitude": -66.71962,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566544,
+    "name": "Parque Evaristo Varo Boldan",
+    "latitude": 18.2594,
+    "longitude": -65.97433,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566545,
+    "name": "Parque Felipe Diaz Torres",
+    "latitude": 18.2269,
+    "longitude": -65.92933,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566547,
+    "name": "Parque Frain E Jesus",
+    "latitude": 18.39078,
+    "longitude": -66.24933,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566548,
+    "name": "Parque Herminio Ortiz",
+    "latitude": 18.08441,
+    "longitude": -67.04046,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566549,
+    "name": "Parque Humberto Linares",
+    "latitude": 18.29912,
+    "longitude": -66.87323,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566560,
+    "name": "Parque Infantil",
+    "latitude": 18.45245,
+    "longitude": -66.53656,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566561,
+    "name": "Parque Infantil Julio Rojas Reyes",
+    "latitude": 18.02858,
+    "longitude": -66.79629,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566562,
+    "name": "Parque Isidoro García",
+    "latitude": 18.19218,
+    "longitude": -67.15435,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566564,
+    "name": "Parque Jesus M Fuertes",
+    "latitude": 18.18135,
+    "longitude": -66.15961,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566565,
+    "name": "Parque Jesus Piñero",
+    "latitude": 18.40439,
+    "longitude": -66.08905,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566566,
+    "name": "Parque Jose A Mendez Frangu",
+    "latitude": 18.48494,
+    "longitude": -66.84268,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566567,
+    "name": "Parque Jose I Machado",
+    "latitude": 18.45578,
+    "longitude": -66.54073,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566568,
+    "name": "Parque Jose Ramon Marrero",
+    "latitude": 18.14079,
+    "longitude": -66.27072,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566569,
+    "name": "Parque Juan Cheo Lopez Caba",
+    "latitude": 18.48578,
+    "longitude": -66.84129,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566570,
+    "name": "Parque Juan Ramierz Ortiz",
+    "latitude": 18.36162,
+    "longitude": -66.52406,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566571,
+    "name": "Parque Junghans",
+    "latitude": 18.39467,
+    "longitude": -66.16017,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566619,
+    "name": "Parque la Esperanza",
+    "latitude": 18.45522,
+    "longitude": -66.13461,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566572,
+    "name": "Parque La Juventud",
+    "latitude": 18.36106,
+    "longitude": -65.62572,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566573,
+    "name": "Parque La Merced",
+    "latitude": 18.41661,
+    "longitude": -66.06405,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566574,
+    "name": "Parque La Salle",
+    "latitude": 18.41634,
+    "longitude": -66.16739,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566575,
+    "name": "Parque Las Cascadas",
+    "latitude": 18.44578,
+    "longitude": -67.14101,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566576,
+    "name": "Parque Las Cavernals Rio Camuy",
+    "latitude": 18.32551,
+    "longitude": -66.83795,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566578,
+    "name": "Parque Luis Cruz",
+    "latitude": 17.96969,
+    "longitude": -66.4085,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566579,
+    "name": "Parque Luis Munoz Rivera",
+    "latitude": 18.19995,
+    "longitude": -67.12657,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566580,
+    "name": "Parque Luisa Canena Marquez",
+    "latitude": 18.43633,
+    "longitude": -67.14713,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566581,
+    "name": "Parque Managas Pista Atletica",
+    "latitude": 18.2319,
+    "longitude": -66.02933,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566582,
+    "name": "Parque Manolo Fontanez",
+    "latitude": 18.25662,
+    "longitude": -66.10656,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566583,
+    "name": "Parque Marcelino Blondet",
+    "latitude": 17.97191,
+    "longitude": -66.11822,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566584,
+    "name": "Parque Maros A Massini",
+    "latitude": 18.21746,
+    "longitude": -66.59628,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566585,
+    "name": "Parque Montaner",
+    "latitude": 18.00247,
+    "longitude": -66.63184,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566586,
+    "name": "Parque Muñoz Rivera",
+    "latitude": 18.46383,
+    "longitude": -66.091,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4562631,
+    "name": "Parque Nacional Isla de Cabras",
+    "latitude": 18.46911,
+    "longitude": -66.13656,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566587,
+    "name": "Parque Paraiso",
+    "latitude": 18.38272,
+    "longitude": -67.20407,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566588,
+    "name": "Parque Pedro M Caratini",
+    "latitude": 18.06691,
+    "longitude": -66.36795,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566589,
+    "name": "Parque Pedro Millan Clara",
+    "latitude": 18.23246,
+    "longitude": -66.02794,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7269362,
+    "name": "Parque Recreativo La Esperanza Jose Alvarez Brunet",
+    "latitude": 18.45833,
+    "longitude": -66.13803,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566590,
+    "name": "Parque Recreativo Pasivo Julio Rodriguez Olmo",
+    "latitude": 18.47439,
+    "longitude": -66.72962,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566591,
+    "name": "Parque Rio Camuy Paseo Tablado",
+    "latitude": 18.48133,
+    "longitude": -66.83795,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566592,
+    "name": "Parque San Miguel",
+    "latitude": 18.38606,
+    "longitude": -66.19267,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566593,
+    "name": "Parque Santiago Iglesias Pantín",
+    "latitude": 18.41356,
+    "longitude": -66.06239,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566594,
+    "name": "Parque Servando Tatito Carrasquillo",
+    "latitude": 18.19162,
+    "longitude": -65.96294,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566595,
+    "name": "Parque Sixto Escobar",
+    "latitude": 18.46606,
+    "longitude": -66.08905,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566596,
+    "name": "Parque Suau",
+    "latitude": 18.20357,
+    "longitude": -67.14601,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566597,
+    "name": "Parque Tricentenario",
+    "latitude": 18.01274,
+    "longitude": -66.60823,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566598,
+    "name": "Parque Valencia",
+    "latitude": 18.38245,
+    "longitude": -66.18656,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566599,
+    "name": "Parque Vending",
+    "latitude": 18.42856,
+    "longitude": -66.48545,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11102033,
+    "name": "Parquecito de Miramar",
+    "latitude": 18.4544,
+    "longitude": -66.08325,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566637,
+    "name": "Paseo de Diego",
+    "latitude": 18.39745,
+    "longitude": -66.05044,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566640,
+    "name": "Paseo de la Princesa",
+    "latitude": 18.46161,
+    "longitude": -66.11711,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566630,
+    "name": "Paseo Julia de Burgos",
+    "latitude": 18.43272,
+    "longitude": -65.88294,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566652,
+    "name": "Patillas",
+    "latitude": 18.00635,
+    "longitude": -66.01572,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566666,
+    "name": "Pelá",
+    "latitude": 18.29747,
+    "longitude": -65.25022,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566667,
+    "name": "Pelaíta",
+    "latitude": 18.2994,
+    "longitude": -65.25238,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566671,
+    "name": "Peña Domingo",
+    "latitude": 18.10913,
+    "longitude": -66.22156,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566672,
+    "name": "Peña La Francia",
+    "latitude": 18.19412,
+    "longitude": -66.46656,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4565007,
+    "name": "Peñasco Fósil",
+    "latitude": 18.14496,
+    "longitude": -65.29405,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566676,
+    "name": "Peñon Brusi",
+    "latitude": 18.49244,
+    "longitude": -66.8549,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566677,
+    "name": "Peñon de Afuera",
+    "latitude": 18.49272,
+    "longitude": -66.86934,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566680,
+    "name": "Peñon de los Soldados",
+    "latitude": 18.06746,
+    "longitude": -66.206,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566678,
+    "name": "Peñon de Ponce",
+    "latitude": 17.97969,
+    "longitude": -66.69823,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566679,
+    "name": "Peñon de San Jorge",
+    "latitude": 18.46967,
+    "longitude": -66.09128,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566684,
+    "name": "Peñones de Melones",
+    "latitude": 17.99663,
+    "longitude": -67.18296,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566687,
+    "name": "Peñuelas",
+    "latitude": 18.05635,
+    "longitude": -66.72156,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568382,
+    "name": "Picacho de la Tea",
+    "latitude": 18.05774,
+    "longitude": -67.01629,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566707,
+    "name": "Pico Atalaya",
+    "latitude": 18.31217,
+    "longitude": -67.19129,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566717,
+    "name": "Pico del Este",
+    "latitude": 18.26861,
+    "longitude": -65.75879,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566718,
+    "name": "Pico del Oeste",
+    "latitude": 18.27611,
+    "longitude": -65.76472,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566708,
+    "name": "Pico El Yunque",
+    "latitude": 18.31051,
+    "longitude": -65.79127,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566709,
+    "name": "Pico Fraile",
+    "latitude": 18.11468,
+    "longitude": -66.91934,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566710,
+    "name": "Pico Huton",
+    "latitude": 18.00608,
+    "longitude": -65.95211,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566711,
+    "name": "Pico Lebrón",
+    "latitude": 18.00441,
+    "longitude": -65.9585,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566712,
+    "name": "Pico Montoso",
+    "latitude": 18.17329,
+    "longitude": -66.99684,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566713,
+    "name": "Pico Pinto",
+    "latitude": 18.0858,
+    "longitude": -66.59823,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566714,
+    "name": "Pico Rodadero",
+    "latitude": 18.10385,
+    "longitude": -66.81906,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566715,
+    "name": "Pico San Bernardo",
+    "latitude": 18.22245,
+    "longitude": -67.04212,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566716,
+    "name": "Pico Santa Ana",
+    "latitude": 18.15829,
+    "longitude": -66.97962,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566721,
+    "name": "Piedra Blanca",
+    "latitude": 18.17912,
+    "longitude": -66.57573,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566726,
+    "name": "Piedra de Degetau",
+    "latitude": 18.12663,
+    "longitude": -66.26267,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566727,
+    "name": "Piedra de la Mula",
+    "latitude": 18.08635,
+    "longitude": -66.85323,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566728,
+    "name": "Piedra del Norte",
+    "latitude": 18.32079,
+    "longitude": -65.22321,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566724,
+    "name": "Piedra Reinada",
+    "latitude": 18.15607,
+    "longitude": -66.01794,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566725,
+    "name": "Piedra Stevens",
+    "latitude": 18.35857,
+    "longitude": -65.34738,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566737,
+    "name": "Piragua de Adentro",
+    "latitude": 18.26829,
+    "longitude": -65.53127,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566740,
+    "name": "Piragua de Afuera",
+    "latitude": 18.27273,
+    "longitude": -65.50877,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566742,
+    "name": "Pista Atletica",
+    "latitude": 18.40939,
+    "longitude": -66.04628,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566743,
+    "name": "Pista Osvaldo Rivera Escalera",
+    "latitude": 18.07468,
+    "longitude": -66.361,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566755,
+    "name": "Plato Colmar",
+    "latitude": 18.10968,
+    "longitude": -66.95462,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566817,
+    "name": "Plaza Angora",
+    "latitude": 18.19274,
+    "longitude": -65.96683,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566818,
+    "name": "Plaza Antonia Quiñones",
+    "latitude": 18.45399,
+    "longitude": -66.06995,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566819,
+    "name": "Plaza Bairoa",
+    "latitude": 18.2444,
+    "longitude": -66.03655,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566820,
+    "name": "Plaza Baldorioty",
+    "latitude": 18.40273,
+    "longitude": -66.05267,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566846,
+    "name": "Plaza Colón",
+    "latitude": 18.46606,
+    "longitude": -66.11183,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566840,
+    "name": "Plaza de Armas",
+    "latitude": 18.46328,
+    "longitude": -66.11628,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566841,
+    "name": "Plaza de Armas de San Cristóbal",
+    "latitude": 18.4655,
+    "longitude": -66.11072,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566842,
+    "name": "Plaza de Baldorioty de Castro",
+    "latitude": 18.4655,
+    "longitude": -66.11656,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566843,
+    "name": "Plaza de Ballaia",
+    "latitude": 18.468,
+    "longitude": -66.12044,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566844,
+    "name": "Plaza de Beneficencia",
+    "latitude": 18.46828,
+    "longitude": -66.12072,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566845,
+    "name": "Plaza de Cayey",
+    "latitude": 18.11274,
+    "longitude": -66.16683,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566847,
+    "name": "Plaza de Hostos",
+    "latitude": 18.46356,
+    "longitude": -66.11517,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566854,
+    "name": "Plaza de la Catedral",
+    "latitude": 18.46411,
+    "longitude": -66.11683,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566855,
+    "name": "Plaza de la Fortaleza (historical)",
+    "latitude": 18.46411,
+    "longitude": -66.1185,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566856,
+    "name": "Plaza de la Marina",
+    "latitude": 18.46245,
+    "longitude": -66.11517,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566857,
+    "name": "Plaza de la Revolucion",
+    "latitude": 18.29495,
+    "longitude": -66.8774,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566850,
+    "name": "Plaza de Recreo",
+    "latitude": 18.42995,
+    "longitude": -67.15407,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566852,
+    "name": "Plaza de San Francisco (historical)",
+    "latitude": 18.46689,
+    "longitude": -66.11461,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566853,
+    "name": "Plaza de San Jose",
+    "latitude": 18.4655,
+    "longitude": -66.11239,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4564092,
+    "name": "Plaza Degetau",
+    "latitude": 18.01163,
+    "longitude": -66.61434,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566862,
+    "name": "Plaza del Migrante",
+    "latitude": 18.44606,
+    "longitude": -66.38739,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566863,
+    "name": "Plaza del Oeste",
+    "latitude": 18.08968,
+    "longitude": -67.03046,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566864,
+    "name": "Plaza del Quinto Centenario",
+    "latitude": 18.46828,
+    "longitude": -66.11906,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566865,
+    "name": "Plaza del Veterano",
+    "latitude": 18.47022,
+    "longitude": -66.7224,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566866,
+    "name": "Plaza el Fuerte Victor Rojas",
+    "latitude": 18.47272,
+    "longitude": -66.71184,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7269363,
+    "name": "Plaza el Negro",
+    "latitude": 18.46816,
+    "longitude": -66.11858,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566867,
+    "name": "Plaza el Troche",
+    "latitude": 18.21718,
+    "longitude": -66.02794,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566824,
+    "name": "Plaza Francisco Mariano Quiones",
+    "latitude": 18.08246,
+    "longitude": -67.04323,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566825,
+    "name": "Plaza Juan Ponce de Leon",
+    "latitude": 18.01469,
+    "longitude": -66.61434,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566828,
+    "name": "Plaza Luis Munoz Rivera",
+    "latitude": 18.47245,
+    "longitude": -66.71601,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566829,
+    "name": "Plaza Marina",
+    "latitude": 18.43272,
+    "longitude": -67.15463,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566831,
+    "name": "Plaza Munoz Rivera",
+    "latitude": 18.01969,
+    "longitude": -66.61378,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566832,
+    "name": "Plaza Norarte",
+    "latitude": 18.3905,
+    "longitude": -66.15961,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566834,
+    "name": "Plaza Ponce de Leon",
+    "latitude": 18.0158,
+    "longitude": -66.61295,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7269364,
+    "name": "Plaza Rafael Cordero",
+    "latitude": 18.45133,
+    "longitude": -66.08087,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566836,
+    "name": "Plaza Salvador Brau",
+    "latitude": 18.46633,
+    "longitude": -66.11406,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566839,
+    "name": "Plaza Santiago",
+    "latitude": 18.08218,
+    "longitude": -67.04212,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566870,
+    "name": "Plazoleta de Isla Verde",
+    "latitude": 18.44189,
+    "longitude": -66.021,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566871,
+    "name": "Plazoleta de San Juan",
+    "latitude": 18.46133,
+    "longitude": -66.11461,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566872,
+    "name": "Plazoleta del Canton",
+    "latitude": 18.40467,
+    "longitude": -66.15822,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566873,
+    "name": "Plazoleta del Puerto",
+    "latitude": 18.46383,
+    "longitude": -66.11461,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566875,
+    "name": "Plazuela de la Rogativa",
+    "latitude": 18.46578,
+    "longitude": -66.11961,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566874,
+    "name": "Plazuela Las Monjas",
+    "latitude": 18.46578,
+    "longitude": -66.1185,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566879,
+    "name": "Poly Deportivo Frankie Colon",
+    "latitude": 17.99941,
+    "longitude": -66.59212,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566880,
+    "name": "Ponce",
+    "latitude": 18.01031,
+    "longitude": -66.62398,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4567719,
+    "name": "Pozo Del Rey",
+    "latitude": 18.46689,
+    "longitude": -66.93518,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566905,
+    "name": "Presada Loco",
+    "latitude": 18.04246,
+    "longitude": -66.88684,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566955,
+    "name": "Puerto Real",
+    "latitude": 18.07496,
+    "longitude": -67.18712,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566967,
+    "name": "Puerto Rico",
+    "latitude": 18.2494,
+    "longitude": -66.50101,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566987,
+    "name": "Punta Larga",
+    "latitude": 18.44717,
+    "longitude": -65.98183,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566990,
+    "name": "Punta Mosquitos",
+    "latitude": 18.44467,
+    "longitude": -65.97572,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4566992,
+    "name": "Punta Santiago",
+    "latitude": 18.16635,
+    "longitude": -65.74822,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4567552,
+    "name": "Quebradillas",
+    "latitude": 18.47383,
+    "longitude": -66.93851,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4567559,
+    "name": "Quintana Racing Park (historical)",
+    "latitude": 18.41939,
+    "longitude": -66.05155,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4567582,
+    "name": "Ramon Ortiz Rivero Statue",
+    "latitude": 18.2119,
+    "longitude": -65.73488,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4567598,
+    "name": "Refugio de Aves de Buerón",
+    "latitude": 18.01107,
+    "longitude": -67.16185,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4567630,
+    "name": "Represa de Comerío",
+    "latitude": 18.25146,
+    "longitude": -66.2068,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4567631,
+    "name": "Represa de Mayaguez",
+    "latitude": 18.19851,
+    "longitude": -67.07788,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4567632,
+    "name": "Represa de San Germán",
+    "latitude": 18.12588,
+    "longitude": -67.00672,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4567633,
+    "name": "Represa de San Juan",
+    "latitude": 18.27773,
+    "longitude": -66.13933,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4567638,
+    "name": "Reserva Natural de las Cabezas de San Juan",
+    "latitude": 18.38217,
+    "longitude": -65.62544,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4567637,
+    "name": "Reserva Natural Laguna de Joyuda",
+    "latitude": 18.12829,
+    "longitude": -67.1774,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4567723,
+    "name": "Rincón",
+    "latitude": 18.34023,
+    "longitude": -67.2499,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4567726,
+    "name": "Rincón Grande",
+    "latitude": 18.47189,
+    "longitude": -66.65101,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4567817,
+    "name": "Río Grande",
+    "latitude": 18.38023,
+    "longitude": -65.83127,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568027,
+    "name": "River Park",
+    "latitude": 18.398,
+    "longitude": -66.14767,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4567964,
+    "name": "Riverside Park",
+    "latitude": 18.39967,
+    "longitude": -66.14711,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4567970,
+    "name": "Roca Alcatraz",
+    "latitude": 18.1233,
+    "longitude": -65.30099,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4567972,
+    "name": "Roca Cocinera",
+    "latitude": 18.47994,
+    "longitude": -66.70379,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4567973,
+    "name": "Roca Cucaracha",
+    "latitude": 18.15468,
+    "longitude": -65.32266,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4567974,
+    "name": "Roca Culumna",
+    "latitude": 18.33273,
+    "longitude": -65.39183,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4567976,
+    "name": "Roca El Yunque",
+    "latitude": 18.3119,
+    "longitude": -65.79322,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4567977,
+    "name": "Roca Ola",
+    "latitude": 17.94747,
+    "longitude": -67.18212,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4567978,
+    "name": "Roca Resuello",
+    "latitude": 18.47828,
+    "longitude": -66.71823,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4567979,
+    "name": "Roca Speck",
+    "latitude": 18.32634,
+    "longitude": -65.26377,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4567980,
+    "name": "Roca Velásquez",
+    "latitude": 18.0233,
+    "longitude": -67.17768,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568014,
+    "name": "Sabana Grande",
+    "latitude": 18.07774,
+    "longitude": -66.96045,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568023,
+    "name": "Sabana Seca",
+    "latitude": 18.42689,
+    "longitude": -66.18461,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568040,
+    "name": "Salinas",
+    "latitude": 17.97747,
+    "longitude": -66.29795,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568074,
+    "name": "San Antonio",
+    "latitude": 18.44884,
+    "longitude": -66.30267,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568101,
+    "name": "San Francisco Plaza",
+    "latitude": 18.46633,
+    "longitude": -66.11406,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568104,
+    "name": "San Germán",
+    "latitude": 18.08163,
+    "longitude": -67.0449,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568109,
+    "name": "San Isidro",
+    "latitude": 18.39217,
+    "longitude": -65.88544,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568127,
+    "name": "San Juan",
+    "latitude": 18.46633,
+    "longitude": -66.10572,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568137,
+    "name": "San Juan Municipal Park",
+    "latitude": 18.43828,
+    "longitude": -66.07072,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568141,
+    "name": "San Juan National Historic Site",
+    "latitude": 18.46874,
+    "longitude": -66.11849,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568149,
+    "name": "San Lorenzo",
+    "latitude": 18.1894,
+    "longitude": -65.961,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568175,
+    "name": "San Sebastián",
+    "latitude": 18.33662,
+    "longitude": -66.99018,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568194,
+    "name": "Santa Barbara",
+    "latitude": 18.39356,
+    "longitude": -65.91878,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568212,
+    "name": "Santa Isabel",
+    "latitude": 17.96608,
+    "longitude": -66.40489,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568344,
+    "name": "Space Rocket Plaza",
+    "latitude": 18.40995,
+    "longitude": -66.16017,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11748976,
+    "name": "Spanish Virgin Islands",
+    "latitude": 18.14259,
+    "longitude": -65.35629,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568366,
+    "name": "Taino Park",
+    "latitude": 18.45439,
+    "longitude": -66.06155,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568403,
+    "name": "Toa Alta",
+    "latitude": 18.38828,
+    "longitude": -66.24822,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568407,
+    "name": "Toa Baja",
+    "latitude": 18.44384,
+    "longitude": -66.25961,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568442,
+    "name": "Tres Hermanas",
+    "latitude": 18.49106,
+    "longitude": -66.57434,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568444,
+    "name": "Tres Hermanos",
+    "latitude": 18.48161,
+    "longitude": -66.70323,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568451,
+    "name": "Trujillo Alto",
+    "latitude": 18.35467,
+    "longitude": -66.00739,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568485,
+    "name": "University of Puerto Rico Jardin Botanico",
+    "latitude": 18.39162,
+    "longitude": -66.05517,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568490,
+    "name": "Utuado",
+    "latitude": 18.26551,
+    "longitude": -66.70045,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568528,
+    "name": "Vega Alta",
+    "latitude": 18.41217,
+    "longitude": -66.33128,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568533,
+    "name": "Vega Baja",
+    "latitude": 18.44439,
+    "longitude": -66.38767,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568575,
+    "name": "Vieques Island",
+    "latitude": 18.12805,
+    "longitude": -65.43351,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10175060,
+    "name": "Vieques National Wildlife Refuge",
+    "latitude": 18.14169,
+    "longitude": -65.3938,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568615,
+    "name": "Villa Fontana Park",
+    "latitude": 18.40495,
+    "longitude": -65.98072,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568683,
+    "name": "Villalba",
+    "latitude": 18.12718,
+    "longitude": -66.49212,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568724,
+    "name": "Vistamar Plaza",
+    "latitude": 18.42078,
+    "longitude": -65.84683,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568908,
+    "name": "Yabucoa",
+    "latitude": 18.05052,
+    "longitude": -65.87933,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4568917,
+    "name": "Yauco",
+    "latitude": 18.03496,
+    "longitude": -66.8499,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  }
+]

@@ -1,0 +1,762 @@
+[
+  {
+    "geonameId": 3576894,
+    "name": "Anse La Raye",
+    "latitude": 13.94619,
+    "longitude": -61.03879,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11955229,
+    "name": "Au Leon",
+    "latitude": 13.95452,
+    "longitude": -60.90555,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576812,
+    "name": "Castries",
+    "latitude": 13.9957,
+    "longitude": -61.00614,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576795,
+    "name": "Choiseul",
+    "latitude": 13.77273,
+    "longitude": -61.04931,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576765,
+    "name": "Dennery",
+    "latitude": 13.91409,
+    "longitude": -60.89132,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576762,
+    "name": "Dennery Island",
+    "latitude": 13.90886,
+    "longitude": -60.88425,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11955768,
+    "name": "Derrière Dos",
+    "latitude": 13.91831,
+    "longitude": -61.00286,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576754,
+    "name": "Des Bateaux Island",
+    "latitude": 13.91686,
+    "longitude": -60.87902,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576717,
+    "name": "Fourreur Island",
+    "latitude": 14.07098,
+    "longitude": -60.9784,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576716,
+    "name": "Fous Island",
+    "latitude": 14.08206,
+    "longitude": -60.90643,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576715,
+    "name": "Frigate",
+    "latitude": 13.8794,
+    "longitude": -60.88325,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11955965,
+    "name": "Frigate Islands Nature Reserve",
+    "latitude": 13.8794,
+    "longitude": -60.88366,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576692,
+    "name": "Grande Rivière",
+    "latitude": 13.93333,
+    "longitude": -61.03333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576686,
+    "name": "Gros Islet",
+    "latitude": 14.06667,
+    "longitude": -60.95,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576683,
+    "name": "Gros Morne",
+    "latitude": 13.99518,
+    "longitude": -60.97466,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576682,
+    "name": "Gros Piton",
+    "latitude": 13.81013,
+    "longitude": -61.06753,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576500,
+    "name": "L’Islet à Ramier",
+    "latitude": 13.95978,
+    "longitude": -60.87508,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576633,
+    "name": "La Sorcière",
+    "latitude": 13.97769,
+    "longitude": -60.91313,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576663,
+    "name": "Laborie",
+    "latitude": 13.75,
+    "longitude": -60.98333,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576642,
+    "name": "Lapins Island",
+    "latitude": 14.07137,
+    "longitude": -60.90802,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576589,
+    "name": "Maria Islands",
+    "latitude": 13.72589,
+    "longitude": -60.93098,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11956268,
+    "name": "Maria Islands Nature Reserve",
+    "latitude": 13.72588,
+    "longitude": -60.93094,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576569,
+    "name": "Micoud",
+    "latitude": 13.81667,
+    "longitude": -60.9,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576832,
+    "name": "Morne Caillandre",
+    "latitude": 13.77672,
+    "longitude": -60.9496,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11955824,
+    "name": "Morne Noël",
+    "latitude": 13.83807,
+    "longitude": -61.00141,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11955796,
+    "name": "Mount Barre Dessolière",
+    "latitude": 13.87569,
+    "longitude": -61.04581,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11955932,
+    "name": "Mount Beaucoup",
+    "latitude": 13.86282,
+    "longitude": -60.96928,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576872,
+    "name": "Mount Beaujolais",
+    "latitude": 13.90731,
+    "longitude": -60.92957,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576862,
+    "name": "Mount Bellevue",
+    "latitude": 13.9719,
+    "longitude": -61.02421,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576859,
+    "name": "Mount Belvidere",
+    "latitude": 13.82619,
+    "longitude": -61.00441,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576835,
+    "name": "Mount Cabrite",
+    "latitude": 13.98333,
+    "longitude": -61.03333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576813,
+    "name": "Mount Casteau",
+    "latitude": 13.85058,
+    "longitude": -61.0189,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576801,
+    "name": "Mount Chaubourg",
+    "latitude": 14.0202,
+    "longitude": -60.94386,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576787,
+    "name": "Mount Cochon",
+    "latitude": 13.8614,
+    "longitude": -60.9987,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576841,
+    "name": "Mount des Bottes",
+    "latitude": 14.04578,
+    "longitude": -60.89424,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576745,
+    "name": "Mount Doudon",
+    "latitude": 14.0106,
+    "longitude": -60.97099,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576820,
+    "name": "Mount du Cap",
+    "latitude": 14.10492,
+    "longitude": -60.93906,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576800,
+    "name": "Mount du Chazeau",
+    "latitude": 13.99293,
+    "longitude": -60.97208,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576741,
+    "name": "Mount Durocher",
+    "latitude": 13.86358,
+    "longitude": -60.92491,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576718,
+    "name": "Mount Fortune",
+    "latitude": 13.99754,
+    "longitude": -60.99438,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576714,
+    "name": "Mount Gaïac",
+    "latitude": 14.05111,
+    "longitude": -60.9047,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576703,
+    "name": "Mount Gimie",
+    "latitude": 13.86327,
+    "longitude": -61.01122,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576700,
+    "name": "Mount Gomier",
+    "latitude": 13.76857,
+    "longitude": -61.00047,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576690,
+    "name": "Mount Grand Magazin",
+    "latitude": 13.82595,
+    "longitude": -60.99943,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576687,
+    "name": "Mount Grenier",
+    "latitude": 14.05031,
+    "longitude": -60.95735,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576672,
+    "name": "Mount Houelmon",
+    "latitude": 13.88582,
+    "longitude": -61.02029,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576669,
+    "name": "Mount Jambe",
+    "latitude": 14.04235,
+    "longitude": -60.94612,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576655,
+    "name": "Mount La Combe",
+    "latitude": 13.91411,
+    "longitude": -60.95841,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576631,
+    "name": "Mount Lastic",
+    "latitude": 13.86664,
+    "longitude": -61.06183,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576622,
+    "name": "Mount Layau",
+    "latitude": 14.06227,
+    "longitude": -60.93345,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576580,
+    "name": "Mount Marquis",
+    "latitude": 13.8992,
+    "longitude": -61.03436,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576556,
+    "name": "Mount Monier",
+    "latitude": 14.02471,
+    "longitude": -60.93235,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576545,
+    "name": "Mount Morton",
+    "latitude": 13.89033,
+    "longitude": -61.02878,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576535,
+    "name": "Mount Parasol",
+    "latitude": 13.91151,
+    "longitude": -61.04306,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576515,
+    "name": "Mount Pimard",
+    "latitude": 14.06914,
+    "longitude": -60.96298,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576497,
+    "name": "Mount Reddie",
+    "latitude": 14.04872,
+    "longitude": -60.9201,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576495,
+    "name": "Mount Regnier",
+    "latitude": 13.90499,
+    "longitude": -61.05089,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576446,
+    "name": "Mount Siquot",
+    "latitude": 13.88856,
+    "longitude": -61.05657,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576438,
+    "name": "Mount Tabac",
+    "latitude": 13.87013,
+    "longitude": -61.03994,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576434,
+    "name": "Mount Terr Fallée",
+    "latitude": 13.96227,
+    "longitude": -61.00883,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576431,
+    "name": "Mount Tourney",
+    "latitude": 13.74288,
+    "longitude": -60.96536,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576527,
+    "name": "Petit Piton",
+    "latitude": 13.83308,
+    "longitude": -61.0635,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576519,
+    "name": "Pigeon Island",
+    "latitude": 14.09286,
+    "longitude": -60.96476,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576828,
+    "name": "Piton Canarie",
+    "latitude": 13.85524,
+    "longitude": -61.01687,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576729,
+    "name": "Piton Flore",
+    "latitude": 13.96438,
+    "longitude": -60.94485,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576470,
+    "name": "Piton Saint Esprit",
+    "latitude": 13.8493,
+    "longitude": -60.97922,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576508,
+    "name": "Praslin",
+    "latitude": 13.87545,
+    "longitude": -60.89717,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576505,
+    "name": "Praslin Island",
+    "latitude": 13.87519,
+    "longitude": -60.8897,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576503,
+    "name": "Punchbowl",
+    "latitude": 13.83333,
+    "longitude": -61.05,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576499,
+    "name": "Rat Island",
+    "latitude": 14.03372,
+    "longitude": -60.98155,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576479,
+    "name": "Rouche Island",
+    "latitude": 13.95324,
+    "longitude": -60.87433,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576466,
+    "name": "Saint Lucia Island",
+    "latitude": 13.90474,
+    "longitude": -60.96794,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576450,
+    "name": "Savannes Bay Nature Reserve",
+    "latitude": 13.76317,
+    "longitude": -60.92373,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576448,
+    "name": "Scorpion Island",
+    "latitude": 13.76542,
+    "longitude": -60.92271,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576442,
+    "name": "Soufrière",
+    "latitude": 13.85616,
+    "longitude": -61.0566,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576414,
+    "name": "Vieux Fort",
+    "latitude": 13.71667,
+    "longitude": -60.95,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "geonameId": 3576395,
+    "name": "Antigua Island",
+    "latitude": 17.07607,
+    "longitude": -61.79543,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576389,
+    "name": "Barbuda Island",
+    "latitude": 17.64302,
+    "longitude": -61.79015,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576373,
+    "name": "Bird Island",
+    "latitude": 17.07942,
+    "longitude": -61.67244,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576370,
+    "name": "Bishop Island",
+    "latitude": 17,
+    "longitude": -61.78333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576366,
+    "name": "Blake Island",
+    "latitude": 17.01456,
+    "longitude": -61.78266,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576361,
+    "name": "Bolands",
+    "latitude": 17.06565,
+    "longitude": -61.87466,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576356,
+    "name": "Botts Peak",
+    "latitude": 17.05192,
+    "longitude": -61.86334,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576349,
+    "name": "Cade Peak",
+    "latitude": 17.02875,
+    "longitude": -61.84877,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 9863210,
+    "name": "Caribbean Islands",
+    "latitude": 20.73557,
+    "longitude": -71.87256,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576325,
+    "name": "Cinnamon Island",
+    "latitude": 17.11667,
+    "longitude": -61.78333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576311,
+    "name": "Codrington",
+    "latitude": 17.6394,
+    "longitude": -61.82437,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576310,
+    "name": "Codrington Island",
+    "latitude": 17.10275,
+    "longitude": -61.70563,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576289,
+    "name": "Crump Island",
+    "latitude": 17.10851,
+    "longitude": -61.71778,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6620258,
+    "name": "English Harbour",
+    "latitude": 17.00787,
+    "longitude": -61.76282,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576261,
+    "name": "Exchange Island",
+    "latitude": 17.1364,
+    "longitude": -61.72325,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576260,
+    "name": "Falmouth",
+    "latitude": 17.02741,
+    "longitude": -61.78136,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576247,
+    "name": "Five Islands",
+    "latitude": 17.11126,
+    "longitude": -61.89028,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11881319,
+    "name": "Galley Islands",
+    "latitude": 17.14346,
+    "longitude": -61.72627,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576212,
+    "name": "Great Bird Island",
+    "latitude": 17.14512,
+    "longitude": -61.72423,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3740493,
+    "name": "Great Sister",
+    "latitude": 17.16086,
+    "longitude": -61.86832,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576208,
+    "name": "Green Island",
+    "latitude": 17.07086,
+    "longitude": -61.66673,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576200,
+    "name": "Guiana Island",
+    "latitude": 17.12143,
+    "longitude": -61.73218,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576189,
+    "name": "Hawes Island",
+    "latitude": 17.1128,
+    "longitude": -61.7278,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576186,
+    "name": "Hells Gate Island",
+    "latitude": 17.14106,
+    "longitude": -61.72194,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576185,
+    "name": "Henry Island",
+    "latitude": 17.06667,
+    "longitude": -61.68333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576148,
+    "name": "Laviscounts Island",
+    "latitude": 17.09915,
+    "longitude": -61.72315,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11881328,
+    "name": "Little Bird Island",
+    "latitude": 17.15746,
+    "longitude": -61.73804,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576137,
+    "name": "Lobster Island",
+    "latitude": 17.13382,
+    "longitude": -61.72976,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576135,
+    "name": "Long Island",
+    "latitude": 17.15514,
+    "longitude": -61.75587,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576128,
+    "name": "Maiden Island",
+    "latitude": 17.14528,
+    "longitude": -61.76316,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576118,
+    "name": "McNish Mountain",
+    "latitude": 17.05842,
+    "longitude": -61.84226,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576107,
+    "name": "Moor Island",
+    "latitude": 17.16667,
+    "longitude": -61.76667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576363,
+    "name": "Mount Obama",
+    "latitude": 17.04483,
+    "longitude": -61.86117,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3740429,
+    "name": "Mount Pleasant",
+    "latitude": 17.13333,
+    "longitude": -61.81667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3575963,
+    "name": "Mount Thomas",
+    "latitude": 17.10732,
+    "longitude": -61.88324,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576074,
+    "name": "Parham",
+    "latitude": 17.09682,
+    "longitude": -61.77046,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576062,
+    "name": "Pelican Island",
+    "latitude": 17.09974,
+    "longitude": -61.90868,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576057,
+    "name": "Piggotts",
+    "latitude": 17.11667,
+    "longitude": -61.8,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576048,
+    "name": "Potworks Dam",
+    "latitude": 17.06628,
+    "longitude": -61.75019,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576046,
+    "name": "Prickly Pear Island",
+    "latitude": 17.17582,
+    "longitude": -61.79807,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576044,
+    "name": "Rabbit Island",
+    "latitude": 17.13592,
+    "longitude": -61.73101,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576042,
+    "name": "Rat Island",
+    "latitude": 17.12619,
+    "longitude": -61.85603,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576040,
+    "name": "Red Head Island",
+    "latitude": 17.13789,
+    "longitude": -61.72833,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10344575,
+    "name": "Redonda",
+    "latitude": 16.93781,
+    "longitude": -62.34559,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576025,
+    "name": "Sage Hill",
+    "latitude": 17.04541,
+    "longitude": -61.83847,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576022,
+    "name": "Saint John’s",
+    "latitude": 17.12096,
+    "longitude": -61.84329,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3576011,
+    "name": "Sandy Island",
+    "latitude": 17.13439,
+    "longitude": -61.92646,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3575995,
+    "name": "Signal Hill",
+    "latitude": 17.02865,
+    "longitude": -61.81311,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3575992,
+    "name": "Smith Island",
+    "latitude": 17.041,
+    "longitude": -61.68016,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13590584,
+    "name": "St. George Parish",
+    "latitude": 17.11692,
+    "longitude": -61.79561,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13590586,
+    "name": "St. Mary Parish",
+    "latitude": 17.07223,
+    "longitude": -61.87441,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13590582,
+    "name": "St. Paul Parish",
+    "latitude": 17.0234,
+    "longitude": -61.76928,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13590585,
+    "name": "St. Peter Parish",
+    "latitude": 17.08487,
+    "longitude": -61.71223,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3575978,
+    "name": "Sugar Loaf Hill",
+    "latitude": 17.02462,
+    "longitude": -61.79787,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3575994,
+    "name": "The Sisters",
+    "latitude": 17.16084,
+    "longitude": -61.86833,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3575953,
+    "name": "Vernon’s Island",
+    "latitude": 17.11431,
+    "longitude": -61.76925,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11881375,
+    "name": "Wallings Reservoir",
+    "latitude": 17.03527,
+    "longitude": -61.82504,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3575943,
+    "name": "Wicked Will",
+    "latitude": 17.05,
+    "longitude": -61.66667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3575932,
+    "name": "Yepton Peak",
+    "latitude": 17.11639,
+    "longitude": -61.88581,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3575931,
+    "name": "York Island",
+    "latitude": 17.05334,
+    "longitude": -61.66909,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  }
+]

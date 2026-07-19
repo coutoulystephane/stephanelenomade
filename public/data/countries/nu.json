@@ -1,0 +1,32 @@
+[
+  {
+    "geonameId": 4036284,
+    "name": "Alofi",
+    "latitude": -19.05294,
+    "longitude": -169.91957,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11185975,
+    "name": "Huvalu Forest Conservation Area",
+    "latitude": -19.08199,
+    "longitude": -169.81816,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4036231,
+    "name": "Niue",
+    "latitude": -19.04148,
+    "longitude": -169.85814,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  }
+]

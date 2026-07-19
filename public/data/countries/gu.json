@@ -1,0 +1,612 @@
+[
+  {
+    "geonameId": 4043525,
+    "name": "Agana Heights Village",
+    "latitude": 13.46559,
+    "longitude": 144.74795,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4043804,
+    "name": "Agat Village",
+    "latitude": 13.383,
+    "longitude": 144.66003,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4043813,
+    "name": "Alupat Island",
+    "latitude": 13.49291,
+    "longitude": 144.77023,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4043812,
+    "name": "Asan-Maina Village",
+    "latitude": 13.47215,
+    "longitude": 144.71654,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4043656,
+    "name": "Barrigada Village",
+    "latitude": 13.46913,
+    "longitude": 144.79901,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4043904,
+    "name": "Cabras Island",
+    "latitude": 13.46216,
+    "longitude": 144.67699,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4043911,
+    "name": "Cetti Falls",
+    "latitude": 13.32401,
+    "longitude": 144.66675,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4043615,
+    "name": "Chalan Pago-Ordot Village",
+    "latitude": 13.44741,
+    "longitude": 144.75902,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4043930,
+    "name": "Cocos Island",
+    "latitude": 13.23721,
+    "longitude": 144.65001,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4043909,
+    "name": "Dededo Village",
+    "latitude": 13.51777,
+    "longitude": 144.8391,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7869844,
+    "name": "Fena Lake",
+    "latitude": 13.35948,
+    "longitude": 144.70206,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4043962,
+    "name": "Fena Valley Fresh Water Reservoir",
+    "latitude": 13.36,
+    "longitude": 144.70202,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4038582,
+    "name": "First Sigua Falls",
+    "latitude": 13.42773,
+    "longitude": 144.71239,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7869849,
+    "name": "Gef Pa'go Cultural Village",
+    "latitude": 13.27599,
+    "longitude": 144.74828,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4043542,
+    "name": "Guam Island",
+    "latitude": 13.43103,
+    "longitude": 144.75311,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4044012,
+    "name": "Hagåtña",
+    "latitude": 13.47567,
+    "longitude": 144.74886,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4043499,
+    "name": "Inarajan Village",
+    "latitude": 13.27363,
+    "longitude": 144.74845,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7855869,
+    "name": "Leo Palace Lake",
+    "latitude": 13.41622,
+    "longitude": 144.73838,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4044113,
+    "name": "Malojloj Falls",
+    "latitude": 13.2969,
+    "longitude": 144.75273,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7268049,
+    "name": "Mangilao Village",
+    "latitude": 13.44761,
+    "longitude": 144.80109,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6269450,
+    "name": "Mariana Islands - Guam",
+    "latitude": 13.481,
+    "longitude": 144.736,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4043399,
+    "name": "Merizo Village",
+    "latitude": 13.26584,
+    "longitude": 144.66908,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7873866,
+    "name": "Mongmong-Toto-Maite Village",
+    "latitude": 13.46857,
+    "longitude": 144.78214,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4043711,
+    "name": "Mount Alifan",
+    "latitude": 13.37967,
+    "longitude": 144.67096,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4043825,
+    "name": "Mount Almagosa",
+    "latitude": 13.34578,
+    "longitude": 144.67257,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4043708,
+    "name": "Mount Alutom",
+    "latitude": 13.43267,
+    "longitude": 144.71274,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4043713,
+    "name": "Mount Assale",
+    "latitude": 13.3106,
+    "longitude": 144.6877,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4043641,
+    "name": "Mount Bolanos",
+    "latitude": 13.2994,
+    "longitude": 144.6875,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4043620,
+    "name": "Mount Chachao",
+    "latitude": 13.43703,
+    "longitude": 144.71077,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4043571,
+    "name": "Mount Finansanta",
+    "latitude": 13.2762,
+    "longitude": 144.6892,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4044021,
+    "name": "Mount Ilicho",
+    "latitude": 13.29514,
+    "longitude": 144.68636,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4044062,
+    "name": "Mount Jumullong Manglo",
+    "latitude": 13.32972,
+    "longitude": 144.67228,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4038546,
+    "name": "Mount Lamlam",
+    "latitude": 13.33986,
+    "longitude": 144.6657,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4038566,
+    "name": "Mount Sasalaguan",
+    "latitude": 13.27889,
+    "longitude": 144.69297,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4038570,
+    "name": "Mount Schroeder",
+    "latitude": 13.28414,
+    "longitude": 144.67927,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4038625,
+    "name": "Mount Taene",
+    "latitude": 13.3686,
+    "longitude": 144.66929,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4038688,
+    "name": "Mount Tenjo",
+    "latitude": 13.42121,
+    "longitude": 144.69961,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4044130,
+    "name": "Neye Island",
+    "latitude": 13.41362,
+    "longitude": 144.64669,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4038473,
+    "name": "Piti Village",
+    "latitude": 13.46256,
+    "longitude": 144.69331,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4038495,
+    "name": "Punlan Dos Amantes Park",
+    "latitude": 13.53496,
+    "longitude": 144.80294,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4038554,
+    "name": "Santa Rita Village",
+    "latitude": 13.38608,
+    "longitude": 144.67226,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7870624,
+    "name": "Second Sigua Falls",
+    "latitude": 13.42982,
+    "longitude": 144.72759,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4038588,
+    "name": "Sinajana Village",
+    "latitude": 13.46334,
+    "longitude": 144.75406,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4038654,
+    "name": "Talofofo Falls",
+    "latitude": 13.32433,
+    "longitude": 144.73727,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4038647,
+    "name": "Talofofo Village",
+    "latitude": 13.35513,
+    "longitude": 144.75835,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4038659,
+    "name": "Tamuning-Tumon-Harmon Village",
+    "latitude": 13.48773,
+    "longitude": 144.78138,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7870120,
+    "name": "Tarza Water Park",
+    "latitude": 13.51588,
+    "longitude": 144.80932,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4038676,
+    "name": "Tarzan Falls",
+    "latitude": 13.39606,
+    "longitude": 144.72071,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4038509,
+    "name": "Togcha Cliff",
+    "latitude": 13.37874,
+    "longitude": 144.76677,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4038733,
+    "name": "Umatac Village",
+    "latitude": 13.29843,
+    "longitude": 144.66314,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7870687,
+    "name": "War in the Pacific National Historical Park - Agat Beach Unit",
+    "latitude": 13.38737,
+    "longitude": 144.65747,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7874054,
+    "name": "War in the Pacific National Historical Park - Asan Bay Overlook",
+    "latitude": 13.46001,
+    "longitude": 144.71557,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4043848,
+    "name": "War in the Pacific National Historical Park - Asan Beach Unit",
+    "latitude": 13.47343,
+    "longitude": 144.71007,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7874053,
+    "name": "War in the Pacific National Historical Park - Asan Inland Unit",
+    "latitude": 13.46718,
+    "longitude": 144.71779,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4043564,
+    "name": "War In the Pacific National Historical Park - Fonte Plateau Unit",
+    "latitude": 13.46359,
+    "longitude": 144.73301,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4044142,
+    "name": "War In the Pacific National Historical Park - Mount Alifan Unit",
+    "latitude": 13.38046,
+    "longitude": 144.67166,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4044152,
+    "name": "War in the Pacific National Historical Park - Mt Chachao and Mt Tenjo Unit",
+    "latitude": 13.43007,
+    "longitude": 144.705,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4038438,
+    "name": "War in the Pacific National Historical Park - Piti Guns Unit",
+    "latitude": 13.46135,
+    "longitude": 144.69483,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7874023,
+    "name": "War in the Pacific National Historical Park - T. Stell Newman Visitor Center",
+    "latitude": 13.42251,
+    "longitude": 144.67557,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4038794,
+    "name": "Yigo Village",
+    "latitude": 13.53605,
+    "longitude": 144.88855,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4038809,
+    "name": "Yona Village",
+    "latitude": 13.40974,
+    "longitude": 144.77697,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  }
+]

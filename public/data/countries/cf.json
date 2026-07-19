@@ -1,0 +1,1962 @@
+[
+  {
+    "geonameId": 2390694,
+    "name": "Abba",
+    "latitude": 5.33354,
+    "longitude": 15.15199,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 240999,
+    "name": "Alindao",
+    "latitude": 5.02667,
+    "longitude": 21.20876,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 240980,
+    "name": "Am Boro",
+    "latitude": 8.01264,
+    "longitude": 24.43986,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 240972,
+    "name": "Am Gach",
+    "latitude": 10.70619,
+    "longitude": 22.17736,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 240922,
+    "name": "Angtébé",
+    "latitude": 8.04053,
+    "longitude": 24.75403,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2390513,
+    "name": "Baboua",
+    "latitude": 5.79565,
+    "longitude": 14.82799,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 240604,
+    "name": "Bambari",
+    "latitude": 5.76795,
+    "longitude": 20.67565,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 240592,
+    "name": "Bamingui",
+    "latitude": 7.55591,
+    "longitude": 20.17667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 240498,
+    "name": "Bangassou",
+    "latitude": 4.74132,
+    "longitude": 22.81838,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2389853,
+    "name": "Bangui",
+    "latitude": 4.36122,
+    "longitude": 18.55496,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2389804,
+    "name": "Baoro",
+    "latitude": 5.66667,
+    "longitude": 15.96667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2389706,
+    "name": "Bata",
+    "latitude": 6.35243,
+    "longitude": 16.20124,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2389691,
+    "name": "Batangafo",
+    "latitude": 7.30082,
+    "longitude": 18.2833,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2389614,
+    "name": "Bayanga",
+    "latitude": 2.90496,
+    "longitude": 16.26028,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2389422,
+    "name": "Bégoua",
+    "latitude": 4.45437,
+    "longitude": 18.53475,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2389086,
+    "name": "Berbérati",
+    "latitude": 4.26116,
+    "longitude": 15.79216,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2388922,
+    "name": "Bilélé",
+    "latitude": 6.62861,
+    "longitude": 16.25239,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2388873,
+    "name": "Bimbo",
+    "latitude": 4.25671,
+    "longitude": 18.41583,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 240210,
+    "name": "Birao",
+    "latitude": 10.28488,
+    "longitude": 22.78818,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 240185,
+    "name": "Bitingédé",
+    "latitude": 9.07524,
+    "longitude": 23.12916,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2388720,
+    "name": "Boali",
+    "latitude": 4.80048,
+    "longitude": 18.12747,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2388693,
+    "name": "Bobangui",
+    "latitude": 4.05,
+    "longitude": 18.11667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2388625,
+    "name": "Bocaranga",
+    "latitude": 6.98533,
+    "longitude": 15.64062,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2388614,
+    "name": "Boda",
+    "latitude": 4.31887,
+    "longitude": 17.46953,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2388267,
+    "name": "Boma",
+    "latitude": 3.68189,
+    "longitude": 15.83752,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2388036,
+    "name": "Bossangoa",
+    "latitude": 6.49263,
+    "longitude": 17.45518,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2388025,
+    "name": "Bossembélé",
+    "latitude": 5.26667,
+    "longitude": 17.65,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2388018,
+    "name": "Bossemtele I",
+    "latitude": 5.79695,
+    "longitude": 16.51792,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2387926,
+    "name": "Bouar",
+    "latitude": 5.93404,
+    "longitude": 15.59599,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2387890,
+    "name": "Bouca",
+    "latitude": 6.50734,
+    "longitude": 18.2767,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2387767,
+    "name": "Boulo",
+    "latitude": 6.47569,
+    "longitude": 16.11917,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2387546,
+    "name": "Bozoum",
+    "latitude": 6.31933,
+    "longitude": 16.37992,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 239899,
+    "name": "Bria",
+    "latitude": 6.54233,
+    "longitude": 21.98633,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12212907,
+    "name": "Bukovina",
+    "latitude": 9.10461,
+    "longitude": 21.26987,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2387495,
+    "name": "Carnot",
+    "latitude": 4.94273,
+    "longitude": 15.87735,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 240600,
+    "name": "Chute Bambi",
+    "latitude": 5.33333,
+    "longitude": 21.9,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2383485,
+    "name": "Chute Pembé-Dololo",
+    "latitude": 7.31784,
+    "longitude": 16.15476,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2388718,
+    "name": "Chutes de Boali",
+    "latitude": 4.86667,
+    "longitude": 18.05,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2387182,
+    "name": "Chutes de Djamila",
+    "latitude": 3.78333,
+    "longitude": 17.6,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2229631,
+    "name": "Chutes de Lancrenon",
+    "latitude": 7.1251,
+    "longitude": 15.2171,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 237247,
+    "name": "Chutes de Ngolo",
+    "latitude": 5.76167,
+    "longitude": 22.06991,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 237536,
+    "name": "Chutes Mboutou",
+    "latitude": 5.55,
+    "longitude": 21.98333,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2387435,
+    "name": "Damara",
+    "latitude": 4.96075,
+    "longitude": 18.7035,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6870132,
+    "name": "Dang Lang",
+    "latitude": 7.08492,
+    "longitude": 15.99054,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2387319,
+    "name": "Dekoa",
+    "latitude": 6.32229,
+    "longitude": 19.07922,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 239580,
+    "name": "Djadalou",
+    "latitude": 9.04379,
+    "longitude": 23.02677,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 239571,
+    "name": "Djala",
+    "latitude": 8.73369,
+    "longitude": 22.89721,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 375056,
+    "name": "Djebel Gaouara",
+    "latitude": 8.76667,
+    "longitude": 23.63333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 238650,
+    "name": "Djebel Guyamba",
+    "latitude": 8.43273,
+    "longitude": 23.88235,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 236902,
+    "name": "Djebel Ouada",
+    "latitude": 8.93737,
+    "longitude": 23.42903,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2386051,
+    "name": "Etang de Kaba",
+    "latitude": 4.87137,
+    "longitude": 18.27265,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2386756,
+    "name": "Gamboula",
+    "latitude": 4.11775,
+    "longitude": 15.13926,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2586343,
+    "name": "Gboudou",
+    "latitude": 4.12935,
+    "longitude": 18.2799,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2386381,
+    "name": "Gougoun",
+    "latitude": 6.3328,
+    "longitude": 16.1878,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6870167,
+    "name": "Goulé",
+    "latitude": 7.35911,
+    "longitude": 15.81313,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 238861,
+    "name": "Gounga",
+    "latitude": 9.41649,
+    "longitude": 23.31271,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 238714,
+    "name": "Grimari",
+    "latitude": 5.73948,
+    "longitude": 20.05564,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 236945,
+    "name": "Hadjer Odot",
+    "latitude": 9.81667,
+    "longitude": 23.33333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 220247,
+    "name": "Île Apendou",
+    "latitude": 4.40041,
+    "longitude": 21.04658,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2383476,
+    "name": "Île aux Perroquets",
+    "latitude": 3.61667,
+    "longitude": 18.6,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 219810,
+    "name": "Île Bakoua",
+    "latitude": 4.29944,
+    "longitude": 21.32826,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8239598,
+    "name": "Ile Bali",
+    "latitude": 5.14043,
+    "longitude": 19.60699,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2593705,
+    "name": "Île Basiki",
+    "latitude": 4.77594,
+    "longitude": 19.01385,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2317244,
+    "name": "Île Beausejour",
+    "latitude": 3.7816,
+    "longitude": 18.59413,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2593701,
+    "name": "Île Bongbélé",
+    "latitude": 4.65721,
+    "longitude": 18.91009,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2316556,
+    "name": "Île Bongossoua",
+    "latitude": 4.35,
+    "longitude": 18.56667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 217729,
+    "name": "Île Boumba",
+    "latitude": 4.44248,
+    "longitude": 20.85544,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 217445,
+    "name": "Île Daioue",
+    "latitude": 4.84414,
+    "longitude": 20.18893,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8239604,
+    "name": "Ile Daka",
+    "latitude": 5.15385,
+    "longitude": 19.54846,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8239599,
+    "name": "Ile Diguma",
+    "latitude": 5.13811,
+    "longitude": 19.60223,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 217083,
+    "name": "Ile Do",
+    "latitude": 4.40497,
+    "longitude": 21.01842,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 203753,
+    "name": "Île Gamoudou",
+    "latitude": 4.96679,
+    "longitude": 20.03105,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2386689,
+    "name": "Ile Gari",
+    "latitude": 5.14588,
+    "longitude": 19.63703,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2315744,
+    "name": "Ile Garoni",
+    "latitude": 5.1189,
+    "longitude": 19.73946,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2315669,
+    "name": "Île Grande",
+    "latitude": 3.59273,
+    "longitude": 18.61703,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 215969,
+    "name": "Ile Ilembo",
+    "latitude": 4.24776,
+    "longitude": 21.84452,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8239582,
+    "name": "Ile Kali",
+    "latitude": 5.14415,
+    "longitude": 19.52588,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2385839,
+    "name": "Île Kembé",
+    "latitude": 4.47167,
+    "longitude": 18.8016,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2313993,
+    "name": "Ile Kondé",
+    "latitude": 5.08823,
+    "longitude": 19.84457,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8239095,
+    "name": "Ile Longue",
+    "latitude": 4.9843,
+    "longitude": 19.93395,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2385033,
+    "name": "Île Loukoussou",
+    "latitude": 4.13389,
+    "longitude": 18.63194,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2385030,
+    "name": "Ile Louma",
+    "latitude": 5.12416,
+    "longitude": 19.75709,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 210589,
+    "name": "Île Louma",
+    "latitude": 4.72029,
+    "longitude": 20.37236,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2313458,
+    "name": "Ile Lubu",
+    "latitude": 5.04465,
+    "longitude": 19.86932,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2312636,
+    "name": "Île Malembé",
+    "latitude": 4.8845,
+    "longitude": 19.07393,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 206845,
+    "name": "Île Maza",
+    "latitude": 4.43333,
+    "longitude": 20.83333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2384605,
+    "name": "Île Mboto",
+    "latitude": 4.205,
+    "longitude": 18.60694,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2586980,
+    "name": "Île Mboulou",
+    "latitude": 4.23635,
+    "longitude": 18.57811,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 209194,
+    "name": "Ile Mekemba",
+    "latitude": 4.53894,
+    "longitude": 20.45483,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 208655,
+    "name": "Ile Mosenga",
+    "latitude": 4.23927,
+    "longitude": 21.88148,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2586986,
+    "name": "Île Ndonggué",
+    "latitude": 4.14049,
+    "longitude": 18.61443,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2384645,
+    "name": "Île Ngbo",
+    "latitude": 4.19809,
+    "longitude": 18.59955,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2313351,
+    "name": "Île Ouakongo",
+    "latitude": 4.13333,
+    "longitude": 18.63333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8239600,
+    "name": "Ile Pala",
+    "latitude": 5.14043,
+    "longitude": 19.66747,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 206237,
+    "name": "Île Pitou",
+    "latitude": 4.41828,
+    "longitude": 20.75824,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8539642,
+    "name": "Ile Sokonde",
+    "latitude": 5.09437,
+    "longitude": 19.81798,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2310752,
+    "name": "Île Zouambimba",
+    "latitude": 3.96788,
+    "longitude": 18.64685,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 238566,
+    "name": "Ippy",
+    "latitude": 6.26793,
+    "longitude": 21.22468,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 235915,
+    "name": "Jabal Gingamba",
+    "latitude": 8.2767,
+    "longitude": 24.25383,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 236519,
+    "name": "Jabal Rumbukindi",
+    "latitude": 8.85,
+    "longitude": 23.55,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 380598,
+    "name": "Jebel Abu Rasein",
+    "latitude": 8.64094,
+    "longitude": 24.22351,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11886461,
+    "name": "Jebel Guma",
+    "latitude": 9.20927,
+    "longitude": 23.52003,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 237497,
+    "name": "Jebel Mishmira",
+    "latitude": 9.67156,
+    "longitude": 23.69626,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 368047,
+    "name": "Jebel Moho",
+    "latitude": 9.06381,
+    "longitude": 23.4914,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 236267,
+    "name": "Jebel Tinga",
+    "latitude": 9.35272,
+    "longitude": 23.63737,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2386042,
+    "name": "Kabo",
+    "latitude": 7.69937,
+    "longitude": 18.62903,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2386012,
+    "name": "Kaga-Bandoro",
+    "latitude": 6.98961,
+    "longitude": 19.18744,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 238373,
+    "name": "Kembé",
+    "latitude": 4.62275,
+    "longitude": 21.88645,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 238333,
+    "name": "Kioukiou",
+    "latitude": 8.70278,
+    "longitude": 24.02706,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2385755,
+    "name": "Kobaye",
+    "latitude": 7.38333,
+    "longitude": 15.7,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 238215,
+    "name": "Kordango",
+    "latitude": 6.22722,
+    "longitude": 25.15295,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6870192,
+    "name": "Koré",
+    "latitude": 7.402,
+    "longitude": 15.60194,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2385535,
+    "name": "Kouango",
+    "latitude": 4.99337,
+    "longitude": 19.96186,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 238173,
+    "name": "Koubo",
+    "latitude": 9.16712,
+    "longitude": 23.16714,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 238121,
+    "name": "Koumou",
+    "latitude": 9.55406,
+    "longitude": 23.62767,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6870204,
+    "name": "Koun Nzoro",
+    "latitude": 7.41103,
+    "longitude": 15.73822,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2386648,
+    "name": "Lac Babli",
+    "latitude": 5.12539,
+    "longitude": 18.59001,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6860442,
+    "name": "Lac Bomboro",
+    "latitude": 7.6807,
+    "longitude": 17.31839,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 237770,
+    "name": "Lac Mamoun",
+    "latitude": 10.1266,
+    "longitude": 21.9475,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 236981,
+    "name": "Lac Nouès",
+    "latitude": 9.7,
+    "longitude": 21.4,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12217233,
+    "name": "Lazovský vrch",
+    "latitude": 49.26963,
+    "longitude": 20.95969,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2384961,
+    "name": "Makele",
+    "latitude": 7.43893,
+    "longitude": 15.69882,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6942094,
+    "name": "Manovo-Gounda St. Floris National Park",
+    "latitude": 8.0833,
+    "longitude": 20.4667,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2384837,
+    "name": "Mapa",
+    "latitude": 3.58907,
+    "longitude": 15.93381,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7505321,
+    "name": "Mare de Gata",
+    "latitude": 9.62308,
+    "longitude": 21.62259,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 239446,
+    "name": "Mare Doungou",
+    "latitude": 6.22271,
+    "longitude": 22.73894,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2385419,
+    "name": "Massif de Kounsaï",
+    "latitude": 7.16667,
+    "longitude": 15.6,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 236220,
+    "name": "Massif du Tondou",
+    "latitude": 7.83333,
+    "longitude": 23.75,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2384770,
+    "name": "Mbaïki",
+    "latitude": 3.86781,
+    "longitude": 17.98923,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2384574,
+    "name": "Mbrés",
+    "latitude": 6.668,
+    "longitude": 19.80323,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 237478,
+    "name": "Mobaye",
+    "latitude": 4.31902,
+    "longitude": 21.17861,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 237459,
+    "name": "Momèy",
+    "latitude": 10.38934,
+    "longitude": 21.77612,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2384377,
+    "name": "Mongoumba",
+    "latitude": 3.64153,
+    "longitude": 18.59364,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 240937,
+    "name": "Mont An Gayaba",
+    "latitude": 7.81438,
+    "longitude": 24.76021,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 240935,
+    "name": "Mont Angbando",
+    "latitude": 7.07864,
+    "longitude": 24.96931,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 240918,
+    "name": "Mont Anzé",
+    "latitude": 6.45,
+    "longitude": 24.9,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 240866,
+    "name": "Mont Ayebouahimi",
+    "latitude": 6.83333,
+    "longitude": 24.75,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 240736,
+    "name": "Mont Baï Mbia",
+    "latitude": 5.91667,
+    "longitude": 26.41667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6870043,
+    "name": "Mont Bali",
+    "latitude": 7.2102,
+    "longitude": 15.9052,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2390119,
+    "name": "Mont Balimbaye",
+    "latitude": 7.25,
+    "longitude": 15.96667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2387693,
+    "name": "Mont Bounou",
+    "latitude": 7.28333,
+    "longitude": 16.31667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2387458,
+    "name": "Mont Dagara",
+    "latitude": 6.48781,
+    "longitude": 15.37601,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6870131,
+    "name": "Mont Dandji",
+    "latitude": 7.21282,
+    "longitude": 15.62433,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 239726,
+    "name": "Mont Dangoura",
+    "latitude": 6.19796,
+    "longitude": 26.45407,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2385507,
+    "name": "Mont de Kouka",
+    "latitude": 4.1,
+    "longitude": 17.91667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2387197,
+    "name": "Mont Dir",
+    "latitude": 7.08333,
+    "longitude": 15.43333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 239274,
+    "name": "Mont Ganougou",
+    "latitude": 7.90315,
+    "longitude": 24.80223,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2386508,
+    "name": "Mont Gombel",
+    "latitude": 7.1,
+    "longitude": 15.4,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2386308,
+    "name": "Mont Goundoungan",
+    "latitude": 7.06667,
+    "longitude": 15.43333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 238660,
+    "name": "Mont Guingagueba",
+    "latitude": 5.63333,
+    "longitude": 25.43333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2385872,
+    "name": "Mont Kayagangiri",
+    "latitude": 6.45,
+    "longitude": 15.23333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2385683,
+    "name": "Mont Koljale",
+    "latitude": 7.16667,
+    "longitude": 15.95,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2385429,
+    "name": "Mont Koungoi",
+    "latitude": 7.33333,
+    "longitude": 16.26667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 238100,
+    "name": "Mont Koungou",
+    "latitude": 5.91667,
+    "longitude": 25.36667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2385423,
+    "name": "Mont Kounkaya",
+    "latitude": 7.13333,
+    "longitude": 15.41667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 238088,
+    "name": "Mont Kouroumona",
+    "latitude": 7.94631,
+    "longitude": 24.97029,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2385397,
+    "name": "Mont Koussai",
+    "latitude": 7.31667,
+    "longitude": 15.96667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2385366,
+    "name": "Mont Krebele",
+    "latitude": 7.21667,
+    "longitude": 15.96667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 238031,
+    "name": "Mont Kwoungo",
+    "latitude": 7.17598,
+    "longitude": 25.41636,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6870244,
+    "name": "Mont Mali",
+    "latitude": 7.21438,
+    "longitude": 15.88226,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 237742,
+    "name": "Mont Mangaoua",
+    "latitude": 6.63333,
+    "longitude": 25.68333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 237520,
+    "name": "Mont Méla",
+    "latitude": 8.37398,
+    "longitude": 23.30068,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 237422,
+    "name": "Mont Naboro",
+    "latitude": 5.3,
+    "longitude": 27.05,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2384059,
+    "name": "Mont Ngaoui",
+    "latitude": 6.75,
+    "longitude": 14.96667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 237101,
+    "name": "Mont Ngouo",
+    "latitude": 7.9289,
+    "longitude": 24.64895,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2383680,
+    "name": "Mont Ouatale",
+    "latitude": 7.11667,
+    "longitude": 15.8,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2383105,
+    "name": "Mont Sikoum",
+    "latitude": 7.03765,
+    "longitude": 15.87727,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2382926,
+    "name": "Mont Tassaore",
+    "latitude": 7.45,
+    "longitude": 16.03333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2382737,
+    "name": "Mont Toula",
+    "latitude": 7.03333,
+    "longitude": 15.4,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 236194,
+    "name": "Mont Toussoro",
+    "latitude": 9.06667,
+    "longitude": 23.23333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2382288,
+    "name": "Mont Zamani",
+    "latitude": 7.5,
+    "longitude": 16.03333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 235845,
+    "name": "Mont Zamoutou",
+    "latitude": 5.76667,
+    "longitude": 25.7,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7505316,
+    "name": "Ndara",
+    "latitude": 9.75804,
+    "longitude": 21.59887,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 237379,
+    "name": "Ndélé",
+    "latitude": 8.41091,
+    "longitude": 20.64728,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6870318,
+    "name": "Ndim",
+    "latitude": 7.45,
+    "longitude": 15.90255,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 237295,
+    "name": "Nganya",
+    "latitude": 9.40031,
+    "longitude": 23.52275,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 237281,
+    "name": "Ngaya",
+    "latitude": 9.29096,
+    "longitude": 23.47359,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 236992,
+    "name": "Njir",
+    "latitude": 10.19134,
+    "longitude": 21.59831,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2383827,
+    "name": "Nola",
+    "latitude": 3.52494,
+    "longitude": 16.04583,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 236950,
+    "name": "Obo",
+    "latitude": 5.39586,
+    "longitude": 26.49211,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 236946,
+    "name": "Odo",
+    "latitude": 8.16027,
+    "longitude": 24.4407,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 236901,
+    "name": "Ouadda",
+    "latitude": 8.07771,
+    "longitude": 22.40075,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7393645,
+    "name": "Ouedjé Hadjer",
+    "latitude": 8.93537,
+    "longitude": 22.96424,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2383589,
+    "name": "Pahi",
+    "latitude": 7.37013,
+    "longitude": 15.68267,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2383550,
+    "name": "Pana",
+    "latitude": 7.38668,
+    "longitude": 15.64627,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2383546,
+    "name": "Panawélé",
+    "latitude": 3.55677,
+    "longitude": 15.97734,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2383523,
+    "name": "Paoua",
+    "latitude": 7.24269,
+    "longitude": 16.44059,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 240941,
+    "name": "Parc National André Félix",
+    "latitude": 9.44088,
+    "longitude": 23.3438,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2390029,
+    "name": "Parc National du Bamingui-Bangoran",
+    "latitude": 8.34868,
+    "longitude": 19.50276,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 236468,
+    "name": "Parc National Saint-Floris",
+    "latitude": 9.65869,
+    "longitude": 21.46245,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2383491,
+    "name": "Pellé",
+    "latitude": 6.48387,
+    "longitude": 16.22933,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 236410,
+    "name": "Sétandounga",
+    "latitude": 10.49625,
+    "longitude": 21.74442,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2383119,
+    "name": "Sibut",
+    "latitude": 5.71801,
+    "longitude": 19.07389,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 236242,
+    "name": "Tobo",
+    "latitude": 8.12549,
+    "longitude": 24.39224,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2382505,
+    "name": "Yaloké",
+    "latitude": 5.31953,
+    "longitude": 17.10114,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 235826,
+    "name": "Zemio",
+    "latitude": 5.03144,
+    "longitude": 25.13614,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  }
+]

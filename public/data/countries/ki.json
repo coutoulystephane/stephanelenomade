@@ -1,0 +1,712 @@
+[
+  {
+    "geonameId": 2110283,
+    "name": "Abatao",
+    "latitude": 1.40534,
+    "longitude": 173.11801,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110281,
+    "name": "Abatiku",
+    "latitude": 0.38778,
+    "longitude": 173.77058,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110279,
+    "name": "Aiwa",
+    "latitude": -1.3874,
+    "longitude": 174.90552,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7576910,
+    "name": "Aonbike",
+    "latitude": 3.34594,
+    "longitude": 172.98364,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110271,
+    "name": "Arakeaka",
+    "latitude": -1.43554,
+    "longitude": 175.00422,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110269,
+    "name": "Aranuka",
+    "latitude": -1.46674,
+    "longitude": 175.04843,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4030973,
+    "name": "Arundel Islet",
+    "latitude": -9.98912,
+    "longitude": -150.21583,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110256,
+    "name": "Banaba Island",
+    "latitude": -0.855,
+    "longitude": 169.539,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110255,
+    "name": "Bangai",
+    "latitude": -1.35643,
+    "longitude": 174.87634,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110248,
+    "name": "Betio Village",
+    "latitude": 1.35797,
+    "longitude": 172.92105,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110246,
+    "name": "Bikati",
+    "latitude": 3.26748,
+    "longitude": 172.68409,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110244,
+    "name": "Bike",
+    "latitude": 0.34332,
+    "longitude": 173.8465,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110243,
+    "name": "Bikeman Bank",
+    "latitude": 1.38601,
+    "longitude": 172.99043,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7601774,
+    "name": "Bikenibeu Village",
+    "latitude": 1.3673,
+    "longitude": 173.12415,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7577076,
+    "name": "Biketawa",
+    "latitude": 1.43601,
+    "longitude": 173.07272,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4030965,
+    "name": "Brothers Islet",
+    "latitude": -9.9779,
+    "longitude": -150.20894,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7576709,
+    "name": "Buariki",
+    "latitude": 0.14608,
+    "longitude": 173.63411,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7577067,
+    "name": "Buota",
+    "latitude": 1.39521,
+    "longitude": 173.12728,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4030956,
+    "name": "Cook Island",
+    "latitude": 1.9563,
+    "longitude": -157.48168,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110223,
+    "name": "Eanikai",
+    "latitude": -1.15366,
+    "longitude": 174.71489,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7521628,
+    "name": "Emerald",
+    "latitude": -9.96302,
+    "longitude": -150.21422,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7577031,
+    "name": "Formerly Freshwater Lake",
+    "latitude": 1.91328,
+    "longitude": 172.94644,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110196,
+    "name": "Gilbert Islands",
+    "latitude": 0.38319,
+    "longitude": 173.63569,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110202,
+    "name": "Iaia",
+    "latitude": 1.9527,
+    "longitude": 172.90296,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110207,
+    "name": "Kabuna",
+    "latitude": -1.33333,
+    "longitude": 174.78333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110203,
+    "name": "Katabanga",
+    "latitude": -1.50182,
+    "longitude": 175.0719,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110200,
+    "name": "Kenna",
+    "latitude": 0.31053,
+    "longitude": 173.90825,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110198,
+    "name": "Kiebu",
+    "latitude": 3.32604,
+    "longitude": 172.97708,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4030941,
+    "name": "Line Islands",
+    "latitude": 1.942,
+    "longitude": -157.474,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4030937,
+    "name": "Long Island",
+    "latitude": -9.94607,
+    "longitude": -150.19838,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7521573,
+    "name": "Motu Ana-Ana",
+    "latitude": -9.99181,
+    "longitude": -150.22934,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7521565,
+    "name": "Motu Mannikiba",
+    "latitude": -9.95253,
+    "longitude": -150.21177,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4030882,
+    "name": "Motu Tuba",
+    "latitude": 1.93082,
+    "longitude": -157.41932,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110172,
+    "name": "Nabeina",
+    "latitude": 1.44099,
+    "longitude": 173.08127,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4030925,
+    "name": "Nake Island",
+    "latitude": -9.91407,
+    "longitude": -150.20319,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110165,
+    "name": "Nanikirata",
+    "latitude": 1.89555,
+    "longitude": 172.7816,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4030926,
+    "name": "Napari Village",
+    "latitude": 3.90806,
+    "longitude": -159.38832,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110024,
+    "name": "Nikutiri",
+    "latitude": -1.463,
+    "longitude": 175.04439,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110154,
+    "name": "Northern Gilbert Islands",
+    "latitude": 3.31602,
+    "longitude": 173.11707,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110149,
+    "name": "Noumatang",
+    "latitude": -0.55068,
+    "longitude": 174.21902,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110233,
+    "name": "Nuguti",
+    "latitude": -1.4817,
+    "longitude": 175.07478,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110148,
+    "name": "Nuotaea",
+    "latitude": 1.88521,
+    "longitude": 172.81582,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110143,
+    "name": "Onne",
+    "latitude": 3.29477,
+    "longitude": 172.96815,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7521831,
+    "name": "Permanent Freshwater Lake",
+    "latitude": 4.67968,
+    "longitude": -160.37207,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4030911,
+    "name": "Phoenix Islands",
+    "latitude": -2.808,
+    "longitude": -171.677,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110128,
+    "name": "Ribono",
+    "latitude": 1.96667,
+    "longitude": 172.86667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7521629,
+    "name": "Shark",
+    "latitude": -9.96691,
+    "longitude": -150.21469,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4033022,
+    "name": "South Island",
+    "latitude": -10.00621,
+    "longitude": -150.22679,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110117,
+    "name": "Southern Gilbert Islands",
+    "latitude": -1.22488,
+    "longitude": 175.50435,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4030896,
+    "name": "Spam Island",
+    "latitude": -2.81163,
+    "longitude": -171.71245,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4030895,
+    "name": "Starbuck Island",
+    "latitude": -5.63922,
+    "longitude": -155.88415,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110107,
+    "name": "Tabiteuea",
+    "latitude": 1.41928,
+    "longitude": 173.10702,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110066,
+    "name": "Taete",
+    "latitude": 1.95371,
+    "longitude": 172.89845,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7576710,
+    "name": "Takaeang",
+    "latitude": 0.18102,
+    "longitude": 173.55291,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110081,
+    "name": "Tanyah Island",
+    "latitude": -1.80832,
+    "longitude": 175.5538,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110257,
+    "name": "Tarawa",
+    "latitude": 1.3278,
+    "longitude": 172.97696,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110073,
+    "name": "Tauma",
+    "latitude": -1.23346,
+    "longitude": 174.78338,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110072,
+    "name": "Taungeaka",
+    "latitude": -1.45279,
+    "longitude": 175.0353,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4030887,
+    "name": "Te Nupa",
+    "latitude": 3.82399,
+    "longitude": -159.27073,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7576824,
+    "name": "Tebikerai",
+    "latitude": 1.00897,
+    "longitude": 173.00428,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110057,
+    "name": "Teirio",
+    "latitude": 1.79542,
+    "longitude": 172.92085,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110049,
+    "name": "Temotu",
+    "latitude": -0.80524,
+    "longitude": 174.45662,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110048,
+    "name": "Temuah Island",
+    "latitude": -1.797,
+    "longitude": 175.51981,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110038,
+    "name": "Tetongo",
+    "latitude": -1.42988,
+    "longitude": 174.99551,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110036,
+    "name": "Tewai",
+    "latitude": -1.43927,
+    "longitude": 175.01555,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110032,
+    "name": "Tikurere",
+    "latitude": 3.13827,
+    "longitude": 172.71158,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7576194,
+    "name": "Top of Kiribati",
+    "latitude": -0.855,
+    "longitude": 169.5385,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7521567,
+    "name": "Tridacna",
+    "latitude": -9.994,
+    "longitude": -150.21941,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110031,
+    "name": "Ubantakoto",
+    "latitude": 3.23015,
+    "longitude": 172.9237,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2110027,
+    "name": "Umaia Ataei",
+    "latitude": -1.52962,
+    "longitude": 175.06471,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7521527,
+    "name": "Windward",
+    "latitude": -9.96412,
+    "longitude": -150.20057,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  }
+]

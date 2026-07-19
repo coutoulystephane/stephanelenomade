@@ -1,0 +1,5302 @@
+[
+  {
+    "geonameId": 3204854,
+    "name": "Ajdovščina",
+    "latitude": 45.88601,
+    "longitude": 13.90946,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3220262,
+    "name": "Ankaran",
+    "latitude": 45.57902,
+    "longitude": 13.73616,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3204796,
+    "name": "Apače",
+    "latitude": 46.69779,
+    "longitude": 15.90932,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3204747,
+    "name": "Baba",
+    "latitude": 46.43333,
+    "longitude": 14.3,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3204453,
+    "name": "Basališče",
+    "latitude": 46.38333,
+    "longitude": 15.25,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3204361,
+    "name": "Begunjščica",
+    "latitude": 46.41667,
+    "longitude": 14.23333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3204303,
+    "name": "Beltinci",
+    "latitude": 46.60541,
+    "longitude": 16.24123,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3204296,
+    "name": "Benedikt",
+    "latitude": 46.60653,
+    "longitude": 15.89102,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3204243,
+    "name": "Bezovniški Vrh",
+    "latitude": 46.23778,
+    "longitude": 14.24278,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3204229,
+    "name": "Bička Gora",
+    "latitude": 45.6675,
+    "longitude": 14.42472,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3204044,
+    "name": "Bistrica ob Sotli",
+    "latitude": 46.05755,
+    "longitude": 15.66326,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3203964,
+    "name": "Blaguško Jezero",
+    "latitude": 46.56528,
+    "longitude": 15.99861,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3203925,
+    "name": "Bled",
+    "latitude": 46.36859,
+    "longitude": 14.11652,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13100327,
+    "name": "Bled Island",
+    "latitude": 46.36232,
+    "longitude": 14.09014,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3203920,
+    "name": "Blegoš",
+    "latitude": 46.16667,
+    "longitude": 14.13333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3203867,
+    "name": "Boč",
+    "latitude": 46.28333,
+    "longitude": 15.6,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3203808,
+    "name": "Bohinjska Bistrica",
+    "latitude": 46.27216,
+    "longitude": 13.9535,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3203806,
+    "name": "Bohor",
+    "latitude": 46.08111,
+    "longitude": 15.45667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3203743,
+    "name": "Bolvik",
+    "latitude": 45.55028,
+    "longitude": 14.89944,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3203677,
+    "name": "Borovnica",
+    "latitude": 45.91752,
+    "longitude": 14.36444,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3203665,
+    "name": "Boršt",
+    "latitude": 45.81667,
+    "longitude": 15.03333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3203637,
+    "name": "Boskovec",
+    "latitude": 46.38333,
+    "longitude": 14.91667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3203611,
+    "name": "Bovec",
+    "latitude": 46.33808,
+    "longitude": 13.55245,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7910276,
+    "name": "Brana",
+    "latitude": 46.35462,
+    "longitude": 14.58845,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3203550,
+    "name": "Braslovče",
+    "latitude": 46.28805,
+    "longitude": 15.03983,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8629674,
+    "name": "Brda",
+    "latitude": 46.3851,
+    "longitude": 13.9255,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3203412,
+    "name": "Brežice",
+    "latitude": 45.90726,
+    "longitude": 15.59319,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3203377,
+    "name": "Breznica",
+    "latitude": 46.39385,
+    "longitude": 14.15409,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3203352,
+    "name": "Brezovec",
+    "latitude": 46.26667,
+    "longitude": 14.01667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3203338,
+    "name": "Brezovica pri Ljubljani",
+    "latitude": 46.0233,
+    "longitude": 14.41499,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3203313,
+    "name": "Briceljk",
+    "latitude": 46.39525,
+    "longitude": 13.63167,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10630032,
+    "name": "Bricnik",
+    "latitude": 46.63633,
+    "longitude": 15.16693,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3218542,
+    "name": "Brinji Vrh",
+    "latitude": 46.55806,
+    "longitude": 14.92556,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3203297,
+    "name": "Brinoh",
+    "latitude": 45.65361,
+    "longitude": 14.61306,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3203202,
+    "name": "Brunašnica",
+    "latitude": 46.35,
+    "longitude": 14.7,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3203057,
+    "name": "Bukovica",
+    "latitude": 45.90083,
+    "longitude": 13.66722,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3203022,
+    "name": "Bukovniško Jezero",
+    "latitude": 46.68333,
+    "longitude": 16.33333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3202877,
+    "name": "Cankova",
+    "latitude": 46.72028,
+    "longitude": 16.02245,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3216586,
+    "name": "Čebulovica",
+    "latitude": 45.70667,
+    "longitude": 13.99167,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3202800,
+    "name": "Čela",
+    "latitude": 45.75806,
+    "longitude": 14.34417,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3202781,
+    "name": "Celje",
+    "latitude": 46.23092,
+    "longitude": 15.26044,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3202759,
+    "name": "Čemšeniška Planina",
+    "latitude": 46.2,
+    "longitude": 14.96667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3202711,
+    "name": "Cerklje na Gorenjskem",
+    "latitude": 46.25007,
+    "longitude": 14.4862,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3202709,
+    "name": "Cerknica",
+    "latitude": 45.79703,
+    "longitude": 14.36263,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3218364,
+    "name": "Cerkno",
+    "latitude": 46.12533,
+    "longitude": 13.98266,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3202704,
+    "name": "Cerkvenjak",
+    "latitude": 46.56796,
+    "longitude": 15.94374,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6931178,
+    "name": "Cez Suho",
+    "latitude": 46.23356,
+    "longitude": 13.8478,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3202628,
+    "name": "Cicelj",
+    "latitude": 46.11667,
+    "longitude": 14.73333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10630042,
+    "name": "Ciglerjev vrh",
+    "latitude": 46.64967,
+    "longitude": 15.32438,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3202578,
+    "name": "Ciprnik",
+    "latitude": 46.46932,
+    "longitude": 13.74008,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6956384,
+    "name": "Cirkulane",
+    "latitude": 46.34408,
+    "longitude": 15.99472,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3202549,
+    "name": "Cmir",
+    "latitude": 46.40044,
+    "longitude": 13.86061,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3202524,
+    "name": "Črenšovci",
+    "latitude": 46.55794,
+    "longitude": 16.3041,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3202513,
+    "name": "Čreta",
+    "latitude": 46.28333,
+    "longitude": 14.96667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3202459,
+    "name": "Črna na Koroškem",
+    "latitude": 46.47045,
+    "longitude": 14.85009,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3202457,
+    "name": "Črna Prst",
+    "latitude": 46.23944,
+    "longitude": 13.92111,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3202363,
+    "name": "Crni Vrh",
+    "latitude": 46.25,
+    "longitude": 14.01667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3202361,
+    "name": "Črni Vrh",
+    "latitude": 46.48333,
+    "longitude": 15.23333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6932609,
+    "name": "Crni Vrh (2)",
+    "latitude": 46.195,
+    "longitude": 14.97028,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3202333,
+    "name": "Črnomelj",
+    "latitude": 45.57262,
+    "longitude": 15.1919,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8629676,
+    "name": "Debela peč",
+    "latitude": 46.3907,
+    "longitude": 13.9333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3202148,
+    "name": "Debeli Hrib",
+    "latitude": 45.83722,
+    "longitude": 14.035,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8629671,
+    "name": "Debeli vrh",
+    "latitude": 46.3724,
+    "longitude": 13.9089,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3215638,
+    "name": "Debelivrh",
+    "latitude": 46.14472,
+    "longitude": 14.51972,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3217552,
+    "name": "Deska",
+    "latitude": 46.34889,
+    "longitude": 14.6625,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3202058,
+    "name": "Destrnik",
+    "latitude": 46.49254,
+    "longitude": 15.87893,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3187617,
+    "name": "Deutscher Berg",
+    "latitude": 46.43333,
+    "longitude": 14.21667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3202019,
+    "name": "Divača",
+    "latitude": 45.6848,
+    "longitude": 13.9705,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3201988,
+    "name": "Dobje pri Planini",
+    "latitude": 46.13747,
+    "longitude": 15.39412,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3201954,
+    "name": "Dobrča",
+    "latitude": 46.381,
+    "longitude": 14.2571,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3201927,
+    "name": "Dobrna",
+    "latitude": 46.33708,
+    "longitude": 15.22615,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3201901,
+    "name": "Dobrova",
+    "latitude": 46.0458,
+    "longitude": 14.39186,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3201897,
+    "name": "Dobrovnik",
+    "latitude": 46.65139,
+    "longitude": 16.3525,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3201896,
+    "name": "Dobrovo",
+    "latitude": 45.99743,
+    "longitude": 13.52711,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3201748,
+    "name": "Dol pri Ljubljani",
+    "latitude": 46.08859,
+    "longitude": 14.60068,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3201817,
+    "name": "Dolenjske Toplice",
+    "latitude": 45.75657,
+    "longitude": 15.05917,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3201806,
+    "name": "Dolgo Brdo",
+    "latitude": 46.05,
+    "longitude": 14.93333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3201730,
+    "name": "Domžale",
+    "latitude": 46.13774,
+    "longitude": 14.59371,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3201355,
+    "name": "Dornava",
+    "latitude": 46.43565,
+    "longitude": 15.95293,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3217798,
+    "name": "Dovski Vrh",
+    "latitude": 46.30444,
+    "longitude": 14.11306,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3201294,
+    "name": "Dragomer",
+    "latitude": 46.01609,
+    "longitude": 14.3843,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3201253,
+    "name": "Dravograd",
+    "latitude": 46.58846,
+    "longitude": 15.01874,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3343611,
+    "name": "Drskovško Jezero",
+    "latitude": 45.66083,
+    "longitude": 14.24,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3200882,
+    "name": "Ermanovec",
+    "latitude": 46.10361,
+    "longitude": 14.06472,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3339264,
+    "name": "Gajševsko Jezero",
+    "latitude": 46.53639,
+    "longitude": 16.11944,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3200658,
+    "name": "Gladki Vrh",
+    "latitude": 46.2377,
+    "longitude": 14.0917,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3200606,
+    "name": "Glažutska Planina",
+    "latitude": 46.43333,
+    "longitude": 15.28333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3200487,
+    "name": "Golce",
+    "latitude": 46.16667,
+    "longitude": 15.16667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3209353,
+    "name": "Goli Cirnik",
+    "latitude": 45.85,
+    "longitude": 15.6,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3200473,
+    "name": "Goli Crnik",
+    "latitude": 45.85,
+    "longitude": 15.6,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3200415,
+    "name": "Gominec",
+    "latitude": 45.46667,
+    "longitude": 15.16667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3194135,
+    "name": "Gora Oljka",
+    "latitude": 46.3256,
+    "longitude": 15.05889,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3200379,
+    "name": "Gorenja Vas",
+    "latitude": 46.1074,
+    "longitude": 14.14769,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3200307,
+    "name": "Gorišnica",
+    "latitude": 46.41475,
+    "longitude": 16.0135,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3200197,
+    "name": "Gornja Radgona",
+    "latitude": 46.67263,
+    "longitude": 15.99219,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3200016,
+    "name": "Gornji Grad",
+    "latitude": 46.29541,
+    "longitude": 14.8079,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3199948,
+    "name": "Gornji Petrovci",
+    "latitude": 46.80362,
+    "longitude": 16.21898,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3218452,
+    "name": "Gortinski Vrh",
+    "latitude": 46.63333,
+    "longitude": 15.1,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3199858,
+    "name": "Goteniški Snežnik",
+    "latitude": 45.59083,
+    "longitude": 14.73583,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3199859,
+    "name": "Goteniški Vrh",
+    "latitude": 45.62167,
+    "longitude": 14.71861,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6934349,
+    "name": "Govca",
+    "latitude": 46.45,
+    "longitude": 14.6875,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3217499,
+    "name": "Govešča",
+    "latitude": 46.45083,
+    "longitude": 14.68694,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3199846,
+    "name": "Gozdnik",
+    "latitude": 46.19417,
+    "longitude": 15.15417,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3199765,
+    "name": "Grad",
+    "latitude": 46.79762,
+    "longitude": 16.09837,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3199566,
+    "name": "Grintavec",
+    "latitude": 46.35684,
+    "longitude": 14.53596,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3199523,
+    "name": "Grosuplje",
+    "latitude": 45.95579,
+    "longitude": 14.65891,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3199375,
+    "name": "Hlebov Vrh",
+    "latitude": 46.56667,
+    "longitude": 15.33333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3193264,
+    "name": "Hleviška Planina",
+    "latitude": 45.98417,
+    "longitude": 13.99417,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3187991,
+    "name": "Hochstuhl",
+    "latitude": 46.43333,
+    "longitude": 14.17556,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3199361,
+    "name": "Hodoš",
+    "latitude": 46.82178,
+    "longitude": 16.32592,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3199347,
+    "name": "Horjul",
+    "latitude": 46.02268,
+    "longitude": 14.29743,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3199297,
+    "name": "Hrastnik",
+    "latitude": 46.14655,
+    "longitude": 15.08456,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3199268,
+    "name": "Hrib-Loški Potok",
+    "latitude": 45.70688,
+    "longitude": 14.61674,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3199256,
+    "name": "Hrpelje",
+    "latitude": 45.60722,
+    "longitude": 13.94278,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3199171,
+    "name": "Idrija",
+    "latitude": 46.00295,
+    "longitude": 14.02787,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3199162,
+    "name": "Ig",
+    "latitude": 45.95891,
+    "longitude": 14.52811,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3199131,
+    "name": "Ilirska Bistrica",
+    "latitude": 45.56757,
+    "longitude": 14.24571,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3199078,
+    "name": "Ivančna Gorica",
+    "latitude": 45.93695,
+    "longitude": 14.80529,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3199017,
+    "name": "Izola",
+    "latitude": 45.53661,
+    "longitude": 13.66015,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3217127,
+    "name": "Jagerski Vrh",
+    "latitude": 46.4725,
+    "longitude": 15.40417,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3198917,
+    "name": "Jalovec",
+    "latitude": 46.416,
+    "longitude": 13.683,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3218490,
+    "name": "Janžev Vrh",
+    "latitude": 46.57222,
+    "longitude": 15.14111,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10630045,
+    "name": "Jarcev vrh",
+    "latitude": 46.60585,
+    "longitude": 15.47669,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3198786,
+    "name": "Javor",
+    "latitude": 46.16667,
+    "longitude": 15.03333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3218761,
+    "name": "Javorje",
+    "latitude": 45.69111,
+    "longitude": 14.40056,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3198766,
+    "name": "Javorjev Vrh",
+    "latitude": 46.26639,
+    "longitude": 14.09333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3216527,
+    "name": "Javorški Vrh",
+    "latitude": 45.96889,
+    "longitude": 13.90278,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3333498,
+    "name": "Jeklberg",
+    "latitude": 46.49194,
+    "longitude": 14.71167,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3198708,
+    "name": "Jelenek",
+    "latitude": 46.06056,
+    "longitude": 13.97806,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11494716,
+    "name": "Jelenk",
+    "latitude": 46.05456,
+    "longitude": 13.66238,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3198680,
+    "name": "Jelovica",
+    "latitude": 46.3,
+    "longitude": 14.13333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3198663,
+    "name": "Jepicasattel",
+    "latitude": 46.51667,
+    "longitude": 13.91667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6934294,
+    "name": "Jerebikovec",
+    "latitude": 46.44306,
+    "longitude": 13.95639,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3198647,
+    "name": "Jesenice",
+    "latitude": 46.4324,
+    "longitude": 14.06232,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3198645,
+    "name": "Jesenkov Vrh",
+    "latitude": 46.55,
+    "longitude": 15.11667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3339217,
+    "name": "Jezero Komarnik",
+    "latitude": 46.57111,
+    "longitude": 15.80694,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3339210,
+    "name": "Jezero Pernica",
+    "latitude": 46.58722,
+    "longitude": 15.72833,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3339211,
+    "name": "Jezero Pristava",
+    "latitude": 46.56528,
+    "longitude": 15.76611,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3339218,
+    "name": "Jezero Radehova",
+    "latitude": 46.56222,
+    "longitude": 15.84028,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7910282,
+    "name": "Jezerska Kočna",
+    "latitude": 46.35851,
+    "longitude": 14.52263,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3198555,
+    "name": "Jurčičev Vrh",
+    "latitude": 46.56667,
+    "longitude": 15.38333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3198533,
+    "name": "Jurovski Dol",
+    "latitude": 46.60667,
+    "longitude": 15.78464,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3198531,
+    "name": "Juršinci",
+    "latitude": 46.48594,
+    "longitude": 15.96818,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8629665,
+    "name": "Kačji rob",
+    "latitude": 46.2434,
+    "longitude": 14.0573,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3209363,
+    "name": "Kajsov Vrh",
+    "latitude": 45.98333,
+    "longitude": 15.73333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3198483,
+    "name": "Kal",
+    "latitude": 46.31167,
+    "longitude": 13.74583,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7534279,
+    "name": "Kališče",
+    "latitude": 45.96016,
+    "longitude": 13.86745,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3198436,
+    "name": "Kalški Greben",
+    "latitude": 46.33361,
+    "longitude": 14.53917,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3343609,
+    "name": "Kalško Jezero",
+    "latitude": 45.635,
+    "longitude": 14.24194,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3218906,
+    "name": "Kameni Vrh",
+    "latitude": 45.93167,
+    "longitude": 14.29833,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3198416,
+    "name": "Kamenica",
+    "latitude": 45.89639,
+    "longitude": 14.45028,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3198365,
+    "name": "Kamnik",
+    "latitude": 46.22587,
+    "longitude": 14.61207,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3198354,
+    "name": "Kanal",
+    "latitude": 46.08741,
+    "longitude": 13.63488,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3198340,
+    "name": "Kanjavec",
+    "latitude": 46.36044,
+    "longitude": 13.80729,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3198309,
+    "name": "Kapič",
+    "latitude": 45.50389,
+    "longitude": 14.8325,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3198297,
+    "name": "Kapuner Kogel",
+    "latitude": 46.63333,
+    "longitude": 15.25,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6931743,
+    "name": "Karlhöhe",
+    "latitude": 46.0025,
+    "longitude": 13.56944,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3198233,
+    "name": "Kasjakov Breg",
+    "latitude": 46.51667,
+    "longitude": 15.33333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3217362,
+    "name": "Kavšakov Vrh",
+    "latitude": 46.47028,
+    "longitude": 14.88444,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3198165,
+    "name": "Kidričevo",
+    "latitude": 46.40315,
+    "longitude": 15.79869,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3198128,
+    "name": "Kjumberk",
+    "latitude": 46.31667,
+    "longitude": 15.18333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3198093,
+    "name": "Klečica",
+    "latitude": 46.39737,
+    "longitude": 13.94197,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6935958,
+    "name": "Klementkogel",
+    "latitude": 46.64139,
+    "longitude": 15.24361,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3197983,
+    "name": "Kobarid",
+    "latitude": 46.24761,
+    "longitude": 13.57907,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3197965,
+    "name": "Kobilja Glava",
+    "latitude": 46.19139,
+    "longitude": 13.79611,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3197959,
+    "name": "Kobilje",
+    "latitude": 46.68519,
+    "longitude": 16.39371,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3197943,
+    "name": "Kočevje",
+    "latitude": 45.64323,
+    "longitude": 14.86036,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3197939,
+    "name": "Kočevska Gora",
+    "latitude": 45.62139,
+    "longitude": 14.825,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3197940,
+    "name": "Kočevski Rog",
+    "latitude": 45.64889,
+    "longitude": 15.03,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3197928,
+    "name": "Kojca",
+    "latitude": 46.15417,
+    "longitude": 13.92833,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3197842,
+    "name": "Komen",
+    "latitude": 45.81559,
+    "longitude": 13.74827,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6956393,
+    "name": "Komenda",
+    "latitude": 46.20484,
+    "longitude": 14.53839,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3197795,
+    "name": "Konjiška Gora",
+    "latitude": 46.335,
+    "longitude": 15.37,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3197793,
+    "name": "Konjščica",
+    "latitude": 46.38333,
+    "longitude": 14.38333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3197766,
+    "name": "Kopa",
+    "latitude": 45.63333,
+    "longitude": 15.03333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3197753,
+    "name": "Koper",
+    "latitude": 45.5482,
+    "longitude": 13.72963,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3197742,
+    "name": "Kopitnik",
+    "latitude": 46.11667,
+    "longitude": 15.18333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3188253,
+    "name": "Kordesch Kopf",
+    "latitude": 46.5,
+    "longitude": 14.78333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3217825,
+    "name": "Kosmati Vrh",
+    "latitude": 46.23806,
+    "longitude": 14.15194,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3197581,
+    "name": "Kostanjevica na Krki",
+    "latitude": 45.8456,
+    "longitude": 15.42036,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8358613,
+    "name": "Kostel",
+    "latitude": 45.5084,
+    "longitude": 14.9092,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3218280,
+    "name": "Kozjak",
+    "latitude": 46.59611,
+    "longitude": 15.38028,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3197442,
+    "name": "Kozje",
+    "latitude": 46.07333,
+    "longitude": 15.55989,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10630033,
+    "name": "Kozji vrh",
+    "latitude": 46.64431,
+    "longitude": 15.0841,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3197435,
+    "name": "Kozlovka",
+    "latitude": 45.70778,
+    "longitude": 14.37972,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3197378,
+    "name": "Kranj",
+    "latitude": 46.23887,
+    "longitude": 14.35561,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3197373,
+    "name": "Kranjska Gora",
+    "latitude": 46.45689,
+    "longitude": 13.77824,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3197311,
+    "name": "Kredarica",
+    "latitude": 46.38016,
+    "longitude": 13.84977,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8629664,
+    "name": "Kremant",
+    "latitude": 46.2395,
+    "longitude": 14.07,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3197301,
+    "name": "Kremžarjev Vrh",
+    "latitude": 46.53333,
+    "longitude": 15.13333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3197284,
+    "name": "Krim",
+    "latitude": 45.92889,
+    "longitude": 14.47111,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3197280,
+    "name": "Kriška Gora",
+    "latitude": 46.35417,
+    "longitude": 14.34389,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3197243,
+    "name": "Kriz",
+    "latitude": 46.3,
+    "longitude": 14.65,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3197226,
+    "name": "Križevci pri Ljutomeru",
+    "latitude": 46.56833,
+    "longitude": 16.13861,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3197216,
+    "name": "Križna Gora",
+    "latitude": 45.73917,
+    "longitude": 14.45472,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3197189,
+    "name": "Krn",
+    "latitude": 46.26633,
+    "longitude": 13.65843,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6931140,
+    "name": "Krnčica",
+    "latitude": 46.28184,
+    "longitude": 13.65067,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3197183,
+    "name": "Krnes",
+    "latitude": 46.41667,
+    "longitude": 14.86667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3218488,
+    "name": "Kronska Gora",
+    "latitude": 46.5775,
+    "longitude": 15.07222,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3197147,
+    "name": "Krško",
+    "latitude": 45.95915,
+    "longitude": 15.49167,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3197048,
+    "name": "Krvavec",
+    "latitude": 46.3,
+    "longitude": 14.53333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3218285,
+    "name": "Kser",
+    "latitude": 46.26104,
+    "longitude": 13.75647,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3197032,
+    "name": "Kucelj",
+    "latitude": 45.99111,
+    "longitude": 14.73694,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3197007,
+    "name": "Kuk",
+    "latitude": 46.26605,
+    "longitude": 13.75144,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3219955,
+    "name": "Kukel",
+    "latitude": 46.21083,
+    "longitude": 15.05972,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3196958,
+    "name": "Kum",
+    "latitude": 46.1,
+    "longitude": 15.08333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3196897,
+    "name": "Kurji Vrh",
+    "latitude": 46.46528,
+    "longitude": 13.81222,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3196842,
+    "name": "Kuzma",
+    "latitude": 46.83509,
+    "longitude": 16.08072,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3203921,
+    "name": "Lake Bled",
+    "latitude": 46.36389,
+    "longitude": 14.09694,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3203807,
+    "name": "Lake Bohinj",
+    "latitude": 46.28556,
+    "longitude": 13.86194,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3218222,
+    "name": "Lamprehtov Vrh",
+    "latitude": 46.52732,
+    "longitude": 15.37508,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11494715,
+    "name": "Lašček",
+    "latitude": 46.05424,
+    "longitude": 13.78261,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3196760,
+    "name": "Laško",
+    "latitude": 46.15463,
+    "longitude": 15.23555,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3339263,
+    "name": "Ledavsko Jezero",
+    "latitude": 46.75472,
+    "longitude": 16.04722,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3196682,
+    "name": "Lenart v Slovenskih Goricah",
+    "latitude": 46.57676,
+    "longitude": 15.83172,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3196681,
+    "name": "Lendava",
+    "latitude": 46.56494,
+    "longitude": 16.45091,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3218750,
+    "name": "Leskov Vrh",
+    "latitude": 45.65861,
+    "longitude": 14.45028,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3218745,
+    "name": "Leskova Dolina",
+    "latitude": 45.62139,
+    "longitude": 14.46056,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3196561,
+    "name": "Limberk",
+    "latitude": 45.89333,
+    "longitude": 14.67083,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8629673,
+    "name": "Lipanski vrh",
+    "latitude": 46.3778,
+    "longitude": 13.9196,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3196495,
+    "name": "Lipovec",
+    "latitude": 45.48333,
+    "longitude": 15.11667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3196425,
+    "name": "Litija",
+    "latitude": 46.06038,
+    "longitude": 14.8218,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3217162,
+    "name": "Ljubela",
+    "latitude": 46.39778,
+    "longitude": 15.12111,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3196359,
+    "name": "Ljubljana",
+    "latitude": 46.05108,
+    "longitude": 14.50513,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3196347,
+    "name": "Ljubljanski Vrh",
+    "latitude": 45.92972,
+    "longitude": 14.29694,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3196338,
+    "name": "Ljubno ob Savinji",
+    "latitude": 46.34358,
+    "longitude": 14.83377,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3196307,
+    "name": "Ljutomer",
+    "latitude": 46.51765,
+    "longitude": 16.19817,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3218907,
+    "name": "Logatec",
+    "latitude": 45.9168,
+    "longitude": 14.22652,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3196376,
+    "name": "Loibl Pass",
+    "latitude": 46.43333,
+    "longitude": 14.26667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3196234,
+    "name": "Lomniki",
+    "latitude": 46.05,
+    "longitude": 14.66667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3196165,
+    "name": "Lovrenc na Pohorju",
+    "latitude": 46.54134,
+    "longitude": 15.39166,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3196139,
+    "name": "Lubnik",
+    "latitude": 46.16667,
+    "longitude": 14.26667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3196133,
+    "name": "Luče",
+    "latitude": 46.35496,
+    "longitude": 14.7476,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3343512,
+    "name": "Lucija",
+    "latitude": 45.50526,
+    "longitude": 13.6024,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3218184,
+    "name": "Luknja",
+    "latitude": 46.39722,
+    "longitude": 13.81139,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3196049,
+    "name": "Lukovica pri Domžalah",
+    "latitude": 46.16988,
+    "longitude": 14.69179,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6931153,
+    "name": "M. Spicje",
+    "latitude": 46.35214,
+    "longitude": 13.78258,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3195973,
+    "name": "Mačkovec",
+    "latitude": 45.83722,
+    "longitude": 14.52111,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3195898,
+    "name": "Majšperk",
+    "latitude": 46.35034,
+    "longitude": 15.73412,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3195883,
+    "name": "Makole",
+    "latitude": 46.31638,
+    "longitude": 15.66632,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3195854,
+    "name": "Mala Gora",
+    "latitude": 45.70194,
+    "longitude": 14.8475,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3195838,
+    "name": "Mala Kopa",
+    "latitude": 46.51667,
+    "longitude": 15.2,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3195816,
+    "name": "Mala Ostrica",
+    "latitude": 45.585,
+    "longitude": 14.35361,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6940956,
+    "name": "Mali Draski Vrh",
+    "latitude": 46.36295,
+    "longitude": 13.8917,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3195716,
+    "name": "Mali Goljaki",
+    "latitude": 45.97308,
+    "longitude": 13.87912,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3195699,
+    "name": "Mali Javornik",
+    "latitude": 46.06667,
+    "longitude": 15.41667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3195665,
+    "name": "Mali Modrosovec",
+    "latitude": 45.94667,
+    "longitude": 13.85194,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3195618,
+    "name": "Mali Snežnik",
+    "latitude": 45.58778,
+    "longitude": 14.44528,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3195616,
+    "name": "Mali Stol",
+    "latitude": 46.43333,
+    "longitude": 14.16667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3174089,
+    "name": "Mangrt",
+    "latitude": 46.43954,
+    "longitude": 13.65489,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3195506,
+    "name": "Maribor",
+    "latitude": 46.55583,
+    "longitude": 15.64593,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3195504,
+    "name": "Mariborski Otok",
+    "latitude": 46.56667,
+    "longitude": 15.61667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3195460,
+    "name": "Markovci",
+    "latitude": 46.39557,
+    "longitude": 15.92831,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3195389,
+    "name": "Matajur",
+    "latitude": 46.21667,
+    "longitude": 13.53333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3195321,
+    "name": "Medji Dol",
+    "latitude": 46.45,
+    "longitude": 14.13333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3195287,
+    "name": "Medvedov Vrh",
+    "latitude": 46.29889,
+    "longitude": 13.81972,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3195281,
+    "name": "Medvode",
+    "latitude": 46.1422,
+    "longitude": 14.41114,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3195250,
+    "name": "Mengeš",
+    "latitude": 46.16859,
+    "longitude": 14.57442,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3195214,
+    "name": "Metlika",
+    "latitude": 45.64983,
+    "longitude": 15.31333,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3195210,
+    "name": "Metulov Vrh",
+    "latitude": 46.41667,
+    "longitude": 15.13333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3195202,
+    "name": "Mežica",
+    "latitude": 46.5203,
+    "longitude": 14.85307,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3195162,
+    "name": "Miklavž na Dravskem Polju",
+    "latitude": 46.50613,
+    "longitude": 15.69704,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3195146,
+    "name": "Milanka",
+    "latitude": 45.60111,
+    "longitude": 14.27944,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3195054,
+    "name": "Miren",
+    "latitude": 45.8954,
+    "longitude": 13.60815,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3195041,
+    "name": "Mirna",
+    "latitude": 45.95166,
+    "longitude": 15.0619,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3195037,
+    "name": "Mirna Gora",
+    "latitude": 45.63333,
+    "longitude": 15.09667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3195036,
+    "name": "Mirna Peč",
+    "latitude": 45.85944,
+    "longitude": 15.08307,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6931142,
+    "name": "Mišeljski konec",
+    "latitude": 46.35488,
+    "longitude": 13.81807,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3195011,
+    "name": "Mislinja",
+    "latitude": 46.44141,
+    "longitude": 15.20027,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3217126,
+    "name": "Mizni Vrh",
+    "latitude": 46.495,
+    "longitude": 15.43528,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3217424,
+    "name": "Mlašk Vrh",
+    "latitude": 46.34972,
+    "longitude": 14.7825,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3194915,
+    "name": "Mokrec",
+    "latitude": 45.89028,
+    "longitude": 14.52556,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3194904,
+    "name": "Mokronog",
+    "latitude": 45.93901,
+    "longitude": 15.13938,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3217355,
+    "name": "Molakov Vrh",
+    "latitude": 46.46,
+    "longitude": 14.98917,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7302421,
+    "name": "Monte Lopa",
+    "latitude": 46.37003,
+    "longitude": 13.49344,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3194873,
+    "name": "Moravče",
+    "latitude": 46.13694,
+    "longitude": 14.745,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3194871,
+    "name": "Moravske Toplice",
+    "latitude": 46.68313,
+    "longitude": 16.2208,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7534280,
+    "name": "Mošančarski hrib",
+    "latitude": 45.96487,
+    "longitude": 13.87689,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3194795,
+    "name": "Mož",
+    "latitude": 45.54917,
+    "longitude": 14.74528,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3194792,
+    "name": "Mozirje",
+    "latitude": 46.33829,
+    "longitude": 14.96495,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3194757,
+    "name": "Mravljakov Vrh",
+    "latitude": 46.56667,
+    "longitude": 15.13333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3194701,
+    "name": "Mrzla Gora",
+    "latitude": 46.36667,
+    "longitude": 14.58333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3194697,
+    "name": "Mrzli Vrh",
+    "latitude": 46.21972,
+    "longitude": 13.69861,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3194699,
+    "name": "Mrzlica",
+    "latitude": 46.18333,
+    "longitude": 15.1,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3194691,
+    "name": "Mrzovec",
+    "latitude": 45.98083,
+    "longitude": 13.80639,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3218125,
+    "name": "Munca",
+    "latitude": 46.48889,
+    "longitude": 13.97028,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3194648,
+    "name": "Murska Sobota",
+    "latitude": 46.66264,
+    "longitude": 16.16643,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3194622,
+    "name": "Muta",
+    "latitude": 46.6116,
+    "longitude": 15.16624,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3194595,
+    "name": "Naklo",
+    "latitude": 46.27348,
+    "longitude": 14.3173,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8358612,
+    "name": "Nazarje",
+    "latitude": 46.319,
+    "longitude": 14.95012,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3194452,
+    "name": "Nova Gorica",
+    "latitude": 45.95604,
+    "longitude": 13.64837,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3194403,
+    "name": "Nova Vas",
+    "latitude": 45.77272,
+    "longitude": 14.5065,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3190334,
+    "name": "Novaška Gora",
+    "latitude": 45.88444,
+    "longitude": 14.42056,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3194351,
+    "name": "Novo Mesto",
+    "latitude": 45.80397,
+    "longitude": 15.16886,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3187329,
+    "name": "Oblo brdo",
+    "latitude": 46.28936,
+    "longitude": 13.64403,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3217358,
+    "name": "Obretanov Vrh",
+    "latitude": 46.49639,
+    "longitude": 14.93222,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3194213,
+    "name": "Odranci",
+    "latitude": 46.58637,
+    "longitude": 16.27966,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3194178,
+    "name": "Ojstrica",
+    "latitude": 46.36378,
+    "longitude": 14.63844,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3194169,
+    "name": "Oklinak",
+    "latitude": 45.73333,
+    "longitude": 15.26667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3194160,
+    "name": "Okražnik",
+    "latitude": 45.51667,
+    "longitude": 15.11667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3194131,
+    "name": "Olševa",
+    "latitude": 46.43333,
+    "longitude": 14.68333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3194086,
+    "name": "Oplotnica",
+    "latitude": 46.38733,
+    "longitude": 15.44583,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3194032,
+    "name": "Oražev Krib",
+    "latitude": 46.45,
+    "longitude": 14.81667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3193965,
+    "name": "Ormož",
+    "latitude": 46.4121,
+    "longitude": 16.1522,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3193930,
+    "name": "Osilnica",
+    "latitude": 45.52914,
+    "longitude": 14.69838,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3193628,
+    "name": "Parg",
+    "latitude": 45.62417,
+    "longitude": 14.64361,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3217793,
+    "name": "Partizanski Vrh",
+    "latitude": 46.27472,
+    "longitude": 14.14306,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3214822,
+    "name": "Pasja Ravan",
+    "latitude": 46.09944,
+    "longitude": 14.23139,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3192559,
+    "name": "Passo del Predil",
+    "latitude": 46.41849,
+    "longitude": 13.57818,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3193596,
+    "name": "Pastirk Sattel",
+    "latitude": 46.43333,
+    "longitude": 14.63333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3193463,
+    "name": "Pesnica",
+    "latitude": 46.60694,
+    "longitude": 15.67667,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3193449,
+    "name": "Petelinjek",
+    "latitude": 45.67722,
+    "longitude": 14.55222,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3193448,
+    "name": "Petelinsko Jezero",
+    "latitude": 45.70583,
+    "longitude": 14.21917,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7534278,
+    "name": "Petrov hrib",
+    "latitude": 45.9675,
+    "longitude": 13.84689,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3193341,
+    "name": "Piran",
+    "latitude": 45.52778,
+    "longitude": 13.57056,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3193299,
+    "name": "Pivka",
+    "latitude": 45.68292,
+    "longitude": 14.19588,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3193251,
+    "name": "Planinica",
+    "latitude": 46.05,
+    "longitude": 13.88333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3217540,
+    "name": "Planjava",
+    "latitude": 46.35629,
+    "longitude": 14.614,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3187468,
+    "name": "Plaski Vogel",
+    "latitude": 46.33796,
+    "longitude": 13.75036,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3193281,
+    "name": "Platsch",
+    "latitude": 46.68333,
+    "longitude": 15.63333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3193206,
+    "name": "Pleša",
+    "latitude": 46.33333,
+    "longitude": 14.03333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3193200,
+    "name": "Plešič",
+    "latitude": 46.495,
+    "longitude": 15.31778,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3193198,
+    "name": "Plešivec",
+    "latitude": 46.48333,
+    "longitude": 14.96667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3216584,
+    "name": "Podbreška Sopada",
+    "latitude": 45.72167,
+    "longitude": 13.92194,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3193075,
+    "name": "Podčetrtek",
+    "latitude": 46.15678,
+    "longitude": 15.59692,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3192986,
+    "name": "Podlehnik",
+    "latitude": 46.33542,
+    "longitude": 15.87909,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6931137,
+    "name": "Podrta gora",
+    "latitude": 46.26103,
+    "longitude": 13.7695,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3192899,
+    "name": "Podvelka",
+    "latitude": 46.58838,
+    "longitude": 15.3279,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3218015,
+    "name": "Police",
+    "latitude": 46.40333,
+    "longitude": 14.01611,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3192802,
+    "name": "Poljčane",
+    "latitude": 46.31428,
+    "longitude": 15.57808,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3192762,
+    "name": "Polzela",
+    "latitude": 46.28363,
+    "longitude": 15.06508,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3192693,
+    "name": "Porezen",
+    "latitude": 46.17667,
+    "longitude": 13.97472,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3192673,
+    "name": "Postojna",
+    "latitude": 45.77435,
+    "longitude": 14.21528,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3216528,
+    "name": "Potegle",
+    "latitude": 45.9525,
+    "longitude": 13.92556,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3192586,
+    "name": "Praprotno Brdo",
+    "latitude": 46.05,
+    "longitude": 14.05,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3192570,
+    "name": "Prebold",
+    "latitude": 46.23664,
+    "longitude": 15.09259,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3192560,
+    "name": "Preddvor",
+    "latitude": 46.30262,
+    "longitude": 14.42215,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3192487,
+    "name": "Prestreljenik",
+    "latitude": 46.36177,
+    "longitude": 13.47207,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3192484,
+    "name": "Prevalje",
+    "latitude": 46.54703,
+    "longitude": 14.92023,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3192362,
+    "name": "Prisojnik",
+    "latitude": 46.4255,
+    "longitude": 13.774,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3192241,
+    "name": "Ptuj",
+    "latitude": 46.42005,
+    "longitude": 15.87018,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3339202,
+    "name": "Ptujsko Jezero",
+    "latitude": 46.39528,
+    "longitude": 15.90417,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3192230,
+    "name": "Puconci",
+    "latitude": 46.70465,
+    "longitude": 16.15726,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6931164,
+    "name": "R.",
+    "latitude": 46.38214,
+    "longitude": 13.85894,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3192165,
+    "name": "Rače",
+    "latitude": 46.45225,
+    "longitude": 15.68095,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3192144,
+    "name": "Radeče",
+    "latitude": 46.06551,
+    "longitude": 15.18206,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3192139,
+    "name": "Radenci",
+    "latitude": 46.64201,
+    "longitude": 16.03781,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3192121,
+    "name": "Radlje ob Dravi",
+    "latitude": 46.61527,
+    "longitude": 15.22472,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3192063,
+    "name": "Radovljica",
+    "latitude": 46.34347,
+    "longitude": 14.17547,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3192056,
+    "name": "Raduha",
+    "latitude": 46.41667,
+    "longitude": 14.75,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3191839,
+    "name": "Ravne na Koroškem",
+    "latitude": 46.54315,
+    "longitude": 14.97053,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3215453,
+    "name": "Razkrižje",
+    "latitude": 46.52183,
+    "longitude": 16.27877,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3191777,
+    "name": "Razor",
+    "latitude": 46.41182,
+    "longitude": 13.79172,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3191768,
+    "name": "Rdečki Vrh",
+    "latitude": 46.45,
+    "longitude": 15.06667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3191756,
+    "name": "Rečica ob Savinji",
+    "latitude": 46.31667,
+    "longitude": 14.91667,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3191716,
+    "name": "Reška Planina",
+    "latitude": 46.21667,
+    "longitude": 15.06667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3191685,
+    "name": "Ribnica",
+    "latitude": 45.73861,
+    "longitude": 14.7275,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3191678,
+    "name": "Ribnica na Pohorju",
+    "latitude": 46.535,
+    "longitude": 15.27278,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3191675,
+    "name": "Ribniško Jezero",
+    "latitude": 46.5,
+    "longitude": 15.26667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3191611,
+    "name": "Rjavina",
+    "latitude": 46.39238,
+    "longitude": 13.88199,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3191595,
+    "name": "Rodica",
+    "latitude": 46.22861,
+    "longitude": 13.86611,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3191580,
+    "name": "Rogaška Slatina",
+    "latitude": 46.23733,
+    "longitude": 15.63912,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3191579,
+    "name": "Rogašovci",
+    "latitude": 46.79781,
+    "longitude": 16.03608,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3191578,
+    "name": "Rogatec",
+    "latitude": 46.22771,
+    "longitude": 15.69861,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3191572,
+    "name": "Rogla",
+    "latitude": 46.4527,
+    "longitude": 15.33219,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3191549,
+    "name": "Rombon",
+    "latitude": 46.36667,
+    "longitude": 13.56667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3216209,
+    "name": "Rožič",
+    "latitude": 45.57222,
+    "longitude": 13.955,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3191401,
+    "name": "Ruše",
+    "latitude": 46.54013,
+    "longitude": 15.5179,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3191378,
+    "name": "Rzelj",
+    "latitude": 46.06667,
+    "longitude": 13.91667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3191329,
+    "name": "Šalovci",
+    "latitude": 46.82412,
+    "longitude": 16.29779,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3191298,
+    "name": "Sanntaler Sattel",
+    "latitude": 46.36667,
+    "longitude": 14.56667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3339128,
+    "name": "Selnica ob Dravi",
+    "latitude": 46.55176,
+    "longitude": 15.49289,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3191072,
+    "name": "Semič",
+    "latitude": 45.6465,
+    "longitude": 15.18145,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3191063,
+    "name": "Šempeter pri Gorici",
+    "latitude": 45.92927,
+    "longitude": 13.64125,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3191059,
+    "name": "Šenčur",
+    "latitude": 46.2471,
+    "longitude": 14.4203,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3191039,
+    "name": "Šentilj v Slov. Goricah",
+    "latitude": 46.68167,
+    "longitude": 15.64806,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3191033,
+    "name": "Šentjernej",
+    "latitude": 45.84207,
+    "longitude": 15.33412,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3191029,
+    "name": "Šentjur",
+    "latitude": 46.21722,
+    "longitude": 15.3975,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3191024,
+    "name": "Šentrupert na Dolenjskem",
+    "latitude": 45.97801,
+    "longitude": 15.093,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3190950,
+    "name": "Sevnica",
+    "latitude": 46.00792,
+    "longitude": 15.31646,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3190945,
+    "name": "Sežana",
+    "latitude": 45.70924,
+    "longitude": 13.87333,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6931168,
+    "name": "Šija",
+    "latitude": 46.23853,
+    "longitude": 13.83446,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3339205,
+    "name": "Škalsko Jezero",
+    "latitude": 46.37667,
+    "longitude": 15.10389,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3190732,
+    "name": "Škfje",
+    "latitude": 46.13806,
+    "longitude": 14.035,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3190722,
+    "name": "Škocjan",
+    "latitude": 45.90688,
+    "longitude": 15.29134,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3190717,
+    "name": "Škofja Loka",
+    "latitude": 46.16551,
+    "longitude": 14.30626,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3190712,
+    "name": "Škofljica",
+    "latitude": 45.98408,
+    "longitude": 14.5748,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3190699,
+    "name": "Skorno",
+    "latitude": 46.38333,
+    "longitude": 15.01667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3218290,
+    "name": "Škrbina",
+    "latitude": 46.25719,
+    "longitude": 13.77539,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3190674,
+    "name": "Škrlatica",
+    "latitude": 46.43294,
+    "longitude": 13.82117,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7910280,
+    "name": "Skuta",
+    "latitude": 46.36323,
+    "longitude": 14.55818,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8605006,
+    "name": "Slap Boka",
+    "latitude": 46.3218,
+    "longitude": 13.481,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3191229,
+    "name": "Slap Savinje",
+    "latitude": 46.36667,
+    "longitude": 14.6,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3190592,
+    "name": "Slavnik",
+    "latitude": 45.53374,
+    "longitude": 13.97585,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3190536,
+    "name": "Slovenj Gradec",
+    "latitude": 46.51088,
+    "longitude": 15.08377,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3190534,
+    "name": "Slovenska Bistrica",
+    "latitude": 46.39309,
+    "longitude": 15.57347,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3190530,
+    "name": "Slovenske Konjice",
+    "latitude": 46.33735,
+    "longitude": 15.42329,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3190510,
+    "name": "Šmarje pri Jelšah",
+    "latitude": 46.22722,
+    "longitude": 15.51917,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3190506,
+    "name": "Šmarjeta",
+    "latitude": 45.88333,
+    "longitude": 15.25,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3338872,
+    "name": "Šmartinsko Jezero",
+    "latitude": 46.27861,
+    "longitude": 15.26694,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3190498,
+    "name": "Šmartno ob Paki",
+    "latitude": 46.33333,
+    "longitude": 15.03333,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3190495,
+    "name": "Šmartno pri Litiji",
+    "latitude": 46.04399,
+    "longitude": 14.84482,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3190473,
+    "name": "Smodivnik",
+    "latitude": 46.4,
+    "longitude": 15.16667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3218915,
+    "name": "Smrežnica",
+    "latitude": 45.68444,
+    "longitude": 14.35056,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3190391,
+    "name": "Sodražica",
+    "latitude": 45.76133,
+    "longitude": 14.63574,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3190360,
+    "name": "Solčava",
+    "latitude": 46.41955,
+    "longitude": 14.69369,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3190311,
+    "name": "Šoštanj",
+    "latitude": 46.38,
+    "longitude": 15.04861,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3339204,
+    "name": "Šoštanjsko Jezero",
+    "latitude": 46.37556,
+    "longitude": 15.06333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3216535,
+    "name": "Špičasti Vrh",
+    "latitude": 45.93083,
+    "longitude": 13.99778,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3190276,
+    "name": "Spiček",
+    "latitude": 46.03333,
+    "longitude": 15.65,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8629668,
+    "name": "Špik",
+    "latitude": 46.3532,
+    "longitude": 13.8842,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3190219,
+    "name": "Spodnje Hoče",
+    "latitude": 46.49956,
+    "longitude": 15.64886,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3190199,
+    "name": "Spodnji Duplek",
+    "latitude": 46.50362,
+    "longitude": 15.74523,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3190081,
+    "name": "Srebotnik",
+    "latitude": 45.92917,
+    "longitude": 14.39583,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3190150,
+    "name": "Središče ob Dravi",
+    "latitude": 46.39417,
+    "longitude": 16.26806,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3217715,
+    "name": "Srednji Vrh",
+    "latitude": 46.34083,
+    "longitude": 14.44083,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3189917,
+    "name": "Starše",
+    "latitude": 46.46583,
+    "longitude": 15.76722,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3189896,
+    "name": "Stegovnik",
+    "latitude": 46.3951,
+    "longitude": 14.4201,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6934867,
+    "name": "Steinberg = Kamnik",
+    "latitude": 46.5175,
+    "longitude": 13.77639,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3189826,
+    "name": "Stol",
+    "latitude": 46.27884,
+    "longitude": 13.45814,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3189798,
+    "name": "Štore",
+    "latitude": 46.22083,
+    "longitude": 15.31389,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3189796,
+    "name": "Storžič",
+    "latitude": 46.35111,
+    "longitude": 14.40417,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3217128,
+    "name": "Stranski Vrh",
+    "latitude": 46.45944,
+    "longitude": 15.43333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3200385,
+    "name": "Straža",
+    "latitude": 45.78115,
+    "longitude": 15.07571,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3218987,
+    "name": "Streliški Vrh",
+    "latitude": 45.8725,
+    "longitude": 14.08583,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3189690,
+    "name": "Strojna",
+    "latitude": 46.6,
+    "longitude": 14.9,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3189403,
+    "name": "Sv. Ana v Slov. Goricah",
+    "latitude": 46.64917,
+    "longitude": 15.84417,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3199685,
+    "name": "Sv. Trojica v Slov. Goricah",
+    "latitude": 46.57667,
+    "longitude": 15.87694,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6695593,
+    "name": "Sv. Uršula",
+    "latitude": 46.28078,
+    "longitude": 15.41463,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3189383,
+    "name": "Sveta Trojica",
+    "latitude": 45.72694,
+    "longitude": 14.27528,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3189342,
+    "name": "Sveti Ilija",
+    "latitude": 45.53333,
+    "longitude": 15.01667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3198549,
+    "name": "Sveti Jurij",
+    "latitude": 46.5695,
+    "longitude": 16.02347,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3189014,
+    "name": "Sveti Tomaž",
+    "latitude": 46.48351,
+    "longitude": 16.07912,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3189245,
+    "name": "Svinjak",
+    "latitude": 46.35306,
+    "longitude": 13.62444,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3189227,
+    "name": "Tabor",
+    "latitude": 46.23464,
+    "longitude": 15.01671,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6934845,
+    "name": "Techantinger Mit­tagskogel",
+    "latitude": 46.51528,
+    "longitude": 13.86028,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3220200,
+    "name": "Ter",
+    "latitude": 45.75778,
+    "longitude": 13.9675,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3189098,
+    "name": "Tišina",
+    "latitude": 46.65415,
+    "longitude": 16.09363,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3189038,
+    "name": "Tolmin",
+    "latitude": 46.18304,
+    "longitude": 13.73321,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3189029,
+    "name": "Tolsti Vrh",
+    "latitude": 46.43333,
+    "longitude": 14.95,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6931135,
+    "name": "Tosc",
+    "latitude": 46.35685,
+    "longitude": 13.86838,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3188915,
+    "name": "Trbovlje",
+    "latitude": 46.1541,
+    "longitude": 15.05178,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3188908,
+    "name": "Trdinov Vrh",
+    "latitude": 45.7598,
+    "longitude": 15.31872,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3188886,
+    "name": "Trebnje",
+    "latitude": 45.90424,
+    "longitude": 15.02238,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3188835,
+    "name": "Triglav",
+    "latitude": 46.37823,
+    "longitude": 13.83671,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3188834,
+    "name": "Triglav National Park",
+    "latitude": 46.33333,
+    "longitude": 13.76667,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3188767,
+    "name": "Trnovska Vas",
+    "latitude": 46.52019,
+    "longitude": 15.88657,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3188722,
+    "name": "Trstelj",
+    "latitude": 45.85917,
+    "longitude": 13.70417,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3188719,
+    "name": "Trstenik",
+    "latitude": 45.48556,
+    "longitude": 14.14861,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3188688,
+    "name": "Tržič",
+    "latitude": 46.36357,
+    "longitude": 14.31046,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3188684,
+    "name": "Trzin",
+    "latitude": 46.13637,
+    "longitude": 14.56167,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3188606,
+    "name": "Turnišče",
+    "latitude": 46.62572,
+    "longitude": 16.31392,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6931166,
+    "name": "V. Draški vrh.",
+    "latitude": 46.36015,
+    "longitude": 13.8759,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6931154,
+    "name": "V. Spicje",
+    "latitude": 46.34404,
+    "longitude": 13.76672,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3195090,
+    "name": "Vela Milanja",
+    "latitude": 45.58889,
+    "longitude": 14.32528,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3189075,
+    "name": "Velenje",
+    "latitude": 46.35719,
+    "longitude": 15.11277,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3339203,
+    "name": "Velenjsko Jezero",
+    "latitude": 46.37444,
+    "longitude": 15.08889,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3218381,
+    "name": "Veli Vrh",
+    "latitude": 46.10778,
+    "longitude": 13.78222,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3188245,
+    "name": "Velika Gora",
+    "latitude": 45.69361,
+    "longitude": 14.67972,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3188223,
+    "name": "Velika Kopa",
+    "latitude": 46.52611,
+    "longitude": 15.17611,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3194921,
+    "name": "Velika Mojstrovka",
+    "latitude": 46.43715,
+    "longitude": 13.72637,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3193849,
+    "name": "Velika Ostrica",
+    "latitude": 45.59056,
+    "longitude": 14.34694,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3188186,
+    "name": "Velika Planina",
+    "latitude": 46.3,
+    "longitude": 14.66667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3188181,
+    "name": "Velika Polana",
+    "latitude": 46.57215,
+    "longitude": 16.3472,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3188163,
+    "name": "Velika Špica",
+    "latitude": 46.11667,
+    "longitude": 15.33333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3218295,
+    "name": "Velika Vrata",
+    "latitude": 46.31948,
+    "longitude": 13.74422,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3188130,
+    "name": "Velike Kozje",
+    "latitude": 46.08333,
+    "longitude": 15.21667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3188128,
+    "name": "Velike Lašče",
+    "latitude": 45.83371,
+    "longitude": 14.63636,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7534277,
+    "name": "Veliki Golak",
+    "latitude": 45.97853,
+    "longitude": 13.8641,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3188069,
+    "name": "Veliki Javornik",
+    "latitude": 46.06667,
+    "longitude": 15.43333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3216521,
+    "name": "Veliki Rob",
+    "latitude": 45.93694,
+    "longitude": 13.79972,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3188002,
+    "name": "Veliki Rogatec",
+    "latitude": 46.31667,
+    "longitude": 14.75,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8629670,
+    "name": "Veliki Selišnik",
+    "latitude": 46.366,
+    "longitude": 13.9031,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3218167,
+    "name": "Veliki Snežni Vrh",
+    "latitude": 46.39639,
+    "longitude": 13.61028,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3190422,
+    "name": "Veliki Snežnik",
+    "latitude": 45.58194,
+    "longitude": 14.46333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3187963,
+    "name": "Veliki Vrh",
+    "latitude": 46.46667,
+    "longitude": 14.11667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3187940,
+    "name": "Veliko Gradišče",
+    "latitude": 45.64028,
+    "longitude": 13.92694,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8629667,
+    "name": "Vernar",
+    "latitude": 46.3612,
+    "longitude": 13.8615,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3187840,
+    "name": "Veržej",
+    "latitude": 46.58327,
+    "longitude": 16.16403,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3187822,
+    "name": "Vežica",
+    "latitude": 46.35,
+    "longitude": 14.65,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3187813,
+    "name": "Videm",
+    "latitude": 45.84979,
+    "longitude": 14.69429,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3339111,
+    "name": "Videm pri Ptuju",
+    "latitude": 46.36867,
+    "longitude": 15.90628,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10630044,
+    "name": "Viltus",
+    "latitude": 46.62283,
+    "longitude": 15.45043,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3187724,
+    "name": "Vinji Vrh",
+    "latitude": 45.86722,
+    "longitude": 14.37139,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3187710,
+    "name": "Vintgar",
+    "latitude": 46.4,
+    "longitude": 14.1,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3187706,
+    "name": "Vipava",
+    "latitude": 45.84594,
+    "longitude": 13.96226,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8629669,
+    "name": "Viševnik",
+    "latitude": 46.359,
+    "longitude": 13.8983,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6931163,
+    "name": "Visoki Rokav",
+    "latitude": 46.43545,
+    "longitude": 13.82838,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3187611,
+    "name": "Visoki Vrh",
+    "latitude": 46.49028,
+    "longitude": 13.89806,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3187598,
+    "name": "Vitanje",
+    "latitude": 46.38335,
+    "longitude": 15.29715,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3187575,
+    "name": "Vitomarci",
+    "latitude": 46.5275,
+    "longitude": 15.93944,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3216134,
+    "name": "Vivodnik",
+    "latitude": 46.25889,
+    "longitude": 14.81806,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3187485,
+    "name": "Vodice",
+    "latitude": 46.18987,
+    "longitude": 14.49492,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3187469,
+    "name": "Vogel",
+    "latitude": 46.23853,
+    "longitude": 13.81228,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3187448,
+    "name": "Vojnik",
+    "latitude": 46.29328,
+    "longitude": 15.3036,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3187411,
+    "name": "Volovica",
+    "latitude": 46.45,
+    "longitude": 15.28333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3187400,
+    "name": "Vošca",
+    "latitude": 46.5,
+    "longitude": 13.81667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3187336,
+    "name": "Vransko",
+    "latitude": 46.24436,
+    "longitude": 14.95098,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6931177,
+    "name": "Vratca",
+    "latitude": 46.23869,
+    "longitude": 13.82759,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3187238,
+    "name": "Vremščica",
+    "latitude": 45.68778,
+    "longitude": 14.06259,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3187236,
+    "name": "Vrenski Zob",
+    "latitude": 46.16667,
+    "longitude": 15.53333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3218914,
+    "name": "Vrh Jeplenči",
+    "latitude": 45.71556,
+    "longitude": 14.32028,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6931138,
+    "name": "Vrh nad Škrbino",
+    "latitude": 46.25462,
+    "longitude": 13.78003,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8629672,
+    "name": "Vrh Razora",
+    "latitude": 46.3761,
+    "longitude": 13.9134,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6931141,
+    "name": "Vrh Zelenic",
+    "latitude": 46.37796,
+    "longitude": 13.8223,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3187214,
+    "name": "Vrhnika",
+    "latitude": 45.9635,
+    "longitude": 14.29484,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3187170,
+    "name": "Vrlaski Vrh",
+    "latitude": 46.455,
+    "longitude": 13.89167,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3214655,
+    "name": "Vršič",
+    "latitude": 45.49583,
+    "longitude": 14.86139,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3187020,
+    "name": "Vuzenica",
+    "latitude": 46.59662,
+    "longitude": 15.16346,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6931136,
+    "name": "Zabiški Kuk",
+    "latitude": 46.22896,
+    "longitude": 13.80404,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3186906,
+    "name": "Zagorje ob Savi",
+    "latitude": 46.13179,
+    "longitude": 14.99694,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3343610,
+    "name": "Zagorsko Jezero",
+    "latitude": 45.65278,
+    "longitude": 14.24222,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3186844,
+    "name": "Žalec",
+    "latitude": 46.25151,
+    "longitude": 15.16482,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3186732,
+    "name": "Zatrep",
+    "latitude": 45.54944,
+    "longitude": 14.39778,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3218165,
+    "name": "Žavcerjev Vrh",
+    "latitude": 46.6,
+    "longitude": 15.56639,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3186705,
+    "name": "Zavrč",
+    "latitude": 46.39048,
+    "longitude": 16.05004,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8629666,
+    "name": "Žbajnek",
+    "latitude": 46.2427,
+    "longitude": 14.05,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6931139,
+    "name": "Zeleni vrh",
+    "latitude": 46.26073,
+    "longitude": 13.76313,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3186607,
+    "name": "Železniki",
+    "latitude": 46.22482,
+    "longitude": 14.17205,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3186557,
+    "name": "Žetale",
+    "latitude": 46.27356,
+    "longitude": 15.82658,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3186543,
+    "name": "Zgornja Hajdina",
+    "latitude": 46.40609,
+    "longitude": 15.83837,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3186538,
+    "name": "Zgornja Kungota",
+    "latitude": 46.63867,
+    "longitude": 15.61489,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3186514,
+    "name": "Zgornje Gorje",
+    "latitude": 46.37962,
+    "longitude": 14.06937,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3186509,
+    "name": "Zgornje Jezersko",
+    "latitude": 46.3941,
+    "longitude": 14.50659,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3186465,
+    "name": "Žigertov Vrh",
+    "latitude": 46.5,
+    "longitude": 15.48333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3186450,
+    "name": "Žiri",
+    "latitude": 46.04405,
+    "longitude": 14.10736,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7871009,
+    "name": "Žovneško jezero",
+    "latitude": 46.27185,
+    "longitude": 15.02275,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3339120,
+    "name": "Zreče",
+    "latitude": 46.38222,
+    "longitude": 15.37917,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3187953,
+    "name": "Županšček",
+    "latitude": 45.73278,
+    "longitude": 14.51611,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3186270,
+    "name": "Žužemberk",
+    "latitude": 45.83376,
+    "longitude": 14.92804,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  }
+]

@@ -1,0 +1,1292 @@
+[
+  {
+    "geonameId": 241457,
+    "name": "African Islands",
+    "latitude": -4.89728,
+    "longitude": 53.3848,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241448,
+    "name": "Anse Boileau",
+    "latitude": -4.71667,
+    "longitude": 55.48333,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241443,
+    "name": "Anse Royale",
+    "latitude": -4.73333,
+    "longitude": 55.51667,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241440,
+    "name": "Assumption Island",
+    "latitude": -9.72873,
+    "longitude": 46.51637,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 936200,
+    "name": "Astove Island",
+    "latitude": -10.1,
+    "longitude": 47.75,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 936199,
+    "name": "Atoll de Farquhar",
+    "latitude": -10.16667,
+    "longitude": 51.16667,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6691843,
+    "name": "Baie Sainte Anne",
+    "latitude": -4.31997,
+    "longitude": 55.75338,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241429,
+    "name": "Beacon Island",
+    "latitude": -4.61366,
+    "longitude": 55.52379,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241427,
+    "name": "Beau Vallon",
+    "latitude": -4.62091,
+    "longitude": 55.43015,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241423,
+    "name": "Bel Ombre",
+    "latitude": -4.61667,
+    "longitude": 55.41667,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241422,
+    "name": "Benjamen Island",
+    "latitude": -5.44073,
+    "longitude": 53.34726,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241420,
+    "name": "Bijoutier Island",
+    "latitude": -7.06667,
+    "longitude": 52.75,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241419,
+    "name": "Bird Island",
+    "latitude": -3.72089,
+    "longitude": 55.20608,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241413,
+    "name": "Boudeuse Cay",
+    "latitude": -6.08905,
+    "longitude": 52.83235,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241395,
+    "name": "Cascade",
+    "latitude": -4.66915,
+    "longitude": 55.49952,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241391,
+    "name": "Cascassaye Island",
+    "latitude": -5.45,
+    "longitude": 53.36667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241388,
+    "name": "Castle Peak",
+    "latitude": -4.48333,
+    "longitude": 55.23333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241386,
+    "name": "Cerf Island",
+    "latitude": -9.53333,
+    "longitude": 50.98333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241382,
+    "name": "Chauve Souris Island",
+    "latitude": -4.73333,
+    "longitude": 55.46667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241379,
+    "name": "Chien Island",
+    "latitude": -5.45003,
+    "longitude": 53.34739,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241375,
+    "name": "Coconut Islet",
+    "latitude": -9.40732,
+    "longitude": 46.44719,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241373,
+    "name": "Coëtivy",
+    "latitude": -7.12951,
+    "longitude": 56.28262,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241371,
+    "name": "Conception Island",
+    "latitude": -4.66377,
+    "longitude": 55.3659,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241366,
+    "name": "Cosmoledo Atoll",
+    "latitude": -9.71667,
+    "longitude": 47.58333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241364,
+    "name": "Cousin",
+    "latitude": -4.31667,
+    "longitude": 55.65,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241362,
+    "name": "Cousin Islands",
+    "latitude": -4.33333,
+    "longitude": 55.66667,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241363,
+    "name": "Cousine",
+    "latitude": -4.35001,
+    "longitude": 55.64693,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241361,
+    "name": "Curieuse",
+    "latitude": -4.28427,
+    "longitude": 55.72489,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241359,
+    "name": "D’Arros Island",
+    "latitude": -5.41436,
+    "longitude": 53.30252,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241325,
+    "name": "East Sister Island",
+    "latitude": -4.28983,
+    "longitude": 55.86881,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11962254,
+    "name": "Eden Island",
+    "latitude": -4.64059,
+    "longitude": 55.47804,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241348,
+    "name": "Étoile Cay",
+    "latitude": -5.88333,
+    "longitude": 53.01667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241347,
+    "name": "Euphrates Islet",
+    "latitude": -9.42717,
+    "longitude": 46.24974,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241345,
+    "name": "Félicité Island",
+    "latitude": -4.33333,
+    "longitude": 55.86667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241342,
+    "name": "Fouquet Island",
+    "latitude": -5.42321,
+    "longitude": 53.34134,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241340,
+    "name": "Frégate Island",
+    "latitude": -4.58621,
+    "longitude": 55.94068,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 936198,
+    "name": "Goelette Island",
+    "latitude": -10.21667,
+    "longitude": 51.13333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241126,
+    "name": "Grande Île",
+    "latitude": -9.74966,
+    "longitude": 47.64951,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241455,
+    "name": "Groupe d’Aldabra",
+    "latitude": -9.72259,
+    "longitude": 47.04071,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241454,
+    "name": "Île Alphonse",
+    "latitude": -7,
+    "longitude": 52.73333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241451,
+    "name": "Île Anonyme",
+    "latitude": -4.66465,
+    "longitude": 55.52306,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241441,
+    "name": "Île Aride",
+    "latitude": -4.21248,
+    "longitude": 55.66633,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241387,
+    "name": "Île au Cerf",
+    "latitude": -4.6337,
+    "longitude": 55.4993,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11791501,
+    "name": "Ile aux Aigrettes",
+    "latitude": -9.41345,
+    "longitude": 46.46766,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11791499,
+    "name": "Ile aux Cendres",
+    "latitude": -9.39324,
+    "longitude": 46.45723,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241204,
+    "name": "Île aux Rats",
+    "latitude": -4.66911,
+    "longitude": 55.53507,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241203,
+    "name": "Île aux Récifs",
+    "latitude": -4.58173,
+    "longitude": 55.76403,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241133,
+    "name": "Île aux Vaches",
+    "latitude": -4.68333,
+    "longitude": 55.43333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11791487,
+    "name": "Ile Baleine",
+    "latitude": -9.72445,
+    "longitude": 47.51084,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241404,
+    "name": "Île Cachée",
+    "latitude": -4.64064,
+    "longitude": 55.50501,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11791486,
+    "name": "Ile Chauve Souris",
+    "latitude": -9.71744,
+    "longitude": 47.5167,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241358,
+    "name": "Île Denis",
+    "latitude": -3.80521,
+    "longitude": 55.66718,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11791482,
+    "name": "Ile des Rats",
+    "latitude": -9.70541,
+    "longitude": 47.52815,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241356,
+    "name": "Île Desnœufs",
+    "latitude": -6.23429,
+    "longitude": 53.0433,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241355,
+    "name": "Île Desroches",
+    "latitude": -5.68333,
+    "longitude": 53.68333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11791479,
+    "name": "Ile du Nord",
+    "latitude": -9.65948,
+    "longitude": 47.57252,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241246,
+    "name": "Île du Nord",
+    "latitude": -4.39383,
+    "longitude": 55.24627,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11791496,
+    "name": "Ile du Trou",
+    "latitude": -9.6887,
+    "longitude": 47.62925,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11791495,
+    "name": "Ile Goëlette",
+    "latitude": -9.69922,
+    "longitude": 47.64389,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11791494,
+    "name": "Ile Grand Polyte",
+    "latitude": -9.71923,
+    "longitude": 47.65717,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11791480,
+    "name": "Ile L'Anse",
+    "latitude": -9.70279,
+    "longitude": 47.53728,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11791473,
+    "name": "Ile Lanier",
+    "latitude": -9.41689,
+    "longitude": 46.21029,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11791481,
+    "name": "Ile Macaque",
+    "latitude": -9.70471,
+    "longitude": 47.53105,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11791472,
+    "name": "Ile Magnan",
+    "latitude": -9.41656,
+    "longitude": 46.20871,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11791474,
+    "name": "Ile Moustiques",
+    "latitude": -9.43745,
+    "longitude": 46.23675,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241350,
+    "name": "Ile Nord-Est",
+    "latitude": -9.66295,
+    "longitude": 47.58561,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11791491,
+    "name": "Ile Pagode",
+    "latitude": -9.7634,
+    "longitude": 47.60677,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11791492,
+    "name": "Ile Petite Polyte",
+    "latitude": -9.72959,
+    "longitude": 47.65693,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241223,
+    "name": "Île Plate",
+    "latitude": -5.8635,
+    "longitude": 55.38479,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241193,
+    "name": "Île Ronde",
+    "latitude": -4.35,
+    "longitude": 55.78333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241155,
+    "name": "Ile Sud-Ouest",
+    "latitude": -9.7698,
+    "longitude": 47.58565,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11791500,
+    "name": "Ile Sylvestre",
+    "latitude": -9.42703,
+    "longitude": 46.25651,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241142,
+    "name": "Île Thérèse",
+    "latitude": -4.66667,
+    "longitude": 55.4,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241282,
+    "name": "L’Îlot",
+    "latitude": -4.60226,
+    "longitude": 55.90693,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241281,
+    "name": "L’Islette",
+    "latitude": -4.65,
+    "longitude": 55.4,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241310,
+    "name": "La Digue",
+    "latitude": -4.35942,
+    "longitude": 55.83621,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11072978,
+    "name": "La Gogue Reservoir",
+    "latitude": -4.58963,
+    "longitude": 55.44083,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11103219,
+    "name": "La Passe",
+    "latitude": -4.34808,
+    "longitude": 55.83269,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241289,
+    "name": "Les Amirantes",
+    "latitude": -5.6721,
+    "longitude": 53.28453,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241288,
+    "name": "Les Parisiennes",
+    "latitude": -4.3,
+    "longitude": 55.68333,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241285,
+    "name": "Les Sœurs",
+    "latitude": -4.28333,
+    "longitude": 55.86667,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241278,
+    "name": "Long Island",
+    "latitude": -4.62682,
+    "longitude": 55.5087,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241274,
+    "name": "Mahé",
+    "latitude": -4.67643,
+    "longitude": 55.47426,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241271,
+    "name": "Mamelles",
+    "latitude": -4.48433,
+    "longitude": 55.5397,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 936197,
+    "name": "Manaha Islets",
+    "latitude": -10.13333,
+    "longitude": 51.18333,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241266,
+    "name": "Marianne",
+    "latitude": -4.33762,
+    "longitude": 55.92126,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241263,
+    "name": "Marie Louise Island",
+    "latitude": -6.18333,
+    "longitude": 53.15,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241260,
+    "name": "Menai Island",
+    "latitude": -9.71202,
+    "longitude": 47.51278,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241259,
+    "name": "Middle Island",
+    "latitude": -9.37489,
+    "longitude": 46.3563,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241253,
+    "name": "Mon Plaisir",
+    "latitude": -4.46667,
+    "longitude": 55.21667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241418,
+    "name": "Morne Blanc",
+    "latitude": -4.65702,
+    "longitude": 55.43401,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241168,
+    "name": "Morne Seychellois",
+    "latitude": -4.64512,
+    "longitude": 55.43907,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241322,
+    "name": "Mount Harrison",
+    "latitude": -4.68225,
+    "longitude": 55.47978,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241316,
+    "name": "Mount Howard",
+    "latitude": -4.57621,
+    "longitude": 55.44465,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241279,
+    "name": "Mount Lockyer",
+    "latitude": -4.76667,
+    "longitude": 55.51667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241174,
+    "name": "Mount Sebert",
+    "latitude": -4.68473,
+    "longitude": 55.50486,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241162,
+    "name": "Mount Simpson",
+    "latitude": -4.63333,
+    "longitude": 55.41667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241248,
+    "name": "Moyenne Island",
+    "latitude": -4.61978,
+    "longitude": 55.50853,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241241,
+    "name": "North Island",
+    "latitude": -4.87994,
+    "longitude": 53.38682,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241236,
+    "name": "Pelican Island",
+    "latitude": -5.43333,
+    "longitude": 53.35,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12718739,
+    "name": "Perseverance",
+    "latitude": -4.60445,
+    "longitude": 55.46428,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241232,
+    "name": "Petite Île",
+    "latitude": -4.66667,
+    "longitude": 55.41667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241220,
+    "name": "Poivre Islands",
+    "latitude": -5.76667,
+    "longitude": 53.31667,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241216,
+    "name": "Polymnie Island",
+    "latitude": -9.37332,
+    "longitude": 46.26055,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241214,
+    "name": "Port Glaud",
+    "latitude": -4.66256,
+    "longitude": 55.41841,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241212,
+    "name": "Poule Island",
+    "latitude": -5.43333,
+    "longitude": 53.31667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241210,
+    "name": "Praslin Island",
+    "latitude": -4.32146,
+    "longitude": 55.72394,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241208,
+    "name": "Providence Island",
+    "latitude": -9.23333,
+    "longitude": 51.03333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241201,
+    "name": "Remire Island",
+    "latitude": -5.11667,
+    "longitude": 53.31667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241196,
+    "name": "Ressource Island",
+    "latitude": -5.40795,
+    "longitude": 53.32729,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241191,
+    "name": "Round Island",
+    "latitude": -4.62196,
+    "longitude": 55.50344,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241187,
+    "name": "Saint Anne Island",
+    "latitude": -4.60483,
+    "longitude": 55.50383,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241184,
+    "name": "Saint François Island",
+    "latitude": -7.1596,
+    "longitude": 52.7369,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241182,
+    "name": "Saint Joseph Island",
+    "latitude": -5.43794,
+    "longitude": 53.36232,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241178,
+    "name": "Saint Pierre Island",
+    "latitude": -9.33137,
+    "longitude": 50.7278,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241177,
+    "name": "Saint Pierre Islet",
+    "latitude": -4.30265,
+    "longitude": 55.74988,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241176,
+    "name": "Sand Cay",
+    "latitude": -5.68333,
+    "longitude": 53.23333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241171,
+    "name": "Seychelles",
+    "latitude": -4.58333,
+    "longitude": 55.66667,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241163,
+    "name": "Silhouette",
+    "latitude": -4.48333,
+    "longitude": 55.23333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241159,
+    "name": "Souris Island",
+    "latitude": -4.73333,
+    "longitude": 55.51667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241158,
+    "name": "South East Island",
+    "latitude": -4.67675,
+    "longitude": 55.53291,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241156,
+    "name": "South Island",
+    "latitude": -9.4516,
+    "longitude": 46.37552,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11791516,
+    "name": "Squacco Island",
+    "latitude": -9.3918,
+    "longitude": 46.46219,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241150,
+    "name": "Takamaka",
+    "latitude": -4.76667,
+    "longitude": 55.5,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241137,
+    "name": "Trois Frères",
+    "latitude": -4.63447,
+    "longitude": 55.43851,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 936194,
+    "name": "Trois Iles",
+    "latitude": -10.13333,
+    "longitude": 51.08333,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241131,
+    "name": "Victoria",
+    "latitude": -4.62001,
+    "longitude": 55.45501,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241128,
+    "name": "West Island",
+    "latitude": -9.38302,
+    "longitude": 46.21742,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 241228,
+    "name": "West Sister Island",
+    "latitude": -4.28838,
+    "longitude": 55.85628,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  }
+]

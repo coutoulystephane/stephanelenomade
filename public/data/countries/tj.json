@@ -1,0 +1,5612 @@
+[
+  {
+    "geonameId": 13580001,
+    "name": "20-solagii Istiḳlolijati Toçikiston",
+    "latitude": 37.54749,
+    "longitude": 68.46055,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221136,
+    "name": "Abdurahmoni Jomí",
+    "latitude": 37.94636,
+    "longitude": 68.80878,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1514929,
+    "name": "Adrasmon",
+    "latitude": 40.64928,
+    "longitude": 69.98472,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8345716,
+    "name": "Aghbai Abkharv",
+    "latitude": 36.93472,
+    "longitude": 71.68871,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8330373,
+    "name": "Aghbai Akademiyai Fanho",
+    "latitude": 38.68123,
+    "longitude": 72.23942,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8277127,
+    "name": "Aghbai Alakisirak",
+    "latitude": 40.81911,
+    "longitude": 70.12309,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346226,
+    "name": "Aghbai Alikagar",
+    "latitude": 38.40124,
+    "longitude": 70.2905,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222295,
+    "name": "Aghbai Allazy",
+    "latitude": 37.68337,
+    "longitude": 69.26804,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222266,
+    "name": "Aghbai Anzob",
+    "latitude": 39.08362,
+    "longitude": 68.86509,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8415315,
+    "name": "Aghbai Aral",
+    "latitude": 38.77544,
+    "longitude": 72.45351,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222177,
+    "name": "Aghbai Boshgumbez",
+    "latitude": 37.54156,
+    "longitude": 73.49349,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1464583,
+    "name": "Aghbai Chaman-Tal",
+    "latitude": 38.11582,
+    "longitude": 73.89474,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475730,
+    "name": "Aghbai Chaylanamar",
+    "latitude": 37.61525,
+    "longitude": 69.76348,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8415316,
+    "name": "Aghbai Chayloi",
+    "latitude": 38.79646,
+    "longitude": 72.55779,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8413453,
+    "name": "Aghbai Duzakhdara",
+    "latitude": 37.90716,
+    "longitude": 72.86531,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8428100,
+    "name": "Aghbai Fakhrobod",
+    "latitude": 38.33696,
+    "longitude": 68.71411,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221421,
+    "name": "Aghbai Gaznok",
+    "latitude": 39.04669,
+    "longitude": 68.56546,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222363,
+    "name": "Aghbai Ghijovasi",
+    "latitude": 38.48528,
+    "longitude": 71.84295,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346132,
+    "name": "Aghbai Hazorkhona",
+    "latitude": 38.83923,
+    "longitude": 68.28698,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221650,
+    "name": "Aghbai Ichagli",
+    "latitude": 37.32811,
+    "longitude": 69.28199,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346185,
+    "name": "Aghbai Kaftarmol",
+    "latitude": 38.34824,
+    "longitude": 70.36518,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221565,
+    "name": "Aghbai Kaindí",
+    "latitude": 39.10294,
+    "longitude": 72.6211,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221414,
+    "name": "Aghbai Khaburabot",
+    "latitude": 38.62799,
+    "longitude": 70.72651,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221386,
+    "name": "Aghbai Khara",
+    "latitude": 37.59336,
+    "longitude": 69.81698,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222525,
+    "name": "Aghbai Khargŭsh",
+    "latitude": 37.4622,
+    "longitude": 73.08149,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346404,
+    "name": "Aghbai Kharsang",
+    "latitude": 38.63361,
+    "longitude": 70.37506,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221365,
+    "name": "Aghbai Khingak",
+    "latitude": 38.57527,
+    "longitude": 70.1826,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8345715,
+    "name": "Aghbai Khodosh",
+    "latitude": 37.15728,
+    "longitude": 72.35485,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221348,
+    "name": "Aghbai Khoja-Isha",
+    "latitude": 37.81667,
+    "longitude": 69.85,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8277144,
+    "name": "Aghbai Khojai Muso",
+    "latitude": 39.38451,
+    "longitude": 70.30857,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221236,
+    "name": "Aghbai Koy-Tezek",
+    "latitude": 37.47383,
+    "longitude": 72.78948,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475616,
+    "name": "Aghbai Kumakhtí",
+    "latitude": 37.85988,
+    "longitude": 69.87063,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221156,
+    "name": "Aghbai Kurgovad",
+    "latitude": 38.5098,
+    "longitude": 71.27965,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8374653,
+    "name": "Aghbai Marchanoy",
+    "latitude": 38.23489,
+    "longitude": 72.61149,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221024,
+    "name": "Aghbai Mats",
+    "latitude": 37.31667,
+    "longitude": 72.67142,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220978,
+    "name": "Aghbai Muchbel",
+    "latitude": 39.12502,
+    "longitude": 67.67718,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220967,
+    "name": "Aghbai Mura",
+    "latitude": 38.94519,
+    "longitude": 68.28464,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220929,
+    "name": "Aghbai Nayzatosh",
+    "latitude": 37.87288,
+    "longitude": 73.81329,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222360,
+    "name": "Aghbai Oqbaytal",
+    "latitude": 38.56083,
+    "longitude": 73.5957,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220420,
+    "name": "Aghbai Oqboysitargí",
+    "latitude": 38.67353,
+    "longitude": 71.81067,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1464263,
+    "name": "Aghbai Oqsoy",
+    "latitude": 37.53504,
+    "longitude": 74.68445,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220775,
+    "name": "Aghbai Pardum",
+    "latitude": 39.27449,
+    "longitude": 67.53344,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346501,
+    "name": "Aghbai Piyoda",
+    "latitude": 38.75581,
+    "longitude": 71.03184,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1495627,
+    "name": "Aghbai Ponghoz",
+    "latitude": 40.84288,
+    "longitude": 70.2505,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220764,
+    "name": "Aghbai Pshart",
+    "latitude": 38.25,
+    "longitude": 73.75,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221517,
+    "name": "Aghbai Qarabodom",
+    "latitude": 37.71478,
+    "longitude": 69.27286,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475754,
+    "name": "Aghbai Qolo’khon",
+    "latitude": 37.82333,
+    "longitude": 69.8486,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8275177,
+    "name": "Aghbai Rabut",
+    "latitude": 39.52381,
+    "longitude": 69.03455,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346391,
+    "name": "Aghbai Rarz",
+    "latitude": 39.26475,
+    "longitude": 68.67128,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346121,
+    "name": "Aghbai Rosht-Chirkŭtal",
+    "latitude": 38.08883,
+    "longitude": 71.7532,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475677,
+    "name": "Aghbai Sarimerghali",
+    "latitude": 37.89679,
+    "longitude": 69.9854,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220565,
+    "name": "Aghbai Shahriston",
+    "latitude": 39.54402,
+    "longitude": 68.55388,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8345237,
+    "name": "Aghbai Shitkharv",
+    "latitude": 36.95971,
+    "longitude": 71.93336,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1464270,
+    "name": "Aghbai Shor-Buloq",
+    "latitude": 37.92599,
+    "longitude": 74.15636,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1508609,
+    "name": "Aghbai Tamosho",
+    "latitude": 40.93315,
+    "longitude": 70.36511,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220581,
+    "name": "Aghbai Tanimas",
+    "latitude": 38.74316,
+    "longitude": 72.33683,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8273603,
+    "name": "Aghbai Tavasang",
+    "latitude": 39.13283,
+    "longitude": 67.91888,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220283,
+    "name": "Aghbai Tulanazar",
+    "latitude": 38.31009,
+    "longitude": 68.64937,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220287,
+    "name": "Aghbai Tuzbel",
+    "latitude": 38.53382,
+    "longitude": 72.93773,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220231,
+    "name": "Aghbai Uybuloq",
+    "latitude": 39.20684,
+    "longitude": 73.43817,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346116,
+    "name": "Aghbai Valvalyak",
+    "latitude": 38.20673,
+    "longitude": 70.35092,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220173,
+    "name": "Aghbai Viskharv",
+    "latitude": 38.59638,
+    "longitude": 71.07435,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220180,
+    "name": "Aghbai Voz",
+    "latitude": 37.12182,
+    "longitude": 71.6982,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1464265,
+    "name": "Aghbai Yangidavon",
+    "latitude": 37.51387,
+    "longitude": 74.05604,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220099,
+    "name": "Aghbai Yazgulom",
+    "latitude": 38.52944,
+    "longitude": 72.25417,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8275485,
+    "name": "Aghbai Zahob",
+    "latitude": 39.17304,
+    "longitude": 69.51976,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220063,
+    "name": "Aghbai Zardolu",
+    "latitude": 38.46749,
+    "longitude": 69.17237,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222286,
+    "name": "Amondara",
+    "latitude": 39.51435,
+    "longitude": 67.8108,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7567787,
+    "name": "Aqchaku Tog‘",
+    "latitude": 40.87384,
+    "longitude": 70.4625,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346131,
+    "name": "Argankŭh",
+    "latitude": 38.0775,
+    "longitude": 71.67278,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346468,
+    "name": "Arnavad",
+    "latitude": 38.52124,
+    "longitude": 71.52663,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475852,
+    "name": "Avzikent",
+    "latitude": 37.80333,
+    "longitude": 69.27722,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1464264,
+    "name": "Aydinkŭl",
+    "latitude": 37.45197,
+    "longitude": 74.2346,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222222,
+    "name": "Ayní",
+    "latitude": 39.39406,
+    "longitude": 68.53766,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475483,
+    "name": "Bahorí",
+    "latitude": 37.40195,
+    "longitude": 67.99446,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10646058,
+    "name": "Bakmaltepa Tog‘i",
+    "latitude": 40.56419,
+    "longitude": 70.32235,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222192,
+    "name": "Baljuvon",
+    "latitude": 38.30838,
+    "longitude": 69.67672,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7567528,
+    "name": "Bo‘zganaxona Tog‘",
+    "latitude": 40.98628,
+    "longitude": 70.52236,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220747,
+    "name": "Bokhtar",
+    "latitude": 37.83654,
+    "longitude": 68.77762,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221135,
+    "name": "Bokhtariyon",
+    "latitude": 37.88176,
+    "longitude": 68.7297,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222107,
+    "name": "Boshkengash",
+    "latitude": 38.46613,
+    "longitude": 68.80533,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222096,
+    "name": "Bulunkŭl",
+    "latitude": 37.72319,
+    "longitude": 72.95991,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222093,
+    "name": "Bunay",
+    "latitude": 38.50186,
+    "longitude": 71.45075,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1538311,
+    "name": "Buston",
+    "latitude": 40.23417,
+    "longitude": 69.69481,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1514913,
+    "name": "Bŭston",
+    "latitude": 40.52286,
+    "longitude": 69.33307,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222063,
+    "name": "Chandar",
+    "latitude": 37.95267,
+    "longitude": 72.65388,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222040,
+    "name": "Chechektí. Aghbai",
+    "latitude": 38.35,
+    "longitude": 73.96667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222007,
+    "name": "Chorbogh",
+    "latitude": 39.42621,
+    "longitude": 67.76025,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221997,
+    "name": "Chubek",
+    "latitude": 37.61453,
+    "longitude": 69.70525,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221992,
+    "name": "Chukurkŭl",
+    "latitude": 37.54476,
+    "longitude": 73.11207,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1161925,
+    "name": "Concord Peak",
+    "latitude": 37.333,
+    "longitude": 73.766,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221970,
+    "name": "Dalyoni Bolo",
+    "latitude": 39.74897,
+    "longitude": 68.99566,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221965,
+    "name": "Danghara",
+    "latitude": 38.09578,
+    "longitude": 69.33998,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221250,
+    "name": "Darband",
+    "latitude": 38.86776,
+    "longitude": 69.96642,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221887,
+    "name": "Dirumkŭl",
+    "latitude": 37.28081,
+    "longitude": 72.09252,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221874,
+    "name": "Dushanbe",
+    "latitude": 38.53575,
+    "longitude": 68.77905,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221871,
+    "name": "Dŭstí",
+    "latitude": 37.34812,
+    "longitude": 68.66398,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1514901,
+    "name": "Farkhadskoye Vodokhranilishche",
+    "latitude": 40.2,
+    "longitude": 69.41667,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220826,
+    "name": "Farkhor",
+    "latitude": 37.49219,
+    "longitude": 69.40356,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221774,
+    "name": "Fayzobod",
+    "latitude": 38.54731,
+    "longitude": 69.3198,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1514900,
+    "name": "Ghafurov",
+    "latitude": 40.21571,
+    "longitude": 69.72867,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221748,
+    "name": "Gharavŭtí",
+    "latitude": 37.56703,
+    "longitude": 68.44668,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221758,
+    "name": "Ghonchí",
+    "latitude": 39.96238,
+    "longitude": 69.12966,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7567531,
+    "name": "Giza Tog‘",
+    "latitude": 40.91994,
+    "longitude": 70.52669,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221696,
+    "name": "Golovnoye Vodokhranilishche",
+    "latitude": 37.95,
+    "longitude": 69,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222309,
+    "name": "Gora Alakyzrak",
+    "latitude": 37.78025,
+    "longitude": 70.03622,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222296,
+    "name": "Gora Allatau",
+    "latitude": 37.45715,
+    "longitude": 68.9925,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222196,
+    "name": "Gora Bakchigir",
+    "latitude": 37.66667,
+    "longitude": 72.66667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222193,
+    "name": "Gora Baldagi",
+    "latitude": 37.42749,
+    "longitude": 69.17902,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475557,
+    "name": "Gora Biikdzhal",
+    "latitude": 37.43565,
+    "longitude": 68.08089,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1514916,
+    "name": "Gora Boboiob",
+    "latitude": 40.84886,
+    "longitude": 70.34335,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222104,
+    "name": "Gora Boz-Baytal-Bashi",
+    "latitude": 38.37464,
+    "longitude": 73.0905,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346425,
+    "name": "Gora Burchiboy",
+    "latitude": 38.48519,
+    "longitude": 70.61377,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475792,
+    "name": "Gora Chaargen",
+    "latitude": 37.62777,
+    "longitude": 69.15315,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222046,
+    "name": "Gora Chatagay",
+    "latitude": 38.40224,
+    "longitude": 73.43307,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222030,
+    "name": "Gora Chili-Kak",
+    "latitude": 38.76744,
+    "longitude": 68.73994,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346565,
+    "name": "Gora Chukurydara",
+    "latitude": 38.89972,
+    "longitude": 69.1552,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221961,
+    "name": "Gora Daradek",
+    "latitude": 38.06477,
+    "longitude": 72.85181,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475472,
+    "name": "Gora Darakhtytau",
+    "latitude": 37.19797,
+    "longitude": 67.9365,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346398,
+    "name": "Gora Darbodzhi",
+    "latitude": 38.59956,
+    "longitude": 70.05458,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346342,
+    "name": "Gora Darvazakam",
+    "latitude": 38.65276,
+    "longitude": 68.43855,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221892,
+    "name": "Gora Donguztyube",
+    "latitude": 37.89728,
+    "longitude": 69.0222,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475467,
+    "name": "Gora Dzhanbulok",
+    "latitude": 37.23054,
+    "longitude": 67.8783,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221812,
+    "name": "Gora Dzhilan-Tau",
+    "latitude": 37.91667,
+    "longitude": 69.36667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221797,
+    "name": "Gora Dzhitym-Tau",
+    "latitude": 38.24955,
+    "longitude": 68.80916,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346367,
+    "name": "Gora Farko",
+    "latitude": 38.54336,
+    "longitude": 69.5742,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475280,
+    "name": "Gora Fayzabadkala",
+    "latitude": 37.37274,
+    "longitude": 68.98706,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346427,
+    "name": "Gora Gishun",
+    "latitude": 38.68035,
+    "longitude": 70.82481,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475729,
+    "name": "Gora Golubinaya Sopka",
+    "latitude": 37.61066,
+    "longitude": 69.76723,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475230,
+    "name": "Gora Ichagly",
+    "latitude": 37.31128,
+    "longitude": 69.2976,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346115,
+    "name": "Gora Imeni Fuchika",
+    "latitude": 38.11917,
+    "longitude": 70.33583,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221641,
+    "name": "Gora Imomaskar",
+    "latitude": 37.93304,
+    "longitude": 70.06321,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475744,
+    "name": "Gora Inyrchak",
+    "latitude": 37.69742,
+    "longitude": 69.80922,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221570,
+    "name": "Gora Kaftarmol",
+    "latitude": 37.88119,
+    "longitude": 70.07113,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475657,
+    "name": "Gora Kalyayulboy",
+    "latitude": 37.90107,
+    "longitude": 69.91353,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346201,
+    "name": "Gora Kapalitau",
+    "latitude": 38.22223,
+    "longitude": 68.44182,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221514,
+    "name": "Gora Kara-Beles",
+    "latitude": 38.40267,
+    "longitude": 73.00198,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475478,
+    "name": "Gora Kargalykyzyl",
+    "latitude": 37.23965,
+    "longitude": 67.89715,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221453,
+    "name": "Gora Karsan-Tau",
+    "latitude": 37.63333,
+    "longitude": 67.98333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475561,
+    "name": "Gora Kashkatau",
+    "latitude": 37.4952,
+    "longitude": 68.07784,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1216921,
+    "name": "Gora Kharbit-Tau",
+    "latitude": 38.80135,
+    "longitude": 68.06633,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1334070,
+    "name": "Gora Khatif",
+    "latitude": 38.64971,
+    "longitude": 68.59404,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346148,
+    "name": "Gora Khauku",
+    "latitude": 38.45667,
+    "longitude": 71.69278,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475226,
+    "name": "Gora Khodzha-Akbash",
+    "latitude": 37.27319,
+    "longitude": 69.35152,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221354,
+    "name": "Gora Khodzha-Barkaz",
+    "latitude": 37.1726,
+    "longitude": 69.39797,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346325,
+    "name": "Gora Khodzhalakan",
+    "latitude": 38.94395,
+    "longitude": 68.50488,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346324,
+    "name": "Gora Khodzhamafrach",
+    "latitude": 38.84825,
+    "longitude": 68.49127,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221339,
+    "name": "Gora Khodzhasartes",
+    "latitude": 37.93618,
+    "longitude": 69.68815,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221337,
+    "name": "Gora Khodzhi-Dzhaylyau",
+    "latitude": 38.52465,
+    "longitude": 72.92984,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221585,
+    "name": "Gora Kholodnaya Stena",
+    "latitude": 38.60219,
+    "longitude": 72.55588,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475506,
+    "name": "Gora Khoshma",
+    "latitude": 37.01197,
+    "longitude": 68.1318,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221271,
+    "name": "Gora Kokotan",
+    "latitude": 37.47771,
+    "longitude": 67.96692,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346406,
+    "name": "Gora Koktepa",
+    "latitude": 39.61912,
+    "longitude": 68.72133,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346147,
+    "name": "Gora Kukhirau",
+    "latitude": 38.40128,
+    "longitude": 71.61821,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220353,
+    "name": "Gora Kupryuktau",
+    "latitude": 37.45088,
+    "longitude": 68.00677,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475583,
+    "name": "Gora Kurzhumtosh",
+    "latitude": 37.75182,
+    "longitude": 69.72814,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1476135,
+    "name": "Gora Kushtur-Mulla",
+    "latitude": 36.96843,
+    "longitude": 68.08251,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221128,
+    "name": "Gora Kybla",
+    "latitude": 37.73429,
+    "longitude": 70.01487,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475564,
+    "name": "Gora Kyzimchak",
+    "latitude": 37.42389,
+    "longitude": 68.37611,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221121,
+    "name": "Gora Kyzimchek",
+    "latitude": 37.42164,
+    "longitude": 68.40184,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221117,
+    "name": "Gora Kyzsyygan",
+    "latitude": 37.9567,
+    "longitude": 69.02348,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221108,
+    "name": "Gora Kyzyl-Kul’",
+    "latitude": 39.28333,
+    "longitude": 73.45,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221111,
+    "name": "Gora Kyzyldangi",
+    "latitude": 37.43333,
+    "longitude": 72.98333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346378,
+    "name": "Gora Lyaylokcha",
+    "latitude": 39.37937,
+    "longitude": 68.11779,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221038,
+    "name": "Gora Margobi",
+    "latitude": 37.7233,
+    "longitude": 69.80524,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220969,
+    "name": "Gora Mundytau",
+    "latitude": 38.01607,
+    "longitude": 68.46904,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220957,
+    "name": "Gora Mushteppa",
+    "latitude": 38.70334,
+    "longitude": 68.95858,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346548,
+    "name": "Gora Nauraz",
+    "latitude": 38.80092,
+    "longitude": 70.04503,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220930,
+    "name": "Gora Nayzagba",
+    "latitude": 38.91026,
+    "longitude": 68.68334,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220866,
+    "name": "Gora Ogul-Syygan",
+    "latitude": 37.98333,
+    "longitude": 69.05,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220802,
+    "name": "Gora Patta-Tay",
+    "latitude": 38.09939,
+    "longitude": 72.94512,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220785,
+    "name": "Gora Pir’yakh",
+    "latitude": 39.5,
+    "longitude": 69.41667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220741,
+    "name": "Gora Radzhi-Bek",
+    "latitude": 38.47482,
+    "longitude": 72.76504,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220713,
+    "name": "Gora Remon",
+    "latitude": 39.25708,
+    "longitude": 68.68429,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346412,
+    "name": "Gora Rubobak",
+    "latitude": 38.54794,
+    "longitude": 70.18305,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475672,
+    "name": "Gora Saitbok",
+    "latitude": 37.9476,
+    "longitude": 69.93565,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220660,
+    "name": "Gora Sangidar",
+    "latitude": 37.98995,
+    "longitude": 70.07145,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475248,
+    "name": "Gora Sardoba-Kutal",
+    "latitude": 37.49525,
+    "longitude": 69.26093,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220619,
+    "name": "Gora Sary-Shakh",
+    "latitude": 39.2321,
+    "longitude": 68.10658,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475951,
+    "name": "Gora Sayydskiy Pik",
+    "latitude": 37.59386,
+    "longitude": 69.51668,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220578,
+    "name": "Gora Severtseva",
+    "latitude": 38.12274,
+    "longitude": 71.75723,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346413,
+    "name": "Gora Shamol’porto",
+    "latitude": 38.62628,
+    "longitude": 70.24163,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475648,
+    "name": "Gora Shashuri",
+    "latitude": 37.86266,
+    "longitude": 69.83077,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475464,
+    "name": "Gora Shurcha",
+    "latitude": 37.27096,
+    "longitude": 67.89527,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220464,
+    "name": "Gora Siya-Kuch",
+    "latitude": 39.06667,
+    "longitude": 67.83333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346609,
+    "name": "Gora Siyekukh",
+    "latitude": 38.91535,
+    "longitude": 70.41792,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346122,
+    "name": "Gora Stanku",
+    "latitude": 38.21567,
+    "longitude": 71.6546,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220425,
+    "name": "Gora Surkhku",
+    "latitude": 38.77246,
+    "longitude": 68.66415,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220408,
+    "name": "Gora Takakamar",
+    "latitude": 37.23353,
+    "longitude": 68.26855,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1334054,
+    "name": "Gora Takhtakhanym",
+    "latitude": 38.60843,
+    "longitude": 68.58981,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220402,
+    "name": "Gora Takhtakuvi",
+    "latitude": 37.12589,
+    "longitude": 68.2594,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346323,
+    "name": "Gora Takhtsuleyman",
+    "latitude": 38.70719,
+    "longitude": 68.47947,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220366,
+    "name": "Gora Tash-Matyk",
+    "latitude": 38.33333,
+    "longitude": 74.23333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475470,
+    "name": "Gora Tepekuduk",
+    "latitude": 37.19731,
+    "longitude": 67.88725,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346431,
+    "name": "Gora Tokalichula",
+    "latitude": 39.60211,
+    "longitude": 68.56951,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220257,
+    "name": "Gora Urgantak",
+    "latitude": 39.33333,
+    "longitude": 67.83333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346344,
+    "name": "Gora Urgaylik",
+    "latitude": 38.5972,
+    "longitude": 68.14011,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220248,
+    "name": "Gora Urus-Dzhilga-Tash",
+    "latitude": 38.08097,
+    "longitude": 72.97252,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220239,
+    "name": "Gora Ustymtau",
+    "latitude": 37.43151,
+    "longitude": 68.25107,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220232,
+    "name": "Gora Uy-Bulak",
+    "latitude": 39.26667,
+    "longitude": 73.43333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475656,
+    "name": "Gora Yakhshi",
+    "latitude": 37.88443,
+    "longitude": 69.85508,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220121,
+    "name": "Gora Yarchi-Chak",
+    "latitude": 38.41667,
+    "longitude": 73.75,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220079,
+    "name": "Gora Zagargo",
+    "latitude": 38.75135,
+    "longitude": 68.29565,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220032,
+    "name": "Gora Zou-Tash",
+    "latitude": 38.08333,
+    "longitude": 74,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222317,
+    "name": "Gord Ak-Tash",
+    "latitude": 37.57467,
+    "longitude": 74.81962,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221661,
+    "name": "Gŭshkhun",
+    "latitude": 38.32823,
+    "longitude": 71.53744,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221714,
+    "name": "Hisor",
+    "latitude": 38.52504,
+    "longitude": 68.55124,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220163,
+    "name": "Hulbuk",
+    "latitude": 37.80542,
+    "longitude": 69.64516,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1514896,
+    "name": "Isfara",
+    "latitude": 40.12649,
+    "longitude": 70.62526,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221614,
+    "name": "Ishqoshim",
+    "latitude": 36.72484,
+    "longitude": 71.61331,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220862,
+    "name": "Ismoili Somoní",
+    "latitude": 37.76627,
+    "longitude": 68.80126,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220253,
+    "name": "Istaravshan",
+    "latitude": 39.9142,
+    "longitude": 69.00328,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1514829,
+    "name": "Istiqlol",
+    "latitude": 40.57017,
+    "longitude": 69.64175,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221808,
+    "name": "Jilikŭl",
+    "latitude": 37.49167,
+    "longitude": 68.53106,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221506,
+    "name": "Kara-Dum Gora",
+    "latitude": 37.25,
+    "longitude": 68.58333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221455,
+    "name": "Karl Marx Peak",
+    "latitude": 37.15895,
+    "longitude": 72.48178,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1504104,
+    "name": "Kayrakum Reservoir",
+    "latitude": 40.29,
+    "longitude": 70.06,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221389,
+    "name": "Khargŭsh",
+    "latitude": 37.44884,
+    "longitude": 73.07631,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221344,
+    "name": "Khodzha-Maston",
+    "latitude": 38.74457,
+    "longitude": 68.62702,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221328,
+    "name": "Khorugh",
+    "latitude": 37.49039,
+    "longitude": 71.55337,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221321,
+    "name": "Khovaling",
+    "latitude": 38.34194,
+    "longitude": 69.97531,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1514879,
+    "name": "Khujand",
+    "latitude": 40.28256,
+    "longitude": 69.62216,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221297,
+    "name": "Kirov",
+    "latitude": 37.81908,
+    "longitude": 68.85905,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221259,
+    "name": "Kolkhozobod",
+    "latitude": 37.58823,
+    "longitude": 68.65886,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1514891,
+    "name": "Konibodom",
+    "latitude": 40.29414,
+    "longitude": 70.43122,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1514889,
+    "name": "Konsoy",
+    "latitude": 40.49155,
+    "longitude": 69.70245,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1464250,
+    "name": "Koshbeli Poyon",
+    "latitude": 37.98635,
+    "longitude": 74.65367,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346191,
+    "name": "Kŭchkashek",
+    "latitude": 38.45898,
+    "longitude": 70.38623,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346118,
+    "name": "Kŭh Somch",
+    "latitude": 38.15778,
+    "longitude": 71.55833,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1464275,
+    "name": "Kŭhi Arkhar",
+    "latitude": 38.20097,
+    "longitude": 74.48714,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222238,
+    "name": "Kŭhi Astana",
+    "latitude": 37.38689,
+    "longitude": 69.24578,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8337564,
+    "name": "Kŭhi Besharcha",
+    "latitude": 37.69405,
+    "longitude": 67.99618,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222149,
+    "name": "Kŭhi Beshchelak",
+    "latitude": 37.96667,
+    "longitude": 69.25,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1464271,
+    "name": "Kŭhi Bozaygir",
+    "latitude": 37.61595,
+    "longitude": 73.15078,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222086,
+    "name": "Kŭhi Burutoy",
+    "latitude": 37.12299,
+    "longitude": 68.36542,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222025,
+    "name": "Kŭhi Chimtarga",
+    "latitude": 39.19691,
+    "longitude": 68.19328,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346385,
+    "name": "Kŭhi Darikhona",
+    "latitude": 39.31682,
+    "longitude": 68.7787,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346358,
+    "name": "Kŭhi Darvoz",
+    "latitude": 38.60491,
+    "longitude": 69.57539,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8273823,
+    "name": "Kŭhi Degrŭd",
+    "latitude": 39.30518,
+    "longitude": 68.39335,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8275486,
+    "name": "Kŭhi Dimnora",
+    "latitude": 39.38701,
+    "longitude": 69.86612,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1464269,
+    "name": "Kŭhi Dulangtosh",
+    "latitude": 37.66719,
+    "longitude": 73.93431,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8273830,
+    "name": "Kŭhi Fatmovut",
+    "latitude": 39.35203,
+    "longitude": 68.8899,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346158,
+    "name": "Kŭhi Garaga",
+    "latitude": 38.37243,
+    "longitude": 71.34547,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221704,
+    "name": "Kŭhi Glan",
+    "latitude": 37.88069,
+    "longitude": 74.89885,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221223,
+    "name": "Kŭhi Gudara",
+    "latitude": 38.42755,
+    "longitude": 72.75905,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346074,
+    "name": "Kŭhi Gulkhoja",
+    "latitude": 38.13643,
+    "longitude": 69.66141,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346126,
+    "name": "Kŭhi Gum",
+    "latitude": 38.04149,
+    "longitude": 71.80625,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346387,
+    "name": "Kuhi Hazratishoh",
+    "latitude": 38.5696,
+    "longitude": 69.75984,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8277122,
+    "name": "Kŭhi Jiltiymes",
+    "latitude": 40.68452,
+    "longitude": 70.11799,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346129,
+    "name": "Kŭhi Jŭavok",
+    "latitude": 38.77492,
+    "longitude": 68.39265,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475548,
+    "name": "Kŭhi Kaltatoy",
+    "latitude": 37.3767,
+    "longitude": 68.07022,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221238,
+    "name": "Kŭhi Kaypiaztoí",
+    "latitude": 37.3795,
+    "longitude": 68.25524,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8275249,
+    "name": "Kŭhi Khabutak",
+    "latitude": 39.93963,
+    "longitude": 69.28055,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346190,
+    "name": "Kŭhi Khojaizoring",
+    "latitude": 38.34768,
+    "longitude": 68.81678,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8521875,
+    "name": "Kŭhi Khojamaston",
+    "latitude": 37.97819,
+    "longitude": 68.96314,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221342,
+    "name": "Kŭhí Khojamŭ’min",
+    "latitude": 37.729,
+    "longitude": 69.63859,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8275230,
+    "name": "Kŭhi Khovrut",
+    "latitude": 39.53139,
+    "longitude": 69.25129,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346327,
+    "name": "Kŭhi Kichkina",
+    "latitude": 38.74163,
+    "longitude": 69.21496,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346563,
+    "name": "Kŭhi Kokteppa",
+    "latitude": 38.82283,
+    "longitude": 69.17076,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221198,
+    "name": "Kŭhi Kulin",
+    "latitude": 38.08942,
+    "longitude": 72.61972,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346127,
+    "name": "Kŭhi Kurmishkhona",
+    "latitude": 38.73429,
+    "longitude": 68.5843,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1464441,
+    "name": "Kŭhi Kutoztushagon",
+    "latitude": 38.36373,
+    "longitude": 74.51698,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8275252,
+    "name": "Kŭhi Kuymarkab",
+    "latitude": 39.37132,
+    "longitude": 69.40583,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221065,
+    "name": "Kŭhi Langar",
+    "latitude": 37.97543,
+    "longitude": 72.71875,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8275364,
+    "name": "Kŭhi Muzbek",
+    "latitude": 40.35321,
+    "longitude": 69.60386,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220959,
+    "name": "Kŭhi Muzjilga",
+    "latitude": 39.11884,
+    "longitude": 72.18931,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346135,
+    "name": "Kŭhi Navoy",
+    "latitude": 38.73239,
+    "longitude": 68.13138,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346119,
+    "name": "Kŭhi Odud",
+    "latitude": 38.02672,
+    "longitude": 71.59076,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1464436,
+    "name": "Kŭhi Okhuru",
+    "latitude": 38.55237,
+    "longitude": 74.26581,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8275423,
+    "name": "Kŭhi Oqchuqur",
+    "latitude": 39.57079,
+    "longitude": 69.58664,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346561,
+    "name": "Kŭhi Oqsoy",
+    "latitude": 38.82882,
+    "longitude": 69.65566,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8276869,
+    "name": "Kŭhi Oqtoy",
+    "latitude": 40.34672,
+    "longitude": 69.97442,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1464437,
+    "name": "Kŭhi Palsaldi",
+    "latitude": 38.66028,
+    "longitude": 74.25167,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346388,
+    "name": "Kŭhi Pusidakor",
+    "latitude": 38.62832,
+    "longitude": 69.77889,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475737,
+    "name": "Kŭhí Qizilbŭynak",
+    "latitude": 37.80319,
+    "longitude": 69.93389,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8413278,
+    "name": "Kŭhi Qizildangí",
+    "latitude": 37.41176,
+    "longitude": 72.83481,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8277137,
+    "name": "Kŭhi Qoqteppa",
+    "latitude": 40.10773,
+    "longitude": 70.36138,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221162,
+    "name": "Kŭhi Qŭrgonak",
+    "latitude": 39.59999,
+    "longitude": 68.88549,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8277125,
+    "name": "Kŭhi Saidrabot",
+    "latitude": 40.79579,
+    "longitude": 70.16421,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475671,
+    "name": "Kŭhi Sanglar",
+    "latitude": 37.95895,
+    "longitude": 69.87444,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8275267,
+    "name": "Kŭhi Spai Kalon",
+    "latitude": 40.29706,
+    "longitude": 69.43725,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8277128,
+    "name": "Kŭhi Tamosho",
+    "latitude": 40.87977,
+    "longitude": 70.34115,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8276867,
+    "name": "Kŭhi Tanglí",
+    "latitude": 40.49326,
+    "longitude": 69.9129,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220064,
+    "name": "Kŭlhoi Zardov",
+    "latitude": 37.12857,
+    "longitude": 72.10021,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221602,
+    "name": "Kŭli Iskandarkŭl",
+    "latitude": 39.07478,
+    "longitude": 68.36595,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221504,
+    "name": "Kŭli Karadung",
+    "latitude": 37.44934,
+    "longitude": 74.01532,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11288861,
+    "name": "Kŭli Komsomol",
+    "latitude": 38.58043,
+    "longitude": 68.76778,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221216,
+    "name": "Kŭli Kukjigit",
+    "latitude": 37.45558,
+    "longitude": 73.93325,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221034,
+    "name": "Kŭli Marghzor",
+    "latitude": 39.14626,
+    "longitude": 67.85497,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221431,
+    "name": "Kuli Qaynar",
+    "latitude": 37.87799,
+    "longitude": 69.676,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220647,
+    "name": "Kŭli Sarez",
+    "latitude": 38.19014,
+    "longitude": 72.72297,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221194,
+    "name": "Kŭlob",
+    "latitude": 37.91459,
+    "longitude": 69.78454,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346189,
+    "name": "Kŭtal Khamtarma",
+    "latitude": 38.42592,
+    "longitude": 70.52783,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222151,
+    "name": "Kŭtali Beshbuloq",
+    "latitude": 37.70332,
+    "longitude": 69.14315,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10646842,
+    "name": "Kuzlantov Tog‘i",
+    "latitude": 40.19166,
+    "longitude": 70.76584,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221549,
+    "name": "Levakant",
+    "latitude": 37.87136,
+    "longitude": 68.92233,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221094,
+    "name": "Loloqůl Pass",
+    "latitude": 39.0365,
+    "longitude": 69.05056,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10646057,
+    "name": "Maxovtov Tog‘i",
+    "latitude": 40.48251,
+    "longitude": 70.32067,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8217253,
+    "name": "Mehron",
+    "latitude": 39.41691,
+    "longitude": 69.28677,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221000,
+    "name": "Minora Pass",
+    "latitude": 39.25328,
+    "longitude": 68.86897,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8420628,
+    "name": "Momazair",
+    "latitude": 37.91099,
+    "longitude": 73.9239,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8416817,
+    "name": "Moskovskiy",
+    "latitude": 37.60931,
+    "longitude": 68.58094,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220988,
+    "name": "Moskva",
+    "latitude": 37.66101,
+    "longitude": 69.62849,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220985,
+    "name": "Moskva-Pekin",
+    "latitude": 38.9,
+    "longitude": 72.03333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221091,
+    "name": "Mŭ’minobod",
+    "latitude": 38.10714,
+    "longitude": 70.03213,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220981,
+    "name": "Muchun",
+    "latitude": 39.88148,
+    "longitude": 69.18219,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220962,
+    "name": "Murghob",
+    "latitude": 38.17023,
+    "longitude": 73.96674,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7568130,
+    "name": "Navgarzon Dovon",
+    "latitude": 40.99318,
+    "longitude": 70.37951,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220920,
+    "name": "Nijoní",
+    "latitude": 39.95943,
+    "longitude": 68.92421,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220905,
+    "name": "Norak",
+    "latitude": 38.38917,
+    "longitude": 69.32272,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1514856,
+    "name": "Nov",
+    "latitude": 40.1522,
+    "longitude": 69.37076,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220936,
+    "name": "Novobod",
+    "latitude": 39.01084,
+    "longitude": 70.15082,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7568131,
+    "name": "O‘ruschaku Dovon",
+    "latitude": 40.84969,
+    "longitude": 70.46852,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8273980,
+    "name": "Obanbori Dahanasoy",
+    "latitude": 39.90261,
+    "longitude": 69.14527,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221440,
+    "name": "Obanbori Kattasoy",
+    "latitude": 39.84219,
+    "longitude": 68.99269,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220972,
+    "name": "Obanbori Mŭ’minobod",
+    "latitude": 38.09378,
+    "longitude": 69.99439,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220892,
+    "name": "Obanbori Norak",
+    "latitude": 38.33214,
+    "longitude": 69.3717,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220595,
+    "name": "Obanbori Selbur",
+    "latitude": 37.86489,
+    "longitude": 69.52958,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220888,
+    "name": "Obigarm",
+    "latitude": 38.71731,
+    "longitude": 69.70885,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220883,
+    "name": "Obikiik",
+    "latitude": 38.16033,
+    "longitude": 68.66605,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10646060,
+    "name": "Odinachiroq Tog‘i",
+    "latitude": 40.69443,
+    "longitude": 70.36177,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222336,
+    "name": "Okkŭtal",
+    "latitude": 37.52307,
+    "longitude": 69.25776,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222338,
+    "name": "Oqkŭl",
+    "latitude": 37.61084,
+    "longitude": 72.81123,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220853,
+    "name": "Orzu",
+    "latitude": 37.5582,
+    "longitude": 68.81952,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220586,
+    "name": "Ostrov Severnyy",
+    "latitude": 39.07975,
+    "longitude": 73.44081,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222364,
+    "name": "Ozero Ak-Balyk",
+    "latitude": 37.78715,
+    "longitude": 73.38182,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222224,
+    "name": "Ozero Ay-Kul’",
+    "latitude": 39.59068,
+    "longitude": 68.84354,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222212,
+    "name": "Ozero Azor-Chasma",
+    "latitude": 39.10537,
+    "longitude": 67.85815,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222170,
+    "name": "Ozero Basyk-Kul’",
+    "latitude": 37.453,
+    "longitude": 72.45106,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475512,
+    "name": "Ozero Chayparak",
+    "latitude": 37.09522,
+    "longitude": 68.03687,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221975,
+    "name": "Ozero Dakht-Kul’",
+    "latitude": 37.23333,
+    "longitude": 72.38333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221960,
+    "name": "Ozero Daradek",
+    "latitude": 38.02779,
+    "longitude": 72.87871,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221821,
+    "name": "Ozero Dzhekandy-Kul’",
+    "latitude": 38.18333,
+    "longitude": 73.35,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221809,
+    "name": "Ozero Dzhilga-Kul’",
+    "latitude": 38.35679,
+    "longitude": 73.06767,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221724,
+    "name": "Ozero Gaz-Kul’",
+    "latitude": 37.71667,
+    "longitude": 73.1,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221663,
+    "name": "Ozero Gushor",
+    "latitude": 39.20305,
+    "longitude": 67.81199,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221563,
+    "name": "Ozero Kakyr-Kul’",
+    "latitude": 39.23333,
+    "longitude": 73.38333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475645,
+    "name": "Ozero Komsomol’skoye",
+    "latitude": 37.87181,
+    "longitude": 69.76864,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221201,
+    "name": "Ozero Kuli-Kalon",
+    "latitude": 39.25272,
+    "longitude": 68.17226,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221179,
+    "name": "Ozero Kum-Dzhuazak",
+    "latitude": 38.79243,
+    "longitude": 68.44937,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221151,
+    "name": "Ozero Kuruk-Ku",
+    "latitude": 38.76823,
+    "longitude": 73.25833,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346507,
+    "name": "Ozero Kyzylkul’",
+    "latitude": 38.78513,
+    "longitude": 71.06955,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220908,
+    "name": "Ozero Nofin",
+    "latitude": 39.19035,
+    "longitude": 67.82624,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1514846,
+    "name": "Ozero Oksukon",
+    "latitude": 40.50892,
+    "longitude": 70.37814,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220611,
+    "name": "Ozero Sasyk-Kul’",
+    "latitude": 38.3,
+    "longitude": 73.35,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220509,
+    "name": "Ozero Shodau",
+    "latitude": 38.23828,
+    "longitude": 72.59493,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1514844,
+    "name": "Pakhtakoron",
+    "latitude": 40.15709,
+    "longitude": 68.74659,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220750,
+    "name": "Panj",
+    "latitude": 37.23634,
+    "longitude": 69.09911,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220798,
+    "name": "Panjakent",
+    "latitude": 39.49524,
+    "longitude": 67.60931,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220910,
+    "name": "Panji Poyon",
+    "latitude": 37.19443,
+    "longitude": 68.57721,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11245287,
+    "name": "Panjob Dovon",
+    "latitude": 39.00594,
+    "longitude": 67.87571,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220831,
+    "name": "Panzada-Palvan Ozero",
+    "latitude": 37.33333,
+    "longitude": 68.41667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11288874,
+    "name": "Parki Druzhba Narodov",
+    "latitude": 38.52178,
+    "longitude": 68.75635,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11288880,
+    "name": "Parki Rudaki",
+    "latitude": 38.57634,
+    "longitude": 68.78171,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222371,
+    "name": "Pereval Agalkhar",
+    "latitude": 38.01667,
+    "longitude": 73.63333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1512072,
+    "name": "Pereval Ak-Beles",
+    "latitude": 40.15169,
+    "longitude": 70.19564,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222346,
+    "name": "Pereval Ak-Dzhilga",
+    "latitude": 37.92082,
+    "longitude": 73.32652,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222359,
+    "name": "Pereval Akbi-Voru",
+    "latitude": 39.24445,
+    "longitude": 67.91683,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222344,
+    "name": "Pereval Akhba",
+    "latitude": 39.08457,
+    "longitude": 67.981,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222339,
+    "name": "Pereval Akkiya",
+    "latitude": 37.55918,
+    "longitude": 68.221,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222325,
+    "name": "Pereval Aksay",
+    "latitude": 39.6291,
+    "longitude": 68.79996,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222274,
+    "name": "Pereval Angisht",
+    "latitude": 38.94933,
+    "longitude": 68.44287,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222265,
+    "name": "Pereval Apak",
+    "latitude": 38.65359,
+    "longitude": 73.02957,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346366,
+    "name": "Pereval Archaichai",
+    "latitude": 38.65685,
+    "longitude": 69.42833,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222253,
+    "name": "Pereval Argy",
+    "latitude": 39.58093,
+    "longitude": 68.85876,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346146,
+    "name": "Pereval Bidzhrav",
+    "latitude": 38.29353,
+    "longitude": 71.93246,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222091,
+    "name": "Pereval Burbulak-Kutal",
+    "latitude": 37.41751,
+    "longitude": 69.26863,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475795,
+    "name": "Pereval Burukutal",
+    "latitude": 37.56482,
+    "longitude": 69.25701,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222078,
+    "name": "Pereval Buz-Tere",
+    "latitude": 38,
+    "longitude": 73.66667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222061,
+    "name": "Pereval Chandyr",
+    "latitude": 39.53902,
+    "longitude": 68.37816,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221967,
+    "name": "Pereval Dandan-Chikan",
+    "latitude": 37.4872,
+    "longitude": 68.43272,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475471,
+    "name": "Pereval Darakhty",
+    "latitude": 37.1916,
+    "longitude": 67.94675,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221950,
+    "name": "Pereval Darbaza",
+    "latitude": 37.74738,
+    "longitude": 69.14401,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221883,
+    "name": "Pereval Dukdon",
+    "latitude": 39.08331,
+    "longitude": 68.18404,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221865,
+    "name": "Pereval Duzakh-Dara",
+    "latitude": 37.53541,
+    "longitude": 72.39518,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221839,
+    "name": "Pereval Dzharykbel’",
+    "latitude": 37.82495,
+    "longitude": 69.14647,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221827,
+    "name": "Pereval Dzhavavli",
+    "latitude": 39.5503,
+    "longitude": 68.7031,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221783,
+    "name": "Pereval Erismetkutel’",
+    "latitude": 37.33995,
+    "longitude": 67.93007,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221745,
+    "name": "Pereval Gardaim-Ushin",
+    "latitude": 38.06706,
+    "longitude": 68.5174,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221730,
+    "name": "Pereval Garnovot",
+    "latitude": 38.56667,
+    "longitude": 71.5,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221725,
+    "name": "Pereval Gazi-Malek",
+    "latitude": 38.23809,
+    "longitude": 68.59132,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346511,
+    "name": "Pereval Gilling",
+    "latitude": 38.75619,
+    "longitude": 70.83819,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221709,
+    "name": "Pereval Gissarskiy",
+    "latitude": 39.03333,
+    "longitude": 67.91667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346526,
+    "name": "Pereval Gluniregak",
+    "latitude": 38.72296,
+    "longitude": 70.11165,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221702,
+    "name": "Pereval Gobi",
+    "latitude": 38.68333,
+    "longitude": 68.88333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221697,
+    "name": "Pereval Golikalyan",
+    "latitude": 37.3997,
+    "longitude": 67.93342,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221561,
+    "name": "Pereval Kala-Gozy",
+    "latitude": 37.88333,
+    "longitude": 68.38333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221511,
+    "name": "Pereval Kara-Bulak",
+    "latitude": 38.33333,
+    "longitude": 72.93333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221509,
+    "name": "Pereval Kara-Chim",
+    "latitude": 39.03992,
+    "longitude": 73.12327,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221496,
+    "name": "Pereval Kara-Gurum",
+    "latitude": 37.42799,
+    "longitude": 72.53144,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346564,
+    "name": "Pereval Karatash",
+    "latitude": 38.8574,
+    "longitude": 69.03667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475480,
+    "name": "Pereval Kasaba",
+    "latitude": 37.255,
+    "longitude": 67.95315,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475555,
+    "name": "Pereval Kashka",
+    "latitude": 37.40975,
+    "longitude": 68.06579,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346365,
+    "name": "Pereval Kaurizarguz",
+    "latitude": 38.57838,
+    "longitude": 69.54515,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346348,
+    "name": "Pereval Kaznok",
+    "latitude": 39.17651,
+    "longitude": 68.23742,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221336,
+    "name": "Pereval Khodzhi-Dzhaylyau",
+    "latitude": 38.58487,
+    "longitude": 72.8572,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221315,
+    "name": "Pereval Khuf",
+    "latitude": 37.72349,
+    "longitude": 71.76717,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221312,
+    "name": "Pereval Khurdzhin",
+    "latitude": 38.38333,
+    "longitude": 72.16667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221287,
+    "name": "Pereval Kizyl-Beles",
+    "latitude": 38.72776,
+    "longitude": 73.00958,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221263,
+    "name": "Pereval Kokuy-Bel’",
+    "latitude": 38.8274,
+    "longitude": 72.98246,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221181,
+    "name": "Pereval Kum-Bel’",
+    "latitude": 39.6406,
+    "longitude": 68.89481,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221178,
+    "name": "Pereval Kum-Kaya-Kutal’",
+    "latitude": 38.7681,
+    "longitude": 68.98457,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221182,
+    "name": "Pereval Kumbel’",
+    "latitude": 39.57389,
+    "longitude": 68.53702,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221180,
+    "name": "Pereval Kumdy",
+    "latitude": 37.51201,
+    "longitude": 73.19498,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1329738,
+    "name": "Pereval Kunduntobe",
+    "latitude": 38.74913,
+    "longitude": 68.12246,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475477,
+    "name": "Pereval Kunyatoba",
+    "latitude": 37.23574,
+    "longitude": 67.9394,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221152,
+    "name": "Pereval Kuruk",
+    "latitude": 37.62685,
+    "longitude": 73.04357,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221146,
+    "name": "Pereval Kusavli",
+    "latitude": 39.56667,
+    "longitude": 68.66667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221133,
+    "name": "Pereval Kuyundy",
+    "latitude": 37.59874,
+    "longitude": 68.2341,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221127,
+    "name": "Pereval Kyrgachi",
+    "latitude": 39.32142,
+    "longitude": 67.5174,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222362,
+    "name": "Pereval Lyangar",
+    "latitude": 38.49781,
+    "longitude": 71.86365,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221063,
+    "name": "Pereval Lyangar-Kutal",
+    "latitude": 37.96948,
+    "longitude": 72.69728,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221041,
+    "name": "Pereval Mardzhanay",
+    "latitude": 37.96454,
+    "longitude": 72.93775,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1499178,
+    "name": "Pereval Maydikatan",
+    "latitude": 41.02661,
+    "longitude": 70.39879,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220983,
+    "name": "Pereval Mshchagil’",
+    "latitude": 38.03333,
+    "longitude": 72.05,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346560,
+    "name": "Pereval Nauakhakimi",
+    "latitude": 38.89293,
+    "longitude": 69.71006,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220874,
+    "name": "Pereval Oburdon",
+    "latitude": 39.49835,
+    "longitude": 69.12677,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220872,
+    "name": "Pereval Odudy",
+    "latitude": 38.05137,
+    "longitude": 71.48602,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475732,
+    "name": "Pereval Okkutal",
+    "latitude": 37.6646,
+    "longitude": 69.77423,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220837,
+    "name": "Pereval Pakshif",
+    "latitude": 39.33172,
+    "longitude": 69.89719,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220782,
+    "name": "Pereval Pshikharv",
+    "latitude": 38.50911,
+    "longitude": 71.35581,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346684,
+    "name": "Pereval Rarz",
+    "latitude": 39.50542,
+    "longitude": 68.77094,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220616,
+    "name": "Pereval Sary-Tash",
+    "latitude": 37.78333,
+    "longitude": 74.26667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220620,
+    "name": "Pereval Saryob",
+    "latitude": 38.58319,
+    "longitude": 70.51193,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346559,
+    "name": "Pereval Sebirdara",
+    "latitude": 38.80716,
+    "longitude": 69.64814,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346494,
+    "name": "Pereval Shabuk",
+    "latitude": 38.47509,
+    "longitude": 71.97062,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220569,
+    "name": "Pereval Shakarak",
+    "latitude": 37.83333,
+    "longitude": 74.2,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475496,
+    "name": "Pereval Shibakly",
+    "latitude": 37.47854,
+    "longitude": 67.97603,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220522,
+    "name": "Pereval Shingak",
+    "latitude": 39.6,
+    "longitude": 67.66667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220515,
+    "name": "Pereval Shirgovad",
+    "latitude": 38.6484,
+    "longitude": 71.70714,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220501,
+    "name": "Pereval Shtam",
+    "latitude": 37.80166,
+    "longitude": 71.95582,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220440,
+    "name": "Pereval Sufacha",
+    "latitude": 39.33333,
+    "longitude": 67.68333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220403,
+    "name": "Pereval Takhtakorum",
+    "latitude": 38.78402,
+    "longitude": 72.87325,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220400,
+    "name": "Pereval Takob",
+    "latitude": 38.9,
+    "longitude": 68.76667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220363,
+    "name": "Pereval Tashrabat",
+    "latitude": 37.6741,
+    "longitude": 69.14657,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220358,
+    "name": "Pereval Tau-Tash",
+    "latitude": 39.18527,
+    "longitude": 67.5546,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220352,
+    "name": "Pereval Tegana",
+    "latitude": 39.59485,
+    "longitude": 68.70991,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220341,
+    "name": "Pereval Teshiktosh",
+    "latitude": 37.14857,
+    "longitude": 68.26146,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220419,
+    "name": "Pereval Tobakutal’",
+    "latitude": 37.48463,
+    "longitude": 68.37227,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346556,
+    "name": "Pereval Tumshuk",
+    "latitude": 38.91633,
+    "longitude": 69.39722,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346557,
+    "name": "Pereval Turtchashma",
+    "latitude": 38.95207,
+    "longitude": 69.43549,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220288,
+    "name": "Pereval Tuzakch",
+    "latitude": 38.86667,
+    "longitude": 73.15,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220241,
+    "name": "Pereval Ustanak",
+    "latitude": 39.48528,
+    "longitude": 68.98296,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220224,
+    "name": "Pereval Vachikhna",
+    "latitude": 39.2,
+    "longitude": 67.75,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220182,
+    "name": "Pereval Veshab",
+    "latitude": 39.4907,
+    "longitude": 68.93895,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346401,
+    "name": "Pereval Vishkent",
+    "latitude": 39.54209,
+    "longitude": 68.34076,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346424,
+    "name": "Pereval Vozgina",
+    "latitude": 38.5116,
+    "longitude": 70.51596,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220156,
+    "name": "Pereval Vrang",
+    "latitude": 37.16507,
+    "longitude": 72.36295,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220132,
+    "name": "Pereval Yamg",
+    "latitude": 37.1,
+    "longitude": 72.25,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220127,
+    "name": "Pereval Yangi-Davan",
+    "latitude": 38.75731,
+    "longitude": 72.83185,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220086,
+    "name": "Pereval Yul-Mazar",
+    "latitude": 37.41902,
+    "longitude": 72.90465,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475453,
+    "name": "Pereval Zarsho",
+    "latitude": 37.15517,
+    "longitude": 67.96945,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220026,
+    "name": "Pereval Zulumart",
+    "latitude": 38.92628,
+    "longitude": 72.99681,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221505,
+    "name": "Peski Karadum",
+    "latitude": 37.34477,
+    "longitude": 68.60025,
+    "category": "Desert",
+    "subcategory": "Desert",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222303,
+    "name": "Pik Alichur",
+    "latitude": 38.00353,
+    "longitude": 73.42132,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222287,
+    "name": "Pik Ambarku",
+    "latitude": 36.90363,
+    "longitude": 71.72611,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222162,
+    "name": "Pik Bazarteppa",
+    "latitude": 38.03333,
+    "longitude": 73.08333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222153,
+    "name": "Pik Berga",
+    "latitude": 36.9,
+    "longitude": 71.8,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221898,
+    "name": "Pik Dimitrova",
+    "latitude": 38.91667,
+    "longitude": 72.18333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221870,
+    "name": "Pik Duuzakh",
+    "latitude": 38.73485,
+    "longitude": 68.16853,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221818,
+    "name": "Pik Dzhentiv",
+    "latitude": 37.09712,
+    "longitude": 72.24603,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221784,
+    "name": "Pik Engel’sa",
+    "latitude": 37.17239,
+    "longitude": 72.52328,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221768,
+    "name": "Pik Fikkera",
+    "latitude": 38.56667,
+    "longitude": 72.41667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221764,
+    "name": "Pik Frunze",
+    "latitude": 39.04672,
+    "longitude": 72.81886,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346347,
+    "name": "Pik Ganza",
+    "latitude": 39.1502,
+    "longitude": 68.31843,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221735,
+    "name": "Pik Garmo",
+    "latitude": 38.81082,
+    "longitude": 72.07199,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221252,
+    "name": "Pik Imeni Ismail Samani",
+    "latitude": 38.9462,
+    "longitude": 72.0199,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221550,
+    "name": "Pik Kalinina",
+    "latitude": 39.01086,
+    "longitude": 72.10891,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221456,
+    "name": "Pik Karla Libknekhta",
+    "latitude": 38.86667,
+    "longitude": 72.16667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221233,
+    "name": "Pik Krasnoy Armii",
+    "latitude": 38.98333,
+    "longitude": 72.16667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221118,
+    "name": "Pik Kyz-Kurgan",
+    "latitude": 38.8182,
+    "longitude": 72.43937,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220986,
+    "name": "Pik Moskva",
+    "latitude": 38.9478,
+    "longitude": 71.83402,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220945,
+    "name": "Pik Nan-Kal’di",
+    "latitude": 38.96581,
+    "longitude": 72.61894,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220876,
+    "name": "Pik Obrucheva",
+    "latitude": 38.48333,
+    "longitude": 72.16667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220867,
+    "name": "Pik Ogpu",
+    "latitude": 38.86187,
+    "longitude": 72.10498,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220856,
+    "name": "Pik Ordzhonikidze",
+    "latitude": 38.95798,
+    "longitude": 72.08708,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220808,
+    "name": "Pik Patkhor",
+    "latitude": 37.88917,
+    "longitude": 72.18917,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220510,
+    "name": "Pik Shmidta",
+    "latitude": 38.75,
+    "longitude": 72.18333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220461,
+    "name": "Pik Skalistyy",
+    "latitude": 37.53333,
+    "longitude": 72.16667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220460,
+    "name": "Pik Snegovoy",
+    "latitude": 38.09001,
+    "longitude": 71.74393,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220322,
+    "name": "Pik Trapetsiya",
+    "latitude": 39.25424,
+    "longitude": 73.11317,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220208,
+    "name": "Pik Vanchek",
+    "latitude": 38.61667,
+    "longitude": 72,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346613,
+    "name": "Pik Vantsetti",
+    "latitude": 38.89245,
+    "longitude": 71.81192,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220188,
+    "name": "Pik Vavilova",
+    "latitude": 38.08324,
+    "longitude": 71.75096,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220092,
+    "name": "Pik Yevgenii Korzhenevskoy",
+    "latitude": 39.05681,
+    "longitude": 72.00874,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220081,
+    "name": "Pik Yuzhnyy Tanymas",
+    "latitude": 38.65,
+    "longitude": 72.58333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220071,
+    "name": "Pik Zarasak",
+    "latitude": 39.20203,
+    "longitude": 72.48586,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7567530,
+    "name": "Pistola Tog‘",
+    "latitude": 40.94116,
+    "longitude": 70.53195,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1514839,
+    "name": "Proletar",
+    "latitude": 40.16713,
+    "longitude": 69.50163,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220761,
+    "name": "Pshikharv",
+    "latitude": 38.36667,
+    "longitude": 71.26667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221559,
+    "name": "Qalaikhumb",
+    "latitude": 38.45373,
+    "longitude": 70.78902,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221490,
+    "name": "Qarokŭl",
+    "latitude": 39.04,
+    "longitude": 73.39167,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346333,
+    "name": "Qarotobon Pass",
+    "latitude": 39.0684,
+    "longitude": 68.96403,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1514883,
+    "name": "Qayroqqum",
+    "latitude": 40.26598,
+    "longitude": 69.79585,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7567551,
+    "name": "Qiziltosh Tog‘",
+    "latitude": 40.94908,
+    "longitude": 70.56374,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10646059,
+    "name": "Qo‘r Goncha",
+    "latitude": 40.55814,
+    "longitude": 70.40139,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10646529,
+    "name": "Qo‘zulov Tog‘i",
+    "latitude": 40.1917,
+    "longitude": 70.71675,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8420630,
+    "name": "Qoluchqŭl",
+    "latitude": 37.60301,
+    "longitude": 73.65162,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221274,
+    "name": "Qoqboy",
+    "latitude": 37.47177,
+    "longitude": 72.65381,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221583,
+    "name": "Qubodiyon",
+    "latitude": 37.40973,
+    "longitude": 68.18644,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8277117,
+    "name": "Quli Oq-Suv",
+    "latitude": 39.52638,
+    "longitude": 70.13522,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8275251,
+    "name": "Quli Samarqand",
+    "latitude": 39.28009,
+    "longitude": 69.44954,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346335,
+    "name": "Qulla Gaznok",
+    "latitude": 39.07307,
+    "longitude": 68.56269,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222250,
+    "name": "Qullai Arnavad",
+    "latitude": 38.57021,
+    "longitude": 71.51738,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222130,
+    "name": "Qullai Balandkiik",
+    "latitude": 38.81217,
+    "longitude": 72.7382,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222156,
+    "name": "Qullai Beleuli",
+    "latitude": 39.17115,
+    "longitude": 72.76464,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220584,
+    "name": "Qullai Gach",
+    "latitude": 38.61144,
+    "longitude": 73.33317,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221372,
+    "name": "Qullai Hazrati Shoh",
+    "latitude": 38.50718,
+    "longitude": 70.43345,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221023,
+    "name": "Qullai Mayakovskiy",
+    "latitude": 37.01212,
+    "longitude": 71.69142,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346520,
+    "name": "Qullai Mazori Khojai Turkak",
+    "latitude": 38.8283,
+    "longitude": 70.42381,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220447,
+    "name": "Qullai Ofitseroni Sobetí",
+    "latitude": 38.43244,
+    "longitude": 73.34688,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346172,
+    "name": "Qullai Pshikharv",
+    "latitude": 38.46963,
+    "longitude": 71.20878,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346610,
+    "name": "Qullai Puslisangir",
+    "latitude": 38.93711,
+    "longitude": 71.21982,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220712,
+    "name": "Qullai Revolyutsiya",
+    "latitude": 38.51665,
+    "longitude": 72.35641,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8346017,
+    "name": "Qullai Safarkhoja",
+    "latitude": 36.81,
+    "longitude": 71.68039,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8413451,
+    "name": "Qullai Sarez",
+    "latitude": 38.1875,
+    "longitude": 73.22739,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8426956,
+    "name": "Qullai Serkharsang",
+    "latitude": 37.60022,
+    "longitude": 72.22765,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8411261,
+    "name": "Qullai Shavash",
+    "latitude": 37.43574,
+    "longitude": 71.93785,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346478,
+    "name": "Qullai Tekharv",
+    "latitude": 38.64959,
+    "longitude": 71.61782,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346120,
+    "name": "Qullai Vudor",
+    "latitude": 38.23628,
+    "longitude": 71.80058,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220733,
+    "name": "Rangkŭl",
+    "latitude": 38.47591,
+    "longitude": 74.24781,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221740,
+    "name": "Rasht",
+    "latitude": 39.02871,
+    "longitude": 70.37446,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220708,
+    "name": "Rivakkŭl",
+    "latitude": 37.61551,
+    "longitude": 72.07374,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220701,
+    "name": "Roghun",
+    "latitude": 38.78257,
+    "longitude": 69.87081,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220694,
+    "name": "Roshtqal’a",
+    "latitude": 37.25827,
+    "longitude": 71.82591,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220685,
+    "name": "Rŭshon",
+    "latitude": 37.94487,
+    "longitude": 71.55745,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346187,
+    "name": "Safedkŭh",
+    "latitude": 38.38371,
+    "longitude": 70.47113,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220668,
+    "name": "Salangur",
+    "latitude": 37.52146,
+    "longitude": 74.44723,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1475247,
+    "name": "Sardobakŭtal",
+    "latitude": 37.47634,
+    "longitude": 69.2654,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220628,
+    "name": "Sarikhosor",
+    "latitude": 38.53852,
+    "longitude": 69.83077,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220583,
+    "name": "Severnyy Pik",
+    "latitude": 39.11693,
+    "longitude": 73.19113,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220566,
+    "name": "Shahrinav",
+    "latitude": 38.57085,
+    "longitude": 68.33498,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220571,
+    "name": "Shahriston",
+    "latitude": 39.77447,
+    "longitude": 68.80929,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220576,
+    "name": "Shahritus",
+    "latitude": 37.26206,
+    "longitude": 68.13849,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1514921,
+    "name": "Shaydon",
+    "latitude": 40.66992,
+    "longitude": 70.3502,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7568100,
+    "name": "Shinosak Tog‘",
+    "latitude": 40.85998,
+    "longitude": 70.43607,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220479,
+    "name": "Shŭrobod",
+    "latitude": 37.84137,
+    "longitude": 70.04865,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346188,
+    "name": "Siyehkŭh",
+    "latitude": 38.23816,
+    "longitude": 70.37331,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1221089,
+    "name": "Somoniyon",
+    "latitude": 38.44173,
+    "longitude": 68.77458,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220446,
+    "name": "Sovet",
+    "latitude": 38.0467,
+    "longitude": 69.58822,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220427,
+    "name": "Surkhkat Pass",
+    "latitude": 39.37657,
+    "longitude": 68.96183,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220467,
+    "name": "Syang",
+    "latitude": 37.73987,
+    "longitude": 70.23261,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220413,
+    "name": "Tagarkaki",
+    "latitude": 37.57474,
+    "longitude": 73.00249,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220416,
+    "name": "Tajikobod",
+    "latitude": 39.12405,
+    "longitude": 70.84009,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220324,
+    "name": "Tavildara",
+    "latitude": 38.69529,
+    "longitude": 70.48422,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220350,
+    "name": "Tekharv",
+    "latitude": 38.57978,
+    "longitude": 71.55538,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220311,
+    "name": "Tuganak-Kul' Ozero",
+    "latitude": 37.30556,
+    "longitude": 68.50722,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1282601,
+    "name": "Tursunzoda",
+    "latitude": 38.51271,
+    "longitude": 68.23163,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222537,
+    "name": "Turumtaykŭl",
+    "latitude": 37.48302,
+    "longitude": 72.53744,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220314,
+    "name": "Tuzkŭl",
+    "latitude": 37.7033,
+    "longitude": 73.12561,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1346145,
+    "name": "Ubagn",
+    "latitude": 38.3244,
+    "longitude": 71.89442,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220855,
+    "name": "Vahdat",
+    "latitude": 38.55632,
+    "longitude": 69.01354,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220219,
+    "name": "Vakhsh",
+    "latitude": 37.71485,
+    "longitude": 68.83456,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220210,
+    "name": "Vanj",
+    "latitude": 38.37078,
+    "longitude": 71.45474,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220167,
+    "name": "Voroshilova",
+    "latitude": 38.98333,
+    "longitude": 72.13333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11245288,
+    "name": "Xazrat Sulton Tog‘",
+    "latitude": 38.9474,
+    "longitude": 68.17218,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220116,
+    "name": "Yashilkŭl",
+    "latitude": 37.75189,
+    "longitude": 72.88435,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220112,
+    "name": "Yovon",
+    "latitude": 38.31408,
+    "longitude": 69.03784,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1514815,
+    "name": "Zafarobod",
+    "latitude": 40.17603,
+    "longitude": 68.84679,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1222175,
+    "name": "Zarhalol",
+    "latitude": 37.46471,
+    "longitude": 68.16947,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1220070,
+    "name": "Zaroshkŭl",
+    "latitude": 37.93366,
+    "longitude": 72.51914,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  }
+]

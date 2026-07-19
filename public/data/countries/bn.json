@@ -1,0 +1,672 @@
+[
+  {
+    "geonameId": 1820906,
+    "name": "Bandar Seri Begawan",
+    "latitude": 4.89035,
+    "longitude": 114.94006,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820903,
+    "name": "Bangar",
+    "latitude": 4.70861,
+    "longitude": 115.07167,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1780422,
+    "name": "Bukit Bedawan",
+    "latitude": 4.4932,
+    "longitude": 114.81774,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820868,
+    "name": "Bukit Belalong",
+    "latitude": 4.48983,
+    "longitude": 115.18657,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1743066,
+    "name": "Bukit Gelagas",
+    "latitude": 4.6498,
+    "longitude": 115.255,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1757627,
+    "name": "Bukit Lesong",
+    "latitude": 4.34419,
+    "longitude": 115.24478,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1737564,
+    "name": "Bukit Tanggoi",
+    "latitude": 4.56773,
+    "longitude": 115.27574,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1737818,
+    "name": "Bukit Tudal",
+    "latitude": 4.39376,
+    "longitude": 115.31263,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1738288,
+    "name": "Bukit Ulu Tutong",
+    "latitude": 4.26667,
+    "longitude": 114.81667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6941910,
+    "name": "Kampong Ayer",
+    "latitude": 4.91667,
+    "longitude": 114.91667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820653,
+    "name": "Kampong Lambak A",
+    "latitude": 4.96611,
+    "longitude": 114.94296,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820593,
+    "name": "Kampong Meragang",
+    "latitude": 4.93333,
+    "longitude": 114.91667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820632,
+    "name": "Kampong Mulaut",
+    "latitude": 4.86667,
+    "longitude": 114.83333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820707,
+    "name": "Kampung Beribi",
+    "latitude": 4.88345,
+    "longitude": 114.89485,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820642,
+    "name": "Kampung Lugu",
+    "latitude": 4.87492,
+    "longitude": 114.80494,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820638,
+    "name": "Kampung Mata-Mata",
+    "latitude": 4.90343,
+    "longitude": 114.89618,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820328,
+    "name": "Kampung Panaga",
+    "latitude": 4.6082,
+    "longitude": 114.29574,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820586,
+    "name": "Kampung Rimba",
+    "latitude": 4.94106,
+    "longitude": 114.90611,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820540,
+    "name": "Kampung Tanah Jambu",
+    "latitude": 4.99222,
+    "longitude": 114.99795,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820665,
+    "name": "Keriam",
+    "latitude": 4.81603,
+    "longitude": 114.6941,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820662,
+    "name": "Kiudang",
+    "latitude": 4.75,
+    "longitude": 114.73333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820659,
+    "name": "Kota Batu",
+    "latitude": 4.88333,
+    "longitude": 114.95,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820491,
+    "name": "Kuala Belait",
+    "latitude": 4.58361,
+    "longitude": 114.2312,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820557,
+    "name": "Liang",
+    "latitude": 4.67747,
+    "longitude": 114.49587,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820641,
+    "name": "Lumapas",
+    "latitude": 4.85,
+    "longitude": 114.91667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1636682,
+    "name": "Malay Archipelago",
+    "latitude": 0,
+    "longitude": 120,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820635,
+    "name": "Mentiri",
+    "latitude": 4.97058,
+    "longitude": 115.02078,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820610,
+    "name": "Pengkalan Batu",
+    "latitude": 4.78333,
+    "longitude": 114.83333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820622,
+    "name": "Perumahan Negara Panchor",
+    "latitude": 4.96667,
+    "longitude": 115.01667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820875,
+    "name": "Pulau Bakuku",
+    "latitude": 4.78714,
+    "longitude": 114.62652,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820898,
+    "name": "Pulau Baru Baru",
+    "latitude": 4.90151,
+    "longitude": 115.03865,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820878,
+    "name": "Pulau Bedukang",
+    "latitude": 4.97927,
+    "longitude": 115.06189,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820854,
+    "name": "Pulau Berambang",
+    "latitude": 4.87903,
+    "longitude": 114.98783,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820850,
+    "name": "Pulau Berbunot",
+    "latitude": 4.89005,
+    "longitude": 115.04352,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820792,
+    "name": "Pulau Chermin",
+    "latitude": 4.92986,
+    "longitude": 115.02513,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820737,
+    "name": "Pulau Kaingaran",
+    "latitude": 4.94661,
+    "longitude": 115.02725,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820504,
+    "name": "Pulau Kibi",
+    "latitude": 4.75901,
+    "longitude": 115.04084,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820498,
+    "name": "Pulau Kitang",
+    "latitude": 4.87713,
+    "longitude": 115.09849,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820445,
+    "name": "Pulau Lilipan",
+    "latitude": 4.88496,
+    "longitude": 115.04343,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820433,
+    "name": "Pulau Luba",
+    "latitude": 4.84736,
+    "longitude": 114.89109,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820421,
+    "name": "Pulau Lumut Lunting",
+    "latitude": 4.8609,
+    "longitude": 114.95666,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1754307,
+    "name": "Pulau Muara Besar",
+    "latitude": 5.00644,
+    "longitude": 115.10855,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13626476,
+    "name": "Pulau Pasir Tengah",
+    "latitude": 4.9972,
+    "longitude": 115.04231,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13626464,
+    "name": "Pulau Pelumpong",
+    "latitude": 5.04197,
+    "longitude": 115.11881,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820282,
+    "name": "Pulau Pepatan",
+    "latitude": 4.9159,
+    "longitude": 115.0453,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13603183,
+    "name": "Pulau Pituat",
+    "latitude": 4.77576,
+    "longitude": 115.07754,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820261,
+    "name": "Pulau Pungit",
+    "latitude": 4.97537,
+    "longitude": 114.84908,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820250,
+    "name": "Pulau Ranggu",
+    "latitude": 4.86112,
+    "longitude": 114.90911,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820228,
+    "name": "Pulau Salar",
+    "latitude": 5.00067,
+    "longitude": 115.03807,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820200,
+    "name": "Pulau Salawat",
+    "latitude": 4.77426,
+    "longitude": 114.60688,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820207,
+    "name": "Pulau Sekurop",
+    "latitude": 4.67672,
+    "longitude": 115.1856,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12534284,
+    "name": "Pulau Selanjak",
+    "latitude": 4.8218,
+    "longitude": 115.07141,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13603202,
+    "name": "Pulau Selirong",
+    "latitude": 4.88535,
+    "longitude": 115.13028,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820183,
+    "name": "Pulau Siarau",
+    "latitude": 4.80607,
+    "longitude": 115.04522,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820180,
+    "name": "Pulau Sibungor",
+    "latitude": 4.86635,
+    "longitude": 114.95427,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820177,
+    "name": "Pulau Silama",
+    "latitude": 4.88218,
+    "longitude": 115.04579,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13626498,
+    "name": "Pulau Simangga Besar",
+    "latitude": 4.98001,
+    "longitude": 115.04455,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820130,
+    "name": "Pulau Tanjong Maya",
+    "latitude": 4.75728,
+    "longitude": 114.66385,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12534283,
+    "name": "Pulau Tarap",
+    "latitude": 4.83283,
+    "longitude": 115.07409,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820575,
+    "name": "Sengkurong",
+    "latitude": 4.88333,
+    "longitude": 114.83333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820574,
+    "name": "Serasa",
+    "latitude": 5.01761,
+    "longitude": 115.05798,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820187,
+    "name": "Seria",
+    "latitude": 4.60637,
+    "longitude": 114.32476,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820560,
+    "name": "Sungai Hanching",
+    "latitude": 4.96806,
+    "longitude": 114.97753,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820367,
+    "name": "Tasek Merimbun",
+    "latitude": 4.5942,
+    "longitude": 114.67961,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820546,
+    "name": "Telamba",
+    "latitude": 4.72964,
+    "longitude": 114.56675,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820545,
+    "name": "Telisai",
+    "latitude": 4.73558,
+    "longitude": 114.56324,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1820071,
+    "name": "Tutong",
+    "latitude": 4.80278,
+    "longitude": 114.64917,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  }
+]

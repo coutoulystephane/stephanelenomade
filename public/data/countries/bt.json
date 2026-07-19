@@ -1,0 +1,782 @@
+[
+  {
+    "geonameId": 1252629,
+    "name": "Black Mountain",
+    "latitude": 27.28333,
+    "longitude": 90.38333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252627,
+    "name": "Bod La",
+    "latitude": 28.06774,
+    "longitude": 91.22532,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252612,
+    "name": "Chhachhu La",
+    "latitude": 27.85,
+    "longitude": 90.6,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252607,
+    "name": "Cho-mo-la-li Shan",
+    "latitude": 27.82405,
+    "longitude": 89.26919,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7302312,
+    "name": "Chomolhari Kang",
+    "latitude": 28.16468,
+    "longitude": 90.1825,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12902508,
+    "name": "Chura Kang",
+    "latitude": 28.05091,
+    "longitude": 90.75167,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252433,
+    "name": "Daga",
+    "latitude": 27.07529,
+    "longitude": 89.87688,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252598,
+    "name": "Dengan La",
+    "latitude": 27.13333,
+    "longitude": 92.03333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252590,
+    "name": "Donga La",
+    "latitude": 27.55,
+    "longitude": 91.28333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252579,
+    "name": "Gang La",
+    "latitude": 27.98333,
+    "longitude": 91.2,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7302373,
+    "name": "Gangkhar Puensum",
+    "latitude": 28.04914,
+    "longitude": 90.45477,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252578,
+    "name": "Gasa",
+    "latitude": 27.90372,
+    "longitude": 89.72689,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252560,
+    "name": "Geylegphug",
+    "latitude": 26.86833,
+    "longitude": 90.48778,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252571,
+    "name": "Gong La",
+    "latitude": 28,
+    "longitude": 91.18333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252567,
+    "name": "Gyemo Chen",
+    "latitude": 27.27414,
+    "longitude": 88.902,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252563,
+    "name": "Ha",
+    "latitude": 27.38747,
+    "longitude": 89.28074,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252562,
+    "name": "Ha La",
+    "latitude": 27.45,
+    "longitude": 89.15,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1337301,
+    "name": "Jakar",
+    "latitude": 27.54918,
+    "longitude": 90.7525,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252555,
+    "name": "Jato La",
+    "latitude": 27.58333,
+    "longitude": 89.66667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12902510,
+    "name": "Jejekangphu Kang",
+    "latitude": 28.14535,
+    "longitude": 90.02335,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252554,
+    "name": "Jelep La",
+    "latitude": 27.36667,
+    "longitude": 88.85,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12534522,
+    "name": "Jichu Drake",
+    "latitude": 27.85282,
+    "longitude": 89.32839,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11669725,
+    "name": "Jigme Dorji National Park",
+    "latitude": 27.82784,
+    "longitude": 89.72912,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7302311,
+    "name": "Kangphu Kang I",
+    "latitude": 28.15667,
+    "longitude": 90.07083,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12902509,
+    "name": "Kangphu Kang II",
+    "latitude": 28.14162,
+    "longitude": 90.10095,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252549,
+    "name": "Kangri La",
+    "latitude": 27.81667,
+    "longitude": 90.21667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252547,
+    "name": "Kechu La",
+    "latitude": 27.6,
+    "longitude": 89.98333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252543,
+    "name": "Kengkhar La",
+    "latitude": 27.11667,
+    "longitude": 91.23333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252534,
+    "name": "Kyikyi La",
+    "latitude": 27.5,
+    "longitude": 90.71667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252533,
+    "name": "Kyu La",
+    "latitude": 27.43333,
+    "longitude": 89.1,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252526,
+    "name": "Lhuentse",
+    "latitude": 27.66787,
+    "longitude": 91.18393,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7302313,
+    "name": "Liangkang Kangri",
+    "latitude": 28.06418,
+    "longitude": 90.44353,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252524,
+    "name": "Lingshi La",
+    "latitude": 27.95,
+    "longitude": 89.43333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10172752,
+    "name": "Lungtenzampa",
+    "latitude": 27.46821,
+    "longitude": 89.64441,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252518,
+    "name": "Ma Shan-k'ou",
+    "latitude": 27.95,
+    "longitude": 91.65,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12902512,
+    "name": "Masang Kang",
+    "latitude": 28.16826,
+    "longitude": 89.76519,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252517,
+    "name": "Mili La",
+    "latitude": 27.18333,
+    "longitude": 90.86667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252512,
+    "name": "Moinlagarqung La",
+    "latitude": 28.06622,
+    "longitude": 90.62176,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252514,
+    "name": "Mongar",
+    "latitude": 27.27471,
+    "longitude": 91.23963,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252508,
+    "name": "Namshi La",
+    "latitude": 28.10039,
+    "longitude": 90.3696,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252499,
+    "name": "Nyingsang La",
+    "latitude": 26.78333,
+    "longitude": 89.58333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252498,
+    "name": "Orka La",
+    "latitude": 27.41667,
+    "longitude": 92.01667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252494,
+    "name": "Pang La",
+    "latitude": 27.75,
+    "longitude": 91.2,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252493,
+    "name": "Pangolākha",
+    "latitude": 27.2,
+    "longitude": 88.78333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252490,
+    "name": "Paro",
+    "latitude": 27.4305,
+    "longitude": 89.41334,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252488,
+    "name": "Pele La",
+    "latitude": 27.55,
+    "longitude": 90.21667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1337379,
+    "name": "Pemagatshel",
+    "latitude": 27.03795,
+    "longitude": 91.40305,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252484,
+    "name": "Phuntsholing",
+    "latitude": 26.85164,
+    "longitude": 89.38837,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252480,
+    "name": "Pumo La",
+    "latitude": 27.45,
+    "longitude": 89.56667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252479,
+    "name": "Punākha",
+    "latitude": 27.59137,
+    "longitude": 89.87743,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252472,
+    "name": "Rudong La",
+    "latitude": 27.58333,
+    "longitude": 90.9,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252470,
+    "name": "Sage La",
+    "latitude": 27.46667,
+    "longitude": 89.28333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1337388,
+    "name": "Samdrup Jongkhar",
+    "latitude": 26.80069,
+    "longitude": 91.50519,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1337360,
+    "name": "Samtse",
+    "latitude": 26.89903,
+    "longitude": 89.09951,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252460,
+    "name": "Sarpang",
+    "latitude": 26.86395,
+    "longitude": 90.26745,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252455,
+    "name": "Sele La",
+    "latitude": 27.23333,
+    "longitude": 89.26667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252451,
+    "name": "Shemgang",
+    "latitude": 27.21689,
+    "longitude": 90.65793,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252440,
+    "name": "Sinchu La",
+    "latitude": 26.78333,
+    "longitude": 89.58333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252437,
+    "name": "Sirkim La",
+    "latitude": 27.3,
+    "longitude": 91.81667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252426,
+    "name": "Tarka La",
+    "latitude": 27.2,
+    "longitude": 89.73333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252417,
+    "name": "Thebong La",
+    "latitude": 27.28333,
+    "longitude": 91.33333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252416,
+    "name": "Thimphu",
+    "latitude": 27.46609,
+    "longitude": 89.64191,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252414,
+    "name": "Thungsi La",
+    "latitude": 27.4,
+    "longitude": 90.96667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7302310,
+    "name": "Tongshanjiabu",
+    "latitude": 28.18658,
+    "longitude": 89.95756,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252422,
+    "name": "Trashi Yangtse",
+    "latitude": 27.6116,
+    "longitude": 91.498,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252423,
+    "name": "Trashigang",
+    "latitude": 27.3331,
+    "longitude": 91.55424,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252405,
+    "name": "Tremo La",
+    "latitude": 27.68333,
+    "longitude": 89.18333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252408,
+    "name": "Trongsa",
+    "latitude": 27.5026,
+    "longitude": 90.50716,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12902511,
+    "name": "Tsenda Kang",
+    "latitude": 28.1067,
+    "longitude": 89.86332,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252610,
+    "name": "Tsimasham",
+    "latitude": 27.0989,
+    "longitude": 89.53604,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252608,
+    "name": "Tsirang",
+    "latitude": 27.0219,
+    "longitude": 90.12291,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252399,
+    "name": "Ura La",
+    "latitude": 27.45,
+    "longitude": 90.85,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252397,
+    "name": "Wāgya La",
+    "latitude": 28.28333,
+    "longitude": 89.88333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252395,
+    "name": "Wangdue Phodrang",
+    "latitude": 27.48615,
+    "longitude": 89.89915,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252392,
+    "name": "Yale La",
+    "latitude": 27.86667,
+    "longitude": 89.43333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252391,
+    "name": "Yeb La",
+    "latitude": 27.73333,
+    "longitude": 91.2,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252390,
+    "name": "Yembo La",
+    "latitude": 27.13333,
+    "longitude": 91.41667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1252389,
+    "name": "Yönpu La",
+    "latitude": 27.25,
+    "longitude": 91.53333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  }
+]

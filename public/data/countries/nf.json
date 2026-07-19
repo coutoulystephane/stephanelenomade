@@ -1,0 +1,72 @@
+[
+  {
+    "geonameId": 2161314,
+    "name": "Kingston",
+    "latitude": -29.05459,
+    "longitude": 167.96628,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2176638,
+    "name": "Mount Bates",
+    "latitude": -29.01124,
+    "longitude": 167.9401,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2152922,
+    "name": "Mount Pitt",
+    "latitude": -29.01585,
+    "longitude": 167.93689,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2155545,
+    "name": "Nepean Island",
+    "latitude": -29.07174,
+    "longitude": 167.9641,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2155116,
+    "name": "Norfolk Island",
+    "latitude": -29.03333,
+    "longitude": 167.95,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11001455,
+    "name": "Norfolk Island National Park",
+    "latitude": -29.01765,
+    "longitude": 167.94538,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2153338,
+    "name": "Philip Island",
+    "latitude": -29.11667,
+    "longitude": 167.95,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  }
+]

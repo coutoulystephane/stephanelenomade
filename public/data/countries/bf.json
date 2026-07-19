@@ -1,0 +1,1402 @@
+[
+  {
+    "geonameId": 2363246,
+    "name": "Absouya",
+    "latitude": 12.6406,
+    "longitude": -1.05426,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2363174,
+    "name": "Aribinda",
+    "latitude": 14.22963,
+    "longitude": -0.86537,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2362970,
+    "name": "Bama",
+    "latitude": 12.0357,
+    "longitude": -4.3987,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2362909,
+    "name": "Banfora",
+    "latitude": 10.64064,
+    "longitude": -4.75285,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2362781,
+    "name": "Barani",
+    "latitude": 13.1691,
+    "longitude": -3.8899,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2362740,
+    "name": "Barogo",
+    "latitude": 12.55,
+    "longitude": -0.96667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11900646,
+    "name": "Barrage Numéro Deux",
+    "latitude": 12.38904,
+    "longitude": -1.534,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11900647,
+    "name": "Barrage Numéro Trois",
+    "latitude": 12.38883,
+    "longitude": -1.50903,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11900645,
+    "name": "Barrage Numéro Un",
+    "latitude": 12.38124,
+    "longitude": -1.56479,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2362669,
+    "name": "Batié",
+    "latitude": 9.88333,
+    "longitude": -2.91667,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2362626,
+    "name": "Béguédo",
+    "latitude": 11.78083,
+    "longitude": -0.73389,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6860064,
+    "name": "Béli",
+    "latitude": 14.86215,
+    "longitude": 0.19828,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2362498,
+    "name": "Bilanga",
+    "latitude": 12.54652,
+    "longitude": -0.02438,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2362458,
+    "name": "Bingo",
+    "latitude": 12.30092,
+    "longitude": -1.8348,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2362376,
+    "name": "Bittou",
+    "latitude": 11.25806,
+    "longitude": -0.30611,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2362344,
+    "name": "Bobo-Dioulasso",
+    "latitude": 11.18064,
+    "longitude": -4.29489,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2362323,
+    "name": "Bogandé",
+    "latitude": 12.97711,
+    "longitude": -0.14661,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2362150,
+    "name": "Boromo",
+    "latitude": 11.74542,
+    "longitude": -2.93006,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2362033,
+    "name": "Boukou",
+    "latitude": 13.67568,
+    "longitude": -1.56333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2361946,
+    "name": "Boulsa",
+    "latitude": 12.66664,
+    "longitude": -0.57469,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12076761,
+    "name": "Boundoré",
+    "latitude": 13.44114,
+    "longitude": 0.90735,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2361853,
+    "name": "Bourzanga",
+    "latitude": 13.67806,
+    "longitude": -1.54611,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2361845,
+    "name": "Boussé",
+    "latitude": 12.66121,
+    "longitude": -1.89515,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2361836,
+    "name": "Boussouma",
+    "latitude": 12.91069,
+    "longitude": -1.0819,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2358948,
+    "name": "Chutes de Koudou",
+    "latitude": 11.68333,
+    "longitude": 2.31667,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12640343,
+    "name": "Cinkansé",
+    "latitude": 11.11857,
+    "longitude": 0.00993,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2361586,
+    "name": "Dano",
+    "latitude": 11.1464,
+    "longitude": -3.05784,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2361567,
+    "name": "Dapélogo",
+    "latitude": 12.67274,
+    "longitude": -1.53907,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2361539,
+    "name": "Darkoy",
+    "latitude": 14.69946,
+    "longitude": -0.09098,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2361477,
+    "name": "Dédougou",
+    "latitude": 12.4636,
+    "longitude": -3.46075,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2361444,
+    "name": "Déou",
+    "latitude": 14.60084,
+    "longitude": -0.71901,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2361373,
+    "name": "Diapaga",
+    "latitude": 12.0729,
+    "longitude": 1.78835,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2361342,
+    "name": "Diébougou",
+    "latitude": 10.96209,
+    "longitude": -3.24967,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2361177,
+    "name": "Djibo",
+    "latitude": 14.09864,
+    "longitude": -1.62665,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2361082,
+    "name": "Dori",
+    "latitude": 14.03326,
+    "longitude": -0.03333,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2360886,
+    "name": "Fada N'gourma",
+    "latitude": 12.06157,
+    "longitude": 0.35843,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2360855,
+    "name": "Fara Department",
+    "latitude": 11.52941,
+    "longitude": -2.76797,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2360626,
+    "name": "Gao",
+    "latitude": 11.64967,
+    "longitude": -2.17777,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2360621,
+    "name": "Gaongo",
+    "latitude": 12.00414,
+    "longitude": -1.16455,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2360620,
+    "name": "Gaoua",
+    "latitude": 10.33137,
+    "longitude": -3.18202,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2360615,
+    "name": "Garango",
+    "latitude": 11.8,
+    "longitude": -0.55056,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2360541,
+    "name": "Gayéri",
+    "latitude": 12.64824,
+    "longitude": 0.49314,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2361778,
+    "name": "Gomboussougou",
+    "latitude": 11.42611,
+    "longitude": -0.77278,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2360372,
+    "name": "Gorom-Gorom",
+    "latitude": 14.4429,
+    "longitude": -0.23468,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2360286,
+    "name": "Goulouré",
+    "latitude": 12.23484,
+    "longitude": -1.93394,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2360238,
+    "name": "Gourcy",
+    "latitude": 13.20776,
+    "longitude": -2.35893,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2360087,
+    "name": "Higa",
+    "latitude": 13.61066,
+    "longitude": 0.72083,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2360073,
+    "name": "Houndé",
+    "latitude": 11.5,
+    "longitude": -3.51667,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2360014,
+    "name": "I-n-Tangoum",
+    "latitude": 14.91972,
+    "longitude": 0.0466,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2359695,
+    "name": "Karankasso",
+    "latitude": 11.22191,
+    "longitude": -4.64423,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2359608,
+    "name": "Kaya",
+    "latitude": 13.0883,
+    "longitude": -1.08368,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2359606,
+    "name": "Kayao",
+    "latitude": 12.01295,
+    "longitude": -1.8419,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2359495,
+    "name": "Kindi",
+    "latitude": 12.4386,
+    "longitude": -2.03279,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2359449,
+    "name": "Kissi Mare",
+    "latitude": 14.63641,
+    "longitude": -0.13681,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2359317,
+    "name": "Kokologo",
+    "latitude": 12.19392,
+    "longitude": -1.87687,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2359227,
+    "name": "Kombissiri",
+    "latitude": 12.06884,
+    "longitude": -1.33644,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2359214,
+    "name": "Komki-Ipala",
+    "latitude": 12.18279,
+    "longitude": -1.79131,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12640344,
+    "name": "Kompienga",
+    "latitude": 11.08169,
+    "longitude": 0.72365,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2359200,
+    "name": "Komsilga",
+    "latitude": 12.18653,
+    "longitude": -1.63379,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2359142,
+    "name": "Kongoussi",
+    "latitude": 13.32583,
+    "longitude": -1.53472,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2359042,
+    "name": "Korsimoro",
+    "latitude": 12.82506,
+    "longitude": -1.06737,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2357801,
+    "name": "Koubri",
+    "latitude": 12.19785,
+    "longitude": -1.40662,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2358946,
+    "name": "Koudougou",
+    "latitude": 12.25188,
+    "longitude": -2.36694,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2358898,
+    "name": "Kouka",
+    "latitude": 13.4345,
+    "longitude": -1.61361,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2358738,
+    "name": "Koupéla",
+    "latitude": 12.17864,
+    "longitude": -0.35103,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2362974,
+    "name": "Lac de Bam",
+    "latitude": 13.36911,
+    "longitude": -1.52371,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2361463,
+    "name": "Lac de Dèm",
+    "latitude": 13.18794,
+    "longitude": -1.15859,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7838884,
+    "name": "Lac de la Kompienga",
+    "latitude": 11.16628,
+    "longitude": 0.61317,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2355691,
+    "name": "Lac de Sian",
+    "latitude": 13.09864,
+    "longitude": -1.21055,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2354438,
+    "name": "Lac de Tingrela",
+    "latitude": 10.63333,
+    "longitude": -4.85,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2358434,
+    "name": "Laye",
+    "latitude": 12.53118,
+    "longitude": -1.77684,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2358382,
+    "name": "Léo",
+    "latitude": 11.10033,
+    "longitude": -2.10654,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2358201,
+    "name": "Loumbila",
+    "latitude": 12.51863,
+    "longitude": -1.3734,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2358109,
+    "name": "Mané",
+    "latitude": 12.98836,
+    "longitude": -1.34434,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2358100,
+    "name": "Manga",
+    "latitude": 11.66496,
+    "longitude": -1.06977,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2358095,
+    "name": "Mangodara",
+    "latitude": 9.90238,
+    "longitude": -4.3576,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10342754,
+    "name": "Mani",
+    "latitude": 13.25833,
+    "longitude": -0.21306,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6875010,
+    "name": "Mare aux Caïmans",
+    "latitude": 13.2988,
+    "longitude": -3.1969,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2360085,
+    "name": "Mare aux Hippopotames",
+    "latitude": 11.56174,
+    "longitude": -4.16215,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2356783,
+    "name": "Mare d’Oursi",
+    "latitude": 14.65784,
+    "longitude": -0.47815,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12440441,
+    "name": "Mare de Bopiéni",
+    "latitude": 11.45642,
+    "longitude": 0.71275,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2361081,
+    "name": "Mare de Dori",
+    "latitude": 14.0459,
+    "longitude": -0.03726,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12440440,
+    "name": "Mare de Gouaroudou",
+    "latitude": 11.42936,
+    "longitude": 0.7524,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2357931,
+    "name": "Mogtédo",
+    "latitude": 12.28444,
+    "longitude": -0.83722,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2356436,
+    "name": "Nagréongo",
+    "latitude": 12.47847,
+    "longitude": -1.20129,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12217144,
+    "name": "Namponkoré",
+    "latitude": 11.73748,
+    "longitude": 1.77718,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2357560,
+    "name": "Nanoro",
+    "latitude": 12.68662,
+    "longitude": -2.19375,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2357487,
+    "name": "Natiaboani",
+    "latitude": 11.69917,
+    "longitude": 0.50611,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2357371,
+    "name": "Niangoloko",
+    "latitude": 10.28333,
+    "longitude": -4.91667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2357109,
+    "name": "Nioko I",
+    "latitude": 12.39501,
+    "longitude": -1.43861,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2357095,
+    "name": "Niou",
+    "latitude": 12.76975,
+    "longitude": -1.93376,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2357163,
+    "name": "Nouna",
+    "latitude": 12.72939,
+    "longitude": -3.86305,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2357062,
+    "name": "Orodara",
+    "latitude": 10.98115,
+    "longitude": -4.91885,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2357048,
+    "name": "Ouagadougou",
+    "latitude": 12.36566,
+    "longitude": -1.53388,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2357043,
+    "name": "Ouahigouya",
+    "latitude": 13.5769,
+    "longitude": -2.41786,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2357012,
+    "name": "Ouargaye",
+    "latitude": 11.50202,
+    "longitude": 0.05886,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2356792,
+    "name": "Ourgou-Manéga",
+    "latitude": 12.77994,
+    "longitude": -1.5077,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2356784,
+    "name": "Oursi",
+    "latitude": 14.67553,
+    "longitude": -0.46033,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2356765,
+    "name": "Pa",
+    "latitude": 12.66667,
+    "longitude": -3.95,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2356759,
+    "name": "Pabré",
+    "latitude": 12.52147,
+    "longitude": -1.58631,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2356738,
+    "name": "Pama",
+    "latitude": 11.24972,
+    "longitude": 0.7075,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2363170,
+    "name": "Parc National de l’Arly",
+    "latitude": 11.58333,
+    "longitude": 1.46667,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2356467,
+    "name": "Pissila",
+    "latitude": 13.16417,
+    "longitude": -0.8225,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2356459,
+    "name": "Pitmoaga",
+    "latitude": 12.24564,
+    "longitude": -1.88148,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2356454,
+    "name": "Pô",
+    "latitude": 11.16972,
+    "longitude": -1.145,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2356300,
+    "name": "Pouytenga",
+    "latitude": 12.25162,
+    "longitude": -0.42565,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2356279,
+    "name": "Rafnaman",
+    "latitude": 14.9911,
+    "longitude": -0.6242,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2356228,
+    "name": "Réo",
+    "latitude": 12.31963,
+    "longitude": -2.47094,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13131994,
+    "name": "Réserve totale de faune de Madjoari",
+    "latitude": 11.36675,
+    "longitude": 1.29137,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2356157,
+    "name": "Saaba",
+    "latitude": 12.37136,
+    "longitude": -1.41468,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2356136,
+    "name": "Sabou",
+    "latitude": 12.06667,
+    "longitude": -2.23333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2355886,
+    "name": "Saonré",
+    "latitude": 12.2751,
+    "longitude": -1.57692,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2355872,
+    "name": "Saponé",
+    "latitude": 12.05356,
+    "longitude": -1.60491,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2355869,
+    "name": "Sapouy",
+    "latitude": 11.55444,
+    "longitude": -1.77361,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2355803,
+    "name": "Sebba",
+    "latitude": 13.43641,
+    "longitude": 0.53044,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2355649,
+    "name": "Siglé",
+    "latitude": 12.55618,
+    "longitude": -1.88775,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2355548,
+    "name": "Sindou",
+    "latitude": 10.66667,
+    "longitude": -5.16667,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2355404,
+    "name": "Solenzo",
+    "latitude": 12.17423,
+    "longitude": -4.08477,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2355333,
+    "name": "Sorhobou",
+    "latitude": 12.60861,
+    "longitude": 2.02302,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2355221,
+    "name": "Sourgoubila",
+    "latitude": 12.41462,
+    "longitude": -1.80644,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2354971,
+    "name": "Tanghin-Dassouri",
+    "latitude": 12.27256,
+    "longitude": -1.71704,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2354675,
+    "name": "Tenkodogo",
+    "latitude": 11.78442,
+    "longitude": -0.37184,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2354467,
+    "name": "Ti-n-Akof",
+    "latitude": 14.96789,
+    "longitude": -0.15175,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6862578,
+    "name": "Ti-n-Hrassan",
+    "latitude": 14.99116,
+    "longitude": -0.22273,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6913752,
+    "name": "Ti-n-Kacham",
+    "latitude": 14.99751,
+    "longitude": -0.31994,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2596769,
+    "name": "Tin-Akoff",
+    "latitude": 14.96549,
+    "longitude": -0.16335,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2354351,
+    "name": "Tita",
+    "latitude": 11.92092,
+    "longitude": -2.51536,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2354349,
+    "name": "Titao",
+    "latitude": 13.76667,
+    "longitude": -2.06667,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2354340,
+    "name": "Tô",
+    "latitude": 11.44379,
+    "longitude": -2.22548,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2354319,
+    "name": "Toéghin",
+    "latitude": 12.8159,
+    "longitude": -1.72763,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2354265,
+    "name": "Toma",
+    "latitude": 12.75844,
+    "longitude": -2.89879,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2354176,
+    "name": "Tougan",
+    "latitude": 13.07237,
+    "longitude": -3.06939,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2353688,
+    "name": "Yako",
+    "latitude": 12.9591,
+    "longitude": -2.26075,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2353670,
+    "name": "Yalgo",
+    "latitude": 12.93333,
+    "longitude": -0.85,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12440446,
+    "name": "Yérianga",
+    "latitude": 11.3609,
+    "longitude": 0.8538,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2353436,
+    "name": "Zabré",
+    "latitude": 11.1825,
+    "longitude": -0.63222,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2353332,
+    "name": "Zinguédéssé",
+    "latitude": 12.24661,
+    "longitude": -1.58402,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2353257,
+    "name": "Ziniaré",
+    "latitude": 12.58236,
+    "longitude": -1.29753,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2353238,
+    "name": "Zitenga",
+    "latitude": 12.74846,
+    "longitude": -1.30989,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2353197,
+    "name": "Zorgo",
+    "latitude": 12.24922,
+    "longitude": -0.61527,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  }
+]

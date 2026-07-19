@@ -1,0 +1,372 @@
+[
+  {
+    "geonameId": 3042422,
+    "name": "Alderney",
+    "latitude": 49.71582,
+    "longitude": -2.19816,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11126097,
+    "name": "ArtParkS Sculpture Park",
+    "latitude": 49.43558,
+    "longitude": -2.54756,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042407,
+    "name": "Brecqhou",
+    "latitude": 49.43222,
+    "longitude": -2.38833,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6420696,
+    "name": "Cambridge Park",
+    "latitude": 49.46028,
+    "longitude": -2.54056,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042402,
+    "name": "Caquorobert",
+    "latitude": 49.46667,
+    "longitude": -2.45,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042401,
+    "name": "Casquets",
+    "latitude": 49.72226,
+    "longitude": -2.37515,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6692239,
+    "name": "Castel",
+    "latitude": 49.46757,
+    "longitude": -2.60015,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042387,
+    "name": "Crevichon",
+    "latitude": 49.46667,
+    "longitude": -2.46667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042385,
+    "name": "Delancey Park",
+    "latitude": 49.47833,
+    "longitude": -2.52556,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13527040,
+    "name": "Forest Parish",
+    "latitude": 49.42983,
+    "longitude": -2.60168,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12541093,
+    "name": "Gouliot",
+    "latitude": 49.43141,
+    "longitude": -2.37963,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042370,
+    "name": "Grande Fauconnière",
+    "latitude": 49.45,
+    "longitude": -2.46667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042363,
+    "name": "Guernsey",
+    "latitude": 49.45853,
+    "longitude": -2.5787,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042359,
+    "name": "Herm",
+    "latitude": 49.47214,
+    "longitude": -2.44832,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042357,
+    "name": "Homet",
+    "latitude": 49.48333,
+    "longitude": -2.46667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042351,
+    "name": "Jethou",
+    "latitude": 49.46667,
+    "longitude": -2.46667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042327,
+    "name": "L’Etac",
+    "latitude": 49.40111,
+    "longitude": -2.3675,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6607962,
+    "name": "La Grune",
+    "latitude": 49.45,
+    "longitude": -2.36778,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12541137,
+    "name": "Les Tas de Pois d'Amont",
+    "latitude": 49.41777,
+    "longitude": -2.54087,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042326,
+    "name": "Lihou Island",
+    "latitude": 49.46056,
+    "longitude": -2.66722,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042325,
+    "name": "Little Burhou",
+    "latitude": 49.72804,
+    "longitude": -2.26615,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6608554,
+    "name": "Moie du Mouton",
+    "latitude": 49.43444,
+    "longitude": -2.37389,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042296,
+    "name": "Raz Island",
+    "latitude": 49.71833,
+    "longitude": -2.1675,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042295,
+    "name": "Renonquet",
+    "latitude": 49.73333,
+    "longitude": -2.28333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6692240,
+    "name": "Saint Andrew",
+    "latitude": 49.44389,
+    "longitude": -2.58018,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042287,
+    "name": "Saint Peter Port",
+    "latitude": 49.45981,
+    "longitude": -2.53527,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13527042,
+    "name": "Saint Pierre du Bois Parish",
+    "latitude": 49.45399,
+    "longitude": -2.63808,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042286,
+    "name": "Saint Sampson",
+    "latitude": 49.48389,
+    "longitude": -2.52333,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6424194,
+    "name": "Saint Saviour",
+    "latitude": 49.45694,
+    "longitude": -2.63583,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6424174,
+    "name": "Saint Saviour Reservoir",
+    "latitude": 49.45278,
+    "longitude": -2.62167,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042282,
+    "name": "Sark",
+    "latitude": 49.43306,
+    "longitude": -2.35889,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042280,
+    "name": "Saumarez Park",
+    "latitude": 49.47028,
+    "longitude": -2.57917,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042289,
+    "name": "St Anne",
+    "latitude": 49.71549,
+    "longitude": -2.20757,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6696773,
+    "name": "St Martin",
+    "latitude": 49.43713,
+    "longitude": -2.55479,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3042274,
+    "name": "Torteval",
+    "latitude": 49.43333,
+    "longitude": -2.65,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 9973094,
+    "name": "Val du Saou",
+    "latitude": 49.70532,
+    "longitude": -2.20627,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12541138,
+    "name": "Vale Mill",
+    "latitude": 49.49232,
+    "longitude": -2.51532,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  }
+]

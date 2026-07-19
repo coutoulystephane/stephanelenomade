@@ -1,0 +1,232 @@
+[
+  {
+    "geonameId": 11879355,
+    "name": "Col de la Tourmente",
+    "latitude": 17.90439,
+    "longitude": -62.84803,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11879346,
+    "name": "Col Tourterelle",
+    "latitude": 17.89403,
+    "longitude": -62.83166,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3579145,
+    "name": "Groupers",
+    "latitude": 17.95167,
+    "longitude": -62.94693,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3579132,
+    "name": "Gustavia",
+    "latitude": 17.89618,
+    "longitude": -62.84978,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3579520,
+    "name": "Île Chevreau",
+    "latitude": 17.93349,
+    "longitude": -62.85092,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3579505,
+    "name": "Île Coco",
+    "latitude": 17.87433,
+    "longitude": -62.8127,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3578600,
+    "name": "Île de la Pointe",
+    "latitude": 17.92035,
+    "longitude": -62.87606,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3579318,
+    "name": "Île Fourchue",
+    "latitude": 17.95836,
+    "longitude": -62.90362,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3579312,
+    "name": "Île Frégate",
+    "latitude": 17.93954,
+    "longitude": -62.83364,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3579636,
+    "name": "Île le Boulanger",
+    "latitude": 17.9563,
+    "longitude": -62.86781,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3578698,
+    "name": "Île Pelé",
+    "latitude": 17.95579,
+    "longitude": -62.87339,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3578475,
+    "name": "Île Saint-Barthélemy",
+    "latitude": 17.89697,
+    "longitude": -62.83065,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3578338,
+    "name": "Île Toc Vers",
+    "latitude": 17.94264,
+    "longitude": -62.81845,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11879341,
+    "name": "Îlet au Vent",
+    "latitude": 17.95703,
+    "longitude": -62.89668,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3740074,
+    "name": "L'Âne Rouge",
+    "latitude": 17.92031,
+    "longitude": -62.87796,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11879973,
+    "name": "La Chaloupe",
+    "latitude": 17.87791,
+    "longitude": -62.83658,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11879340,
+    "name": "La Petite Islette",
+    "latitude": 17.95669,
+    "longitude": -62.91089,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3578992,
+    "name": "La Tortue",
+    "latitude": 17.91953,
+    "longitude": -62.79781,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3578947,
+    "name": "Les Gros Îlets",
+    "latitude": 17.89961,
+    "longitude": -62.86059,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3578933,
+    "name": "Les Petits Saints",
+    "latitude": 17.89485,
+    "longitude": -62.85636,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3579011,
+    "name": "Mancel",
+    "latitude": 17.95195,
+    "longitude": -62.94688,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3578722,
+    "name": "Pain de Sucre",
+    "latitude": 17.89696,
+    "longitude": -62.8763,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3578359,
+    "name": "Roche Plate",
+    "latitude": 17.97352,
+    "longitude": -62.92602,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  }
+]

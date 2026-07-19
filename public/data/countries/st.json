@@ -1,0 +1,1022 @@
+[
+  {
+    "geonameId": 2411305,
+    "name": "Água Izé",
+    "latitude": 0.21953,
+    "longitude": 6.72782,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411300,
+    "name": "Aliança",
+    "latitude": 0.17586,
+    "longitude": 6.64019,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411270,
+    "name": "Balsa Voador",
+    "latitude": 0.14144,
+    "longitude": 6.48227,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411267,
+    "name": "Barriga Branca",
+    "latitude": 1.57321,
+    "longitude": 7.34852,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411239,
+    "name": "Botija",
+    "latitude": 0.20653,
+    "longitude": 6.62925,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411226,
+    "name": "Cagunguê",
+    "latitude": 0.21683,
+    "longitude": 6.6503,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411219,
+    "name": "Calvário",
+    "latitude": 0.26969,
+    "longitude": 6.57617,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411217,
+    "name": "Camelo",
+    "latitude": 0.23172,
+    "longitude": 6.68173,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411208,
+    "name": "Cantagalo",
+    "latitude": 0.22509,
+    "longitude": 6.64914,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411206,
+    "name": "Cão Grande",
+    "latitude": 0.11808,
+    "longitude": 6.56584,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411205,
+    "name": "Cão Pequeno",
+    "latitude": 0.10164,
+    "longitude": 6.53248,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411197,
+    "name": "Carriote",
+    "latitude": 1.58181,
+    "longitude": 7.36806,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411191,
+    "name": "Catraio",
+    "latitude": 0.26134,
+    "longitude": 6.66107,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411186,
+    "name": "Chamiço",
+    "latitude": 0.31667,
+    "longitude": 6.6,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411169,
+    "name": "Cruzeiro",
+    "latitude": 0.18444,
+    "longitude": 6.62527,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411145,
+    "name": "Estoril",
+    "latitude": 0.33507,
+    "longitude": 6.58577,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11204006,
+    "name": "Folha Fede",
+    "latitude": 0.284,
+    "longitude": 6.684,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411134,
+    "name": "Formoso Grande",
+    "latitude": 0.23129,
+    "longitude": 6.6256,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411130,
+    "name": "Fortunato",
+    "latitude": 0.31874,
+    "longitude": 6.5662,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13130707,
+    "name": "Garrafa",
+    "latitude": 0.30998,
+    "longitude": 6.53453,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411114,
+    "name": "Godins",
+    "latitude": 0.20534,
+    "longitude": 6.63007,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411102,
+    "name": "Guadalupe",
+    "latitude": 0.37917,
+    "longitude": 6.6375,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410762,
+    "name": "Ilha de São Tomé",
+    "latitude": 0.25814,
+    "longitude": 6.61334,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11204907,
+    "name": "Ilhélu das Rolas",
+    "latitude": -0.00584,
+    "longitude": 6.52236,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411243,
+    "name": "Ilhéu Bombom",
+    "latitude": 1.69845,
+    "longitude": 7.40278,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411199,
+    "name": "Ilhéu Caroço",
+    "latitude": 1.51302,
+    "longitude": 7.43004,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411181,
+    "name": "Ilhéu Côco",
+    "latitude": 0.19945,
+    "longitude": 6.46122,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411232,
+    "name": "Ilhéu das Cabras",
+    "latitude": 0.4078,
+    "longitude": 6.71462,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411070,
+    "name": "Ilhéu de Córacóra",
+    "latitude": 0.18968,
+    "longitude": 6.46619,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410817,
+    "name": "Ilhéu de Santana",
+    "latitude": 0.24131,
+    "longitude": 6.75956,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411047,
+    "name": "Ilhéu dos Côcos",
+    "latitude": 0.09271,
+    "longitude": 6.51248,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411135,
+    "name": "Ilhéu Formoso",
+    "latitude": 0.13766,
+    "longitude": 6.48322,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411123,
+    "name": "Ilhéu Gabado",
+    "latitude": 0.1316,
+    "longitude": 6.47995,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411122,
+    "name": "Ilhéu Gago Coutinho",
+    "latitude": -0.00468,
+    "longitude": 6.52024,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13135086,
+    "name": "Ilhéu Jàlé",
+    "latitude": 0.04834,
+    "longitude": 6.50545,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410894,
+    "name": "Ilhéu Portinho",
+    "latitude": 1.53489,
+    "longitude": 7.38459,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410864,
+    "name": "Ilhéu Quixibá",
+    "latitude": 0.07324,
+    "longitude": 6.58606,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410818,
+    "name": "Ilhéu Santana",
+    "latitude": 1.66269,
+    "longitude": 7.44842,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410771,
+    "name": "Ilhéu São Miguel",
+    "latitude": 0.13784,
+    "longitude": 6.48119,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410985,
+    "name": "Ilhéus dos Mosteiros",
+    "latitude": 1.68437,
+    "longitude": 7.47054,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411075,
+    "name": "Irene",
+    "latitude": 0.22962,
+    "longitude": 6.51643,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411027,
+    "name": "Maria Isabel",
+    "latitude": 0.19568,
+    "longitude": 6.65831,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411025,
+    "name": "Maria Pires",
+    "latitude": 0.23333,
+    "longitude": 6.55,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411014,
+    "name": "Micondó",
+    "latitude": 0.17043,
+    "longitude": 6.67063,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13151879,
+    "name": "Minho",
+    "latitude": 0.27022,
+    "longitude": 6.62112,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411006,
+    "name": "Mizambú",
+    "latitude": 0.22688,
+    "longitude": 6.67981,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410867,
+    "name": "Monte das Quinas",
+    "latitude": 0.27697,
+    "longitude": 6.53153,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411087,
+    "name": "Monte Inserto",
+    "latitude": 0.19314,
+    "longitude": 6.59039,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13138576,
+    "name": "Monte Luiza",
+    "latitude": 0.21964,
+    "longitude": 6.66201,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411046,
+    "name": "Monte Macaco",
+    "latitude": 0.34606,
+    "longitude": 6.64324,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411282,
+    "name": "Morro Artur",
+    "latitude": 0.20672,
+    "longitude": 6.49975,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411264,
+    "name": "Morro Batalha",
+    "latitude": 0.24941,
+    "longitude": 6.69261,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411069,
+    "name": "Morro Córacóra Grande",
+    "latitude": 0.18718,
+    "longitude": 6.47009,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411167,
+    "name": "Morro de Dentro",
+    "latitude": 0.26046,
+    "longitude": 6.58698,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411146,
+    "name": "Morro de Este",
+    "latitude": 1.58621,
+    "longitude": 7.40884,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411150,
+    "name": "Morro Esperança",
+    "latitude": 0.28928,
+    "longitude": 6.6022,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411053,
+    "name": "Morro Lembá",
+    "latitude": 0.24393,
+    "longitude": 6.52309,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411028,
+    "name": "Morro Maria Helena",
+    "latitude": 0.21901,
+    "longitude": 6.62564,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411012,
+    "name": "Morro Miguel Ângelo",
+    "latitude": 0.22765,
+    "longitude": 6.63798,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410981,
+    "name": "Morro Mongo",
+    "latitude": 0.31711,
+    "longitude": 6.64297,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410940,
+    "name": "Morro Palmira",
+    "latitude": 0.27542,
+    "longitude": 6.60268,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410938,
+    "name": "Morro Papagaio",
+    "latitude": 1.61358,
+    "longitude": 7.39264,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410879,
+    "name": "Morro Preguiça",
+    "latitude": 0.26266,
+    "longitude": 6.64757,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410875,
+    "name": "Morro Provaz",
+    "latitude": 0.29261,
+    "longitude": 6.58175,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410847,
+    "name": "Morro Safú",
+    "latitude": 0.21065,
+    "longitude": 6.47642,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13130710,
+    "name": "Morro Santana",
+    "latitude": 0.30563,
+    "longitude": 6.58031,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410792,
+    "name": "Morro São João",
+    "latitude": 0.07732,
+    "longitude": 6.55626,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410972,
+    "name": "Neves",
+    "latitude": 0.35671,
+    "longitude": 6.54897,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13196332,
+    "name": "Oculto",
+    "latitude": 0.25857,
+    "longitude": 6.58232,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411121,
+    "name": "Pedra da Galé",
+    "latitude": 1.72545,
+    "longitude": 7.38022,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410740,
+    "name": "Pedras Tinhosas",
+    "latitude": 1.36466,
+    "longitude": 7.28651,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410926,
+    "name": "Peninha",
+    "latitude": 0.25,
+    "longitude": 6.6,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13103563,
+    "name": "Pico Agulhas",
+    "latitude": 1.59152,
+    "longitude": 7.36516,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411292,
+    "name": "Pico Ana de Chaves",
+    "latitude": 0.24575,
+    "longitude": 6.57175,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411231,
+    "name": "Pico Cabumbê",
+    "latitude": 0.2,
+    "longitude": 6.55,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411184,
+    "name": "Pico Charuto",
+    "latitude": 0.25,
+    "longitude": 6.56667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410761,
+    "name": "Pico de São Tomé",
+    "latitude": 0.26929,
+    "longitude": 6.54182,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410876,
+    "name": "Pico do Príncipe",
+    "latitude": 1.57926,
+    "longitude": 7.38153,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411133,
+    "name": "Pico Formoso Pequeno",
+    "latitude": 0.25,
+    "longitude": 6.61667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411066,
+    "name": "Pico João Dias Pai",
+    "latitude": 1.59826,
+    "longitude": 7.37822,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411042,
+    "name": "Pico Macurú",
+    "latitude": 0.11164,
+    "longitude": 6.6452,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411029,
+    "name": "Pico Maria Fernandes",
+    "latitude": 0.1697,
+    "longitude": 6.64369,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13103495,
+    "name": "Pico Vira",
+    "latitude": 1.5817,
+    "longitude": 7.34332,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2411016,
+    "name": "Picos de Mencorne",
+    "latitude": 1.57943,
+    "longitude": 7.39792,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410911,
+    "name": "Pinheiro",
+    "latitude": 0.26667,
+    "longitude": 6.56667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410877,
+    "name": "Príncipe Island",
+    "latitude": 1.61735,
+    "longitude": 7.39637,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410873,
+    "name": "Queijo",
+    "latitude": 0.19267,
+    "longitude": 6.53102,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410868,
+    "name": "Quinas",
+    "latitude": 0.26757,
+    "longitude": 6.59596,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410848,
+    "name": "Sacli",
+    "latitude": 0.35402,
+    "longitude": 6.65626,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410805,
+    "name": "Santo António",
+    "latitude": 1.63943,
+    "longitude": 7.41951,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410791,
+    "name": "São João",
+    "latitude": 0.14767,
+    "longitude": 6.64909,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410788,
+    "name": "São João dos Angolares",
+    "latitude": 0.13417,
+    "longitude": 6.64944,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410776,
+    "name": "São Manuel",
+    "latitude": 0.16465,
+    "longitude": 6.4866,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410767,
+    "name": "São Pedro",
+    "latitude": 0.29426,
+    "longitude": 6.61946,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410763,
+    "name": "São Tomé",
+    "latitude": 0.33756,
+    "longitude": 6.7299,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410755,
+    "name": "Sela do Camelo",
+    "latitude": 0.22098,
+    "longitude": 6.53536,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410750,
+    "name": "Sintra",
+    "latitude": 0.09724,
+    "longitude": 6.55712,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410742,
+    "name": "Tinhosa Grande",
+    "latitude": 1.34212,
+    "longitude": 7.2917,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410741,
+    "name": "Tinhosa Pequena",
+    "latitude": 1.38292,
+    "longitude": 7.28321,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410736,
+    "name": "Trindade",
+    "latitude": 0.29407,
+    "longitude": 6.68229,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410722,
+    "name": "Vila Verde",
+    "latitude": 0.13927,
+    "longitude": 6.54808,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2410715,
+    "name": "Zagaia",
+    "latitude": 0.18988,
+    "longitude": 6.51214,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  }
+]

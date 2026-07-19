@@ -1,0 +1,2742 @@
+[
+  {
+    "geonameId": 3582773,
+    "name": "Aguacate Lagoon",
+    "latitude": 17.32194,
+    "longitude": -89.07278,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582769,
+    "name": "Albion Island",
+    "latitude": 18.13333,
+    "longitude": -88.68333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582767,
+    "name": "Alligator Cay",
+    "latitude": 17.18963,
+    "longitude": -88.08791,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582763,
+    "name": "Almond Hill Lagoon",
+    "latitude": 17.41667,
+    "longitude": -88.31667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582758,
+    "name": "Ambergris Cay",
+    "latitude": 18.04762,
+    "longitude": -87.9229,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582727,
+    "name": "Baby Roach Cay",
+    "latitude": 17.48333,
+    "longitude": -87.78333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582718,
+    "name": "Bakers Rendezvous",
+    "latitude": 16.55,
+    "longitude": -88.2,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582700,
+    "name": "Barracouta Pond",
+    "latitude": 18.31926,
+    "longitude": -88.27874,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582680,
+    "name": "Bedford Cays",
+    "latitude": 16.23808,
+    "longitude": -88.62201,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582677,
+    "name": "Belize City",
+    "latitude": 17.49952,
+    "longitude": -88.19756,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13286766,
+    "name": "Bella Vista",
+    "latitude": 16.50948,
+    "longitude": -88.53169,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582672,
+    "name": "Belmopan",
+    "latitude": 17.25376,
+    "longitude": -88.76401,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582662,
+    "name": "Benque Viejo el Carmen",
+    "latitude": 17.075,
+    "longitude": -89.13917,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582657,
+    "name": "Big Cay Bokel",
+    "latitude": 17.17089,
+    "longitude": -87.90483,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582643,
+    "name": "Big Falls",
+    "latitude": 17.50349,
+    "longitude": -88.57837,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582635,
+    "name": "Big Pond",
+    "latitude": 17.94043,
+    "longitude": -88.57722,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582629,
+    "name": "Bird Cay",
+    "latitude": 17.35145,
+    "longitude": -88.31254,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582628,
+    "name": "Birds Island",
+    "latitude": 17.48648,
+    "longitude": -88.18794,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582613,
+    "name": "Black Creek Lagoon",
+    "latitude": 17.20009,
+    "longitude": -88.35383,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582608,
+    "name": "Black Rock",
+    "latitude": 16.2,
+    "longitude": -88.18333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582626,
+    "name": "Blackbird Cay",
+    "latitude": 17.33333,
+    "longitude": -87.81667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582585,
+    "name": "Blue Ground Range",
+    "latitude": 16.8,
+    "longitude": -88.15,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582586,
+    "name": "Bluefield Range",
+    "latitude": 17.23053,
+    "longitude": -88.08542,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582543,
+    "name": "Bread and Butter Cay",
+    "latitude": 16.75861,
+    "longitude": -88.16227,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582530,
+    "name": "Bugle Cays",
+    "latitude": 16.49144,
+    "longitude": -88.31766,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582523,
+    "name": "Bull Reef Falls",
+    "latitude": 16.77017,
+    "longitude": -88.48985,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582511,
+    "name": "Button Lagoon",
+    "latitude": 18.08911,
+    "longitude": -88.44758,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582510,
+    "name": "Buttonwood Cay",
+    "latitude": 16.53333,
+    "longitude": -88.05,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582504,
+    "name": "Cabbage Haul Gap",
+    "latitude": 16.79147,
+    "longitude": -88.43681,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582493,
+    "name": "Calabash Cay",
+    "latitude": 17.26667,
+    "longitude": -87.81667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582465,
+    "name": "Cangrejo Cay",
+    "latitude": 17.84844,
+    "longitude": -88.05683,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582458,
+    "name": "Carib Girl Fall",
+    "latitude": 16.32961,
+    "longitude": -88.78721,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582452,
+    "name": "Carrie Bow Cay",
+    "latitude": 16.78333,
+    "longitude": -88.06667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582450,
+    "name": "Cary Cay",
+    "latitude": 16.5,
+    "longitude": -88.18333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582442,
+    "name": "Cat Cay",
+    "latitude": 16.63333,
+    "longitude": -88.2,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582443,
+    "name": "Cataract Cay",
+    "latitude": 16.84597,
+    "longitude": -88.45447,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580857,
+    "name": "Catarata Victoria",
+    "latitude": 17.75694,
+    "longitude": -89.03583,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582386,
+    "name": "Cay Chapel",
+    "latitude": 17.69603,
+    "longitude": -88.04237,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582310,
+    "name": "Cay Corker",
+    "latitude": 17.74215,
+    "longitude": -88.02898,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582087,
+    "name": "Cayo Frances",
+    "latitude": 18.02943,
+    "longitude": -87.94776,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581912,
+    "name": "Cayo Iguano",
+    "latitude": 18.0478,
+    "longitude": -87.97467,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581586,
+    "name": "Cayo Negro",
+    "latitude": 18.02995,
+    "longitude": -88.02483,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581274,
+    "name": "Cayo Romero",
+    "latitude": 17.90147,
+    "longitude": -88.00652,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581272,
+    "name": "Cayo Rosario",
+    "latitude": 17.99061,
+    "longitude": -87.98903,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580907,
+    "name": "Cayo Tostado",
+    "latitude": 18.06371,
+    "longitude": -88.00219,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582417,
+    "name": "Cenote Lagoon",
+    "latitude": 18.10751,
+    "longitude": -88.36019,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582396,
+    "name": "Chan Laguna",
+    "latitude": 18.12417,
+    "longitude": -88.49456,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582393,
+    "name": "Channel Cay",
+    "latitude": 16.63333,
+    "longitude": -88.13333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11258021,
+    "name": "Chiquibul National park",
+    "latitude": 16.71019,
+    "longitude": -88.9333,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582379,
+    "name": "Chiwa Lagoon",
+    "latitude": 18.06115,
+    "longitude": -88.41804,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582367,
+    "name": "Clarke Cay",
+    "latitude": 17.22634,
+    "longitude": -88.33106,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582366,
+    "name": "Cockroach Cay",
+    "latitude": 17.48333,
+    "longitude": -87.76667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8695410,
+    "name": "Cockscomb Basin Nature Reserve",
+    "latitude": 16.77217,
+    "longitude": -88.47418,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582355,
+    "name": "Coco Plum Cay",
+    "latitude": 16.86667,
+    "longitude": -88.11667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582351,
+    "name": "Coco Tree Cay",
+    "latitude": 17.18333,
+    "longitude": -87.86667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582352,
+    "name": "Cocos Lagoon",
+    "latitude": 18.25,
+    "longitude": -88.38333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582350,
+    "name": "Coffee Cay",
+    "latitude": 17.56667,
+    "longitude": -88.15,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582348,
+    "name": "Cohune Cay",
+    "latitude": 17.36236,
+    "longitude": -88.31281,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582343,
+    "name": "Colson Cay",
+    "latitude": 16.46492,
+    "longitude": -88.31476,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582342,
+    "name": "Colson Cays",
+    "latitude": 17.13663,
+    "longitude": -88.08333,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582337,
+    "name": "Columbus Cay",
+    "latitude": 17.00315,
+    "longitude": -88.02857,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582322,
+    "name": "Cook’s Lagoon",
+    "latitude": 17.51125,
+    "longitude": -88.48473,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582313,
+    "name": "Copetilla",
+    "latitude": 16.78333,
+    "longitude": -88.7,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582305,
+    "name": "Corozal",
+    "latitude": 18.39375,
+    "longitude": -88.38849,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582284,
+    "name": "Cox Lagoon",
+    "latitude": 17.45449,
+    "longitude": -88.54212,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582281,
+    "name": "Crabcatcher Lagoon",
+    "latitude": 17.65945,
+    "longitude": -88.62637,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582273,
+    "name": "Crawl Cay",
+    "latitude": 17.56667,
+    "longitude": -87.8,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582272,
+    "name": "Crayfish Cay",
+    "latitude": 17.32398,
+    "longitude": -88.1646,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582271,
+    "name": "Crayfish Range",
+    "latitude": 17.3,
+    "longitude": -87.86667,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582267,
+    "name": "Crique Blanco Zibal",
+    "latitude": 17.40405,
+    "longitude": -88.97115,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582255,
+    "name": "Cross Cay",
+    "latitude": 17.36667,
+    "longitude": -87.83333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582250,
+    "name": "Crow’s Nest Cay",
+    "latitude": 16.71667,
+    "longitude": -88.15,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582247,
+    "name": "Cudjoe Lagoon",
+    "latitude": 18.29524,
+    "longitude": -88.38899,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582237,
+    "name": "Curlew Cay",
+    "latitude": 17.38333,
+    "longitude": -88.03333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582228,
+    "name": "Dangriga",
+    "latitude": 16.9697,
+    "longitude": -88.23313,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582222,
+    "name": "Davis Falls",
+    "latitude": 16.94761,
+    "longitude": -88.49103,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582218,
+    "name": "Deadman’s Cays",
+    "latitude": 17.18333,
+    "longitude": -87.86667,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582213,
+    "name": "Deer Cay",
+    "latitude": 18.09975,
+    "longitude": -87.95965,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582204,
+    "name": "Dog Flea Cay",
+    "latitude": 17.48333,
+    "longitude": -87.76667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582197,
+    "name": "Double Fall",
+    "latitude": 16.69598,
+    "longitude": -88.63503,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582189,
+    "name": "Doubloon Bank Lagoon",
+    "latitude": 18.07844,
+    "longitude": -88.46811,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582183,
+    "name": "Douglas Cay",
+    "latitude": 17.33333,
+    "longitude": -87.91667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13100294,
+    "name": "Doyle’s Delight",
+    "latitude": 16.49403,
+    "longitude": -89.04609,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582179,
+    "name": "Drowned Cays",
+    "latitude": 17.46792,
+    "longitude": -88.07997,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582170,
+    "name": "Dula Cay",
+    "latitude": 18.24787,
+    "longitude": -88.19676,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582165,
+    "name": "East Snake Cay",
+    "latitude": 16.20772,
+    "longitude": -88.50859,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582158,
+    "name": "Elbow Cays",
+    "latitude": 16.66667,
+    "longitude": -88.16667,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582154,
+    "name": "Ellen Cay",
+    "latitude": 16.79838,
+    "longitude": -88.08184,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582145,
+    "name": "English Cay",
+    "latitude": 17.32727,
+    "longitude": -88.04874,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582127,
+    "name": "Fabers Lagoon",
+    "latitude": 17.96667,
+    "longitude": -88.33333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582126,
+    "name": "Falle Cay",
+    "latitude": 17.45,
+    "longitude": -88.06667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582123,
+    "name": "False Cay",
+    "latitude": 16.60009,
+    "longitude": -88.33891,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582113,
+    "name": "First Fall",
+    "latitude": 16.60364,
+    "longitude": -88.57411,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582109,
+    "name": "Five Blues Lake",
+    "latitude": 17.12878,
+    "longitude": -88.59359,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582097,
+    "name": "Fly Range",
+    "latitude": 16.98218,
+    "longitude": -88.10004,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582090,
+    "name": "Four Mile Lagoon",
+    "latitude": 18.46528,
+    "longitude": -88.39422,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582082,
+    "name": "Frank’s Cay",
+    "latitude": 16.11667,
+    "longitude": -88.23333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582076,
+    "name": "Frenchman’s Cay",
+    "latitude": 17.57106,
+    "longitude": -88.07743,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582063,
+    "name": "Funk Cay",
+    "latitude": 16.53333,
+    "longitude": -88.06667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582050,
+    "name": "Garbutt’s Cay",
+    "latitude": 16.97192,
+    "longitude": -88.09336,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582041,
+    "name": "Gladden Cay",
+    "latitude": 16.55,
+    "longitude": -88.05,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582038,
+    "name": "Glory Cay",
+    "latitude": 17.1,
+    "longitude": -88.01667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582033,
+    "name": "Goff’s Cay",
+    "latitude": 17.34991,
+    "longitude": -88.03648,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581997,
+    "name": "Grassy Cay Range",
+    "latitude": 17.46667,
+    "longitude": -87.78333,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581993,
+    "name": "Great Monkey Cay",
+    "latitude": 16.382,
+    "longitude": -88.46971,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581991,
+    "name": "Grennels Cay",
+    "latitude": 17.35084,
+    "longitude": -88.19261,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581983,
+    "name": "Half Moon Cay",
+    "latitude": 17.20502,
+    "longitude": -87.53648,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581973,
+    "name": "Harvest Cay",
+    "latitude": 16.47922,
+    "longitude": -88.40218,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581970,
+    "name": "Hat Cay",
+    "latitude": 17.13333,
+    "longitude": -87.58333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581969,
+    "name": "Hatchet Caye",
+    "latitude": 16.46637,
+    "longitude": -88.06766,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581956,
+    "name": "Hell Gate Falls",
+    "latitude": 17.06018,
+    "longitude": -88.39071,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581961,
+    "name": "Hellgate",
+    "latitude": 16.51953,
+    "longitude": -88.81893,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581955,
+    "name": "Hellgate Run",
+    "latitude": 16.82477,
+    "longitude": -88.413,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581952,
+    "name": "Hen and Chickens Cays",
+    "latitude": 17.57341,
+    "longitude": -88.22392,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581947,
+    "name": "Hick’s Cays",
+    "latitude": 17.6594,
+    "longitude": -88.15859,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581946,
+    "name": "Hidden Valley Falls",
+    "latitude": 17.05697,
+    "longitude": -88.85411,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581927,
+    "name": "Honey Camp Lagoon",
+    "latitude": 18.04331,
+    "longitude": -88.43835,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581917,
+    "name": "Humming Bird Gap",
+    "latitude": 17.05,
+    "longitude": -88.55,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581916,
+    "name": "Hunting Cay",
+    "latitude": 16.1,
+    "longitude": -88.26667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581914,
+    "name": "Hutson Cay",
+    "latitude": 16.97966,
+    "longitude": -88.08281,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581911,
+    "name": "Iguana Cay",
+    "latitude": 17.71339,
+    "longitude": -88.25689,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581891,
+    "name": "Jack’s Cay",
+    "latitude": 16.53333,
+    "longitude": -88.06667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581870,
+    "name": "Jones Lagoon",
+    "latitude": 17.68746,
+    "longitude": -88.41575,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581862,
+    "name": "Kate’s Lagoon",
+    "latitude": 17.98587,
+    "longitude": -88.47048,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581853,
+    "name": "La Clarissa Fall",
+    "latitude": 17.1,
+    "longitude": -89.11667,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581851,
+    "name": "Ladyville",
+    "latitude": 17.55427,
+    "longitude": -88.29,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581844,
+    "name": "Lagoon Cays",
+    "latitude": 16.61667,
+    "longitude": -88.2,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3532479,
+    "name": "Laguna Azul",
+    "latitude": 17.88333,
+    "longitude": -88.86667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581841,
+    "name": "Laguna Azul Falls",
+    "latitude": 17.88219,
+    "longitude": -88.86722,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581833,
+    "name": "Lark Cay",
+    "latitude": 16.51596,
+    "longitude": -88.27928,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581830,
+    "name": "Last Chance Cay",
+    "latitude": 17.71823,
+    "longitude": -88.24303,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581829,
+    "name": "Laughing Bird Cay",
+    "latitude": 16.43333,
+    "longitude": -88.2,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581818,
+    "name": "Lime Cay",
+    "latitude": 16.08333,
+    "longitude": -88.25,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581810,
+    "name": "Little Fall",
+    "latitude": 17.64663,
+    "longitude": -88.43179,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581808,
+    "name": "Little Monkey Cay",
+    "latitude": 16.36896,
+    "longitude": -88.47712,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581807,
+    "name": "Little Peter Cay",
+    "latitude": 16.7,
+    "longitude": -88.16667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581802,
+    "name": "Little Water Cay",
+    "latitude": 16.43333,
+    "longitude": -88.1,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581800,
+    "name": "Locust Hill Pond",
+    "latitude": 17.88236,
+    "longitude": -88.59606,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581791,
+    "name": "Long Cay",
+    "latitude": 17.62947,
+    "longitude": -88.06905,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581788,
+    "name": "Long Coco Cay",
+    "latitude": 16.55,
+    "longitude": -88.1,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581787,
+    "name": "Long Fall",
+    "latitude": 16.73333,
+    "longitude": -88.45,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581757,
+    "name": "Mafredi Lagoon",
+    "latitude": 16.17568,
+    "longitude": -88.97493,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581735,
+    "name": "Man of War Cay",
+    "latitude": 18.38333,
+    "longitude": -88.15,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8695376,
+    "name": "Mango Creek Number Four Nature Reserve",
+    "latitude": 16.55453,
+    "longitude": -88.47725,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8695373,
+    "name": "Mango Creek Number One Nature Reserve",
+    "latitude": 16.68397,
+    "longitude": -88.45142,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8695378,
+    "name": "Mango Creek Number Three Nature Reserve",
+    "latitude": 16.56969,
+    "longitude": -88.42166,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581742,
+    "name": "Mangrove Cays",
+    "latitude": 16.16667,
+    "longitude": -88.63333,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581734,
+    "name": "Mapp’s Cay",
+    "latitude": 17.51784,
+    "longitude": -88.11329,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581726,
+    "name": "Marlowe Cay",
+    "latitude": 17.73677,
+    "longitude": -88.24277,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12539512,
+    "name": "Marveline Gordon Memorial Park",
+    "latitude": 17.2415,
+    "longitude": -88.7653,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581714,
+    "name": "Mauger Cay",
+    "latitude": 17.60703,
+    "longitude": -87.77091,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581697,
+    "name": "Meditation Falls",
+    "latitude": 16.13333,
+    "longitude": -88.98333,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581696,
+    "name": "Meditation Rapids",
+    "latitude": 17.36667,
+    "longitude": -88.7,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12539507,
+    "name": "Memorial Park",
+    "latitude": 17.49467,
+    "longitude": -88.1819,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581678,
+    "name": "Middle Cay",
+    "latitude": 16.73333,
+    "longitude": -87.78333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581674,
+    "name": "Middle Long Cay",
+    "latitude": 17.27296,
+    "longitude": -88.08426,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581670,
+    "name": "Middle Snake Cay",
+    "latitude": 16.2,
+    "longitude": -88.55,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581658,
+    "name": "Moho Cay",
+    "latitude": 17.52362,
+    "longitude": -88.20206,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581657,
+    "name": "Moho Cays",
+    "latitude": 16.15591,
+    "longitude": -88.67239,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581648,
+    "name": "Monkey Fall",
+    "latitude": 17.2283,
+    "longitude": -88.86622,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581647,
+    "name": "Monkey Falls",
+    "latitude": 16.13333,
+    "longitude": -89.11667,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581639,
+    "name": "Montego Cay",
+    "latitude": 17.59146,
+    "longitude": -88.0815,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581629,
+    "name": "Mosquito Cay",
+    "latitude": 17.96667,
+    "longitude": -88.08333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8695454,
+    "name": "Mountain Pine Ridge",
+    "latitude": 16.96444,
+    "longitude": -88.93869,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12539513,
+    "name": "Mountain View Park",
+    "latitude": 17.24068,
+    "longitude": -88.77331,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581614,
+    "name": "Mucklehany Lagoon",
+    "latitude": 17.49381,
+    "longitude": -88.49671,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581584,
+    "name": "Negro Head",
+    "latitude": 17.25345,
+    "longitude": -88.09018,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581568,
+    "name": "New River Lagoon",
+    "latitude": 17.66667,
+    "longitude": -88.65,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581564,
+    "name": "Nicholas Cay",
+    "latitude": 16.1,
+    "longitude": -88.25,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581554,
+    "name": "North Drowned Cay",
+    "latitude": 17.51274,
+    "longitude": -88.15061,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581539,
+    "name": "North Spot",
+    "latitude": 16.23333,
+    "longitude": -88.18333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581552,
+    "name": "Northeast Cay",
+    "latitude": 16.75,
+    "longitude": -87.76667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581551,
+    "name": "Northeast Cay Range",
+    "latitude": 16.65,
+    "longitude": -88.13333,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581550,
+    "name": "Northeast Sapodilla Cay",
+    "latitude": 16.13333,
+    "longitude": -88.23333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581545,
+    "name": "Northern Cay",
+    "latitude": 17.44557,
+    "longitude": -87.5037,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581542,
+    "name": "Northern Lagoon",
+    "latitude": 17.75531,
+    "longitude": -88.5222,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581536,
+    "name": "Norval Cay",
+    "latitude": 16.7,
+    "longitude": -88.15,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581522,
+    "name": "One Man Cay",
+    "latitude": 17.36408,
+    "longitude": -88.16787,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581514,
+    "name": "Orange Walk",
+    "latitude": 18.08124,
+    "longitude": -88.56328,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581502,
+    "name": "Palmetto Cay",
+    "latitude": 16.42499,
+    "longitude": -88.42971,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581491,
+    "name": "Paslow Fall",
+    "latitude": 17.4,
+    "longitude": -88.76667,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581489,
+    "name": "Paunch Cay Spit",
+    "latitude": 17.4028,
+    "longitude": -88.03706,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581484,
+    "name": "Pelican Cay",
+    "latitude": 17.38333,
+    "longitude": -87.81667,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581483,
+    "name": "Pelican Cays",
+    "latitude": 16.65,
+    "longitude": -88.2,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581478,
+    "name": "Peppercamp Lagoon",
+    "latitude": 18.01295,
+    "longitude": -88.29635,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581472,
+    "name": "Peter Douglas Cay",
+    "latitude": 16.7,
+    "longitude": -88.16667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581451,
+    "name": "Placentia Cay",
+    "latitude": 16.5104,
+    "longitude": -88.36013,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581435,
+    "name": "Pompion Cay",
+    "latitude": 16.38333,
+    "longitude": -88.1,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581415,
+    "name": "Progresso Lagoon",
+    "latitude": 18.22369,
+    "longitude": -88.40572,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581398,
+    "name": "Punta Gorda",
+    "latitude": 16.09835,
+    "longitude": -88.8097,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581389,
+    "name": "Quamina Cay",
+    "latitude": 16.63333,
+    "longitude": -88.21667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581377,
+    "name": "Ragged Cay",
+    "latitude": 16.83943,
+    "longitude": -88.13293,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581368,
+    "name": "Ramsey’s Cay",
+    "latitude": 17.35658,
+    "longitude": -88.17678,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581358,
+    "name": "Ranguana Cay",
+    "latitude": 16.3,
+    "longitude": -88.11667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581347,
+    "name": "Red Rock",
+    "latitude": 16.21667,
+    "longitude": -88.18333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581337,
+    "name": "Rendezvous Cay",
+    "latitude": 17.23333,
+    "longitude": -88.05,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581322,
+    "name": "Richardson Peak",
+    "latitude": 16.59545,
+    "longitude": -88.77799,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581319,
+    "name": "Riders Cays",
+    "latitude": 17.5522,
+    "longitude": -88.18059,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581318,
+    "name": "Ridge Lagoon",
+    "latitude": 17.54831,
+    "longitude": -88.34934,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581298,
+    "name": "Robinson Island",
+    "latitude": 17.36295,
+    "longitude": -88.19135,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581294,
+    "name": "Rock Cay",
+    "latitude": 16.84331,
+    "longitude": -88.45456,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581266,
+    "name": "Round Cay",
+    "latitude": 16.58333,
+    "longitude": -88.11667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581255,
+    "name": "Saddle Cay",
+    "latitude": 17.23333,
+    "longitude": -87.51667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581252,
+    "name": "Saint George’s Cay",
+    "latitude": 17.55821,
+    "longitude": -88.0701,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581232,
+    "name": "Saltillo Lagoon",
+    "latitude": 18.32878,
+    "longitude": -88.38549,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581229,
+    "name": "Samphire Cay",
+    "latitude": 16.45,
+    "longitude": -88.05,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581228,
+    "name": "Samphire Spot",
+    "latitude": 17.28894,
+    "longitude": -88.04409,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581194,
+    "name": "San Ignacio",
+    "latitude": 17.1588,
+    "longitude": -89.0696,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581164,
+    "name": "San Pedro",
+    "latitude": 17.91598,
+    "longitude": -87.9659,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581213,
+    "name": "Sandbore Cay",
+    "latitude": 17.46408,
+    "longitude": -87.48812,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581209,
+    "name": "Sandfly Cays",
+    "latitude": 17,
+    "longitude": -88.08333,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581143,
+    "name": "Santa Elena",
+    "latitude": 17.16142,
+    "longitude": -89.05462,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581120,
+    "name": "Sapote Fall",
+    "latitude": 16.6262,
+    "longitude": -88.58986,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581119,
+    "name": "Sapote Lagoon",
+    "latitude": 18.31946,
+    "longitude": -88.54977,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8695286,
+    "name": "Sarstoon Island",
+    "latitude": 15.89065,
+    "longitude": -88.924,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11204245,
+    "name": "Sarstoon Temosh National Park",
+    "latitude": 15.9452,
+    "longitude": -89.0044,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581103,
+    "name": "Savannah Cay",
+    "latitude": 17.94661,
+    "longitude": -88.12106,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581098,
+    "name": "Scipio Cay",
+    "latitude": 16.46991,
+    "longitude": -88.2977,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581087,
+    "name": "Sergeants Cay",
+    "latitude": 17.3959,
+    "longitude": -88.03901,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581078,
+    "name": "Shag Bluff",
+    "latitude": 17.45575,
+    "longitude": -88.06215,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581077,
+    "name": "Shag Cay",
+    "latitude": 17.43333,
+    "longitude": -88.06667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581076,
+    "name": "Shag Cay Bluff",
+    "latitude": 17.26667,
+    "longitude": -87.88333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581071,
+    "name": "Shipstern Cay",
+    "latitude": 18.30668,
+    "longitude": -88.09128,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581055,
+    "name": "Sickle Cay",
+    "latitude": 16.14698,
+    "longitude": -88.73145,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581051,
+    "name": "Silk Cayes",
+    "latitude": 16.445,
+    "longitude": -88.039,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581038,
+    "name": "Simmonds Cay",
+    "latitude": 17.31253,
+    "longitude": -88.16721,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581034,
+    "name": "Sittee Island",
+    "latitude": 16.80287,
+    "longitude": -88.25367,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581030,
+    "name": "Skiff Sand",
+    "latitude": 17.21667,
+    "longitude": -88.05,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581028,
+    "name": "Slasher Sand Bore",
+    "latitude": 16.58333,
+    "longitude": -88.18333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581025,
+    "name": "Small Cay",
+    "latitude": 16.28749,
+    "longitude": -88.53412,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581015,
+    "name": "Soldier Cay",
+    "latitude": 17.31667,
+    "longitude": -87.78333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581008,
+    "name": "South Cay",
+    "latitude": 16.08333,
+    "longitude": -88.28333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580998,
+    "name": "South Snake Cay",
+    "latitude": 16.16667,
+    "longitude": -88.56667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580831,
+    "name": "South Water Caye",
+    "latitude": 16.81554,
+    "longitude": -88.08192,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581004,
+    "name": "Southern Four Cays",
+    "latitude": 17.2,
+    "longitude": -87.56667,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581001,
+    "name": "Southern Lagoon",
+    "latitude": 17.66357,
+    "longitude": -88.52786,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581000,
+    "name": "Southern Long Cay",
+    "latitude": 17.08333,
+    "longitude": -88.03333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580993,
+    "name": "Southwest Cays",
+    "latitude": 16.7,
+    "longitude": -87.83333,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580992,
+    "name": "Spanish Cay",
+    "latitude": 17.33717,
+    "longitude": -88.16121,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580984,
+    "name": "Spanish Lookout Cay",
+    "latitude": 17.41133,
+    "longitude": -88.07203,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580980,
+    "name": "Spider Cay",
+    "latitude": 16.53333,
+    "longitude": -88.08333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580977,
+    "name": "Spruce Cay",
+    "latitude": 16.71667,
+    "longitude": -88.16667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580976,
+    "name": "Stake Bank",
+    "latitude": 17.4606,
+    "longitude": -88.1297,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580971,
+    "name": "Stewart Cay",
+    "latitude": 16.77777,
+    "longitude": -88.15762,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580967,
+    "name": "Straight Lagoon",
+    "latitude": 17.46469,
+    "longitude": -88.33322,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580965,
+    "name": "Stuart Cay",
+    "latitude": 16.14467,
+    "longitude": -88.72093,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580956,
+    "name": "Swallow Cay",
+    "latitude": 17.50083,
+    "longitude": -88.1278,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580947,
+    "name": "Swasey Stopper Fall",
+    "latitude": 16.67487,
+    "longitude": -88.61157,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580942,
+    "name": "Tarpum Cay",
+    "latitude": 16.56667,
+    "longitude": -88.15,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3582434,
+    "name": "The Cay",
+    "latitude": 16.53241,
+    "longitude": -88.69496,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581654,
+    "name": "The Molar",
+    "latitude": 16.812,
+    "longitude": -88.60154,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581453,
+    "name": "The Pitcher",
+    "latitude": 16.73333,
+    "longitude": -88.45,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3740889,
+    "name": "The Sandbore",
+    "latitude": 17.34312,
+    "longitude": -88.03081,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3581023,
+    "name": "The Snake Cays",
+    "latitude": 16.18333,
+    "longitude": -88.56667,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580979,
+    "name": "The Spit",
+    "latitude": 17.55117,
+    "longitude": -88.0675,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580892,
+    "name": "The Triangles",
+    "latitude": 17.31467,
+    "longitude": -88.17108,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580928,
+    "name": "Three Corner Cay",
+    "latitude": 17.53333,
+    "longitude": -87.76667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580917,
+    "name": "Tobacco Caye",
+    "latitude": 16.8982,
+    "longitude": -88.0617,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580915,
+    "name": "Tobacco Range",
+    "latitude": 16.88868,
+    "longitude": -88.08629,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580911,
+    "name": "Tom Owen’s Cay",
+    "latitude": 16.2,
+    "longitude": -88.21667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580895,
+    "name": "Trial Farm",
+    "latitude": 18.10124,
+    "longitude": -88.56584,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580882,
+    "name": "Turneffe Islands",
+    "latitude": 17.33333,
+    "longitude": -87.86667,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580878,
+    "name": "Twin Cays",
+    "latitude": 16.82113,
+    "longitude": -88.10265,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580866,
+    "name": "Vaca Falls",
+    "latitude": 17.02822,
+    "longitude": -89.06539,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580856,
+    "name": "Victoria Peak",
+    "latitude": 16.81243,
+    "longitude": -88.62019,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580830,
+    "name": "Water Caye",
+    "latitude": 17.3816,
+    "longitude": -88.06563,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580825,
+    "name": "Wee Wee Cay",
+    "latitude": 16.75435,
+    "longitude": -88.14088,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580818,
+    "name": "West Snake Cay",
+    "latitude": 16.18333,
+    "longitude": -88.56667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580819,
+    "name": "Western Lagoon",
+    "latitude": 17.71958,
+    "longitude": -88.57137,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580810,
+    "name": "White Rock",
+    "latitude": 16.4,
+    "longitude": -88.11667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580807,
+    "name": "Wild Cane Cay",
+    "latitude": 16.18333,
+    "longitude": -88.63333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580803,
+    "name": "Wilson Cay",
+    "latitude": 16.22196,
+    "longitude": -88.58895,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580801,
+    "name": "Wippari Cay",
+    "latitude": 16.53333,
+    "longitude": -88.21667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3580766,
+    "name": "Youngs Cay",
+    "latitude": 18.21632,
+    "longitude": -88.21685,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  }
+]

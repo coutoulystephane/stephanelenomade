@@ -1,0 +1,272 @@
+[
+  {
+    "geonameId": 3513881,
+    "name": "Bonaire Island",
+    "latitude": 12.19106,
+    "longitude": -68.2567,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513878,
+    "name": "Booby Hill",
+    "latitude": 17.62345,
+    "longitude": -63.22856,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513852,
+    "name": "Bunker Hill",
+    "latitude": 17.62307,
+    "longitude": -63.25291,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513350,
+    "name": "Eiland Rancho",
+    "latitude": 12.11667,
+    "longitude": -68.23333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3740319,
+    "name": "Goto Meer",
+    "latitude": 12.2375,
+    "longitude": -68.375,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513700,
+    "name": "Great Hill",
+    "latitude": 17.62661,
+    "longitude": -63.25462,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513695,
+    "name": "Green Island",
+    "latitude": 17.6491,
+    "longitude": -63.23,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513607,
+    "name": "Kates Hill",
+    "latitude": 17.62692,
+    "longitude": -63.23035,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513594,
+    "name": "Klein Bonaire",
+    "latitude": 12.1585,
+    "longitude": -68.30837,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513563,
+    "name": "Kralendijk",
+    "latitude": 12.15,
+    "longitude": -68.26667,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513712,
+    "name": "Lagun Goto",
+    "latitude": 12.2382,
+    "longitude": -68.37479,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513530,
+    "name": "Little Island",
+    "latitude": 17.64774,
+    "longitude": -63.23344,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8063299,
+    "name": "Mary's Point Mountain",
+    "latitude": 17.63889,
+    "longitude": -63.24209,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513486,
+    "name": "Maskehorne Hill",
+    "latitude": 17.62831,
+    "longitude": -63.23527,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513483,
+    "name": "Mazinga",
+    "latitude": 17.47631,
+    "longitude": -62.95979,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513258,
+    "name": "Mount Scenery",
+    "latitude": 17.63482,
+    "longitude": -63.23769,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513426,
+    "name": "Oranjestad",
+    "latitude": 17.48303,
+    "longitude": -62.9864,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513404,
+    "name": "Paris Hill",
+    "latitude": 17.62538,
+    "longitude": -63.25293,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513399,
+    "name": "Peak Hill",
+    "latitude": 17.62512,
+    "longitude": -63.23414,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513393,
+    "name": "Peter Simmon’s Hill",
+    "latitude": 17.62683,
+    "longitude": -63.23967,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513314,
+    "name": "Saba Island",
+    "latitude": 17.63027,
+    "longitude": -63.24068,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513307,
+    "name": "Saint John’s Hill",
+    "latitude": 17.6245,
+    "longitude": -63.24302,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513232,
+    "name": "Sint Eustatius",
+    "latitude": 17.49088,
+    "longitude": -62.97868,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513174,
+    "name": "Thais Hill",
+    "latitude": 17.62279,
+    "longitude": -63.24653,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513173,
+    "name": "The Bottom",
+    "latitude": 17.62652,
+    "longitude": -63.24971,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513155,
+    "name": "Troy",
+    "latitude": 17.63568,
+    "longitude": -63.24529,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513216,
+    "name": "Washington Slagbaai National Park",
+    "latitude": 12.25807,
+    "longitude": -68.37856,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  }
+]

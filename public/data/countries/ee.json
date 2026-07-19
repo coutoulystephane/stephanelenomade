@@ -1,0 +1,4922 @@
+[
+  {
+    "geonameId": 592638,
+    "name": "Aardla järv",
+    "latitude": 58.31528,
+    "longitude": 26.75278,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592626,
+    "name": "Abja-Paluoja",
+    "latitude": 58.12528,
+    "longitude": 25.34972,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592624,
+    "name": "Abruka",
+    "latitude": 58.14714,
+    "longitude": 22.50738,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592612,
+    "name": "Aegna Saar",
+    "latitude": 59.58171,
+    "longitude": 24.75928,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592609,
+    "name": "Aeli Järv",
+    "latitude": 59.01528,
+    "longitude": 25.25667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592600,
+    "name": "Ahelaid",
+    "latitude": 58.74095,
+    "longitude": 23.13566,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592597,
+    "name": "Aheru Järv",
+    "latitude": 57.68806,
+    "longitude": 26.35667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592595,
+    "name": "Ahijärv",
+    "latitude": 58.3,
+    "longitude": 27.17611,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592596,
+    "name": "Ähijärv",
+    "latitude": 57.71444,
+    "longitude": 26.49639,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794335,
+    "name": "Ahitse Järv",
+    "latitude": 57.755,
+    "longitude": 26.83556,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 793563,
+    "name": "Aknajärv",
+    "latitude": 59.27405,
+    "longitude": 27.58862,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592575,
+    "name": "Aksi",
+    "latitude": 59.59946,
+    "longitude": 25.09029,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592557,
+    "name": "Alatskivi",
+    "latitude": 58.59806,
+    "longitude": 27.13361,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6696132,
+    "name": "Annerank",
+    "latitude": 58.36752,
+    "longitude": 23.72841,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 793547,
+    "name": "Änni Järv",
+    "latitude": 59.29333,
+    "longitude": 25.67694,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592459,
+    "name": "Antsla",
+    "latitude": 57.82556,
+    "longitude": 26.54056,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592455,
+    "name": "Apja Suur",
+    "latitude": 57.68333,
+    "longitude": 26.41667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592454,
+    "name": "Apja Väikejärv",
+    "latitude": 57.67222,
+    "longitude": 26.38861,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 793565,
+    "name": "Aravuse Järv",
+    "latitude": 59.22694,
+    "longitude": 26.67306,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 793556,
+    "name": "Armise Järv",
+    "latitude": 59.1375,
+    "longitude": 27.395,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592396,
+    "name": "Aruküla",
+    "latitude": 59.36686,
+    "longitude": 25.07618,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592347,
+    "name": "Auksi Järv",
+    "latitude": 58.46167,
+    "longitude": 25.58639,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6698541,
+    "name": "Barclay plats",
+    "latitude": 58.37901,
+    "longitude": 26.72342,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12047330,
+    "name": "Bishop's Garden",
+    "latitude": 59.43713,
+    "longitude": 24.73796,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794444,
+    "name": "Boose Järv",
+    "latitude": 57.83611,
+    "longitude": 26.46833,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12509373,
+    "name": "Brånskärre",
+    "latitude": 59.29575,
+    "longitude": 23.39392,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794849,
+    "name": "Eerikulaid",
+    "latitude": 58.9136,
+    "longitude": 23.11412,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592289,
+    "name": "Elistvere Järv",
+    "latitude": 58.57139,
+    "longitude": 26.70111,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592280,
+    "name": "Elujärv",
+    "latitude": 58.19639,
+    "longitude": 25.62861,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592279,
+    "name": "Elva",
+    "latitude": 58.2225,
+    "longitude": 26.42111,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592269,
+    "name": "Endla Järv",
+    "latitude": 58.85611,
+    "longitude": 26.19806,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 795054,
+    "name": "Endla Riiklik Looduskaitseala",
+    "latitude": 58.88,
+    "longitude": 26.14056,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794189,
+    "name": "Erastvere Järv",
+    "latitude": 57.98,
+    "longitude": 26.7825,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592253,
+    "name": "Ermistu Järv",
+    "latitude": 58.36972,
+    "longitude": 23.97917,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592233,
+    "name": "Haabneeme",
+    "latitude": 59.51358,
+    "longitude": 24.82225,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592225,
+    "name": "Haapsalu",
+    "latitude": 58.93937,
+    "longitude": 23.54127,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592200,
+    "name": "Haljala",
+    "latitude": 59.43361,
+    "longitude": 26.26139,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592189,
+    "name": "Hanikatsi Laid",
+    "latitude": 58.77805,
+    "longitude": 23.04651,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592182,
+    "name": "Hara",
+    "latitude": 59.58578,
+    "longitude": 25.62497,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592177,
+    "name": "Harilaid",
+    "latitude": 58.9717,
+    "longitude": 23.08209,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794963,
+    "name": "Harku",
+    "latitude": 59.38641,
+    "longitude": 24.57176,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592165,
+    "name": "Harku Järv",
+    "latitude": 59.41455,
+    "longitude": 24.61658,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592155,
+    "name": "Heinlaid",
+    "latitude": 58.83222,
+    "longitude": 23.13306,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592132,
+    "name": "Hiiumaa",
+    "latitude": 58.89608,
+    "longitude": 22.64856,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592124,
+    "name": "Hindaste Järv",
+    "latitude": 59.14833,
+    "longitude": 23.79278,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592118,
+    "name": "Hino Järv",
+    "latitude": 57.58222,
+    "longitude": 27.20944,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592106,
+    "name": "Hobulaid",
+    "latitude": 58.95142,
+    "longitude": 23.38509,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12509379,
+    "name": "Hoitstainsdappen",
+    "latitude": 59.28887,
+    "longitude": 23.37893,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592098,
+    "name": "Höralaid",
+    "latitude": 58.90022,
+    "longitude": 23.06443,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592091,
+    "name": "Hullo",
+    "latitude": 58.99004,
+    "longitude": 23.24441,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592062,
+    "name": "Iisaku",
+    "latitude": 59.10139,
+    "longitude": 27.30806,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592037,
+    "name": "Imatu Järv",
+    "latitude": 59.10444,
+    "longitude": 27.45667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592034,
+    "name": "Imsi Järv",
+    "latitude": 58.86273,
+    "longitude": 24.98514,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12509358,
+    "name": "Inahamne",
+    "latitude": 59.28017,
+    "longitude": 23.41058,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794666,
+    "name": "Innarahu",
+    "latitude": 58.27972,
+    "longitude": 21.82444,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 592025,
+    "name": "Inni Järv",
+    "latitude": 57.99,
+    "longitude": 26.4775,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12509361,
+    "name": "Invike",
+    "latitude": 59.28445,
+    "longitude": 23.40546,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 793562,
+    "name": "Jaala Järv",
+    "latitude": 59.26303,
+    "longitude": 27.5847,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591975,
+    "name": "Järise Järv",
+    "latitude": 58.49389,
+    "longitude": 22.42083,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591972,
+    "name": "Järlepa Järv",
+    "latitude": 59.1475,
+    "longitude": 24.92611,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591968,
+    "name": "Järva-Jaani",
+    "latitude": 59.03861,
+    "longitude": 25.88639,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591965,
+    "name": "Järvakandi",
+    "latitude": 58.77889,
+    "longitude": 24.82583,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591950,
+    "name": "Järveküla Järv",
+    "latitude": 58.58583,
+    "longitude": 22.8175,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591948,
+    "name": "Järveotsa Järv",
+    "latitude": 59.09722,
+    "longitude": 24.15639,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794506,
+    "name": "Jaska Järv",
+    "latitude": 57.76917,
+    "longitude": 26.25917,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591915,
+    "name": "Jõemõisa Järv",
+    "latitude": 58.65,
+    "longitude": 26.83333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591902,
+    "name": "Jõgeva",
+    "latitude": 58.74667,
+    "longitude": 26.39389,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591893,
+    "name": "Jõhvi",
+    "latitude": 59.35917,
+    "longitude": 27.42111,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591891,
+    "name": "Jõksi Järv",
+    "latitude": 58.00167,
+    "longitude": 26.74806,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591876,
+    "name": "Jüri",
+    "latitude": 59.35738,
+    "longitude": 24.89714,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588512,
+    "name": "Jussi Suurjärv",
+    "latitude": 59.37,
+    "longitude": 25.73333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794517,
+    "name": "Kaagjärv",
+    "latitude": 57.75306,
+    "longitude": 26.18778,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591861,
+    "name": "Kaalupi Laht",
+    "latitude": 58.23483,
+    "longitude": 22.27469,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794540,
+    "name": "Kadajärv",
+    "latitude": 57.99139,
+    "longitude": 26.05667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591793,
+    "name": "Kadakalaid",
+    "latitude": 58.98581,
+    "longitude": 23.00373,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591789,
+    "name": "Kadastiku Järv",
+    "latitude": 57.88593,
+    "longitude": 25.87044,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 793551,
+    "name": "Kadja Järv",
+    "latitude": 59.01444,
+    "longitude": 25.22722,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591783,
+    "name": "Kadrina",
+    "latitude": 59.33472,
+    "longitude": 26.145,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591773,
+    "name": "Kaevatsi Laid",
+    "latitude": 58.81867,
+    "longitude": 23.07226,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591766,
+    "name": "Kahala Järv",
+    "latitude": 59.48,
+    "longitude": 25.53444,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591762,
+    "name": "Kahrila Järv",
+    "latitude": 57.76167,
+    "longitude": 26.87472,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591752,
+    "name": "Kaiavere Järv",
+    "latitude": 58.60472,
+    "longitude": 26.67083,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588514,
+    "name": "Kaisma Järv",
+    "latitude": 58.7025,
+    "longitude": 24.69306,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591737,
+    "name": "Kaiu Järv",
+    "latitude": 58.64333,
+    "longitude": 26.83278,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794674,
+    "name": "Käkimaa",
+    "latitude": 58.35917,
+    "longitude": 21.94111,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591734,
+    "name": "Kakralaid",
+    "latitude": 59.02263,
+    "longitude": 22.95646,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591735,
+    "name": "Kakrasaar",
+    "latitude": 58.18389,
+    "longitude": 24.05056,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591733,
+    "name": "Kaksikjärv",
+    "latitude": 59.15,
+    "longitude": 25.3,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6698698,
+    "name": "Kalamaja kalmistupark",
+    "latitude": 59.44953,
+    "longitude": 24.72985,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794673,
+    "name": "Kalarahu",
+    "latitude": 58.36528,
+    "longitude": 21.94194,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 793564,
+    "name": "Kalina Järv",
+    "latitude": 59.27889,
+    "longitude": 27.33472,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794504,
+    "name": "Kallete Järv",
+    "latitude": 57.76361,
+    "longitude": 26.45639,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591696,
+    "name": "Kalli Järv",
+    "latitude": 58.37306,
+    "longitude": 27.23694,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591673,
+    "name": "Kändmarahu",
+    "latitude": 58.46091,
+    "longitude": 23.66047,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591672,
+    "name": "Kanepi",
+    "latitude": 57.98306,
+    "longitude": 26.75639,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12509370,
+    "name": "Kappelkärre",
+    "latitude": 59.28987,
+    "longitude": 23.40347,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591632,
+    "name": "Kärdla",
+    "latitude": 58.99778,
+    "longitude": 22.74917,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591614,
+    "name": "Karijärv",
+    "latitude": 59.3,
+    "longitude": 26.41667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591606,
+    "name": "Kariste Järv",
+    "latitude": 58.14167,
+    "longitude": 25.34556,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794870,
+    "name": "Karjatse Meri",
+    "latitude": 59.06861,
+    "longitude": 23.56278,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591580,
+    "name": "Kärnjärv",
+    "latitude": 57.9,
+    "longitude": 27.16667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591563,
+    "name": "Karujärv",
+    "latitude": 58.37861,
+    "longitude": 22.22167,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 793892,
+    "name": "Karula Järv",
+    "latitude": 58.39694,
+    "longitude": 25.59833,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591559,
+    "name": "Karula Pikkjärv",
+    "latitude": 57.76889,
+    "longitude": 26.29528,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 796120,
+    "name": "Karula Rahvuspark",
+    "latitude": 57.75,
+    "longitude": 26.3,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6698696,
+    "name": "Kase park",
+    "latitude": 59.4583,
+    "longitude": 24.67765,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591537,
+    "name": "Käsmu Järv",
+    "latitude": 59.57917,
+    "longitude": 25.88722,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591531,
+    "name": "Kassari",
+    "latitude": 58.7975,
+    "longitude": 22.83111,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591530,
+    "name": "Kasselaid",
+    "latitude": 58.14326,
+    "longitude": 22.54463,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591519,
+    "name": "Kastjärv",
+    "latitude": 59.31422,
+    "longitude": 27.56382,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794398,
+    "name": "Kaugjärv",
+    "latitude": 57.73111,
+    "longitude": 26.56444,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11885735,
+    "name": "Kaunissaar",
+    "latitude": 59.45408,
+    "longitude": 28.08505,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591761,
+    "name": "Kauru Järv",
+    "latitude": 57.97472,
+    "longitude": 26.49,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794288,
+    "name": "Kavadi Järv",
+    "latitude": 57.74417,
+    "longitude": 27.10083,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591479,
+    "name": "Keeri Järv",
+    "latitude": 58.32389,
+    "longitude": 26.45333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591476,
+    "name": "Kehra",
+    "latitude": 59.33611,
+    "longitude": 25.32111,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591472,
+    "name": "Keila",
+    "latitude": 59.30361,
+    "longitude": 24.41306,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591229,
+    "name": "Keinas Island",
+    "latitude": 58.63111,
+    "longitude": 23.03306,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794365,
+    "name": "Kellamäe Mustjärv",
+    "latitude": 57.64611,
+    "longitude": 26.90833,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591452,
+    "name": "Keri",
+    "latitude": 59.69911,
+    "longitude": 25.02151,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794658,
+    "name": "Kerju",
+    "latitude": 58.09998,
+    "longitude": 22.55604,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591436,
+    "name": "Kesselaid",
+    "latitude": 58.63,
+    "longitude": 23.44139,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591415,
+    "name": "Kihmjäv",
+    "latitude": 59.06667,
+    "longitude": 25.55,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591414,
+    "name": "Kihnu",
+    "latitude": 58.12361,
+    "longitude": 23.96389,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591403,
+    "name": "Kiili",
+    "latitude": 59.30775,
+    "longitude": 24.83776,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591390,
+    "name": "Kiivite Järv",
+    "latitude": 57.72083,
+    "longitude": 26.33056,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 793900,
+    "name": "Kikerpera Järv",
+    "latitude": 58.02528,
+    "longitude": 25.61,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591381,
+    "name": "Kilingi-Nõmme",
+    "latitude": 58.15028,
+    "longitude": 24.96417,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794690,
+    "name": "Kiljatu Järv",
+    "latitude": 58.45639,
+    "longitude": 21.94778,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591351,
+    "name": "Kirikumäe Järv",
+    "latitude": 57.68389,
+    "longitude": 27.24833,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591337,
+    "name": "Kiruvere Järv",
+    "latitude": 59.12306,
+    "longitude": 25.33806,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591336,
+    "name": "Kisejärv",
+    "latitude": 57.64167,
+    "longitude": 27.20361,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591328,
+    "name": "Kitselaid",
+    "latitude": 58.45458,
+    "longitude": 23.67747,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591322,
+    "name": "Kivijärv",
+    "latitude": 59.37028,
+    "longitude": 25.62194,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591313,
+    "name": "Kiviõli",
+    "latitude": 59.35306,
+    "longitude": 26.97111,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591305,
+    "name": "Klooga Järv",
+    "latitude": 59.31167,
+    "longitude": 24.23,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591265,
+    "name": "Kohila",
+    "latitude": 59.16806,
+    "longitude": 24.7575,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591260,
+    "name": "Kohtla-Järve",
+    "latitude": 59.39861,
+    "longitude": 27.27306,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591247,
+    "name": "Koigi Järv",
+    "latitude": 58.4825,
+    "longitude": 22.97944,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794709,
+    "name": "Koigi Pikkjärv",
+    "latitude": 58.47306,
+    "longitude": 22.97222,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591226,
+    "name": "Koipsi",
+    "latitude": 59.54488,
+    "longitude": 25.27173,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591224,
+    "name": "Koitjärv",
+    "latitude": 59.38139,
+    "longitude": 25.64583,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794650,
+    "name": "Koltse Järv",
+    "latitude": 58.02056,
+    "longitude": 22.17889,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591170,
+    "name": "Konsu Järv",
+    "latitude": 59.21944,
+    "longitude": 27.57306,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591167,
+    "name": "Koobassaare Järv",
+    "latitude": 57.67861,
+    "longitude": 26.40583,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587863,
+    "name": "Koorküla Valgjärv",
+    "latitude": 57.90139,
+    "longitude": 25.87083,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588510,
+    "name": "Kooru Järv",
+    "latitude": 58.48028,
+    "longitude": 22.15139,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591141,
+    "name": "Koosa Järv",
+    "latitude": 58.42472,
+    "longitude": 27.1425,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591138,
+    "name": "Kootsjärv",
+    "latitude": 59.15,
+    "longitude": 25.28333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6698695,
+    "name": "Kopli kalmistupark",
+    "latitude": 59.45362,
+    "longitude": 24.68397,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794587,
+    "name": "Kõrbjärv",
+    "latitude": 57.97722,
+    "longitude": 26.99139,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591120,
+    "name": "Kõrgelaid",
+    "latitude": 58.75418,
+    "longitude": 23.09489,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591108,
+    "name": "Korijärv",
+    "latitude": 57.82111,
+    "longitude": 26.38083,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591113,
+    "name": "Kõrksaare Laid",
+    "latitude": 58.33167,
+    "longitude": 23.79583,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591098,
+    "name": "Korolevi",
+    "latitude": 58.96667,
+    "longitude": 22.05,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591086,
+    "name": "Kõrveküla",
+    "latitude": 58.42417,
+    "longitude": 26.78222,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591078,
+    "name": "Kose",
+    "latitude": 59.17889,
+    "longitude": 25.17306,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591063,
+    "name": "Kõvajalaid",
+    "latitude": 58.59335,
+    "longitude": 23.50551,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591062,
+    "name": "Kõvera Järv",
+    "latitude": 57.90472,
+    "longitude": 27.51722,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591059,
+    "name": "Kõverlaid",
+    "latitude": 58.75295,
+    "longitude": 23.17107,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794929,
+    "name": "Krassi Saar",
+    "latitude": 59.34468,
+    "longitude": 23.77574,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591057,
+    "name": "Kräsuli Saar",
+    "latitude": 59.57483,
+    "longitude": 24.78597,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591052,
+    "name": "Kriimi",
+    "latitude": 58.13806,
+    "longitude": 22.15778,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794868,
+    "name": "Kudani Järv",
+    "latitude": 59.06222,
+    "longitude": 23.49944,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591025,
+    "name": "Kuimetsa Järv",
+    "latitude": 59.01667,
+    "longitude": 25.21667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591018,
+    "name": "Kukarahu",
+    "latitude": 58.98628,
+    "longitude": 22.88526,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794345,
+    "name": "Külajärv",
+    "latitude": 57.6775,
+    "longitude": 27.07639,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591008,
+    "name": "Külalaid",
+    "latitude": 58.98022,
+    "longitude": 22.39791,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590981,
+    "name": "Kumari Saar",
+    "latitude": 58.76117,
+    "longitude": 23.3438,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590980,
+    "name": "Kumbli",
+    "latitude": 59.57565,
+    "longitude": 24.79456,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590975,
+    "name": "Kunda",
+    "latitude": 59.49861,
+    "longitude": 26.52611,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590969,
+    "name": "Kungjärv",
+    "latitude": 57.82167,
+    "longitude": 26.4575,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794632,
+    "name": "Kuningvere Järv",
+    "latitude": 58.61944,
+    "longitude": 27.07472,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590955,
+    "name": "Kuradissar",
+    "latitude": 59.62419,
+    "longitude": 25.91134,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590954,
+    "name": "Kuralaid",
+    "latitude": 58.43872,
+    "longitude": 23.66642,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590948,
+    "name": "Kuremaa Järv",
+    "latitude": 58.71778,
+    "longitude": 26.54972,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590945,
+    "name": "Kurepalu",
+    "latitude": 58.31861,
+    "longitude": 26.84083,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590939,
+    "name": "Kuressaare",
+    "latitude": 58.25382,
+    "longitude": 22.49217,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794323,
+    "name": "Kurgjärv",
+    "latitude": 57.72417,
+    "longitude": 27.01861,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 591157,
+    "name": "Kuulja Järv",
+    "latitude": 57.92889,
+    "longitude": 25.92194,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590888,
+    "name": "Kuusalu",
+    "latitude": 59.44389,
+    "longitude": 25.44139,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794964,
+    "name": "Laagri",
+    "latitude": 59.35083,
+    "longitude": 24.61418,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794946,
+    "name": "Laanemaa Järv",
+    "latitude": 59.15472,
+    "longitude": 24.22056,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794671,
+    "name": "Laasirahu",
+    "latitude": 58.35972,
+    "longitude": 21.85917,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11048859,
+    "name": "Lahemaa National Park",
+    "latitude": 59.5458,
+    "longitude": 25.80496,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590826,
+    "name": "Lahepera Järv",
+    "latitude": 58.56972,
+    "longitude": 27.18694,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794685,
+    "name": "Laidu",
+    "latitude": 58.21472,
+    "longitude": 22.59417,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 453737,
+    "name": "Lake Peipus",
+    "latitude": 58.75,
+    "longitude": 27.5,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 453735,
+    "name": "Lake Pskov",
+    "latitude": 58,
+    "longitude": 28,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794769,
+    "name": "Lambasaar",
+    "latitude": 58.20222,
+    "longitude": 24.465,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794921,
+    "name": "Larvi Järv",
+    "latitude": 59.15722,
+    "longitude": 24.14139,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590761,
+    "name": "Lauga Järv",
+    "latitude": 57.93528,
+    "longitude": 27.08639,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590746,
+    "name": "Lavassaare Järv",
+    "latitude": 58.56167,
+    "longitude": 24.31583,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590739,
+    "name": "Leegu Järv",
+    "latitude": 58.36528,
+    "longitude": 27.28056,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590731,
+    "name": "Leevatijärv",
+    "latitude": 57.96667,
+    "longitude": 27.35,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590727,
+    "name": "Lehetu Järv",
+    "latitude": 59.06417,
+    "longitude": 24.27889,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590668,
+    "name": "Leva Järv",
+    "latitude": 59.13306,
+    "longitude": 25.04917,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13607758,
+    "name": "Lihl-grånni",
+    "latitude": 59.33506,
+    "longitude": 23.93722,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12509362,
+    "name": "Lihlhamne",
+    "latitude": 59.28742,
+    "longitude": 23.40728,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12509374,
+    "name": "Lihllaie",
+    "latitude": 59.28785,
+    "longitude": 23.38681,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12509364,
+    "name": "Lihlnäsdappen",
+    "latitude": 59.28596,
+    "longitude": 23.41215,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590657,
+    "name": "Lihula",
+    "latitude": 58.68139,
+    "longitude": 23.84528,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590653,
+    "name": "Liialaid",
+    "latitude": 58.83698,
+    "longitude": 23.3953,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590637,
+    "name": "Liiva",
+    "latitude": 58.60194,
+    "longitude": 23.24694,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590627,
+    "name": "Liivjärv",
+    "latitude": 59.30654,
+    "longitude": 27.56297,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590617,
+    "name": "Limu Järv",
+    "latitude": 59.33923,
+    "longitude": 24.99727,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590616,
+    "name": "Linaküla",
+    "latitude": 58.13722,
+    "longitude": 23.97444,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590614,
+    "name": "Lindjärv",
+    "latitude": 59.13439,
+    "longitude": 25.29902,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794684,
+    "name": "Linnulaht",
+    "latitude": 58.24974,
+    "longitude": 22.44292,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590598,
+    "name": "Linnusita Maa",
+    "latitude": 58.11472,
+    "longitude": 22.51667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590571,
+    "name": "Lohja Järv",
+    "latitude": 59.54583,
+    "longitude": 25.69389,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590559,
+    "name": "Lõilasmäe Järv",
+    "latitude": 59.31902,
+    "longitude": 25.10986,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590552,
+    "name": "Loksa",
+    "latitude": 59.57639,
+    "longitude": 25.72139,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590543,
+    "name": "Lombimaa",
+    "latitude": 57.89407,
+    "longitude": 22.04304,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590530,
+    "name": "Lõõdla Järv",
+    "latitude": 57.86917,
+    "longitude": 26.64917,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590523,
+    "name": "Loonalaid",
+    "latitude": 58.33342,
+    "longitude": 21.79052,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590517,
+    "name": "Loosalu Järv",
+    "latitude": 58.93083,
+    "longitude": 25.08,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590504,
+    "name": "Lõuna-Malusi",
+    "latitude": 59.60161,
+    "longitude": 25.32548,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590503,
+    "name": "Lõuna-Uhtju",
+    "latitude": 59.65491,
+    "longitude": 26.53524,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590468,
+    "name": "Luunja",
+    "latitude": 58.35583,
+    "longitude": 26.88083,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 793591,
+    "name": "Maalaht",
+    "latitude": 59.645,
+    "longitude": 25.74333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590447,
+    "name": "Maardu",
+    "latitude": 59.46529,
+    "longitude": 24.98215,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590446,
+    "name": "Maardu Järv",
+    "latitude": 59.44485,
+    "longitude": 24.99641,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590409,
+    "name": "Mäeküla Järv",
+    "latitude": 58.12278,
+    "longitude": 25.68639,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590391,
+    "name": "Mägari Järv",
+    "latitude": 58.89278,
+    "longitude": 23.57056,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794431,
+    "name": "Mähkli Järv",
+    "latitude": 57.74667,
+    "longitude": 26.49139,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590295,
+    "name": "Mähuste Järv",
+    "latitude": 59.405,
+    "longitude": 25.60583,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590355,
+    "name": "Malusi",
+    "latitude": 59.61667,
+    "longitude": 25.33333,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590351,
+    "name": "Manilaid",
+    "latitude": 58.2158,
+    "longitude": 24.12477,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 793554,
+    "name": "Männikjärv",
+    "latitude": 58.86972,
+    "longitude": 26.26194,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 793929,
+    "name": "Märdi Järv",
+    "latitude": 57.955,
+    "longitude": 25.79917,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590322,
+    "name": "Märjamaa",
+    "latitude": 58.90389,
+    "longitude": 24.43056,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590269,
+    "name": "Mäsa Järv",
+    "latitude": 57.91611,
+    "longitude": 25.69444,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 9883504,
+    "name": "Matsalu National Park",
+    "latitude": 58.76,
+    "longitude": 23.59694,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590302,
+    "name": "Matsalu Riiklik Looduskaitseala",
+    "latitude": 58.76611,
+    "longitude": 23.72222,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590290,
+    "name": "Meelva Järv",
+    "latitude": 58.12694,
+    "longitude": 27.37444,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6698223,
+    "name": "Merimets",
+    "latitude": 59.43528,
+    "longitude": 24.69331,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590194,
+    "name": "Mohni",
+    "latitude": 59.67648,
+    "longitude": 25.80414,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589806,
+    "name": "Mõisajärv",
+    "latitude": 57.89056,
+    "longitude": 27.44556,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590156,
+    "name": "Mõndelaid",
+    "latitude": 58.22857,
+    "longitude": 21.99489,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590129,
+    "name": "Muhu",
+    "latitude": 58.5825,
+    "longitude": 23.2525,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590122,
+    "name": "Mullutu Laht",
+    "latitude": 58.25137,
+    "longitude": 22.35563,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794360,
+    "name": "Murati Järv",
+    "latitude": 57.58417,
+    "longitude": 27.09056,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590086,
+    "name": "Mustijärv",
+    "latitude": 59.14427,
+    "longitude": 25.27117,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590083,
+    "name": "Mustjärv",
+    "latitude": 59.0775,
+    "longitude": 24.10111,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590067,
+    "name": "Mustvee",
+    "latitude": 58.84861,
+    "longitude": 26.93972,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590063,
+    "name": "Mutsina Järv",
+    "latitude": 57.97361,
+    "longitude": 26.67278,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6696133,
+    "name": "Nabe",
+    "latitude": 59.39731,
+    "longitude": 24.18022,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590043,
+    "name": "Naissaar",
+    "latitude": 59.56641,
+    "longitude": 24.51793,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794664,
+    "name": "Naistekivi Maa",
+    "latitude": 58.24082,
+    "longitude": 21.91478,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590031,
+    "name": "Narva",
+    "latitude": 59.37722,
+    "longitude": 28.19028,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590030,
+    "name": "Narva-Jõesuu",
+    "latitude": 59.45889,
+    "longitude": 28.04083,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 453742,
+    "name": "Narvskoye Vodokhranilishche",
+    "latitude": 59.29079,
+    "longitude": 28.20671,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589995,
+    "name": "Nigula Looduskaitseala",
+    "latitude": 58,
+    "longitude": 24.68083,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589990,
+    "name": "Nihujärv",
+    "latitude": 57.87737,
+    "longitude": 25.89327,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794827,
+    "name": "Ninalaid",
+    "latitude": 58.99847,
+    "longitude": 22.43585,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794600,
+    "name": "Nohipalu Mustjärv",
+    "latitude": 57.93111,
+    "longitude": 27.34194,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 793560,
+    "name": "Nõmme Järv",
+    "latitude": 59.24472,
+    "longitude": 27.54583,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589933,
+    "name": "Nõo",
+    "latitude": 58.27556,
+    "longitude": 26.5375,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589931,
+    "name": "Noodasjärv",
+    "latitude": 57.82278,
+    "longitude": 27.17333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794672,
+    "name": "Noogimaa",
+    "latitude": 58.37304,
+    "longitude": 21.90195,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794668,
+    "name": "Nootamaa",
+    "latitude": 58.32353,
+    "longitude": 21.76653,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589926,
+    "name": "Nõuni Järv",
+    "latitude": 58.13028,
+    "longitude": 26.51556,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794569,
+    "name": "Nüpli Järv",
+    "latitude": 58.03444,
+    "longitude": 26.495,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589912,
+    "name": "Nurme Järv",
+    "latitude": 59.07028,
+    "longitude": 24.30444,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589882,
+    "name": "Ohepalu Järv",
+    "latitude": 59.33139,
+    "longitude": 25.95389,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589878,
+    "name": "Ohtja Järv",
+    "latitude": 58.43333,
+    "longitude": 22.28333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589863,
+    "name": "Õisu Järv",
+    "latitude": 58.20917,
+    "longitude": 25.51306,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794654,
+    "name": "Oosla Maa",
+    "latitude": 58.09167,
+    "longitude": 22.12861,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589807,
+    "name": "Orava Järv",
+    "latitude": 57.89361,
+    "longitude": 27.43528,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589798,
+    "name": "Oriku Laid",
+    "latitude": 58.4645,
+    "longitude": 23.66,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589784,
+    "name": "Osmussaar",
+    "latitude": 59.29158,
+    "longitude": 23.39367,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589782,
+    "name": "Otepää",
+    "latitude": 58.05833,
+    "longitude": 26.49667,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589766,
+    "name": "Paadla Laht",
+    "latitude": 58.26306,
+    "longitude": 22.30056,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12167196,
+    "name": "Paala järv",
+    "latitude": 58.37172,
+    "longitude": 25.58917,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589733,
+    "name": "Paelaid",
+    "latitude": 58.41167,
+    "longitude": 23.17528,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 793924,
+    "name": "Pähksaar",
+    "latitude": 58.1175,
+    "longitude": 26.07139,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589709,
+    "name": "Paide",
+    "latitude": 58.88768,
+    "longitude": 25.54042,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12167192,
+    "name": "Paide tehisjärv",
+    "latitude": 58.88483,
+    "longitude": 25.58514,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589707,
+    "name": "Paidra Järv",
+    "latitude": 57.91028,
+    "longitude": 27.18917,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589705,
+    "name": "Päidre Järv",
+    "latitude": 58.275,
+    "longitude": 25.50333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589688,
+    "name": "Pajusti",
+    "latitude": 59.27444,
+    "longitude": 26.42333,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589685,
+    "name": "Pakasjärv",
+    "latitude": 59.3125,
+    "longitude": 25.82333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589680,
+    "name": "Pakulaid",
+    "latitude": 58.63333,
+    "longitude": 22.54972,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589663,
+    "name": "Paldiski",
+    "latitude": 59.35667,
+    "longitude": 24.05306,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794475,
+    "name": "Palujärv",
+    "latitude": 57.98194,
+    "longitude": 26.70667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589628,
+    "name": "Pandju Saar",
+    "latitude": 59.55046,
+    "longitude": 24.78454,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589623,
+    "name": "Pangodi Järv",
+    "latitude": 58.19639,
+    "longitude": 26.57222,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589618,
+    "name": "Papilaid",
+    "latitude": 58.68639,
+    "longitude": 23.41889,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589601,
+    "name": "Parika Järv",
+    "latitude": 58.49139,
+    "longitude": 25.79556,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589580,
+    "name": "Pärnu",
+    "latitude": 58.38588,
+    "longitude": 24.49711,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590889,
+    "name": "Pärsti Järv",
+    "latitude": 58.41667,
+    "longitude": 25.55,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589565,
+    "name": "Pasilaid",
+    "latitude": 58.94311,
+    "longitude": 23.28143,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 793543,
+    "name": "Paukjärv",
+    "latitude": 59.39472,
+    "longitude": 25.68889,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589551,
+    "name": "Paunküla Veehoidla",
+    "latitude": 59.11111,
+    "longitude": 25.3475,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589544,
+    "name": "Pedassaar",
+    "latitude": 59.51194,
+    "longitude": 25.37778,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6698557,
+    "name": "Peeter Põllu plats",
+    "latitude": 58.38227,
+    "longitude": 26.72363,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589531,
+    "name": "Peetri",
+    "latitude": 59.39468,
+    "longitude": 24.81452,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589500,
+    "name": "Pihelgalaid",
+    "latitude": 58.44614,
+    "longitude": 23.66695,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794838,
+    "name": "Pihlalaid",
+    "latitude": 58.64855,
+    "longitude": 22.54333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589491,
+    "name": "Piigandi Järv",
+    "latitude": 58.01361,
+    "longitude": 26.78417,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589477,
+    "name": "Piirissaar",
+    "latitude": 58.37028,
+    "longitude": 27.49944,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589468,
+    "name": "Piiukaare Laid",
+    "latitude": 58.46049,
+    "longitude": 23.65588,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794911,
+    "name": "Pikane Järv",
+    "latitude": 59.20667,
+    "longitude": 23.59611,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588182,
+    "name": "Pikkjärv",
+    "latitude": 57.91889,
+    "longitude": 27.13417,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 793902,
+    "name": "Pingu Järv",
+    "latitude": 58.45556,
+    "longitude": 25.71194,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6698540,
+    "name": "Pirogovi park",
+    "latitude": 58.37981,
+    "longitude": 26.7207,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589421,
+    "name": "Pitkasääre Maa",
+    "latitude": 57.87306,
+    "longitude": 22.03833,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794344,
+    "name": "Plaani Järv",
+    "latitude": 57.67083,
+    "longitude": 27.04028,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589416,
+    "name": "Pleesi Saar",
+    "latitude": 58.96667,
+    "longitude": 23.58333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794691,
+    "name": "Põdragu Järv",
+    "latitude": 58.48972,
+    "longitude": 21.96778,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589403,
+    "name": "Põhja-Malusi",
+    "latitude": 59.62028,
+    "longitude": 25.32444,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589402,
+    "name": "Põhja-Uhtju",
+    "latitude": 59.67652,
+    "longitude": 26.51077,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589379,
+    "name": "Põltsamaa",
+    "latitude": 58.6525,
+    "longitude": 25.97056,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589375,
+    "name": "Põlva",
+    "latitude": 58.06028,
+    "longitude": 27.06944,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589367,
+    "name": "Pöörilaid",
+    "latitude": 58.46154,
+    "longitude": 23.62949,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589356,
+    "name": "Porkuni Järv",
+    "latitude": 59.18194,
+    "longitude": 26.20444,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589343,
+    "name": "Prangli Saar",
+    "latitude": 59.63003,
+    "longitude": 25.0038,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794862,
+    "name": "Prästvike",
+    "latitude": 58.99354,
+    "longitude": 23.22207,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589340,
+    "name": "Preeksa Järv",
+    "latitude": 57.64972,
+    "longitude": 27.16,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589336,
+    "name": "Pringi",
+    "latitude": 59.53459,
+    "longitude": 24.79726,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794492,
+    "name": "Pügeri Järv",
+    "latitude": 57.66694,
+    "longitude": 26.27222,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589321,
+    "name": "Pühadekare",
+    "latitude": 58.48555,
+    "longitude": 23.37309,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589320,
+    "name": "Pühajärv",
+    "latitude": 58.02889,
+    "longitude": 26.44833,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589310,
+    "name": "Puhatu Järv",
+    "latitude": 59.16806,
+    "longitude": 27.68417,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12503598,
+    "name": "Puhtu-Laelatu Nature Reserve",
+    "latitude": 58.56242,
+    "longitude": 23.53495,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589303,
+    "name": "Puhtulaid",
+    "latitude": 58.5576,
+    "longitude": 23.5522,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794715,
+    "name": "Pulgalaid",
+    "latitude": 58.43472,
+    "longitude": 23.16583,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589284,
+    "name": "Pulli Järv",
+    "latitude": 57.60611,
+    "longitude": 27.21444,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589281,
+    "name": "Punamäe Järv",
+    "latitude": 59.14381,
+    "longitude": 25.26229,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589229,
+    "name": "Rääkjärv",
+    "latitude": 59.30479,
+    "longitude": 27.55232,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589223,
+    "name": "Raasiku",
+    "latitude": 59.36639,
+    "longitude": 25.18306,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 793559,
+    "name": "Räätsma Järv",
+    "latitude": 59.23889,
+    "longitude": 27.55389,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 793550,
+    "name": "Rahkjärv",
+    "latitude": 59.142,
+    "longitude": 25.28405,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589181,
+    "name": "Raigastvere Järv",
+    "latitude": 58.5925,
+    "longitude": 26.64278,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794493,
+    "name": "Räimi Järv",
+    "latitude": 57.65389,
+    "longitude": 26.28194,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589165,
+    "name": "Rakvere",
+    "latitude": 59.34808,
+    "longitude": 26.35784,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589155,
+    "name": "Rammu",
+    "latitude": 59.5712,
+    "longitude": 25.21596,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794711,
+    "name": "Rampsilaid",
+    "latitude": 58.40778,
+    "longitude": 23.08972,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589117,
+    "name": "Räpina",
+    "latitude": 58.09806,
+    "longitude": 27.46361,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589116,
+    "name": "Rapla",
+    "latitude": 59.00759,
+    "longitude": 24.79386,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589112,
+    "name": "Rasina Arujärv",
+    "latitude": 58.20694,
+    "longitude": 27.28639,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 589101,
+    "name": "Ratva Järv",
+    "latitude": 59.21944,
+    "longitude": 27.225,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794661,
+    "name": "Riksu Järv",
+    "latitude": 58.19,
+    "longitude": 22.09333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588983,
+    "name": "Rohusi",
+    "latitude": 59.52148,
+    "longitude": 25.31269,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588966,
+    "name": "Rõõsa Järv",
+    "latitude": 59.14873,
+    "longitude": 25.29763,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588955,
+    "name": "Rootsiklaid",
+    "latitude": 58.33528,
+    "longitude": 23.80806,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11468179,
+    "name": "Rootsiküla järv",
+    "latitude": 59.05267,
+    "longitude": 23.6876,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588944,
+    "name": "Rõuge",
+    "latitude": 57.72778,
+    "longitude": 26.90972,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588937,
+    "name": "Ruhijärv",
+    "latitude": 58.01583,
+    "longitude": 25.51278,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588936,
+    "name": "Ruhnu",
+    "latitude": 57.80028,
+    "longitude": 23.24833,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588935,
+    "name": "Ruhnu Saar",
+    "latitude": 57.80023,
+    "longitude": 23.24389,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588932,
+    "name": "Ruilaid",
+    "latitude": 58.53951,
+    "longitude": 23.57872,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588931,
+    "name": "Ruiljärv",
+    "latitude": 59.17444,
+    "longitude": 24.42972,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588930,
+    "name": "Rukkirahu",
+    "latitude": 58.90327,
+    "longitude": 23.35178,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588921,
+    "name": "Rummu Järv",
+    "latitude": 59.45056,
+    "longitude": 25.30833,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 590886,
+    "name": "Ruserahu",
+    "latitude": 58.81094,
+    "longitude": 22.8973,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588903,
+    "name": "Saadjärv",
+    "latitude": 58.53806,
+    "longitude": 26.65611,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794636,
+    "name": "Saare Järv",
+    "latitude": 58.65639,
+    "longitude": 26.7575,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588878,
+    "name": "Saaremaa",
+    "latitude": 58.41333,
+    "longitude": 22.49639,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588867,
+    "name": "Saarnaki Laid",
+    "latitude": 58.80374,
+    "longitude": 22.99782,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588862,
+    "name": "Saastna Järv",
+    "latitude": 58.71556,
+    "longitude": 23.58722,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588831,
+    "name": "Saku",
+    "latitude": 59.30354,
+    "longitude": 24.66382,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588827,
+    "name": "Salava",
+    "latitude": 58.31657,
+    "longitude": 21.78404,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794754,
+    "name": "Sange",
+    "latitude": 58.19611,
+    "longitude": 23.91694,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588793,
+    "name": "Sarapiku Järv",
+    "latitude": 58.46917,
+    "longitude": 21.93611,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588780,
+    "name": "Saue",
+    "latitude": 59.32258,
+    "longitude": 24.54967,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794503,
+    "name": "Savi Järv",
+    "latitude": 57.76806,
+    "longitude": 26.44639,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588748,
+    "name": "Seapilli Järv",
+    "latitude": 59.11667,
+    "longitude": 25.36667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588747,
+    "name": "Seasaar",
+    "latitude": 59.01275,
+    "longitude": 23.38551,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 863521,
+    "name": "Seinakari",
+    "latitude": 59.6375,
+    "longitude": 24.97842,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588740,
+    "name": "Selglaid",
+    "latitude": 58.45972,
+    "longitude": 23.64078,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588736,
+    "name": "Selijärv",
+    "latitude": 59.08,
+    "longitude": 25.52028,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794755,
+    "name": "Sill-laid",
+    "latitude": 58.19083,
+    "longitude": 23.89917,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588686,
+    "name": "Sillamäe",
+    "latitude": 59.39697,
+    "longitude": 27.76331,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588673,
+    "name": "Sindi",
+    "latitude": 58.40056,
+    "longitude": 24.6675,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588670,
+    "name": "Sinialliku Järv",
+    "latitude": 58.30639,
+    "longitude": 25.55472,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 793553,
+    "name": "Sinijärv",
+    "latitude": 58.86389,
+    "longitude": 26.15611,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12509359,
+    "name": "Skånvike",
+    "latitude": 59.28323,
+    "longitude": 23.40776,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588641,
+    "name": "Soitsjärv",
+    "latitude": 58.55361,
+    "longitude": 26.67972,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588636,
+    "name": "Sõmeri",
+    "latitude": 58.84491,
+    "longitude": 23.38304,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 793457,
+    "name": "Sõmeru",
+    "latitude": 59.36111,
+    "longitude": 26.4375,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 793634,
+    "name": "Soodla Veehoidla",
+    "latitude": 59.38333,
+    "longitude": 25.51944,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588617,
+    "name": "Soojärv",
+    "latitude": 57.88917,
+    "longitude": 27.13444,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 796121,
+    "name": "Soomaa Rahvuspark",
+    "latitude": 58.33333,
+    "longitude": 25,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588576,
+    "name": "Sorgu",
+    "latitude": 58.17851,
+    "longitude": 24.19966,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12509367,
+    "name": "Stoneskärre",
+    "latitude": 59.28459,
+    "longitude": 23.41754,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13607757,
+    "name": "Stor-grånni",
+    "latitude": 59.33335,
+    "longitude": 23.94075,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12509365,
+    "name": "Storengskärre",
+    "latitude": 59.28532,
+    "longitude": 23.41324,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6698697,
+    "name": "Süsta park",
+    "latitude": 59.46026,
+    "longitude": 24.66711,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794869,
+    "name": "Sutlepa Meri",
+    "latitude": 59.04139,
+    "longitude": 23.56694,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588485,
+    "name": "Suur Pehmejärv",
+    "latitude": 57.70528,
+    "longitude": 26.56639,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794432,
+    "name": "Suur Saarjärv",
+    "latitude": 57.72889,
+    "longitude": 26.52333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588471,
+    "name": "Suur Tulpe Saar",
+    "latitude": 58.23333,
+    "longitude": 22.6,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588488,
+    "name": "Suur-Pakri Saar",
+    "latitude": 59.33639,
+    "longitude": 23.88667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588566,
+    "name": "Suur-Tjuka",
+    "latitude": 59.04123,
+    "longitude": 23.29865,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588532,
+    "name": "Suure-Jaani",
+    "latitude": 58.53611,
+    "longitude": 25.47056,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588513,
+    "name": "Suurjärv",
+    "latitude": 59.0476,
+    "longitude": 23.69463,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588496,
+    "name": "Suurlaht",
+    "latitude": 58.25222,
+    "longitude": 22.42028,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588494,
+    "name": "Suurlaid",
+    "latitude": 58.52985,
+    "longitude": 23.25977,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794891,
+    "name": "Suurrahu",
+    "latitude": 58.76909,
+    "longitude": 23.66781,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588449,
+    "name": "Taebla",
+    "latitude": 58.95389,
+    "longitude": 23.75222,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794841,
+    "name": "Taguküla Laid",
+    "latitude": 58.77885,
+    "longitude": 22.9072,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588409,
+    "name": "Tallinn",
+    "latitude": 59.43696,
+    "longitude": 24.75353,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588399,
+    "name": "Tamma Järv",
+    "latitude": 58.9,
+    "longitude": 23.56667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588360,
+    "name": "Tamula Järv",
+    "latitude": 57.84028,
+    "longitude": 26.97667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588356,
+    "name": "Tänavjärv",
+    "latitude": 59.18083,
+    "longitude": 23.81472,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588348,
+    "name": "Tapa",
+    "latitude": 59.26056,
+    "longitude": 25.95861,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588335,
+    "name": "Tartu",
+    "latitude": 58.38062,
+    "longitude": 26.72509,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588333,
+    "name": "Tartusaare Tagajärv",
+    "latitude": 59.06639,
+    "longitude": 25.55556,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588318,
+    "name": "Tauksi Saar",
+    "latitude": 58.82194,
+    "longitude": 23.45306,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794223,
+    "name": "Tedremägi",
+    "latitude": 57.86889,
+    "longitude": 27.64778,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588311,
+    "name": "Tehumardi",
+    "latitude": 58.18027,
+    "longitude": 22.24646,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588299,
+    "name": "Tihu Järv",
+    "latitude": 58.85298,
+    "longitude": 22.55793,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588272,
+    "name": "Tõhela Järv",
+    "latitude": 58.41917,
+    "longitude": 23.98944,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588264,
+    "name": "Toila",
+    "latitude": 59.42127,
+    "longitude": 27.50807,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588256,
+    "name": "Tõlinõmme Järv",
+    "latitude": 59.38753,
+    "longitude": 24.37341,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794505,
+    "name": "Tollari Järv",
+    "latitude": 57.75167,
+    "longitude": 26.34222,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588250,
+    "name": "Tolljärv",
+    "latitude": 57.90268,
+    "longitude": 25.96819,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794000,
+    "name": "Tondisaar",
+    "latitude": 58.20194,
+    "longitude": 26.05778,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588215,
+    "name": "Tori",
+    "latitude": 58.47889,
+    "longitude": 24.82417,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588204,
+    "name": "Tõrva",
+    "latitude": 58.00278,
+    "longitude": 25.935,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12167193,
+    "name": "Tõrva Riiska rand",
+    "latitude": 57.9967,
+    "longitude": 25.9359,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12167194,
+    "name": "Tõrva Vanamõisa rand",
+    "latitude": 58.0098,
+    "longitude": 25.9312,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588183,
+    "name": "Tsolgo Mustjãrv",
+    "latitude": 57.92608,
+    "longitude": 27.11906,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6698545,
+    "name": "TÜ Botaanikaaed",
+    "latitude": 58.38487,
+    "longitude": 26.72116,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588177,
+    "name": "Tudra",
+    "latitude": 59.11667,
+    "longitude": 25.35,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588173,
+    "name": "Tudu Järv",
+    "latitude": 59.16306,
+    "longitude": 26.77222,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588244,
+    "name": "Tündre Järv",
+    "latitude": 57.95389,
+    "longitude": 25.61167,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588153,
+    "name": "Türi",
+    "latitude": 58.80861,
+    "longitude": 25.4325,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588142,
+    "name": "Turva Järv",
+    "latitude": 58.27694,
+    "longitude": 25.49111,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588126,
+    "name": "Ubajärv",
+    "latitude": 57.66611,
+    "longitude": 26.57944,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588114,
+    "name": "Udriku Laid",
+    "latitude": 58.42194,
+    "longitude": 23.28528,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588106,
+    "name": "Uhtjärv",
+    "latitude": 57.90028,
+    "longitude": 26.56583,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6698546,
+    "name": "Ülejõe park",
+    "latitude": 58.38261,
+    "longitude": 26.7269,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588095,
+    "name": "Ülemiste Järv",
+    "latitude": 59.39669,
+    "longitude": 24.76353,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588084,
+    "name": "Uljaste Järv",
+    "latitude": 59.35833,
+    "longitude": 26.77111,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794753,
+    "name": "Umalaid",
+    "latitude": 58.17222,
+    "longitude": 23.96389,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588077,
+    "name": "Umblu",
+    "latitude": 59.51362,
+    "longitude": 25.31821,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 588002,
+    "name": "Uulu",
+    "latitude": 58.28361,
+    "longitude": 24.58722,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587999,
+    "name": "Uuluti Laid",
+    "latitude": 58.55418,
+    "longitude": 23.52252,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794683,
+    "name": "Vägara Laht",
+    "latitude": 58.23664,
+    "longitude": 22.31752,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587956,
+    "name": "Vagula Järv",
+    "latitude": 57.84806,
+    "longitude": 26.9075,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794958,
+    "name": "Vaharu Järv",
+    "latitude": 59.19389,
+    "longitude": 24.5425,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587952,
+    "name": "Vahase",
+    "latitude": 58.14103,
+    "longitude": 22.47024,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587949,
+    "name": "Vahekari",
+    "latitude": 59.60681,
+    "longitude": 25.32583,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 793250,
+    "name": "Vaiatu",
+    "latitude": 59.35556,
+    "longitude": 25.99528,
+    "category": "City",
+    "subcategory": "District Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587936,
+    "name": "Vaika Saared",
+    "latitude": 58.37167,
+    "longitude": 21.815,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587923,
+    "name": "Väike-Maarja",
+    "latitude": 59.12639,
+    "longitude": 26.25,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587919,
+    "name": "Väike-Pakri Saar",
+    "latitude": 59.34177,
+    "longitude": 23.97886,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587910,
+    "name": "Väike-Tulpe",
+    "latitude": 58.20306,
+    "longitude": 22.59222,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587897,
+    "name": "Vaindloo",
+    "latitude": 59.81778,
+    "longitude": 26.35997,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587895,
+    "name": "Väinjärv",
+    "latitude": 58.93917,
+    "longitude": 26.09333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587876,
+    "name": "Valga",
+    "latitude": 57.77781,
+    "longitude": 26.0473,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794920,
+    "name": "Valgejärv",
+    "latitude": 59.10528,
+    "longitude": 24.12833,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587862,
+    "name": "Valgjärv",
+    "latitude": 58.08972,
+    "longitude": 26.63556,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587440,
+    "name": "Vändra",
+    "latitude": 58.64806,
+    "longitude": 25.03611,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587764,
+    "name": "Varangu Järv",
+    "latitude": 59.03333,
+    "longitude": 26.1,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587753,
+    "name": "Vareslaid",
+    "latitude": 58.7646,
+    "longitude": 23.07994,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587739,
+    "name": "Värska",
+    "latitude": 57.95806,
+    "longitude": 27.63806,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12167195,
+    "name": "Vasikaholmi rand",
+    "latitude": 58.95359,
+    "longitude": 23.5208,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587727,
+    "name": "Vaskjala Paisjärv",
+    "latitude": 59.35,
+    "longitude": 24.95,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794324,
+    "name": "Vaskna Järv",
+    "latitude": 57.70917,
+    "longitude": 27.07528,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794445,
+    "name": "Vastsekivi Järv",
+    "latitude": 57.85167,
+    "longitude": 26.46694,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587686,
+    "name": "Veisjärv",
+    "latitude": 58.09861,
+    "longitude": 25.74944,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794299,
+    "name": "Verijärv",
+    "latitude": 57.80889,
+    "longitude": 27.05722,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587665,
+    "name": "Vesiloo",
+    "latitude": 58.39953,
+    "longitude": 21.83031,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587658,
+    "name": "Veskijärv",
+    "latitude": 59.16778,
+    "longitude": 23.76139,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794561,
+    "name": "Vidrike Järv",
+    "latitude": 57.98528,
+    "longitude": 26.52194,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587632,
+    "name": "Viidumäe Riiklik Looduskaitseala",
+    "latitude": 58.29,
+    "longitude": 22.13417,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587629,
+    "name": "Viimsi",
+    "latitude": 59.50502,
+    "longitude": 24.84807,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587618,
+    "name": "Viirelaid",
+    "latitude": 58.5441,
+    "longitude": 23.43307,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587613,
+    "name": "Viisjaagu Järv",
+    "latitude": 58.26361,
+    "longitude": 26.43333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794341,
+    "name": "Viitina Järv",
+    "latitude": 57.69028,
+    "longitude": 26.94694,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587577,
+    "name": "Viljandi",
+    "latitude": 58.36319,
+    "longitude": 25.59159,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587591,
+    "name": "Viljandi Järv",
+    "latitude": 58.34944,
+    "longitude": 25.59194,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587584,
+    "name": "Vilsandi",
+    "latitude": 58.38059,
+    "longitude": 21.85998,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794675,
+    "name": "Vilsandi Rahvuspark",
+    "latitude": 58.34611,
+    "longitude": 21.82528,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587561,
+    "name": "Virtsjärv",
+    "latitude": 57.90361,
+    "longitude": 25.90139,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587541,
+    "name": "Vissi Järv",
+    "latitude": 58.25,
+    "longitude": 26.43333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587540,
+    "name": "Vissulaid",
+    "latitude": 59.01082,
+    "longitude": 22.83483,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587537,
+    "name": "Vissuvere Järv",
+    "latitude": 58.96194,
+    "longitude": 25.40389,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587523,
+    "name": "Vohilaid",
+    "latitude": 58.91522,
+    "longitude": 23.02622,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794729,
+    "name": "Võijärv",
+    "latitude": 58.55,
+    "longitude": 23.38111,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587500,
+    "name": "Võilaid",
+    "latitude": 58.51583,
+    "longitude": 23.36694,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587495,
+    "name": "Võistre Järv",
+    "latitude": 58.43972,
+    "longitude": 25.58972,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794136,
+    "name": "Võngjärv",
+    "latitude": 58.32861,
+    "longitude": 27.14528,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11395718,
+    "name": "Vööla meri",
+    "latitude": 59.07319,
+    "longitude": 23.52057,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 794122,
+    "name": "Vooremägi",
+    "latitude": 58.28028,
+    "longitude": 26.88694,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587455,
+    "name": "Vormsi",
+    "latitude": 59.00528,
+    "longitude": 23.24639,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587451,
+    "name": "Võrtsjärv",
+    "latitude": 58.27083,
+    "longitude": 26.04167,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 587450,
+    "name": "Võru",
+    "latitude": 57.83389,
+    "longitude": 27.01944,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  }
+]

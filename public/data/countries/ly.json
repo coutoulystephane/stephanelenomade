@@ -1,0 +1,4242 @@
+[
+  {
+    "geonameId": 2210177,
+    "name": "‘Urqūb Tārqīlat",
+    "latitude": 31.99861,
+    "longitude": 13.11083,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 89220,
+    "name": "Abū Qaşabah",
+    "latitude": 32.1654,
+    "longitude": 20.14107,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2220368,
+    "name": "Abū Zayyān",
+    "latitude": 32.09972,
+    "longitude": 12.97861,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11813938,
+    "name": "Ad·hān Awbārī",
+    "latitude": 28.17243,
+    "longitude": 11.68931,
+    "category": "Desert",
+    "subcategory": "Desert",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218108,
+    "name": "Ajbāl al Burtus",
+    "latitude": 31.768,
+    "longitude": 13.14584,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 89113,
+    "name": "Ajdabiya",
+    "latitude": 30.75545,
+    "longitude": 20.22625,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2220139,
+    "name": "Al ‘Azīzīyah",
+    "latitude": 32.53194,
+    "longitude": 13.0175,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 89090,
+    "name": "Al Abraq",
+    "latitude": 32.78991,
+    "longitude": 22.0005,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 89087,
+    "name": "Al Abyār",
+    "latitude": 32.19,
+    "longitude": 20.59653,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2219701,
+    "name": "Al Ajaylat",
+    "latitude": 32.75718,
+    "longitude": 12.37633,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2220153,
+    "name": "Al Aşābi‘ah",
+    "latitude": 32.03333,
+    "longitude": 12.86667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2220109,
+    "name": "Al Barakāt",
+    "latitude": 24.894,
+    "longitude": 10.18336,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 80509,
+    "name": "Al Bardīyah",
+    "latitude": 31.75601,
+    "longitude": 25.0853,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 89055,
+    "name": "Al Bayḑā’",
+    "latitude": 32.76272,
+    "longitude": 21.75506,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2215210,
+    "name": "Al Burayqah",
+    "latitude": 30.40624,
+    "longitude": 19.57386,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2220061,
+    "name": "Al Ghurayfah",
+    "latitude": 26.52161,
+    "longitude": 13.01072,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2220059,
+    "name": "Al Ghurūr",
+    "latitude": 30.90447,
+    "longitude": 12.52824,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2220045,
+    "name": "Al Ḩamādah",
+    "latitude": 32.19278,
+    "longitude": 13.2425,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2219994,
+    "name": "Al Ḩurshah",
+    "latitude": 32.76472,
+    "longitude": 12.67389,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2219960,
+    "name": "Al Jadīd",
+    "latitude": 27.05,
+    "longitude": 14.4,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 88962,
+    "name": "Al Jawf",
+    "latitude": 24.1989,
+    "longitude": 23.29093,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2219936,
+    "name": "Al Jumayl",
+    "latitude": 32.85286,
+    "longitude": 12.0612,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218899,
+    "name": "Al Kāf al Baḩrī",
+    "latitude": 32.15278,
+    "longitude": 12.65472,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2219918,
+    "name": "Al Khaḑrā’",
+    "latitude": 32.44403,
+    "longitude": 13.76735,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2219905,
+    "name": "Al Khums",
+    "latitude": 32.64861,
+    "longitude": 14.26191,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2216974,
+    "name": "Al Khurmah al Ḩamrā’",
+    "latitude": 32.20191,
+    "longitude": 13.29334,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2219861,
+    "name": "Al Majdhūbah",
+    "latitude": 32.17868,
+    "longitude": 13.30496,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 88909,
+    "name": "Al Maqārīn",
+    "latitude": 32.16359,
+    "longitude": 20.13811,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 88903,
+    "name": "Al Marj",
+    "latitude": 32.49257,
+    "longitude": 20.82909,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2219812,
+    "name": "Al Māyah",
+    "latitude": 32.80194,
+    "longitude": 12.87917,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2219739,
+    "name": "Al Qaţrūn",
+    "latitude": 24.95139,
+    "longitude": 14.64861,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2219736,
+    "name": "Al Qawāsim",
+    "latitude": 32.18418,
+    "longitude": 13.06045,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 88835,
+    "name": "Al Qubbah",
+    "latitude": 32.75684,
+    "longitude": 22.24106,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2209120,
+    "name": "Al Qulayb al Usaywid",
+    "latitude": 32.18324,
+    "longitude": 13.27259,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12687304,
+    "name": "Al-'Alūaṣ",
+    "latitude": 32.71007,
+    "longitude": 13.96713,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2219591,
+    "name": "An Nāşirīyah",
+    "latitude": 32.63278,
+    "longitude": 12.87361,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2220262,
+    "name": "Ar Ra’s al Aḩmar",
+    "latitude": 32.18069,
+    "longitude": 13.39943,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2219471,
+    "name": "Ar Rayāyinah",
+    "latitude": 32.02684,
+    "longitude": 12.35643,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2219463,
+    "name": "Ar Rujbān",
+    "latitude": 31.95,
+    "longitude": 12.16667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2219456,
+    "name": "Ar Rūsāt as Sūd",
+    "latitude": 32.12056,
+    "longitude": 13.1425,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12687312,
+    "name": "Ar-Raḥaībāt",
+    "latitude": 31.84637,
+    "longitude": 11.8436,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2219356,
+    "name": "As Sawānī",
+    "latitude": 32.71667,
+    "longitude": 13.06667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11828334,
+    "name": "Ash Sharqīyah",
+    "latitude": 26.06668,
+    "longitude": 15.11894,
+    "category": "Desert",
+    "subcategory": "Desert",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 88562,
+    "name": "At Tāj",
+    "latitude": 24.20487,
+    "longitude": 23.2857,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 88533,
+    "name": "Awjilah",
+    "latitude": 29.10806,
+    "longitude": 21.28694,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218983,
+    "name": "Az Zahrā’",
+    "latitude": 32.67889,
+    "longitude": 12.87327,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218970,
+    "name": "Az Zāwīyah",
+    "latitude": 32.7571,
+    "longitude": 12.72764,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 88380,
+    "name": "Az Zuwaytīnah",
+    "latitude": 30.9522,
+    "longitude": 20.12022,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218943,
+    "name": "Bāb al Abkār",
+    "latitude": 32.39892,
+    "longitude": 13.47379,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2215421,
+    "name": "Bāb al Maknūsah",
+    "latitude": 26.47743,
+    "longitude": 13.34674,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2215156,
+    "name": "Bāb al Mashārif",
+    "latitude": 29.16667,
+    "longitude": 17.46667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11814565,
+    "name": "Bāb Tashwānat",
+    "latitude": 24.72286,
+    "longitude": 10.34057,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 86989,
+    "name": "Baḩr al Fāzzah",
+    "latitude": 29.66193,
+    "longitude": 24.82339,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 86481,
+    "name": "Baḩr Ḩasy ad Dūnī",
+    "latitude": 29.62989,
+    "longitude": 24.7866,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218840,
+    "name": "Bani Walid",
+    "latitude": 31.74554,
+    "longitude": 13.98354,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218761,
+    "name": "Barqin",
+    "latitude": 27.54801,
+    "longitude": 13.62914,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 88319,
+    "name": "Benghazi",
+    "latitude": 32.11486,
+    "longitude": 20.06859,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218282,
+    "name": "Bi’r Bū Gharīs",
+    "latitude": 32.81667,
+    "longitude": 13.41667,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218631,
+    "name": "Bīkkū Bīttī",
+    "latitude": 21.99806,
+    "longitude": 19.14361,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218562,
+    "name": "Bin Jawwād",
+    "latitude": 30.80418,
+    "longitude": 18.0772,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8609639,
+    "name": "Bodezera Park",
+    "latitude": 32.1681,
+    "longitude": 20.13242,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218478,
+    "name": "Brak",
+    "latitude": 27.54956,
+    "longitude": 14.27139,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8614370,
+    "name": "Bū Ḩumayrah",
+    "latitude": 32.15662,
+    "longitude": 20.13359,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218066,
+    "name": "Bū Ţawīl",
+    "latitude": 32.5,
+    "longitude": 13.61667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 85265,
+    "name": "Buḩayrat al Majdhūb",
+    "latitude": 32.15586,
+    "longitude": 20.12886,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 87754,
+    "name": "Buḩayrat Bū Jazīrah",
+    "latitude": 32.16794,
+    "longitude": 20.13226,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2217774,
+    "name": "Daraj",
+    "latitude": 30.16502,
+    "longitude": 10.45804,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 87205,
+    "name": "Darnah",
+    "latitude": 32.76704,
+    "longitude": 22.63669,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 87192,
+    "name": "Daryānah",
+    "latitude": 32.34751,
+    "longitude": 20.30933,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2217743,
+    "name": "Duhūn Tārsū",
+    "latitude": 22,
+    "longitude": 19,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2215655,
+    "name": "Emi Lasko",
+    "latitude": 22.7,
+    "longitude": 19.21667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2220462,
+    "name": "Fasqīyat Abū Ji‘rān",
+    "latitude": 32.12072,
+    "longitude": 14.75742,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2217583,
+    "name": "Fasqīyat al Farjān",
+    "latitude": 32.03351,
+    "longitude": 14.38614,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2217090,
+    "name": "Fasqīyat al Ḩājj",
+    "latitude": 30.36829,
+    "longitude": 14.59995,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2216031,
+    "name": "Fasqīyat al Kawm",
+    "latitude": 32.01107,
+    "longitude": 14.81217,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2214391,
+    "name": "Fasqīyat an Nashab",
+    "latitude": 30.57351,
+    "longitude": 14.83973,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2212329,
+    "name": "Fasqīyat ash Shafā’",
+    "latitude": 31.38333,
+    "longitude": 15.4,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2208470,
+    "name": "Fasqīyat Zughayrif",
+    "latitude": 32.03272,
+    "longitude": 14.39527,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2485889,
+    "name": "Ferdj Ouaberane",
+    "latitude": 24.45808,
+    "longitude": 11.04824,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2214196,
+    "name": "Fisqīyat al Qabw",
+    "latitude": 32.05,
+    "longitude": 14.8363,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2217440,
+    "name": "Ghadames",
+    "latitude": 30.13366,
+    "longitude": 9.50072,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2217362,
+    "name": "Gharyan",
+    "latitude": 32.17222,
+    "longitude": 13.02028,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2217351,
+    "name": "Ghat",
+    "latitude": 24.96334,
+    "longitude": 10.18003,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 86800,
+    "name": "Great Sand Sea",
+    "latitude": 29.04083,
+    "longitude": 24.83613,
+    "category": "Desert",
+    "subcategory": "Desert",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8609050,
+    "name": "Ḩadīqat al Mu‘allim",
+    "latitude": 32.1159,
+    "longitude": 20.06547,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2216722,
+    "name": "Ḩiqfat aḑ Ḑab‘",
+    "latitude": 32.6185,
+    "longitude": 13.71092,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2216645,
+    "name": "Hūn",
+    "latitude": 29.12684,
+    "longitude": 15.94772,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2214600,
+    "name": "Idhān Murzuq",
+    "latitude": 24.5,
+    "longitude": 13,
+    "category": "Desert",
+    "subcategory": "Desert",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2220309,
+    "name": "Idrī",
+    "latitude": 27.44707,
+    "longitude": 13.05173,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11813967,
+    "name": "Imlīs Shaqrān",
+    "latitude": 28.19495,
+    "longitude": 12.80487,
+    "category": "Desert",
+    "subcategory": "Desert",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2216487,
+    "name": "Jabal al ‘Izāz",
+    "latitude": 28.36332,
+    "longitude": 17.89882,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 80884,
+    "name": "Jabal al ‘Uwaynāt",
+    "latitude": 21.91526,
+    "longitude": 24.98497,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 89141,
+    "name": "Jabal al Aḩrār",
+    "latitude": 32.5,
+    "longitude": 20.93333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218936,
+    "name": "Jabal al Badārinah",
+    "latitude": 31.92761,
+    "longitude": 11.63632,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 88356,
+    "name": "Jabal al Baḩrī",
+    "latitude": 22.61667,
+    "longitude": 24.86667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2216017,
+    "name": "Jabal al Khaddāmīyah",
+    "latitude": 30.88333,
+    "longitude": 13.36667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2215195,
+    "name": "Jabal al Ma‘rūf",
+    "latitude": 25.13333,
+    "longitude": 18.58333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2215428,
+    "name": "Jabal al Makhraq",
+    "latitude": 29.16667,
+    "longitude": 15.5,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2214394,
+    "name": "Jabal an Nasamah",
+    "latitude": 31.4,
+    "longitude": 13.35,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 88673,
+    "name": "Jabal Arkanū",
+    "latitude": 22.25,
+    "longitude": 24.75,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 88646,
+    "name": "Jabal Aşbu‘",
+    "latitude": 23.16667,
+    "longitude": 24.66667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2216848,
+    "name": "Jabal Ḩasūnah",
+    "latitude": 28.25,
+    "longitude": 14,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2216573,
+    "name": "Jabal Kāf Junūn",
+    "latitude": 25.25214,
+    "longitude": 10.21821,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2215187,
+    "name": "Jabal Maryū",
+    "latitude": 32.22722,
+    "longitude": 13.14861,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2215182,
+    "name": "Jabal Marzūq",
+    "latitude": 25.96667,
+    "longitude": 16.13333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2214324,
+    "name": "Jabal Nuqayy",
+    "latitude": 23.33333,
+    "longitude": 19.66667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 83560,
+    "name": "Jabal Rabyānah",
+    "latitude": 24.25757,
+    "longitude": 22.04467,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 83342,
+    "name": "Jabal Rukn",
+    "latitude": 23.7,
+    "longitude": 24.91667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2212767,
+    "name": "Jabal Sabriyāl",
+    "latitude": 32.1658,
+    "longitude": 13.04484,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2212172,
+    "name": "Jabal Shawdhab",
+    "latitude": 31.75172,
+    "longitude": 10.91865,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2210385,
+    "name": "Jabal Takūt",
+    "latitude": 32.22278,
+    "longitude": 13.03,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2209571,
+    "name": "Jabal Umm al Ḩayrān",
+    "latitude": 31.43333,
+    "longitude": 12.88333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2216432,
+    "name": "Jādū",
+    "latitude": 31.95506,
+    "longitude": 12.02901,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 86049,
+    "name": "Jālū",
+    "latitude": 29.03333,
+    "longitude": 21.55,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2216349,
+    "name": "Janzūr",
+    "latitude": 32.81868,
+    "longitude": 13.01727,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 86002,
+    "name": "Jardas al ‘Abīd",
+    "latitude": 32.30337,
+    "longitude": 20.98615,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 81197,
+    "name": "Jazīrat al ‘Ulbah",
+    "latitude": 32.23263,
+    "longitude": 23.28228,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 86372,
+    "name": "Jazīrat al Ḩimārah",
+    "latitude": 31.99494,
+    "longitude": 24.47865,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 80817,
+    "name": "Jazīrat al Waţi’ah",
+    "latitude": 32.39171,
+    "longitude": 23.16617,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 80598,
+    "name": "Jazīrat az Zaytūn",
+    "latitude": 32.01579,
+    "longitude": 24.09214,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 88262,
+    "name": "Jazīrat Barda‘ah",
+    "latitude": 32.37426,
+    "longitude": 23.23544,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 85514,
+    "name": "Jazīrat Kirissah",
+    "latitude": 32.8383,
+    "longitude": 22.49883,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 84856,
+    "name": "Jazīrat Mişrātah",
+    "latitude": 32.41435,
+    "longitude": 23.15479,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2216155,
+    "name": "Kābāw",
+    "latitude": 31.84724,
+    "longitude": 11.33055,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2220291,
+    "name": "Kāf al Aghlāq",
+    "latitude": 32.11505,
+    "longitude": 12.76994,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218663,
+    "name": "Kāf al Bayqalah",
+    "latitude": 31.13333,
+    "longitude": 13.28333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218112,
+    "name": "Kāf al Burmah",
+    "latitude": 31.78133,
+    "longitude": 13.08933,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2217455,
+    "name": "Kāf al Furūq",
+    "latitude": 32.11333,
+    "longitude": 12.70028,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2216116,
+    "name": "Kāf al Kalāyā",
+    "latitude": 32.18472,
+    "longitude": 12.9525,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2215430,
+    "name": "Kāf al Makhraj",
+    "latitude": 31.52777,
+    "longitude": 12.68869,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2215373,
+    "name": "Kāf al Manārī",
+    "latitude": 32.00991,
+    "longitude": 12.11158,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2215222,
+    "name": "Kāf al Marmūthah",
+    "latitude": 32.19691,
+    "longitude": 13.2649,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2214751,
+    "name": "Kāf al Muhambar",
+    "latitude": 32.24296,
+    "longitude": 13.2947,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2214677,
+    "name": "Kāf al Munayfīdh",
+    "latitude": 31.36667,
+    "longitude": 12.93333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2213352,
+    "name": "Kāf al Qirţāsī",
+    "latitude": 32.2,
+    "longitude": 12.93639,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2213275,
+    "name": "Kāf al Qunnah",
+    "latitude": 32.16028,
+    "longitude": 12.90111,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2213234,
+    "name": "Kāf al Quşaybah",
+    "latitude": 32.16667,
+    "longitude": 13.24222,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2212814,
+    "name": "Kāf ar Ruqayyiqāt",
+    "latitude": 31.38333,
+    "longitude": 12.85,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2208477,
+    "name": "Kāf az Zubaywah",
+    "latitude": 32.12861,
+    "longitude": 13.24722,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218420,
+    "name": "Kāf Bū al ‘Abs",
+    "latitude": 31.93308,
+    "longitude": 11.8218,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2217548,
+    "name": "Kāf Fassānū",
+    "latitude": 31.25,
+    "longitude": 12.71667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2215783,
+    "name": "Kāf Khurmat aţ Ţarīq",
+    "latitude": 31.43333,
+    "longitude": 12.8,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2215674,
+    "name": "Kāf Lāllah",
+    "latitude": 31.75067,
+    "longitude": 12.92767,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2215441,
+    "name": "Kāf Majma‘ aş Şalāḩ",
+    "latitude": 32.16944,
+    "longitude": 13.06472,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2215330,
+    "name": "Kāf Manţrūs",
+    "latitude": 32.21167,
+    "longitude": 12.89861,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2214970,
+    "name": "Kāf Māzūzah",
+    "latitude": 31.23333,
+    "longitude": 12.98333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2214614,
+    "name": "Kāf Murayzīqah",
+    "latitude": 31.43333,
+    "longitude": 12.91667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2214560,
+    "name": "Kāf Muslim",
+    "latitude": 32.2147,
+    "longitude": 13.28841,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2212750,
+    "name": "Kāf Sadandū",
+    "latitude": 32.27722,
+    "longitude": 13.00306,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2212076,
+    "name": "Kāf Shu‘bat al Munḩalil",
+    "latitude": 31.86509,
+    "longitude": 12.86167,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2210687,
+    "name": "Kāf Sindrār",
+    "latitude": 32.15167,
+    "longitude": 12.66944,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2210681,
+    "name": "Kāf Sirār",
+    "latitude": 32.12306,
+    "longitude": 12.84778,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2210432,
+    "name": "Kāf Tāhshamt",
+    "latitude": 32.18722,
+    "longitude": 12.92028,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2210115,
+    "name": "Kāf Ţawīl al Maghāyid",
+    "latitude": 32.03966,
+    "longitude": 13.28807,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2209357,
+    "name": "Kāf Umm ash Shibāk",
+    "latitude": 31.5,
+    "longitude": 12.98333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2217642,
+    "name": "Kahf al Fallāq",
+    "latitude": 32.12169,
+    "longitude": 12.76628,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2210431,
+    "name": "Kahf aţ Ţāḩūnah",
+    "latitude": 32.105,
+    "longitude": 12.74667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2208605,
+    "name": "Kahf az Zarār",
+    "latitude": 32.1159,
+    "longitude": 12.72549,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 85819,
+    "name": "Kambūt",
+    "latitude": 31.90434,
+    "longitude": 24.4784,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2216044,
+    "name": "Khashm al Karūmah",
+    "latitude": 31.79596,
+    "longitude": 12.48019,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2213103,
+    "name": "Khashm ar Rakhmah",
+    "latitude": 32.03306,
+    "longitude": 12.27888,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2219139,
+    "name": "Khashm Awlād ‘Inān",
+    "latitude": 31.98812,
+    "longitude": 12.17405,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2208734,
+    "name": "Khashm az Zabs",
+    "latitude": 32.14944,
+    "longitude": 13.1675,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218749,
+    "name": "Khashm Bashāţah",
+    "latitude": 31.86056,
+    "longitude": 11.02972,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2217636,
+    "name": "Khashm Fam Ku‘ayfī",
+    "latitude": 31.97705,
+    "longitude": 12.16313,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2215414,
+    "name": "Khashm Malālah",
+    "latitude": 32.19333,
+    "longitude": 13.20639,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2212171,
+    "name": "Khashm Shawdhab",
+    "latitude": 31.80532,
+    "longitude": 10.92059,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2210142,
+    "name": "Khashm Tāslūqat",
+    "latitude": 31.88472,
+    "longitude": 11.01722,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2215884,
+    "name": "Khashshat Tandimmīrah",
+    "latitude": 31.86693,
+    "longitude": 11.47833,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2219544,
+    "name": "Khurmat ‘Aql",
+    "latitude": 31.92317,
+    "longitude": 12.61867,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2209133,
+    "name": "Khurmat ‘Usaylah",
+    "latitude": 28.95,
+    "longitude": 15.16667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2217914,
+    "name": "Khurmat ad Daqīq",
+    "latitude": 29.5,
+    "longitude": 15.4,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2219609,
+    "name": "Khurmat al ‘Anānah",
+    "latitude": 28.88715,
+    "longitude": 15.59225,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2219227,
+    "name": "Khurmat al ‘Awjā’",
+    "latitude": 29.25,
+    "longitude": 15.15,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218728,
+    "name": "Khurmat al Bā‘tarān",
+    "latitude": 28.62286,
+    "longitude": 16.34207,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2217248,
+    "name": "Khurmat al Ghuraybāt",
+    "latitude": 27.58759,
+    "longitude": 13.88529,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2216815,
+    "name": "Khurmat al Ḩatshah",
+    "latitude": 31.8699,
+    "longitude": 12.98591,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2216591,
+    "name": "Khurmat al Ibl",
+    "latitude": 30.0243,
+    "longitude": 15.72792,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2216016,
+    "name": "Khurmat al Khaddāmīyah",
+    "latitude": 30.9,
+    "longitude": 13.41667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2215529,
+    "name": "Khurmat al Maḩallah",
+    "latitude": 30.2332,
+    "longitude": 15.56677,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2214723,
+    "name": "Khurmat al Muharshamah",
+    "latitude": 25.65,
+    "longitude": 16.48333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2214187,
+    "name": "Khurmat al Qaḑāmah",
+    "latitude": 31.98333,
+    "longitude": 13.01667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2214052,
+    "name": "Khurmat al Qarārāt",
+    "latitude": 26.00281,
+    "longitude": 15.30567,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2213396,
+    "name": "Khurmat al Qibyān",
+    "latitude": 28.76667,
+    "longitude": 15.68333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2214344,
+    "name": "Khurmat an Niqār",
+    "latitude": 29.36667,
+    "longitude": 15.4,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2213002,
+    "name": "Khurmat ar Rashādah",
+    "latitude": 31.03333,
+    "longitude": 12.46667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2210641,
+    "name": "Khurmat aş Şufayrā’",
+    "latitude": 27.79909,
+    "longitude": 13.83389,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2211994,
+    "name": "Khurmat ash Shurfah",
+    "latitude": 29.78683,
+    "longitude": 15.3941,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2210447,
+    "name": "Khurmat at Tafsawīyah",
+    "latitude": 29.08333,
+    "longitude": 15.33333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2210175,
+    "name": "Khurmat at Tarrādah",
+    "latitude": 29.2,
+    "longitude": 15.53333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2208494,
+    "name": "Khurmat az Zirr",
+    "latitude": 29.52807,
+    "longitude": 16.5838,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218580,
+    "name": "Khurmat Bin Ghunaymah",
+    "latitude": 24.8,
+    "longitude": 15.36667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218406,
+    "name": "Khurmat Bū al Ghirāf",
+    "latitude": 28.83333,
+    "longitude": 15.05,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218348,
+    "name": "Khurmat Bū ar Ruwayn",
+    "latitude": 30.21647,
+    "longitude": 17.64415,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218281,
+    "name": "Khurmat Bū Gharrah",
+    "latitude": 31.61667,
+    "longitude": 12.98333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218173,
+    "name": "Khurmat Bū Qidrah",
+    "latitude": 25.63333,
+    "longitude": 16.68333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2217751,
+    "name": "Khurmat Dughayj",
+    "latitude": 29.11667,
+    "longitude": 15.2,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2217512,
+    "name": "Khurmat Fazzān",
+    "latitude": 29.15128,
+    "longitude": 17.2582,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2217359,
+    "name": "Khurmat Gharyān",
+    "latitude": 31.48333,
+    "longitude": 12.91667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2211987,
+    "name": "Khurmat Karkūr",
+    "latitude": 29.10345,
+    "longitude": 15.46724,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2215181,
+    "name": "Khurmat Marzūq",
+    "latitude": 29.6,
+    "longitude": 16.18333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2213448,
+    "name": "Khurmat Qaţţāyah",
+    "latitude": 29.16667,
+    "longitude": 15.48333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2210147,
+    "name": "Khurmat Tashshah",
+    "latitude": 29.23333,
+    "longitude": 15.28333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2209799,
+    "name": "Khurmat Tūzazt",
+    "latitude": 29.98333,
+    "longitude": 15.6,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2209672,
+    "name": "Khurmat Umm al ‘Ajram",
+    "latitude": 29,
+    "longitude": 13.88333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2209661,
+    "name": "Khurmat Umm al ‘Arfaj",
+    "latitude": 29.61667,
+    "longitude": 14.88333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2209464,
+    "name": "Khurmat Umm al Milḩ",
+    "latitude": 30.20884,
+    "longitude": 16.31192,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2209239,
+    "name": "Khurmat Umm an Nafal",
+    "latitude": 28.25865,
+    "longitude": 13.68066,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2209321,
+    "name": "Khurmat Umm aş Şubayţ",
+    "latitude": 30.93333,
+    "longitude": 13.2,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2209026,
+    "name": "Khurmat Wādī al Qayd",
+    "latitude": 29.08333,
+    "longitude": 14.63333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2208864,
+    "name": "Khurmat Wāw",
+    "latitude": 25.43333,
+    "longitude": 16.33333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2208806,
+    "name": "Khurmat Wudayy aţ Ţīn",
+    "latitude": 25.76667,
+    "longitude": 16.75,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2215758,
+    "name": "Kiklah",
+    "latitude": 32.08333,
+    "longitude": 12.7,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2215673,
+    "name": "Kurb Lāllah",
+    "latitude": 31.81704,
+    "longitude": 10.9204,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11814467,
+    "name": "Mamarr Tasghārt",
+    "latitude": 25.93685,
+    "longitude": 10.02288,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2215328,
+    "name": "Manţrūs al Bayḑā’",
+    "latitude": 32.17124,
+    "longitude": 12.89579,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2215253,
+    "name": "Marbaḩ Mūzān",
+    "latitude": 31.81088,
+    "longitude": 10.91951,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 85074,
+    "name": "Martūbah",
+    "latitude": 32.57421,
+    "longitude": 22.76353,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 85026,
+    "name": "Massah",
+    "latitude": 32.75249,
+    "longitude": 21.62807,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2214893,
+    "name": "Miqlālah",
+    "latitude": 31.67365,
+    "longitude": 12.81417,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2214846,
+    "name": "Misratah",
+    "latitude": 32.37535,
+    "longitude": 15.09254,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2214827,
+    "name": "Mizdah",
+    "latitude": 31.44934,
+    "longitude": 12.9853,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12687313,
+    "name": "Msalātah",
+    "latitude": 32.58345,
+    "longitude": 14.03627,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2214603,
+    "name": "Murzuk",
+    "latitude": 25.91552,
+    "longitude": 13.91839,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2214433,
+    "name": "Nālūt",
+    "latitude": 31.86848,
+    "longitude": 10.9812,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 87269,
+    "name": "Naqb Dafnah",
+    "latitude": 29.7903,
+    "longitude": 24.5177,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 82197,
+    "name": "Naqb Sīdī Ḩammūdah",
+    "latitude": 29.98516,
+    "longitude": 24.26444,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2214403,
+    "name": "Naqqāzat aţ Ţalḩah",
+    "latitude": 29.01113,
+    "longitude": 17.91318,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 84476,
+    "name": "Naqr al Muşaylībah",
+    "latitude": 32.51667,
+    "longitude": 21.36667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 88571,
+    "name": "Nuqayb al Athlah",
+    "latitude": 29.93195,
+    "longitude": 24.56627,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2220295,
+    "name": "Passo di Agalad",
+    "latitude": 25.61089,
+    "longitude": 11.46639,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2214148,
+    "name": "Qal‘at Kammūn",
+    "latitude": 31.95785,
+    "longitude": 12.23676,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2214130,
+    "name": "Qallū",
+    "latitude": 31.93004,
+    "longitude": 11.88333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 84257,
+    "name": "Qamīnis",
+    "latitude": 31.6576,
+    "longitude": 20.01697,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 84244,
+    "name": "Qandūlah",
+    "latitude": 32.53798,
+    "longitude": 21.57525,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218999,
+    "name": "Qārat al ‘Azzābah",
+    "latitude": 31.76748,
+    "longitude": 10.97024,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218989,
+    "name": "Qārat al ‘Azzābīyah",
+    "latitude": 31.7787,
+    "longitude": 10.97415,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2216283,
+    "name": "Qārat al Ji‘ābīyah",
+    "latitude": 27.51667,
+    "longitude": 16.9,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 87246,
+    "name": "Qārat Dalmā’",
+    "latitude": 25.53333,
+    "longitude": 23.95,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2209709,
+    "name": "Qārat Umm adh Dhubāb",
+    "latitude": 31.88079,
+    "longitude": 11.07568,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2209595,
+    "name": "Qārat Umm al Gharānīq",
+    "latitude": 27.63333,
+    "longitude": 17.41667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2208493,
+    "name": "Qārat Ziţwāl",
+    "latitude": 31.88064,
+    "longitude": 11.08959,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12687305,
+    "name": "Qarqūzah",
+    "latitude": 32.74572,
+    "longitude": 12.84234,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 84130,
+    "name": "Qaryat ‘Umar al Mukhtār",
+    "latitude": 32.62978,
+    "longitude": 21.67651,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 89053,
+    "name": "Qaryat al Bayyāḑah",
+    "latitude": 32.56501,
+    "longitude": 21.25415,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 81604,
+    "name": "Qaryat Sulūq",
+    "latitude": 31.66818,
+    "longitude": 20.25205,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2213695,
+    "name": "Qaşr al Qarabūllī",
+    "latitude": 32.74506,
+    "longitude": 13.71467,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2213618,
+    "name": "Qaşr Bin Ghashīr",
+    "latitude": 32.68333,
+    "longitude": 13.18333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2213570,
+    "name": "Qaşr Khiyār",
+    "latitude": 32.69677,
+    "longitude": 13.84634,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 83861,
+    "name": "Qaşr Lībiyā",
+    "latitude": 32.63333,
+    "longitude": 21.41667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2213371,
+    "name": "Qīrah",
+    "latitude": 27.58595,
+    "longitude": 14.35375,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2213299,
+    "name": "Qulay‘at Abū Raḩmah",
+    "latitude": 32.03733,
+    "longitude": 13.43161,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2213041,
+    "name": "Qullat ar Ra’s",
+    "latitude": 31.8175,
+    "longitude": 11.16583,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2219963,
+    "name": "Ra’s ‘Āliyah wa ‘Alī",
+    "latitude": 32.13792,
+    "longitude": 12.615,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2220487,
+    "name": "Ra’s Abū Furmah",
+    "latitude": 32.11324,
+    "longitude": 13.45261,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2220484,
+    "name": "Ra’s Abū Ghannūsh",
+    "latitude": 32.20083,
+    "longitude": 12.99556,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2220415,
+    "name": "Ra’s Abū Qurayn",
+    "latitude": 31.47452,
+    "longitude": 13.00661,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2220385,
+    "name": "Ra’s Abū Siţām",
+    "latitude": 32.13694,
+    "longitude": 13.09806,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2220379,
+    "name": "Ra’s Abū Ţawīl",
+    "latitude": 32.50071,
+    "longitude": 13.63809,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2220378,
+    "name": "Ra’s Abū Ţu‘ayţīsh",
+    "latitude": 32.53775,
+    "longitude": 13.63421,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218019,
+    "name": "Ra’s aḑ Ḑab‘",
+    "latitude": 32.2352,
+    "longitude": 13.35,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2217721,
+    "name": "Ra’s ad Duraybīkah",
+    "latitude": 32.15722,
+    "longitude": 13.20861,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2217831,
+    "name": "Ra’s adh Dhakkārah",
+    "latitude": 32.16667,
+    "longitude": 13.33333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2217817,
+    "name": "Ra’s adh Dhi’bah",
+    "latitude": 32.15226,
+    "longitude": 13.45475,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2220343,
+    "name": "Ra’s al ‘Adam",
+    "latitude": 32.62191,
+    "longitude": 13.71067,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2219323,
+    "name": "Ra’s al ‘Asūlah",
+    "latitude": 32.00021,
+    "longitude": 12.76811,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2209168,
+    "name": "Ra’s al ‘Uqlah",
+    "latitude": 32.13772,
+    "longitude": 13.44535,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2209086,
+    "name": "Ra’s al ‘Uwayjā’",
+    "latitude": 31.9325,
+    "longitude": 12.88867,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2219518,
+    "name": "Ra’s al A‘rāḑ",
+    "latitude": 32.16261,
+    "longitude": 13.42625,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2220251,
+    "name": "Ra’s al Aḩmar",
+    "latitude": 32.17542,
+    "longitude": 13.4296,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2219613,
+    "name": "Ra’s al Amwaj",
+    "latitude": 32.00033,
+    "longitude": 13.38443,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218851,
+    "name": "Ra’s al Balūb",
+    "latitude": 32.18271,
+    "longitude": 13.48221,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218803,
+    "name": "Ra’s al Barādi‘",
+    "latitude": 32.45833,
+    "longitude": 12.925,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218195,
+    "name": "Ra’s al Bunayyah",
+    "latitude": 32.19139,
+    "longitude": 13.03806,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2217481,
+    "name": "Ra’s al Fulaysah",
+    "latitude": 31.85391,
+    "longitude": 12.90642,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2217369,
+    "name": "Ra’s al Gharīfah",
+    "latitude": 32.00862,
+    "longitude": 12.08663,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2217269,
+    "name": "Ra’s al Ghūlah",
+    "latitude": 32.08083,
+    "longitude": 12.71694,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2217161,
+    "name": "Ra’s al Ḩadīd",
+    "latitude": 32.11861,
+    "longitude": 13.15306,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2217091,
+    "name": "Ra’s al Ḩājj Nāfi‘",
+    "latitude": 32.20189,
+    "longitude": 13.48191,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2217027,
+    "name": "Ra’s al Ḩamām",
+    "latitude": 32.16174,
+    "longitude": 13.31153,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2216990,
+    "name": "Ra’s al Ḩammah",
+    "latitude": 32.18979,
+    "longitude": 13.31796,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2216870,
+    "name": "Ra’s al Ḩarīqah",
+    "latitude": 32.15544,
+    "longitude": 13.48755,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2216860,
+    "name": "Ra’s al Ḩarmal",
+    "latitude": 32.00434,
+    "longitude": 13.33465,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2216851,
+    "name": "Ra’s al Ḩasanīyah",
+    "latitude": 32.15711,
+    "longitude": 13.2646,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2216842,
+    "name": "Ra’s al Hashīm",
+    "latitude": 32.04895,
+    "longitude": 13.39651,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2216796,
+    "name": "Ra’s al Ḩawḑ",
+    "latitude": 32.16398,
+    "longitude": 13.45451,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2216789,
+    "name": "Ra’s al Ḩawsh",
+    "latitude": 32.1325,
+    "longitude": 13.21417,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2216745,
+    "name": "Ra’s al Ḩijārah",
+    "latitude": 32.08233,
+    "longitude": 13.36901,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2216739,
+    "name": "Ra’s al Ḩimār",
+    "latitude": 32.18292,
+    "longitude": 13.45006,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2209564,
+    "name": "Ra’s al Ḩumaymāt",
+    "latitude": 31.30091,
+    "longitude": 12.98113,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2215969,
+    "name": "Ra’s al Khalīqah",
+    "latitude": 31.99723,
+    "longitude": 13.23395,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2215748,
+    "name": "Ra’s al Kīm",
+    "latitude": 32.24124,
+    "longitude": 13.46142,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2215263,
+    "name": "Ra’s al Marasah",
+    "latitude": 32.12094,
+    "longitude": 12.73442,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2215216,
+    "name": "Ra’s al Marqab",
+    "latitude": 32.40374,
+    "longitude": 13.45514,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2215131,
+    "name": "Ra’s al Mashrīyah",
+    "latitude": 32.13215,
+    "longitude": 13.29069,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2215064,
+    "name": "Ra’s al Mataryūn",
+    "latitude": 31.89193,
+    "longitude": 10.80902,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2214588,
+    "name": "Ra’s al Muşallá",
+    "latitude": 31.96284,
+    "longitude": 13.09867,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2214066,
+    "name": "Ra’s al Qarāqīb",
+    "latitude": 32.6,
+    "longitude": 13.81667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2213453,
+    "name": "Ra’s al Qaţţār",
+    "latitude": 32.43333,
+    "longitude": 14.16667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2213341,
+    "name": "Ra’s al Qiţār",
+    "latitude": 32.14853,
+    "longitude": 13.45632,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2213324,
+    "name": "Ra’s al Qubal",
+    "latitude": 31.93009,
+    "longitude": 11.55986,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2209766,
+    "name": "Ra’s al Uḩaymay",
+    "latitude": 32.06622,
+    "longitude": 13.45544,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2209042,
+    "name": "Ra’s al Wādī",
+    "latitude": 32.06472,
+    "longitude": 12.85056,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2214496,
+    "name": "Ra’s an Nāb",
+    "latitude": 32.40233,
+    "longitude": 13.46196,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2213127,
+    "name": "Ra’s ar Raḩá",
+    "latitude": 32.11658,
+    "longitude": 13.30261,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2213106,
+    "name": "Ra’s ar Rakāyā al Kabīr",
+    "latitude": 32.24741,
+    "longitude": 13.26626,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2212919,
+    "name": "Ra’s ar Rīḩ",
+    "latitude": 32.23917,
+    "longitude": 13.18417,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2212828,
+    "name": "Ra’s ar Rūmīyah",
+    "latitude": 32.6,
+    "longitude": 13.65,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2212686,
+    "name": "Ra’s as Sakhānah",
+    "latitude": 32.16157,
+    "longitude": 13.47689,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2212542,
+    "name": "Ra’s as Saqīfah",
+    "latitude": 31.84645,
+    "longitude": 12.83611,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2212455,
+    "name": "Ra’s as Sawdā’",
+    "latitude": 32.00994,
+    "longitude": 12.76315,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2210531,
+    "name": "Ra’s as Suwaydā’",
+    "latitude": 32.20236,
+    "longitude": 13.42143,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2211964,
+    "name": "Ra’s ash Shuwayrif",
+    "latitude": 32.13166,
+    "longitude": 13.47207,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2210126,
+    "name": "Ra’s aţ Ţawīl",
+    "latitude": 32.1926,
+    "longitude": 13.49627,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2209989,
+    "name": "Ra’s at Tibr",
+    "latitude": 31.88178,
+    "longitude": 13.23051,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2209811,
+    "name": "Ra’s aţ Ţuwaysh",
+    "latitude": 31.94721,
+    "longitude": 13.22816,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2209808,
+    "name": "Ra’s aţ Ţuwayyil",
+    "latitude": 32.16914,
+    "longitude": 13.45247,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2210021,
+    "name": "Ra’s ath Thanīyah",
+    "latitude": 31.81939,
+    "longitude": 10.88117,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2219163,
+    "name": "Ra’s Awlād Bū Ja‘far",
+    "latitude": 32.20016,
+    "longitude": 13.0081,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2208733,
+    "name": "Ra’s az Zabs",
+    "latitude": 32.03139,
+    "longitude": 13.03139,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218815,
+    "name": "Ra’s Baqās",
+    "latitude": 32.22241,
+    "longitude": 13.35611,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218692,
+    "name": "Ra’s Baybūk",
+    "latitude": 32.07696,
+    "longitude": 12.86538,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218647,
+    "name": "Ra’s Bībal",
+    "latitude": 32.12694,
+    "longitude": 13.23361,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218646,
+    "name": "Ra’s Bībāş",
+    "latitude": 32.23981,
+    "longitude": 13.44471,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218563,
+    "name": "Ra’s Bin Jarmūl",
+    "latitude": 32.53132,
+    "longitude": 13.71016,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218296,
+    "name": "Ra’s Bū Dūr",
+    "latitude": 32.04135,
+    "longitude": 13.37487,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218179,
+    "name": "Ra’s Bū Qarīr",
+    "latitude": 32.23991,
+    "longitude": 13.31853,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218172,
+    "name": "Ra’s Bū Qidrah",
+    "latitude": 32.07194,
+    "longitude": 12.83028,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2217985,
+    "name": "Ra’s Daffāt al Quţayfāt",
+    "latitude": 31.88092,
+    "longitude": 12.92383,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2217634,
+    "name": "Ra’s Fam Mullaghah",
+    "latitude": 32.47732,
+    "longitude": 13.41994,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2216716,
+    "name": "Ra’s Ḩasan",
+    "latitude": 31.96753,
+    "longitude": 12.8979,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2215549,
+    "name": "Ra’s Maghāghīr al Aţrash",
+    "latitude": 32.00194,
+    "longitude": 13.05444,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2215186,
+    "name": "Ra’s Maryū",
+    "latitude": 32.21778,
+    "longitude": 13.1775,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2215146,
+    "name": "Ra’s Mashbak Ma‘lah",
+    "latitude": 32.22067,
+    "longitude": 13.25598,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2215139,
+    "name": "Ra’s Mashhad Baţţār",
+    "latitude": 31.77545,
+    "longitude": 10.88105,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2214969,
+    "name": "Ra’s Mazūzah",
+    "latitude": 32.15222,
+    "longitude": 13.10111,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2214907,
+    "name": "Ra’s Minqār an Nasr",
+    "latitude": 32.24556,
+    "longitude": 13.12806,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2214891,
+    "name": "Ra’s Miqrāḑ",
+    "latitude": 31.85,
+    "longitude": 13.11667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2214888,
+    "name": "Ra’s Miqrāḩ",
+    "latitude": 32.2015,
+    "longitude": 13.44173,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2214882,
+    "name": "Ra’s Mirdāt",
+    "latitude": 32.01667,
+    "longitude": 13.03333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2214408,
+    "name": "Ra’s Naqqāl",
+    "latitude": 32.14471,
+    "longitude": 13.0938,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2214406,
+    "name": "Ra’s Naqqāsh",
+    "latitude": 32.09667,
+    "longitude": 13.19278,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2214182,
+    "name": "Ra’s Qaddāsh",
+    "latitude": 32.14614,
+    "longitude": 13.42016,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2213181,
+    "name": "Ra’s Quwayf al Būmah",
+    "latitude": 32.59258,
+    "longitude": 13.68675,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2213064,
+    "name": "Ra’s Rāqid al Bunyah",
+    "latitude": 32.05254,
+    "longitude": 13.29695,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2213042,
+    "name": "Ra’s Raqūbat al Kūr",
+    "latitude": 32.0126,
+    "longitude": 13.2615,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2212671,
+    "name": "Ra’s Salām",
+    "latitude": 32.19647,
+    "longitude": 13.43244,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2212533,
+    "name": "Ra’s Sāqiyat al ‘Uwaynah",
+    "latitude": 32.01528,
+    "longitude": 13.01778,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2212308,
+    "name": "Ra’s Sha‘īth",
+    "latitude": 32.16973,
+    "longitude": 13.43981,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2212279,
+    "name": "Ra’s Shalqūm",
+    "latitude": 32.14133,
+    "longitude": 13.49416,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2212268,
+    "name": "Ra’s Shamnah",
+    "latitude": 32.2155,
+    "longitude": 13.43274,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2212266,
+    "name": "Ra’s Shamnah Şaghīrah",
+    "latitude": 32.2129,
+    "longitude": 13.42015,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2212044,
+    "name": "Ra’s Shu‘bat Yūsuf",
+    "latitude": 32.10757,
+    "longitude": 13.27202,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2211949,
+    "name": "Ra’s Şibāqah",
+    "latitude": 31.78028,
+    "longitude": 10.91132,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2211102,
+    "name": "Ra’s Sīdī Masīd",
+    "latitude": 32.18847,
+    "longitude": 13.37862,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2210335,
+    "name": "Ra’s Tamallalt",
+    "latitude": 32.12639,
+    "longitude": 12.51611,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2210214,
+    "name": "Ra’s Tarīdah",
+    "latitude": 32.20361,
+    "longitude": 13.09194,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2209693,
+    "name": "Ra’s Umm al ‘Abr",
+    "latitude": 32.2669,
+    "longitude": 13.325,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2209639,
+    "name": "Ra’s Umm al Baqar",
+    "latitude": 31.969,
+    "longitude": 13.13633,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2209536,
+    "name": "Ra’s Umm al Jawārī",
+    "latitude": 32.22889,
+    "longitude": 13.20917,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2209448,
+    "name": "Ra’s Umm al Qandūl",
+    "latitude": 32.01161,
+    "longitude": 13.4852,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2209416,
+    "name": "Ra’s Umm an Ni‘āj",
+    "latitude": 32.00826,
+    "longitude": 13.43042,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2208876,
+    "name": "Ra’s Wāsīn",
+    "latitude": 31.87473,
+    "longitude": 10.99149,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2208708,
+    "name": "Ra’s Zaghwān",
+    "latitude": 32.03028,
+    "longitude": 13.18778,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2208661,
+    "name": "Ra’s Zallāf",
+    "latitude": 32.21194,
+    "longitude": 13.08667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2208563,
+    "name": "Ra’s Zāwīţ",
+    "latitude": 31.92135,
+    "longitude": 10.97014,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2208517,
+    "name": "Ra’s Zīmah",
+    "latitude": 32.6,
+    "longitude": 13.45,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2208486,
+    "name": "Ra’s Zīzīyah",
+    "latitude": 32.16887,
+    "longitude": 12.98965,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2208444,
+    "name": "Ra’s Zuqyah",
+    "latitude": 31.84247,
+    "longitude": 11.02253,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2208427,
+    "name": "Ra’s Zūtī",
+    "latitude": 32.03332,
+    "longitude": 13.48544,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2208419,
+    "name": "Ra’s Zuwaytīn",
+    "latitude": 32.13515,
+    "longitude": 13.49724,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2213057,
+    "name": "Raqīq at Tibr",
+    "latitude": 31.87557,
+    "longitude": 13.21829,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2212775,
+    "name": "Sabha",
+    "latitude": 27.03766,
+    "longitude": 14.42832,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2212771,
+    "name": "Şabrātah",
+    "latitude": 32.79335,
+    "longitude": 12.48845,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2213442,
+    "name": "Sarīr al Qaţţūsah",
+    "latitude": 26.76807,
+    "longitude": 15.08433,
+    "category": "Desert",
+    "subcategory": "Desert",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11814081,
+    "name": "Sarīr ar Rasan",
+    "latitude": 26.17605,
+    "longitude": 13.34793,
+    "category": "Desert",
+    "subcategory": "Desert",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2212784,
+    "name": "Sarīr as Sab‘ah",
+    "latitude": 25.5,
+    "longitude": 16.25,
+    "category": "Desert",
+    "subcategory": "Desert",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 87307,
+    "name": "Sarīr di Chieun",
+    "latitude": 23,
+    "longitude": 20.25,
+    "category": "Desert",
+    "subcategory": "Desert",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 85836,
+    "name": "Sarīr Kalanshiyū",
+    "latitude": 27.81739,
+    "longitude": 20.97513,
+    "category": "Desert",
+    "subcategory": "Desert",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2212776,
+    "name": "Sarīr Sabbioso",
+    "latitude": 28.16667,
+    "longitude": 19.16667,
+    "category": "Desert",
+    "subcategory": "Desert",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2209991,
+    "name": "Sarīr Tībistī",
+    "latitude": 23.90104,
+    "longitude": 17.11269,
+    "category": "Desert",
+    "subcategory": "Desert",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11814138,
+    "name": "Sarīr Tiknīwan",
+    "latitude": 26.16145,
+    "longitude": 13.13321,
+    "category": "Desert",
+    "subcategory": "Desert",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2209257,
+    "name": "Sarīr Umm ‘Alā’",
+    "latitude": 26.51748,
+    "longitude": 14.05397,
+    "category": "Desert",
+    "subcategory": "Desert",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8609637,
+    "name": "Scouts Park",
+    "latitude": 32.10793,
+    "longitude": 20.07192,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 84421,
+    "name": "Serir Nerastro",
+    "latitude": 24.33333,
+    "longitude": 20.61667,
+    "category": "Desert",
+    "subcategory": "Desert",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7602388,
+    "name": "Shahhat",
+    "latitude": 32.8043,
+    "longitude": 21.86605,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2211464,
+    "name": "Sīdī aş Şayd",
+    "latitude": 32.33462,
+    "longitude": 13.47942,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2212882,
+    "name": "Sīdī Bin Zīnah",
+    "latitude": 32.88718,
+    "longitude": 11.98729,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2210554,
+    "name": "Sirte",
+    "latitude": 31.20892,
+    "longitude": 16.58866,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2210627,
+    "name": "Sūknah",
+    "latitude": 29.06941,
+    "longitude": 15.78266,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2210560,
+    "name": "Şurmān",
+    "latitude": 32.75668,
+    "longitude": 12.57159,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 81584,
+    "name": "Sūsah",
+    "latitude": 32.89702,
+    "longitude": 21.96583,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2210394,
+    "name": "Tājūrā’",
+    "latitude": 32.88167,
+    "longitude": 13.35056,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2210300,
+    "name": "Tamzāwah",
+    "latitude": 27.57154,
+    "longitude": 14.20234,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2210242,
+    "name": "Tarāghin",
+    "latitude": 25.92333,
+    "longitude": 14.42056,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2210221,
+    "name": "Tarhuna",
+    "latitude": 32.43501,
+    "longitude": 13.6332,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12687306,
+    "name": "Tāzirbū",
+    "latitude": 25.67289,
+    "longitude": 21.07286,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2220639,
+    "name": "Tehi-n-Abahaha",
+    "latitude": 24.9515,
+    "longitude": 11.29855,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2210318,
+    "name": "Tehi-n-Tamelelt",
+    "latitude": 25.22001,
+    "longitude": 11.40054,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2216139,
+    "name": "Thanīyat al Kabīrah",
+    "latitude": 23.5,
+    "longitude": 14.33333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2215052,
+    "name": "Thanīyat al Matkīyah",
+    "latitude": 30.55,
+    "longitude": 13.58333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2212714,
+    "name": "Thanīyat aş Şaghīrah",
+    "latitude": 23.25,
+    "longitude": 14.25,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2210665,
+    "name": "Thanīyat aş Şu‘aydī",
+    "latitude": 30.86667,
+    "longitude": 10.53333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2209999,
+    "name": "Thūmāt ash Sharaf",
+    "latitude": 31.84321,
+    "longitude": 10.91538,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2209970,
+    "name": "Tījī",
+    "latitude": 32.01493,
+    "longitude": 11.35461,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2209940,
+    "name": "Tin Elchorman",
+    "latitude": 25.86252,
+    "longitude": 10.34663,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 81302,
+    "name": "Tobruk",
+    "latitude": 32.08963,
+    "longitude": 23.95385,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2210247,
+    "name": "Tripoli",
+    "latitude": 32.88743,
+    "longitude": 13.18733,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 88834,
+    "name": "Tūkrah",
+    "latitude": 32.53414,
+    "longitude": 20.57911,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2219235,
+    "name": "Ubari",
+    "latitude": 26.59034,
+    "longitude": 12.77511,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2209662,
+    "name": "Umm al Arānib",
+    "latitude": 26.13386,
+    "longitude": 14.7372,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 81071,
+    "name": "Umm ar Rizam",
+    "latitude": 32.53332,
+    "longitude": 23.00904,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12687307,
+    "name": "Umm Sā'ad",
+    "latitude": 31.60968,
+    "longitude": 25.04999,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2209055,
+    "name": "Waddān",
+    "latitude": 29.1614,
+    "longitude": 16.13904,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12687308,
+    "name": "Wādī 'Utbah",
+    "latitude": 26.09502,
+    "longitude": 13.55744,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12687309,
+    "name": "Wardāmah",
+    "latitude": 32.79661,
+    "longitude": 21.79099,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2208791,
+    "name": "Yafran",
+    "latitude": 32.06329,
+    "longitude": 12.52859,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2208696,
+    "name": "Z̧ahārī Awlām",
+    "latitude": 32.0257,
+    "longitude": 13.02395,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2208655,
+    "name": "Zalţan",
+    "latitude": 32.94699,
+    "longitude": 11.86668,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2216885,
+    "name": "Zawiya",
+    "latitude": 32.75222,
+    "longitude": 12.72778,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2208518,
+    "name": "Zillah",
+    "latitude": 28.55099,
+    "longitude": 17.54358,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2218963,
+    "name": "Zintan",
+    "latitude": 31.93155,
+    "longitude": 12.25291,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2208485,
+    "name": "Zliten",
+    "latitude": 32.46739,
+    "longitude": 14.56874,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2208425,
+    "name": "Zuwarah",
+    "latitude": 32.9312,
+    "longitude": 12.08199,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  }
+]

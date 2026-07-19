@@ -1,0 +1,252 @@
+[
+  {
+    "geonameId": 4743779,
+    "name": "Bajo Nuevo Bank",
+    "latitude": 15.83982,
+    "longitude": -78.67035,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4743752,
+    "name": "Bajo Nuevo Low Cay",
+    "latitude": 15.8533,
+    "longitude": -78.633,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 5854906,
+    "name": "Baker Island",
+    "latitude": 0.19472,
+    "longitude": -176.47944,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 5854909,
+    "name": "Barren Island",
+    "latitude": 5.87845,
+    "longitude": -162.04493,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 5854911,
+    "name": "Center Lagoon",
+    "latitude": 5.88397,
+    "longitude": -162.07435,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 5854912,
+    "name": "Cooper Island",
+    "latitude": 5.89005,
+    "longitude": -162.07905,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 5854913,
+    "name": "East Lagoon",
+    "latitude": 5.88111,
+    "longitude": -162.06611,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 5854914,
+    "name": "Eastern Island",
+    "latitude": 28.20784,
+    "longitude": -177.33015,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 5854920,
+    "name": "Home Island",
+    "latitude": 5.873,
+    "longitude": -162.09711,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 5854921,
+    "name": "Howland Island",
+    "latitude": 0.8133,
+    "longitude": -176.61801,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 5854925,
+    "name": "Jarvis Island",
+    "latitude": -0.37207,
+    "longitude": -159.99699,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 5854931,
+    "name": "Johnston Island",
+    "latitude": 16.72433,
+    "longitude": -169.53801,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7576395,
+    "name": "Navassa Island",
+    "latitude": 18.40281,
+    "longitude": -75.01321,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7576517,
+    "name": "Northwestern Hawaiian Islands Marine National Monument",
+    "latitude": 28.228,
+    "longitude": -177.388,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7576242,
+    "name": "Pacific Remote Islands Marine National Monument",
+    "latitude": 16.72,
+    "longitude": -169.503,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041682,
+    "name": "Peale Island",
+    "latitude": 19.31028,
+    "longitude": 166.62667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 5854961,
+    "name": "Sand Island",
+    "latitude": 16.74525,
+    "longitude": -169.50823,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4743759,
+    "name": "Serranilla Bank",
+    "latitude": 15.84907,
+    "longitude": -79.85962,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4743747,
+    "name": "Serranilla Beacon Cay",
+    "latitude": 15.8,
+    "longitude": -79.85,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4743748,
+    "name": "Serranilla East Cay",
+    "latitude": 15.85832,
+    "longitude": -79.74152,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7576518,
+    "name": "UNESCO Heritage Site Northwestern Hawaiian Islands",
+    "latitude": 28.228,
+    "longitude": -177.387,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7576684,
+    "name": "US Fish and Wildlife Service 1996",
+    "latitude": 28.227,
+    "longitude": -177.388,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7576578,
+    "name": "Wake Island",
+    "latitude": 19.28002,
+    "longitude": 166.64623,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 5854971,
+    "name": "West Lagoon",
+    "latitude": 5.88354,
+    "longitude": -162.09739,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4041688,
+    "name": "Wilkes Island",
+    "latitude": 19.29528,
+    "longitude": 166.60889,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  }
+]

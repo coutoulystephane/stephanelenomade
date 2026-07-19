@@ -1,0 +1,2532 @@
+[
+  {
+    "geonameId": 6690257,
+    "name": "Above Rocks",
+    "latitude": 18.10678,
+    "longitude": -76.87608,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491598,
+    "name": "Albion Mountain",
+    "latitude": 17.93865,
+    "longitude": -76.58116,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491591,
+    "name": "Alexandria Mountain",
+    "latitude": 18.33828,
+    "longitude": -78.01173,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491571,
+    "name": "Amity Mountain",
+    "latitude": 18.35,
+    "longitude": -78.08333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491556,
+    "name": "Annotto Bay",
+    "latitude": 18.2717,
+    "longitude": -76.76523,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491465,
+    "name": "Barbican",
+    "latitude": 18.45038,
+    "longitude": -78.10142,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491463,
+    "name": "Bare Bush Cay",
+    "latitude": 17.7559,
+    "longitude": -77.03179,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491456,
+    "name": "Barnstaple Mountain",
+    "latitude": 18.3238,
+    "longitude": -77.45734,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10400280,
+    "name": "Barrett Town",
+    "latitude": 18.51491,
+    "longitude": -77.80178,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491447,
+    "name": "Bath Mountain",
+    "latitude": 18.2,
+    "longitude": -78.03333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491421,
+    "name": "Bellevue Peak",
+    "latitude": 18.08333,
+    "longitude": -76.66667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491369,
+    "name": "Big Half Moon Cay",
+    "latitude": 17.73579,
+    "longitude": -77.08657,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491367,
+    "name": "Big Pelican Island",
+    "latitude": 17.80059,
+    "longitude": -77.01548,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491355,
+    "name": "Black River",
+    "latitude": 18.02636,
+    "longitude": -77.84873,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491356,
+    "name": "Blackness Mountain",
+    "latitude": 18.31667,
+    "longitude": -78.16667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491328,
+    "name": "Blue Castle Mountain",
+    "latitude": 18.36667,
+    "longitude": -78.1,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491315,
+    "name": "Blue Mountain Peak",
+    "latitude": 18.04652,
+    "longitude": -76.57883,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 9260787,
+    "name": "Blue Mountain, Big Level",
+    "latitude": 18.02747,
+    "longitude": -76.59647,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491293,
+    "name": "Bog Walk",
+    "latitude": 18.10205,
+    "longitude": -77.00541,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491295,
+    "name": "Bogue Islands",
+    "latitude": 18.45258,
+    "longitude": -77.94733,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491285,
+    "name": "Booby Cay",
+    "latitude": 18.33806,
+    "longitude": -78.34772,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491180,
+    "name": "Buddles Mountain",
+    "latitude": 18.18333,
+    "longitude": -78.01667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491166,
+    "name": "Bull Head",
+    "latitude": 18.156,
+    "longitude": -77.29368,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491161,
+    "name": "Bull Savannah",
+    "latitude": 17.88678,
+    "longitude": -77.59022,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491147,
+    "name": "Burnt Savannah",
+    "latitude": 18.33,
+    "longitude": -78.1,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491143,
+    "name": "Bush Cay",
+    "latitude": 18.49024,
+    "longitude": -77.64148,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491130,
+    "name": "Cabarita Island",
+    "latitude": 18.37409,
+    "longitude": -76.88431,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491091,
+    "name": "Candle Fly Peak",
+    "latitude": 18.03333,
+    "longitude": -76.53333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491081,
+    "name": "Carawina",
+    "latitude": 18.253,
+    "longitude": -78.08431,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491079,
+    "name": "Carawina Mountain",
+    "latitude": 18.21667,
+    "longitude": -78.03333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491078,
+    "name": "Carder Park",
+    "latitude": 18.16667,
+    "longitude": -76.435,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491076,
+    "name": "Careening Island",
+    "latitude": 17.88163,
+    "longitude": -77.08429,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491045,
+    "name": "Castle Mountain",
+    "latitude": 18.13578,
+    "longitude": -76.36076,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491039,
+    "name": "Catherines Peak",
+    "latitude": 18.0767,
+    "longitude": -76.70232,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490965,
+    "name": "Christmas Island",
+    "latitude": 18.06472,
+    "longitude": -76.28295,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490908,
+    "name": "Coffee Walk Mountain",
+    "latitude": 18.31667,
+    "longitude": -78.28333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490903,
+    "name": "Cold Spring Gap",
+    "latitude": 18.06667,
+    "longitude": -76.7,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490885,
+    "name": "Congo Mountain",
+    "latitude": 18.35,
+    "longitude": -78.06667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490880,
+    "name": "Constant Spring",
+    "latitude": 18.05078,
+    "longitude": -76.79372,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490864,
+    "name": "Content Gap",
+    "latitude": 18.05,
+    "longitude": -76.68333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490853,
+    "name": "Corn Pass Gap",
+    "latitude": 18.00257,
+    "longitude": -76.35152,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490847,
+    "name": "Cornwall Mountain",
+    "latitude": 18.28499,
+    "longitude": -77.99409,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490800,
+    "name": "Cromwell Mountain",
+    "latitude": 18.22936,
+    "longitude": -76.91458,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490779,
+    "name": "Cuna Cuna Gap",
+    "latitude": 17.99765,
+    "longitude": -76.37469,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490770,
+    "name": "Dallas Mountain",
+    "latitude": 17.98519,
+    "longitude": -76.71934,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490729,
+    "name": "Derby Peak",
+    "latitude": 18.01667,
+    "longitude": -76.7,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490716,
+    "name": "Discovery Bay",
+    "latitude": 18.45873,
+    "longitude": -77.39997,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7536091,
+    "name": "Dolphin Cove",
+    "latitude": 18.39855,
+    "longitude": -77.10335,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490688,
+    "name": "Dolphin Head",
+    "latitude": 18.37222,
+    "longitude": -78.16608,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490687,
+    "name": "Dolphin Island",
+    "latitude": 17.79254,
+    "longitude": -77.16566,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490682,
+    "name": "Donegal",
+    "latitude": 18.16148,
+    "longitude": -77.89244,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490657,
+    "name": "Drunkenmans Cay",
+    "latitude": 17.90284,
+    "longitude": -76.8454,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490633,
+    "name": "Duncans",
+    "latitude": 18.468,
+    "longitude": -77.53633,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6954881,
+    "name": "Dunn's River Falls",
+    "latitude": 18.41583,
+    "longitude": -77.13806,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490623,
+    "name": "Dunns River Falls",
+    "latitude": 18.41667,
+    "longitude": -77.13333,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490622,
+    "name": "Dunns River Falls and Beach",
+    "latitude": 18.41679,
+    "longitude": -77.13867,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490611,
+    "name": "East Peak",
+    "latitude": 18.04307,
+    "longitude": -76.57536,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490608,
+    "name": "Easy Mind Mountain",
+    "latitude": 17.96667,
+    "longitude": -76.63333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490606,
+    "name": "Eaton Mountain",
+    "latitude": 18.38333,
+    "longitude": -78.13333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8555724,
+    "name": "Emancipation Park",
+    "latitude": 18.00281,
+    "longitude": -76.78968,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490573,
+    "name": "Emerald Island",
+    "latitude": 17.86778,
+    "longitude": -76.31161,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490539,
+    "name": "Ewarton",
+    "latitude": 18.18333,
+    "longitude": -77.08536,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490520,
+    "name": "Falmouth",
+    "latitude": 18.49358,
+    "longitude": -77.65587,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490468,
+    "name": "Fontabelle Mountain",
+    "latitude": 18.35,
+    "longitude": -78.1,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490456,
+    "name": "Fort Island",
+    "latitude": 17.86667,
+    "longitude": -76.33333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490440,
+    "name": "Fox Gap",
+    "latitude": 18.13333,
+    "longitude": -76.73333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490432,
+    "name": "Frasers Mountain",
+    "latitude": 18.31667,
+    "longitude": -78.15,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490393,
+    "name": "Friendship Mountain",
+    "latitude": 18.36667,
+    "longitude": -77.46667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490361,
+    "name": "Georges Plain Mountain",
+    "latitude": 18.35,
+    "longitude": -78.11667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490320,
+    "name": "Gods Well",
+    "latitude": 17.8688,
+    "longitude": -77.3876,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490298,
+    "name": "Good Hope Mountain",
+    "latitude": 17.98333,
+    "longitude": -76.7,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490288,
+    "name": "Gossomer Peak",
+    "latitude": 18.00431,
+    "longitude": -76.40402,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490273,
+    "name": "Grange Hill",
+    "latitude": 18.31062,
+    "longitude": -78.18431,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490268,
+    "name": "Grants Mountain",
+    "latitude": 18.31667,
+    "longitude": -78.16667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490260,
+    "name": "Great Fall",
+    "latitude": 18.01667,
+    "longitude": -76.6,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490259,
+    "name": "Great Goat Island",
+    "latitude": 17.87023,
+    "longitude": -77.05095,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490240,
+    "name": "Green Castle Reservoir",
+    "latitude": 18.29528,
+    "longitude": -76.81837,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490231,
+    "name": "Green Island",
+    "latitude": 18.4,
+    "longitude": -78.28333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490184,
+    "name": "Gun Cay",
+    "latitude": 17.93018,
+    "longitude": -76.83556,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490173,
+    "name": "Hagley Gap",
+    "latitude": 18.01714,
+    "longitude": -76.61316,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490165,
+    "name": "Half Way Tree",
+    "latitude": 18.01248,
+    "longitude": -76.79928,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490149,
+    "name": "Hamshire Mountain",
+    "latitude": 18.23333,
+    "longitude": -76.96667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490133,
+    "name": "Hardwar Gap",
+    "latitude": 18.08134,
+    "longitude": -76.73031,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490121,
+    "name": "Harrison Mountain",
+    "latitude": 18.09662,
+    "longitude": -76.97927,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490106,
+    "name": "Hayes",
+    "latitude": 17.87569,
+    "longitude": -77.23711,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490083,
+    "name": "Hermitage Reservoir",
+    "latitude": 18.08351,
+    "longitude": -76.76834,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490069,
+    "name": "High Peak",
+    "latitude": 18.03333,
+    "longitude": -76.36667,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490053,
+    "name": "Hogsty Cay",
+    "latitude": 17.86667,
+    "longitude": -76.3,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490046,
+    "name": "Holly Mount",
+    "latitude": 18.20731,
+    "longitude": -77.11766,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 9260959,
+    "name": "Hollywell Park-Portland Parish",
+    "latitude": 18.0874,
+    "longitude": -76.72641,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 9260960,
+    "name": "Holywell Park-Saint Andrew Parish",
+    "latitude": 18.07794,
+    "longitude": -76.72577,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489992,
+    "name": "Hyde Hall Mountain",
+    "latitude": 18.35203,
+    "longitude": -77.47799,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489991,
+    "name": "Hyde Mountain",
+    "latitude": 18.2,
+    "longitude": -76.93333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489981,
+    "name": "Industry Mountain",
+    "latitude": 18.38333,
+    "longitude": -78.15,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11812069,
+    "name": "Ivan Cay",
+    "latitude": 17.91155,
+    "longitude": -76.79354,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489941,
+    "name": "Jamaica",
+    "latitude": 18.17717,
+    "longitude": -77.37122,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489925,
+    "name": "Joe Hill Peak",
+    "latitude": 18.09199,
+    "longitude": -76.41269,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489922,
+    "name": "John Crow Peak",
+    "latitude": 18.09716,
+    "longitude": -76.66988,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489898,
+    "name": "Juan de Bolas",
+    "latitude": 18.09476,
+    "longitude": -77.14736,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489893,
+    "name": "Juniper Gap",
+    "latitude": 18.11667,
+    "longitude": -76.73333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489864,
+    "name": "Kew Mountain",
+    "latitude": 18.38333,
+    "longitude": -78.13333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489854,
+    "name": "Kingston",
+    "latitude": 17.99702,
+    "longitude": -76.79358,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489836,
+    "name": "Knollis Mountain",
+    "latitude": 18.11667,
+    "longitude": -77.11667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489798,
+    "name": "Leith Hall Gap",
+    "latitude": 18.15422,
+    "longitude": -76.77635,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12607281,
+    "name": "Lemerick Mount",
+    "latitude": 18.07924,
+    "longitude": -76.71097,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489777,
+    "name": "Lilyroot Cay",
+    "latitude": 17.86667,
+    "longitude": -76.31667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489772,
+    "name": "Lime Cay",
+    "latitude": 17.91842,
+    "longitude": -76.81964,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489760,
+    "name": "Linstead",
+    "latitude": 18.13683,
+    "longitude": -77.03171,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489759,
+    "name": "Linton Park Mountain",
+    "latitude": 18.38052,
+    "longitude": -77.57396,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489758,
+    "name": "Lionel Town",
+    "latitude": 17.81007,
+    "longitude": -77.24061,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489756,
+    "name": "Litchfield Mountain",
+    "latitude": 18.25,
+    "longitude": -77.51667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489745,
+    "name": "Little Goat Island",
+    "latitude": 17.88541,
+    "longitude": -77.06726,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489744,
+    "name": "Little Half Moon Cay",
+    "latitude": 17.74008,
+    "longitude": -77.07883,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489735,
+    "name": "Little Pelican Island",
+    "latitude": 17.8057,
+    "longitude": -77.02003,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489709,
+    "name": "Lock Mountain",
+    "latitude": 18.21667,
+    "longitude": -78.03333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489690,
+    "name": "Long Island",
+    "latitude": 17.84742,
+    "longitude": -77.14788,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489689,
+    "name": "Long Mountain",
+    "latitude": 17.98057,
+    "longitude": -76.74255,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489686,
+    "name": "Long Pond Mountain",
+    "latitude": 18.37447,
+    "longitude": -77.53839,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489657,
+    "name": "Lucea",
+    "latitude": 18.45095,
+    "longitude": -78.17356,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489638,
+    "name": "Macca Sucker",
+    "latitude": 18.00941,
+    "longitude": -76.40992,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489618,
+    "name": "Maiden Cay",
+    "latitude": 17.90885,
+    "longitude": -76.81043,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489577,
+    "name": "Mandeville",
+    "latitude": 18.04168,
+    "longitude": -77.50714,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489576,
+    "name": "Mango Cay",
+    "latitude": 17.86667,
+    "longitude": -76.33333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12625475,
+    "name": "Markham Hill",
+    "latitude": 18.09088,
+    "longitude": -76.64995,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489523,
+    "name": "May Pen",
+    "latitude": 17.96454,
+    "longitude": -77.24515,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489521,
+    "name": "McGeanys Gap",
+    "latitude": 18.1,
+    "longitude": -76.56667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489506,
+    "name": "Meylersfield Mountain",
+    "latitude": 18.32,
+    "longitude": -78.2311,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489504,
+    "name": "Middle Cay",
+    "latitude": 17.01667,
+    "longitude": -77.78333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489503,
+    "name": "Middle Peak",
+    "latitude": 18.04775,
+    "longitude": -76.57851,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489490,
+    "name": "Mile Gully Mountain",
+    "latitude": 18.12267,
+    "longitude": -77.50472,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 9295720,
+    "name": "Mission River Nature Reserve",
+    "latitude": 18.19988,
+    "longitude": -77.26079,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489469,
+    "name": "Molynes Mountain",
+    "latitude": 18.03333,
+    "longitude": -76.85,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489466,
+    "name": "Mona Reservoir",
+    "latitude": 18.00533,
+    "longitude": -76.75485,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489460,
+    "name": "Montego Bay",
+    "latitude": 18.47116,
+    "longitude": -77.91883,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489456,
+    "name": "Montpelier",
+    "latitude": 18.08703,
+    "longitude": -76.92964,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489440,
+    "name": "Morant Bay",
+    "latitude": 17.88145,
+    "longitude": -76.40927,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489439,
+    "name": "Morant Cays",
+    "latitude": 17.4,
+    "longitude": -75.98333,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489432,
+    "name": "Morces Gap",
+    "latitude": 18.09345,
+    "longitude": -76.65571,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489420,
+    "name": "Mosquito Cove Mountain",
+    "latitude": 18.41254,
+    "longitude": -78.07682,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491610,
+    "name": "Mount Airy",
+    "latitude": 18.12535,
+    "longitude": -76.77711,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491524,
+    "name": "Mount Atlas",
+    "latitude": 18.06667,
+    "longitude": -76.86667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491383,
+    "name": "Mount Bethel",
+    "latitude": 18.26667,
+    "longitude": -76.95,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491067,
+    "name": "Mount Carmel",
+    "latitude": 18.23996,
+    "longitude": -78.01601,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491015,
+    "name": "Mount Cenis",
+    "latitude": 18.15817,
+    "longitude": -76.65076,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3491003,
+    "name": "Mount Charles",
+    "latitude": 18.18333,
+    "longitude": -78.03333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490803,
+    "name": "Mount Cressy",
+    "latitude": 18.13554,
+    "longitude": -76.76081,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490747,
+    "name": "Mount Dawson",
+    "latitude": 18.05765,
+    "longitude": -76.9234,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490731,
+    "name": "Mount Denham",
+    "latitude": 18.22577,
+    "longitude": -77.53462,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490723,
+    "name": "Mount Diablo",
+    "latitude": 18.21699,
+    "longitude": -77.09611,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12607280,
+    "name": "Mount Dorothy",
+    "latitude": 18.07955,
+    "longitude": -76.72367,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490617,
+    "name": "Mount Eagle",
+    "latitude": 17.93333,
+    "longitude": -77.65,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490595,
+    "name": "Mount Edgecombe",
+    "latitude": 18.13067,
+    "longitude": -78.00351,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490512,
+    "name": "Mount Felix",
+    "latitude": 18.08333,
+    "longitude": -77.11667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490395,
+    "name": "Mount Friendship",
+    "latitude": 18.25,
+    "longitude": -76.93333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490346,
+    "name": "Mount Gilead",
+    "latitude": 18.23333,
+    "longitude": -77.88333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490287,
+    "name": "Mount Gotham",
+    "latitude": 18.02668,
+    "longitude": -76.92372,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490282,
+    "name": "Mount Grace",
+    "latitude": 18.31667,
+    "longitude": -78.28333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490011,
+    "name": "Mount Horeb",
+    "latitude": 18.08407,
+    "longitude": -76.71413,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3490007,
+    "name": "Mount Hoyle",
+    "latitude": 18.06667,
+    "longitude": -77.11667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489982,
+    "name": "Mount Industry",
+    "latitude": 18.04139,
+    "longitude": -76.70376,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489805,
+    "name": "Mount Lebanon",
+    "latitude": 18.35626,
+    "longitude": -78.04492,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489428,
+    "name": "Mount Moreland",
+    "latitude": 18.06406,
+    "longitude": -76.93043,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489208,
+    "name": "Mount Olivet",
+    "latitude": 17.98333,
+    "longitude": -77.71667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489206,
+    "name": "Mount Olympus",
+    "latitude": 18.21667,
+    "longitude": -76.71667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489205,
+    "name": "Mount Olyphant",
+    "latitude": 17.94072,
+    "longitude": -77.40201,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489028,
+    "name": "Mount Pleasant",
+    "latitude": 18.39939,
+    "longitude": -78.16868,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489368,
+    "name": "Mount Pleasant Mountain",
+    "latitude": 18.25,
+    "longitude": -78.35,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488953,
+    "name": "Mount Prosperous",
+    "latitude": 18.06667,
+    "longitude": -76.9,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488897,
+    "name": "Mount Recovery",
+    "latitude": 18.09887,
+    "longitude": -76.89709,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488827,
+    "name": "Mount Ricketts",
+    "latitude": 18.2,
+    "longitude": -78.03333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488452,
+    "name": "Mount Spring",
+    "latitude": 18.3,
+    "longitude": -78.234,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488308,
+    "name": "Mount Telegraph",
+    "latitude": 18.15494,
+    "longitude": -76.75495,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3487945,
+    "name": "Mount Zion",
+    "latitude": 18.38333,
+    "longitude": -76.96667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489399,
+    "name": "Mounteagle Mountain",
+    "latitude": 18.31667,
+    "longitude": -78.13333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489339,
+    "name": "Nassau",
+    "latitude": 18.14993,
+    "longitude": -77.70664,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489335,
+    "name": "Navy Island",
+    "latitude": 18.18695,
+    "longitude": -76.45272,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489331,
+    "name": "Negril",
+    "latitude": 18.26844,
+    "longitude": -78.3481,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489305,
+    "name": "Newfound River Mountain",
+    "latitude": 18.33333,
+    "longitude": -78.26667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489299,
+    "name": "Newhall Mountain",
+    "latitude": 18.11216,
+    "longitude": -76.94541,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489283,
+    "name": "Newry Mountain",
+    "latitude": 18.11667,
+    "longitude": -76.83333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489258,
+    "name": "Northeast Cay",
+    "latitude": 17.41667,
+    "longitude": -75.98333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489237,
+    "name": "O’Connor Mountain",
+    "latitude": 18.18333,
+    "longitude": -77.11667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489239,
+    "name": "Ocho Rios",
+    "latitude": 18.4076,
+    "longitude": -77.10312,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489228,
+    "name": "Old George Mountain",
+    "latitude": 18.35,
+    "longitude": -78.06667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489227,
+    "name": "Old Harbour",
+    "latitude": 17.94144,
+    "longitude": -77.10898,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489225,
+    "name": "Old Harbour Bay",
+    "latitude": 17.90918,
+    "longitude": -77.09718,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489216,
+    "name": "Old Mountain",
+    "latitude": 18.26667,
+    "longitude": -78.01667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489204,
+    "name": "One Bush Cay",
+    "latitude": 18.47131,
+    "longitude": -77.41214,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489192,
+    "name": "Orange Bay Mountain",
+    "latitude": 18.33333,
+    "longitude": -78.28333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489187,
+    "name": "Orangefield Mountain",
+    "latitude": 18.13333,
+    "longitude": -77.11667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489128,
+    "name": "Paradise Mountain",
+    "latitude": 18.255,
+    "longitude": -78.022,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489123,
+    "name": "Park Mount",
+    "latitude": 18.13333,
+    "longitude": -76.43333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489106,
+    "name": "Paul Island Mountain",
+    "latitude": 18.28333,
+    "longitude": -78.236,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489105,
+    "name": "Paul Mountain",
+    "latitude": 18.04351,
+    "longitude": -77.02606,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489090,
+    "name": "Pedro Cays",
+    "latitude": 17,
+    "longitude": -77.83333,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489082,
+    "name": "Pellen Island",
+    "latitude": 18.175,
+    "longitude": -76.39042,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489049,
+    "name": "Pigeon Island",
+    "latitude": 17.79667,
+    "longitude": -77.07478,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489011,
+    "name": "Point Hill",
+    "latitude": 18.08988,
+    "longitude": -77.10759,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489005,
+    "name": "Port Antonio",
+    "latitude": 18.17889,
+    "longitude": -76.45215,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488985,
+    "name": "Port Maria",
+    "latitude": 18.36849,
+    "longitude": -76.88946,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488994,
+    "name": "Portland Cay",
+    "latitude": 17.71062,
+    "longitude": -77.10957,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488992,
+    "name": "Portland Gap",
+    "latitude": 18.04796,
+    "longitude": -76.59667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488981,
+    "name": "Portmore",
+    "latitude": 17.97102,
+    "longitude": -76.88691,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488977,
+    "name": "Porus",
+    "latitude": 18.03535,
+    "longitude": -77.41166,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488973,
+    "name": "Potosi Mountain",
+    "latitude": 18.34278,
+    "longitude": -78.06108,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488943,
+    "name": "Providence Mountain",
+    "latitude": 18.264,
+    "longitude": -78.358,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488926,
+    "name": "Quasheba Mountain",
+    "latitude": 18.38333,
+    "longitude": -78.15,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 9308152,
+    "name": "Quickstep",
+    "latitude": 18.25268,
+    "longitude": -77.7044,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488913,
+    "name": "Rackhams Cay",
+    "latitude": 17.9255,
+    "longitude": -76.83848,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488912,
+    "name": "Ralph Mountain",
+    "latitude": 18.222,
+    "longitude": -78.255,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488898,
+    "name": "Recess Gap",
+    "latitude": 18.13333,
+    "longitude": -76.6,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11818183,
+    "name": "Refuge Cay",
+    "latitude": 17.94598,
+    "longitude": -76.82146,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488868,
+    "name": "Rest and Be Thankful",
+    "latitude": 18.32605,
+    "longitude": -77.6272,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488850,
+    "name": "Retreat Mountain",
+    "latitude": 18.28333,
+    "longitude": -78.28333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488847,
+    "name": "Retrieve Mountain",
+    "latitude": 18.319,
+    "longitude": -78.246,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488750,
+    "name": "Rose Hill Gap",
+    "latitude": 18.1906,
+    "longitude": -76.67002,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488742,
+    "name": "Roslin Castle Mountain",
+    "latitude": 18.35581,
+    "longitude": -77.59933,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488729,
+    "name": "Rozelle Falls",
+    "latitude": 17.86667,
+    "longitude": -76.46667,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488726,
+    "name": "Runaway Bay",
+    "latitude": 18.45962,
+    "longitude": -77.3357,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488713,
+    "name": "Saint Ann’s Bay",
+    "latitude": 18.43581,
+    "longitude": -77.20098,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489825,
+    "name": "Saint George's Lake",
+    "latitude": 18.46178,
+    "longitude": -77.38083,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488668,
+    "name": "Salt Island",
+    "latitude": 17.83029,
+    "longitude": -77.13793,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488620,
+    "name": "Santa Cruz",
+    "latitude": 18.05336,
+    "longitude": -77.69836,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488616,
+    "name": "Santa Maria Island",
+    "latitude": 18.40982,
+    "longitude": -76.94734,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488613,
+    "name": "Savanna-la-Mar",
+    "latitude": 18.21895,
+    "longitude": -78.1332,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488538,
+    "name": "Silver Hill Gap",
+    "latitude": 18.08972,
+    "longitude": -76.6891,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488537,
+    "name": "Silver Hill Peak",
+    "latitude": 18.10492,
+    "longitude": -76.68055,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488529,
+    "name": "Sir Johns Peak",
+    "latitude": 18.09364,
+    "longitude": -76.64095,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488484,
+    "name": "South Cay",
+    "latitude": 17.88653,
+    "longitude": -76.83578,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488481,
+    "name": "South East Cay",
+    "latitude": 17.89728,
+    "longitude": -76.8008,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488482,
+    "name": "Southeast Cay",
+    "latitude": 17.38333,
+    "longitude": -76,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488473,
+    "name": "Southwest Cay",
+    "latitude": 17.38333,
+    "longitude": -76.01667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488465,
+    "name": "Spanish Town",
+    "latitude": 17.99107,
+    "longitude": -76.95742,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488457,
+    "name": "Spital Mountain",
+    "latitude": 18.3,
+    "longitude": -78.25,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488391,
+    "name": "Stoddards Peak",
+    "latitude": 18.03085,
+    "longitude": -76.53784,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488380,
+    "name": "Stony Hill",
+    "latitude": 18.07716,
+    "longitude": -76.79,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488369,
+    "name": "Stowe Mountain",
+    "latitude": 18.36667,
+    "longitude": -78.08333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488351,
+    "name": "Sugar Loaf Peak",
+    "latitude": 18.04053,
+    "longitude": -76.55866,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488329,
+    "name": "Sweet River Mountain",
+    "latitude": 18.21667,
+    "longitude": -78.03333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488321,
+    "name": "Table Mountain",
+    "latitude": 18.23333,
+    "longitude": -77.08333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488313,
+    "name": "Taylors Mount",
+    "latitude": 18.01667,
+    "longitude": -76.91667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3489824,
+    "name": "The Lake",
+    "latitude": 18.26667,
+    "longitude": -77.11667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488285,
+    "name": "Thetford Mountain",
+    "latitude": 18.15161,
+    "longitude": -77.11859,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488276,
+    "name": "Thompsons Gap",
+    "latitude": 18.14013,
+    "longitude": -76.6568,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488236,
+    "name": "Tower Hill",
+    "latitude": 18.0128,
+    "longitude": -76.65098,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488227,
+    "name": "Trafalgar Gap",
+    "latitude": 18.11667,
+    "longitude": -76.65,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488187,
+    "name": "Two Claw Peak",
+    "latitude": 18.08333,
+    "longitude": -76.53333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488146,
+    "name": "Vinery",
+    "latitude": 18.23647,
+    "longitude": -76.70346,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3488033,
+    "name": "Whittaker Mountain",
+    "latitude": 18.35,
+    "longitude": -78.23333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3487989,
+    "name": "Windsor Mountain",
+    "latitude": 18.35,
+    "longitude": -77.23333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3487985,
+    "name": "Woddel Mountain",
+    "latitude": 18.03333,
+    "longitude": -76.85,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3487976,
+    "name": "Woods Island",
+    "latitude": 18.1885,
+    "longitude": -76.43958,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3487963,
+    "name": "Yallahs",
+    "latitude": 17.8748,
+    "longitude": -76.56245,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  }
+]

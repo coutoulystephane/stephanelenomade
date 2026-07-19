@@ -1,0 +1,2242 @@
+[
+  {
+    "geonameId": 4032759,
+    "name": "‘Ata",
+    "latitude": -22.33333,
+    "longitude": -176.2,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032758,
+    "name": "‘Ata Island",
+    "latitude": -21.05639,
+    "longitude": -175.00216,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032723,
+    "name": "‘Eua",
+    "latitude": -21.37951,
+    "longitude": -174.93482,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032724,
+    "name": "‘Eua Iki Island",
+    "latitude": -21.11747,
+    "longitude": -174.9799,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032722,
+    "name": "‘Euakafa",
+    "latitude": -18.7588,
+    "longitude": -174.03603,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032721,
+    "name": "‘Eueiki",
+    "latitude": -18.76685,
+    "longitude": -174.01902,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032374,
+    "name": "‘O‘ua Island",
+    "latitude": -20.03835,
+    "longitude": -174.68133,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032384,
+    "name": "'Ohonua",
+    "latitude": -21.34135,
+    "longitude": -174.95656,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032382,
+    "name": "‘Olo‘ua Island",
+    "latitude": -18.67402,
+    "longitude": -173.957,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032381,
+    "name": "‘Oneata Island",
+    "latitude": -21.12846,
+    "longitude": -175.14593,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032379,
+    "name": "‘Onevai Island",
+    "latitude": -21.0865,
+    "longitude": -175.11473,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032376,
+    "name": "’Oto Island",
+    "latitude": -18.70166,
+    "longitude": -174.05622,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032375,
+    "name": "‘Otu Tolu Group",
+    "latitude": -20.35,
+    "longitude": -174.53333,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032257,
+    "name": "‘Uiha Island",
+    "latitude": -19.9,
+    "longitude": -174.41667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032254,
+    "name": "’Umuna Island",
+    "latitude": -18.68353,
+    "longitude": -173.92237,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032248,
+    "name": "’Utungake Island",
+    "latitude": -18.67766,
+    "longitude": -174.02446,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032752,
+    "name": "A’a Island",
+    "latitude": -18.7042,
+    "longitude": -174.04609,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032780,
+    "name": "Afo Island",
+    "latitude": -18.70678,
+    "longitude": -173.99722,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032772,
+    "name": "Alakipeau Island",
+    "latitude": -21.08777,
+    "longitude": -175.24354,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032767,
+    "name": "Alinonga Island",
+    "latitude": -18.70885,
+    "longitude": -174.07931,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032757,
+    "name": "Atata Island",
+    "latitude": -21.04856,
+    "longitude": -175.25379,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10121620,
+    "name": "Eua National Park",
+    "latitude": -21.40171,
+    "longitude": -174.90753,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032693,
+    "name": "Fa‘onelua Tropical Garden",
+    "latitude": -21.13711,
+    "longitude": -175.22623,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032720,
+    "name": "Fafa Island",
+    "latitude": -21.08734,
+    "longitude": -175.15863,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032719,
+    "name": "Fafina Island",
+    "latitude": -18.71524,
+    "longitude": -173.978,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032712,
+    "name": "Faioa Island",
+    "latitude": -18.66527,
+    "longitude": -173.92293,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032710,
+    "name": "Fakahiku Island",
+    "latitude": -20.05,
+    "longitude": -174.7,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032696,
+    "name": "Fangasito Island",
+    "latitude": -18.81922,
+    "longitude": -174.08084,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032694,
+    "name": "Fanuatapu",
+    "latitude": -18.7255,
+    "longitude": -173.98353,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032685,
+    "name": "Fatumanga Island",
+    "latitude": -18.79029,
+    "longitude": -174.17107,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032679,
+    "name": "Fetoa Island",
+    "latitude": -19.96512,
+    "longitude": -174.7257,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032678,
+    "name": "Fetokopunga",
+    "latitude": -20.30374,
+    "longitude": -174.53443,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032675,
+    "name": "Foa Island",
+    "latitude": -19.75,
+    "longitude": -174.3,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032674,
+    "name": "Foeata Island",
+    "latitude": -18.71666,
+    "longitude": -174.13669,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032673,
+    "name": "Foelifuka Island",
+    "latitude": -18.71641,
+    "longitude": -174.14266,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032672,
+    "name": "Fofoa",
+    "latitude": -18.70259,
+    "longitude": -174.1373,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032668,
+    "name": "Fono i Mukka Island",
+    "latitude": -19.93333,
+    "longitude": -174.7,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032669,
+    "name": "Fonoifua Island",
+    "latitude": -20.27838,
+    "longitude": -174.62884,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032661,
+    "name": "Fonua‘one‘one",
+    "latitude": -18.81816,
+    "longitude": -174.06245,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032666,
+    "name": "Fonuafuu",
+    "latitude": -18.78887,
+    "longitude": -173.95975,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032664,
+    "name": "Fonuaika Island",
+    "latitude": -20.11053,
+    "longitude": -174.70189,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032663,
+    "name": "Fonualai",
+    "latitude": -18.7279,
+    "longitude": -174.06489,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032662,
+    "name": "Fonualei",
+    "latitude": -18.01667,
+    "longitude": -174.31667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032660,
+    "name": "Fonuaunga",
+    "latitude": -18.76005,
+    "longitude": -173.95579,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032656,
+    "name": "Fotuha‘a Island",
+    "latitude": -19.81128,
+    "longitude": -174.72296,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032654,
+    "name": "Foua Island",
+    "latitude": -20,
+    "longitude": -174.75,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032651,
+    "name": "Fua‘amotu Island",
+    "latitude": -18.79448,
+    "longitude": -174.00627,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032649,
+    "name": "Fukave Island",
+    "latitude": -21.09287,
+    "longitude": -175.03082,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032646,
+    "name": "Ha‘afeva Island",
+    "latitude": -19.95,
+    "longitude": -174.71667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032638,
+    "name": "Ha‘ano Island",
+    "latitude": -19.67156,
+    "longitude": -174.27915,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032636,
+    "name": "Ha‘apai Group",
+    "latitude": -19.78333,
+    "longitude": -174.45,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13527027,
+    "name": "Ha'atu'a",
+    "latitude": -21.37662,
+    "longitude": -174.95465,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032629,
+    "name": "Hakau‘ata Island",
+    "latitude": -19.84537,
+    "longitude": -174.51986,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032628,
+    "name": "Hakaufusi",
+    "latitude": -19.01684,
+    "longitude": -174.00945,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8528875,
+    "name": "Hakautu’utu’u Island",
+    "latitude": -15.93397,
+    "longitude": -173.74349,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032619,
+    "name": "Hihifo",
+    "latitude": -15.9544,
+    "longitude": -173.79616,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032600,
+    "name": "Hunga",
+    "latitude": -18.67908,
+    "longitude": -174.11831,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032601,
+    "name": "Hunga Ha‘apai Island",
+    "latitude": -20.54708,
+    "longitude": -175.40411,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032598,
+    "name": "Hunga Tonga Island",
+    "latitude": -20.53561,
+    "longitude": -175.38197,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032599,
+    "name": "Hunganga Island",
+    "latitude": -15.95357,
+    "longitude": -173.80337,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032229,
+    "name": "ʻUtu Vavaʻu",
+    "latitude": -18.62088,
+    "longitude": -173.9649,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032589,
+    "name": "Kaihifahifa",
+    "latitude": -18.81124,
+    "longitude": -173.99773,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032585,
+    "name": "Kalau",
+    "latitude": -21.47008,
+    "longitude": -174.95406,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032586,
+    "name": "Kalau Island",
+    "latitude": -18.69219,
+    "longitude": -174.13549,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032584,
+    "name": "Kanatea Island",
+    "latitude": -21.1654,
+    "longitude": -175.20915,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032582,
+    "name": "Kao Island",
+    "latitude": -19.66994,
+    "longitude": -175.01456,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032580,
+    "name": "Kapa Island",
+    "latitude": -18.70797,
+    "longitude": -174.02812,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032579,
+    "name": "Katafanga",
+    "latitude": -18.73869,
+    "longitude": -174.0409,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032576,
+    "name": "Kelefesia Island",
+    "latitude": -20.50337,
+    "longitude": -174.73609,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032575,
+    "name": "Kenutu Island",
+    "latitude": -18.69682,
+    "longitude": -173.92512,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032574,
+    "name": "Kiato",
+    "latitude": -18.65411,
+    "longitude": -173.94106,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032572,
+    "name": "Kito Island",
+    "latitude": -19.99552,
+    "longitude": -174.78673,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032571,
+    "name": "Kitu Island",
+    "latitude": -18.68479,
+    "longitude": -174.06652,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032567,
+    "name": "Kolo Island",
+    "latitude": -19.95,
+    "longitude": -174.7,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032569,
+    "name": "Koloa Island",
+    "latitude": -18.64578,
+    "longitude": -173.92724,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032565,
+    "name": "Kolotahi Island",
+    "latitude": -18.63943,
+    "longitude": -174.00926,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032562,
+    "name": "Kongaloto Island",
+    "latitude": -20.05,
+    "longitude": -174.7,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032473,
+    "name": "Kotomaka",
+    "latitude": -20.25454,
+    "longitude": -174.80023,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032559,
+    "name": "Kotu Group",
+    "latitude": -20,
+    "longitude": -174.75,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032558,
+    "name": "Kotu Island",
+    "latitude": -19.95,
+    "longitude": -174.8,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032556,
+    "name": "Kulo Island",
+    "latitude": -18.71731,
+    "longitude": -174.09807,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032545,
+    "name": "Langakali",
+    "latitude": -18.75,
+    "longitude": -174.1,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032544,
+    "name": "Langitau",
+    "latitude": -18.7268,
+    "longitude": -174.08712,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032542,
+    "name": "Lape Island",
+    "latitude": -18.71967,
+    "longitude": -174.0827,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032541,
+    "name": "Late",
+    "latitude": -18.80287,
+    "longitude": -174.64609,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2132236,
+    "name": "Lateiki",
+    "latitude": -19.181,
+    "longitude": -174.874,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032538,
+    "name": "Lautala",
+    "latitude": -18.72389,
+    "longitude": -173.99357,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032533,
+    "name": "Lekeleka Island",
+    "latitude": -20.06742,
+    "longitude": -174.60687,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032528,
+    "name": "Lifuka Island",
+    "latitude": -19.82041,
+    "longitude": -174.34813,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032526,
+    "name": "Limu Island",
+    "latitude": -20.02126,
+    "longitude": -174.45783,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032523,
+    "name": "Lofanga Island",
+    "latitude": -19.82594,
+    "longitude": -174.55147,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032521,
+    "name": "Lolo",
+    "latitude": -18.70572,
+    "longitude": -173.92559,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032514,
+    "name": "Lotuma Island",
+    "latitude": -18.66125,
+    "longitude": -174.00923,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032648,
+    "name": "Lua a Fuleheu",
+    "latitude": -18.81504,
+    "longitude": -174.02632,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032620,
+    "name": "Lua Hiapo",
+    "latitude": -18.79935,
+    "longitude": -174.04026,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032522,
+    "name": "Lua Loli",
+    "latitude": -18.83758,
+    "longitude": -174.00996,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032258,
+    "name": "Lua Ui",
+    "latitude": -18.77948,
+    "longitude": -174.05187,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032255,
+    "name": "Lua Ui Vaha",
+    "latitude": -18.8,
+    "longitude": -174.05,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032508,
+    "name": "Lua’ofa Island",
+    "latitude": -18.71885,
+    "longitude": -174.05496,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032513,
+    "name": "Luafatu Island",
+    "latitude": -18.67105,
+    "longitude": -174.07429,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032512,
+    "name": "Luahoko Island",
+    "latitude": -19.67198,
+    "longitude": -174.39229,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032581,
+    "name": "Luakapa Island",
+    "latitude": -18.69243,
+    "longitude": -174.04528,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032511,
+    "name": "Luamoko Island",
+    "latitude": -18.68381,
+    "longitude": -174.10429,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032510,
+    "name": "Luanamo Island",
+    "latitude": -20.02114,
+    "longitude": -174.71682,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032509,
+    "name": "Luangahu Island",
+    "latitude": -19.87143,
+    "longitude": -174.47632,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032507,
+    "name": "Luatafito Island",
+    "latitude": -18.82462,
+    "longitude": -173.97439,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032504,
+    "name": "Mafana Island",
+    "latitude": -18.68384,
+    "longitude": -173.9548,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032501,
+    "name": "Makaha‘a Island",
+    "latitude": -21.11473,
+    "longitude": -175.1543,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032498,
+    "name": "Mala Island",
+    "latitude": -18.69117,
+    "longitude": -174.02086,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032495,
+    "name": "Malinoa Island",
+    "latitude": -21.03704,
+    "longitude": -175.12894,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032491,
+    "name": "Mango Iki",
+    "latitude": -20.32221,
+    "longitude": -174.73197,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032490,
+    "name": "Mango Island",
+    "latitude": -20.32777,
+    "longitude": -174.71146,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032489,
+    "name": "Manima Island",
+    "latitude": -21.12494,
+    "longitude": -175.14846,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032488,
+    "name": "Maninita Island",
+    "latitude": -18.85756,
+    "longitude": -173.99559,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032481,
+    "name": "Mata‘aho Island",
+    "latitude": -21.16142,
+    "longitude": -175.15413,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032469,
+    "name": "Matatoa",
+    "latitude": -18.64998,
+    "longitude": -174.0172,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8528750,
+    "name": "Matu’anua Island",
+    "latitude": -18.57147,
+    "longitude": -173.95364,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032464,
+    "name": "Matuku Island",
+    "latitude": -19.95943,
+    "longitude": -174.74551,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032462,
+    "name": "Meama",
+    "latitude": -19.75584,
+    "longitude": -174.56374,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032461,
+    "name": "Meama Island",
+    "latitude": -20.26847,
+    "longitude": -174.64638,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032447,
+    "name": "Mo‘unga‘one Island",
+    "latitude": -19.63333,
+    "longitude": -174.48333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032446,
+    "name": "Mo‘ungatapu Island",
+    "latitude": -21.18158,
+    "longitude": -175.1404,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032455,
+    "name": "Mokotau",
+    "latitude": -21.08333,
+    "longitude": -175.11667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032451,
+    "name": "Monuafe Island",
+    "latitude": -21.10478,
+    "longitude": -175.14023,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032550,
+    "name": "Motu Lahi",
+    "latitude": -15.59993,
+    "longitude": -175.63851,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032516,
+    "name": "Motu Loto",
+    "latitude": -20.24743,
+    "longitude": -174.80124,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032454,
+    "name": "Motu Molemole",
+    "latitude": -15.59404,
+    "longitude": -175.64969,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032332,
+    "name": "Motu Si’i",
+    "latitude": -15.6067,
+    "longitude": -175.6522,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032315,
+    "name": "Motu Tapu",
+    "latitude": -21.09175,
+    "longitude": -175.05712,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032782,
+    "name": "Motu’a’ali",
+    "latitude": -15.60114,
+    "longitude": -175.65447,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032445,
+    "name": "Mounu",
+    "latitude": -18.75118,
+    "longitude": -174.06796,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8529134,
+    "name": "Mounu Island",
+    "latitude": -21.16928,
+    "longitude": -175.1267,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032429,
+    "name": "Mu‘omu‘a",
+    "latitude": -18.79338,
+    "longitude": -174.11047,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032440,
+    "name": "Muifuiva",
+    "latitude": -20.26901,
+    "longitude": -174.81767,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032420,
+    "name": "Neiafu",
+    "latitude": -18.65144,
+    "longitude": -173.98354,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032417,
+    "name": "Ngau",
+    "latitude": -18.75665,
+    "longitude": -174.00876,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032416,
+    "name": "Ngofonua Island",
+    "latitude": -21.18942,
+    "longitude": -175.16329,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032415,
+    "name": "Niniva Island",
+    "latitude": -19.76832,
+    "longitude": -174.62352,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032414,
+    "name": "Niuafo‘ou",
+    "latitude": -15.60156,
+    "longitude": -175.63656,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7668009,
+    "name": "Niuas",
+    "latitude": -15.60103,
+    "longitude": -175.6469,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8410941,
+    "name": "Niuatoputapu Group",
+    "latitude": -15.90752,
+    "longitude": -173.76423,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032413,
+    "name": "Niuatoputapu Island",
+    "latitude": -15.95618,
+    "longitude": -173.77334,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032408,
+    "name": "Nomuka",
+    "latitude": -20.2537,
+    "longitude": -174.79096,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032410,
+    "name": "Nomuka Group",
+    "latitude": -20.33333,
+    "longitude": -174.75,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032409,
+    "name": "Nomuka Iki",
+    "latitude": -20.28334,
+    "longitude": -174.80452,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032405,
+    "name": "Nuapapu Island",
+    "latitude": -18.69286,
+    "longitude": -174.07486,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032404,
+    "name": "Nuapuli",
+    "latitude": -18.64998,
+    "longitude": -174.0172,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11055007,
+    "name": "Nuku",
+    "latitude": -20.47762,
+    "longitude": -174.76029,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032399,
+    "name": "Nuku Island",
+    "latitude": -21.08774,
+    "longitude": -175.02251,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032398,
+    "name": "Nuku Islands",
+    "latitude": -20.48333,
+    "longitude": -174.76667,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032402,
+    "name": "Nuku‘alofa",
+    "latitude": -21.13683,
+    "longitude": -175.20114,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032401,
+    "name": "Nukufaiau",
+    "latitude": -20.29541,
+    "longitude": -174.69498,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032397,
+    "name": "Nukulahanga",
+    "latitude": -18.72437,
+    "longitude": -173.98991,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032396,
+    "name": "Nukulai Island",
+    "latitude": -20.05071,
+    "longitude": -174.73424,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032393,
+    "name": "Nukunamu Island",
+    "latitude": -19.71451,
+    "longitude": -174.27358,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032391,
+    "name": "Nukunukumotu Island",
+    "latitude": -21.14458,
+    "longitude": -175.14511,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032390,
+    "name": "Nukupule Island",
+    "latitude": -19.77943,
+    "longitude": -174.53671,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8528818,
+    "name": "Nukuseilala",
+    "latitude": -15.96378,
+    "longitude": -173.76092,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032389,
+    "name": "Nukutavake",
+    "latitude": -20.33333,
+    "longitude": -174.51667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032388,
+    "name": "Nukutula Island",
+    "latitude": -20.2528,
+    "longitude": -174.69015,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032387,
+    "name": "Ofolanga Island",
+    "latitude": -19.6,
+    "longitude": -174.45,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032386,
+    "name": "Ofu Island",
+    "latitude": -18.70128,
+    "longitude": -173.96102,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032383,
+    "name": "Okoa Island",
+    "latitude": -18.65446,
+    "longitude": -173.94907,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032378,
+    "name": "Onevao",
+    "latitude": -21.09167,
+    "longitude": -175.09868,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032377,
+    "name": "Ono Iki Island",
+    "latitude": -19.96667,
+    "longitude": -174.7,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032373,
+    "name": "Ovaka Island",
+    "latitude": -18.74346,
+    "longitude": -174.09993,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032372,
+    "name": "Ovalau",
+    "latitude": -18.75047,
+    "longitude": -174.0779,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032369,
+    "name": "Pangai",
+    "latitude": -19.81468,
+    "longitude": -174.35423,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032366,
+    "name": "Pangaimotu Island",
+    "latitude": -21.12414,
+    "longitude": -175.15893,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032365,
+    "name": "Pau",
+    "latitude": -18.75,
+    "longitude": -174.01667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032361,
+    "name": "Pepea Island",
+    "latitude": -20.05,
+    "longitude": -174.71667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032358,
+    "name": "Polo‘a Island",
+    "latitude": -21.09065,
+    "longitude": -175.24333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8528756,
+    "name": "Pousini Island",
+    "latitude": -18.61186,
+    "longitude": -173.93362,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032343,
+    "name": "Puho’ava",
+    "latitude": -20.2471,
+    "longitude": -174.78833,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032344,
+    "name": "Putuputua Island",
+    "latitude": -19.91112,
+    "longitude": -174.75521,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032334,
+    "name": "Selila",
+    "latitude": -19.67529,
+    "longitude": -174.28654,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032330,
+    "name": "Sisia",
+    "latitude": -18.73049,
+    "longitude": -174.05197,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032325,
+    "name": "Tafahi Island",
+    "latitude": -15.8516,
+    "longitude": -173.74688,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032324,
+    "name": "Tafisi Island",
+    "latitude": -20.26039,
+    "longitude": -174.78918,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8528817,
+    "name": "Tafuna",
+    "latitude": -15.96298,
+    "longitude": -173.76337,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032322,
+    "name": "Talakite Island",
+    "latitude": -21.15953,
+    "longitude": -175.15528,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032319,
+    "name": "Tanoa Island",
+    "latitude": -20.29478,
+    "longitude": -174.63369,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032318,
+    "name": "Tapana Island",
+    "latitude": -18.71432,
+    "longitude": -173.99298,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032314,
+    "name": "Tatafa Island",
+    "latitude": -19.88333,
+    "longitude": -174.41667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11055008,
+    "name": "Tau",
+    "latitude": -20.48596,
+    "longitude": -174.75999,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032313,
+    "name": "Tau Island",
+    "latitude": -21.02138,
+    "longitude": -175.00525,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032312,
+    "name": "Taula Island",
+    "latitude": -18.84761,
+    "longitude": -174.01088,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032311,
+    "name": "Taunga",
+    "latitude": -18.7443,
+    "longitude": -174.01082,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032309,
+    "name": "Tauta",
+    "latitude": -18.74519,
+    "longitude": -174.00018,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8528816,
+    "name": "Tavili",
+    "latitude": -15.95751,
+    "longitude": -173.76576,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032308,
+    "name": "Teaupa Island",
+    "latitude": -19.97528,
+    "longitude": -174.73842,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032302,
+    "name": "Telekiha‘apai",
+    "latitude": -20.34756,
+    "longitude": -174.52104,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032301,
+    "name": "Telekitonga Island",
+    "latitude": -20.39609,
+    "longitude": -174.53003,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032300,
+    "name": "Telekivava‘u Island",
+    "latitude": -20.31473,
+    "longitude": -174.52147,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032298,
+    "name": "Tengi Laho",
+    "latitude": -20.25261,
+    "longitude": -174.79812,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032296,
+    "name": "Tofanga Island",
+    "latitude": -19.95395,
+    "longitude": -174.45959,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032294,
+    "name": "Tofua Island",
+    "latitude": -19.74306,
+    "longitude": -175.06685,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032291,
+    "name": "Toka Vevili",
+    "latitude": -20.3,
+    "longitude": -174.8,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032290,
+    "name": "Toketoke Island",
+    "latitude": -21.06361,
+    "longitude": -175.29429,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032287,
+    "name": "Toku Island",
+    "latitude": -18.16667,
+    "longitude": -174.18333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032286,
+    "name": "Tokulu Island",
+    "latitude": -20.10188,
+    "longitude": -174.79064,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032282,
+    "name": "Tonga Islands",
+    "latitude": -20,
+    "longitude": -175,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032277,
+    "name": "Tongatapu",
+    "latitude": -21.17374,
+    "longitude": -175.18061,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032278,
+    "name": "Tongatapu Group",
+    "latitude": -21.16667,
+    "longitude": -175.16667,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032275,
+    "name": "Tonumeia Island",
+    "latitude": -20.45973,
+    "longitude": -174.76094,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11055165,
+    "name": "Totokafonua",
+    "latitude": -18.75825,
+    "longitude": -174.12437,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11055166,
+    "name": "Totokamaka",
+    "latitude": -18.76535,
+    "longitude": -174.12373,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032263,
+    "name": "Tu‘ungasika Island",
+    "latitude": -18.65972,
+    "longitude": -174.0688,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11055167,
+    "name": "Tueʻia",
+    "latitude": -18.65952,
+    "longitude": -173.95226,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032271,
+    "name": "Tufaka Island",
+    "latitude": -21.06699,
+    "longitude": -175.25383,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11055168,
+    "name": "Tuʻanukulau",
+    "latitude": -18.71935,
+    "longitude": -173.98787,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032268,
+    "name": "Tulie Island",
+    "latitude": -18.64206,
+    "longitude": -173.94425,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032267,
+    "name": "Tungua Island",
+    "latitude": -20.01667,
+    "longitude": -174.76667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032260,
+    "name": "Uanukuhahaki Island",
+    "latitude": -19.95867,
+    "longitude": -174.46577,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032259,
+    "name": "Uanukuhihifu Island",
+    "latitude": -19.96613,
+    "longitude": -174.4825,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11055169,
+    "name": "Uatoloa",
+    "latitude": -18.63873,
+    "longitude": -173.91904,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032253,
+    "name": "Uoleva Island",
+    "latitude": -19.85,
+    "longitude": -174.4,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032238,
+    "name": "Vaka‘eitu Island",
+    "latitude": -18.72519,
+    "longitude": -174.10193,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032237,
+    "name": "Valetoakakau Island",
+    "latitude": -18.69133,
+    "longitude": -174.13061,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032236,
+    "name": "Valetoamamaha Island",
+    "latitude": -18.68943,
+    "longitude": -174.12866,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032230,
+    "name": "Vava‘u",
+    "latitude": -18.66088,
+    "longitude": -173.99576,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11055005,
+    "name": "Velitoa Hahake",
+    "latitude": -21.08483,
+    "longitude": -175.13394,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11055004,
+    "name": "Velitoa Hihifo",
+    "latitude": -21.08336,
+    "longitude": -175.1382,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 4032227,
+    "name": "Velitoa Island",
+    "latitude": -21.08333,
+    "longitude": -175.13333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  }
+]

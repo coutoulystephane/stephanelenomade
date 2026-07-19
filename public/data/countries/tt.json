@@ -1,0 +1,1252 @@
+[
+  {
+    "geonameId": 3575051,
+    "name": "Arima",
+    "latitude": 10.63737,
+    "longitude": -61.28228,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3575039,
+    "name": "Arouca",
+    "latitude": 10.62877,
+    "longitude": -61.33487,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574963,
+    "name": "Blue Basin Falls",
+    "latitude": 10.73435,
+    "longitude": -61.53935,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574946,
+    "name": "Booby Island",
+    "latitude": 11.32169,
+    "longitude": -60.55847,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574920,
+    "name": "Brothers Rocks",
+    "latitude": 11.31667,
+    "longitude": -60.61667,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574909,
+    "name": "Cabasterre",
+    "latitude": 10.73097,
+    "longitude": -61.35585,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574907,
+    "name": "Cabresse Island",
+    "latitude": 10.70097,
+    "longitude": -61.75546,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574904,
+    "name": "Cachipa",
+    "latitude": 10.79835,
+    "longitude": -61.18707,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574896,
+    "name": "Caledonia",
+    "latitude": 11.23333,
+    "longitude": -60.66667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574882,
+    "name": "Cangrejal",
+    "latitude": 10.68333,
+    "longitude": -61.3,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574841,
+    "name": "Carrera Islet",
+    "latitude": 10.66102,
+    "longitude": -61.62581,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574702,
+    "name": "Cerro de las Cuevas y Maracas",
+    "latitude": 10.73333,
+    "longitude": -61.43333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573514,
+    "name": "Chacachacare",
+    "latitude": 10.68845,
+    "longitude": -61.75462,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574810,
+    "name": "Chaguanas",
+    "latitude": 10.51667,
+    "longitude": -61.41667,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574808,
+    "name": "Chaguaramal",
+    "latitude": 10.70634,
+    "longitude": -61.24697,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574773,
+    "name": "Claxton Bay",
+    "latitude": 10.36637,
+    "longitude": -61.45985,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574770,
+    "name": "Clump Island",
+    "latitude": 11.31469,
+    "longitude": -60.62423,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574724,
+    "name": "Couva",
+    "latitude": 10.42248,
+    "longitude": -61.46748,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8709803,
+    "name": "Craig",
+    "latitude": 10.65939,
+    "longitude": -61.59977,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574710,
+    "name": "Cronstadt Islet",
+    "latitude": 10.65688,
+    "longitude": -61.63202,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574690,
+    "name": "Cumberland Hill",
+    "latitude": 10.70067,
+    "longitude": -61.53545,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574637,
+    "name": "Diego Islands",
+    "latitude": 10.65766,
+    "longitude": -61.62984,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574636,
+    "name": "Diego Martin",
+    "latitude": 10.72081,
+    "longitude": -61.56616,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8709996,
+    "name": "Du Buisson Park",
+    "latitude": 10.26528,
+    "longitude": -61.43408,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574611,
+    "name": "East Island",
+    "latitude": 10.78274,
+    "longitude": -61.41651,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574606,
+    "name": "Edith Falls",
+    "latitude": 10.72843,
+    "longitude": -61.62594,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3575045,
+    "name": "El Cerro del Aripo",
+    "latitude": 10.72361,
+    "longitude": -61.24483,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574015,
+    "name": "El Cerro del Oropuche",
+    "latitude": 10.76312,
+    "longitude": -61.15726,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574598,
+    "name": "El Tucuche",
+    "latitude": 10.7393,
+    "longitude": -61.41057,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574570,
+    "name": "Five Islands",
+    "latitude": 10.65817,
+    "longitude": -61.59921,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574568,
+    "name": "Flagstaff",
+    "latitude": 11.31667,
+    "longitude": -60.53333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574525,
+    "name": "Gaspar Grande",
+    "latitude": 10.66464,
+    "longitude": -61.65679,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574524,
+    "name": "Gasparillo",
+    "latitude": 10.31704,
+    "longitude": -61.42603,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574523,
+    "name": "Gasparillo Island",
+    "latitude": 10.67625,
+    "longitude": -61.65334,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574516,
+    "name": "Goat Island",
+    "latitude": 11.30063,
+    "longitude": -60.51908,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8710002,
+    "name": "Guaracara Park",
+    "latitude": 10.30847,
+    "longitude": -61.45306,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574404,
+    "name": "Hollis Reservoir",
+    "latitude": 10.69478,
+    "longitude": -61.19227,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574394,
+    "name": "Huevos",
+    "latitude": 10.69631,
+    "longitude": -61.71463,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8709939,
+    "name": "Islet-a-bateau",
+    "latitude": 10.71801,
+    "longitude": -60.98636,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8231890,
+    "name": "James Park",
+    "latitude": 11.18142,
+    "longitude": -60.73403,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574281,
+    "name": "L’Islette",
+    "latitude": 10.82125,
+    "longitude": -61.12835,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8710105,
+    "name": "Lagon Bouffe",
+    "latitude": 10.12092,
+    "longitude": -61.10741,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574309,
+    "name": "Laventille",
+    "latitude": 10.64917,
+    "longitude": -61.49889,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574301,
+    "name": "Le Chapeau",
+    "latitude": 10.70684,
+    "longitude": -61.67579,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574299,
+    "name": "Lenagan",
+    "latitude": 10.65919,
+    "longitude": -61.60096,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574291,
+    "name": "Les Boquets Islands",
+    "latitude": 10.76065,
+    "longitude": -61.49576,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574275,
+    "name": "Little Tobago",
+    "latitude": 11.29916,
+    "longitude": -60.50139,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574268,
+    "name": "Long Island",
+    "latitude": 10.77347,
+    "longitude": -61.44631,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574267,
+    "name": "Long Mountain",
+    "latitude": 10.40215,
+    "longitude": -61.30233,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574254,
+    "name": "Louis d’Or",
+    "latitude": 11.24813,
+    "longitude": -60.55859,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574241,
+    "name": "Macaw Island",
+    "latitude": 10.39527,
+    "longitude": -61.02341,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574220,
+    "name": "Majorca Island",
+    "latitude": 10.43321,
+    "longitude": -61.03745,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574209,
+    "name": "Manantial",
+    "latitude": 10.81667,
+    "longitude": -61.03333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574207,
+    "name": "Manati Island",
+    "latitude": 10.41667,
+    "longitude": -61.03333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574194,
+    "name": "Marabella",
+    "latitude": 10.30618,
+    "longitude": -61.44671,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574188,
+    "name": "Maracas Falls",
+    "latitude": 10.73333,
+    "longitude": -61.4,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574182,
+    "name": "Marble Island",
+    "latitude": 11.36116,
+    "longitude": -60.52559,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574131,
+    "name": "Minorca Island",
+    "latitude": 10.4252,
+    "longitude": -61.03506,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574116,
+    "name": "Mon Repos",
+    "latitude": 10.27979,
+    "longitude": -61.4459,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574119,
+    "name": "Monos",
+    "latitude": 10.69315,
+    "longitude": -61.68604,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3575066,
+    "name": "Morne Ananas",
+    "latitude": 10.79841,
+    "longitude": -61.13378,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574967,
+    "name": "Morne Bleu",
+    "latitude": 10.72644,
+    "longitude": -61.28882,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574830,
+    "name": "Morne Catherine",
+    "latitude": 10.71268,
+    "longitude": -61.63331,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574803,
+    "name": "Morne Chaleur",
+    "latitude": 10.73414,
+    "longitude": -61.51279,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574711,
+    "name": "Morne Croix",
+    "latitude": 10.68683,
+    "longitude": -61.16611,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574021,
+    "name": "Morne d’Or",
+    "latitude": 11.24649,
+    "longitude": -60.63479,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574631,
+    "name": "Morne Distree",
+    "latitude": 10.70688,
+    "longitude": -61.58526,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574526,
+    "name": "Morne Gasparee",
+    "latitude": 10.75876,
+    "longitude": -61.31855,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574423,
+    "name": "Morne Harrison",
+    "latitude": 10.7,
+    "longitude": -61.65,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574371,
+    "name": "Morne Jean",
+    "latitude": 10.73077,
+    "longitude": -61.58376,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574348,
+    "name": "Morne La Croix",
+    "latitude": 10.74972,
+    "longitude": -61.3227,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574218,
+    "name": "Morne Mal d’Estomac",
+    "latitude": 10.73938,
+    "longitude": -61.51662,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573992,
+    "name": "Morne Paoui",
+    "latitude": 10.8,
+    "longitude": -61.06667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573927,
+    "name": "Morne Pierre",
+    "latitude": 10.73461,
+    "longitude": -61.59284,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573888,
+    "name": "Morne Poui",
+    "latitude": 10.70029,
+    "longitude": -61.21358,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573762,
+    "name": "Morne Saint Michel",
+    "latitude": 10.79751,
+    "longitude": -61.16521,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574633,
+    "name": "Mount Dillon",
+    "latitude": 11.26382,
+    "longitude": -60.69357,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574424,
+    "name": "Mount Harris",
+    "latitude": 10.46667,
+    "longitude": -61.11667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573644,
+    "name": "Mount Tabor",
+    "latitude": 10.67296,
+    "longitude": -61.3971,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574062,
+    "name": "Naranja",
+    "latitude": 10.73333,
+    "longitude": -61.4,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574042,
+    "name": "Nelson",
+    "latitude": 10.6562,
+    "longitude": -61.60066,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8709948,
+    "name": "Nelson Mandela Park",
+    "latitude": 10.66893,
+    "longitude": -61.52492,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574023,
+    "name": "Omega Island",
+    "latitude": 10.40353,
+    "longitude": -61.02793,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573989,
+    "name": "Paradise",
+    "latitude": 10.65298,
+    "longitude": -61.36298,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573982,
+    "name": "Paria Falls",
+    "latitude": 10.76667,
+    "longitude": -61.25,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573969,
+    "name": "Pelican",
+    "latitude": 10.65901,
+    "longitude": -61.59656,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574367,
+    "name": "Peña de Juangalo",
+    "latitude": 10.71667,
+    "longitude": -61.38333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573965,
+    "name": "Peñal",
+    "latitude": 10.16667,
+    "longitude": -61.46667,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573935,
+    "name": "Petit Valley",
+    "latitude": 10.69974,
+    "longitude": -61.54717,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573928,
+    "name": "Piedra Blanca",
+    "latitude": 10.75,
+    "longitude": -61.46667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573922,
+    "name": "Pigeon Peak",
+    "latitude": 11.3,
+    "longitude": -60.55,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10626563,
+    "name": "Pigeon Point Heritage Park",
+    "latitude": 11.17224,
+    "longitude": -60.83877,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573899,
+    "name": "Point Fortin",
+    "latitude": 10.17411,
+    "longitude": -61.68407,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573890,
+    "name": "Port of Spain",
+    "latitude": 10.66668,
+    "longitude": -61.51889,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573882,
+    "name": "Princes Town",
+    "latitude": 10.27184,
+    "longitude": -61.37103,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573875,
+    "name": "Puzzle Island",
+    "latitude": 10.19118,
+    "longitude": -61.46901,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573870,
+    "name": "Queen’s Island",
+    "latitude": 11.23905,
+    "longitude": -60.55821,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573869,
+    "name": "Queen’s Park Savannah",
+    "latitude": 10.66861,
+    "longitude": -61.51472,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573843,
+    "name": "Richmond Island",
+    "latitude": 11.21748,
+    "longitude": -60.59367,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573841,
+    "name": "Rincon Island",
+    "latitude": 10.41465,
+    "longitude": -61.03144,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573840,
+    "name": "Rio Claro",
+    "latitude": 10.30594,
+    "longitude": -61.17556,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573834,
+    "name": "Rock",
+    "latitude": 10.65642,
+    "longitude": -61.60275,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573799,
+    "name": "Saint Ann’s Peak",
+    "latitude": 10.69604,
+    "longitude": -61.48002,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573782,
+    "name": "Saint Giles Islands",
+    "latitude": 11.35504,
+    "longitude": -60.52174,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8709796,
+    "name": "Salt Lake",
+    "latitude": 10.67289,
+    "longitude": -61.7612,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573738,
+    "name": "San Fernando",
+    "latitude": 10.27969,
+    "longitude": -61.46835,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573732,
+    "name": "Sangre Grande",
+    "latitude": 10.58705,
+    "longitude": -61.13008,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8367183,
+    "name": "Santa Rosa Park",
+    "latitude": 10.59647,
+    "longitude": -61.30465,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573710,
+    "name": "Saut d’Eau Island",
+    "latitude": 10.77023,
+    "longitude": -61.51148,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573703,
+    "name": "Scarborough",
+    "latitude": 11.18229,
+    "longitude": -60.73525,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8232002,
+    "name": "Shaw Park",
+    "latitude": 11.17669,
+    "longitude": -60.74767,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573689,
+    "name": "Shirvan Park",
+    "latitude": 11.15887,
+    "longitude": -60.79742,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573681,
+    "name": "Siparia",
+    "latitude": 10.14525,
+    "longitude": -61.5074,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573676,
+    "name": "Sisters Rocks",
+    "latitude": 11.33225,
+    "longitude": -60.64458,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 8710008,
+    "name": "Skinner Park",
+    "latitude": 10.26487,
+    "longitude": -61.46201,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573673,
+    "name": "Smith Island",
+    "latitude": 11.18315,
+    "longitude": -60.65029,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573624,
+    "name": "Tarpon Island",
+    "latitude": 10.4,
+    "longitude": -61.01667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3574245,
+    "name": "The Lure",
+    "latitude": 11.23167,
+    "longitude": -60.64549,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573809,
+    "name": "The Saddle",
+    "latitude": 10.71667,
+    "longitude": -61.5,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573607,
+    "name": "Tobago",
+    "latitude": 11.25,
+    "longitude": -60.66667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573592,
+    "name": "Trinidad",
+    "latitude": 10.46114,
+    "longitude": -61.25702,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573576,
+    "name": "Tunapuna",
+    "latitude": 10.65245,
+    "longitude": -61.38878,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573535,
+    "name": "White Island",
+    "latitude": 10.13333,
+    "longitude": -61,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573527,
+    "name": "Windsor",
+    "latitude": 11.28333,
+    "longitude": -60.55,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3573517,
+    "name": "Zagaya",
+    "latitude": 10.81098,
+    "longitude": -61.01262,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  }
+]

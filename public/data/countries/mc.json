@@ -1,0 +1,22 @@
+[
+  {
+    "geonameId": 2993458,
+    "name": "Monaco",
+    "latitude": 43.73718,
+    "longitude": 7.42145,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3319170,
+    "name": "Réserve Sous-marine de Monaco",
+    "latitude": 43.74466,
+    "longitude": 7.43897,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  }
+]

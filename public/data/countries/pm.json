@@ -1,0 +1,142 @@
+[
+  {
+    "geonameId": 3425587,
+    "name": "Étang de la Vigie",
+    "latitude": 46.7812,
+    "longitude": -56.20191,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3425585,
+    "name": "Étang Goéland",
+    "latitude": 46.77769,
+    "longitude": -56.21488,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3425701,
+    "name": "Étang Ynachi",
+    "latitude": 46.89325,
+    "longitude": -56.33239,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3425626,
+    "name": "Grand Colombier",
+    "latitude": 46.82299,
+    "longitude": -56.16606,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3425782,
+    "name": "Grand Étang du Cap Bleu",
+    "latitude": 46.825,
+    "longitude": -56.34715,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3424942,
+    "name": "Île aux Marins",
+    "latitude": 46.78705,
+    "longitude": -56.14847,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3425564,
+    "name": "Île aux Pigeons",
+    "latitude": 46.79659,
+    "longitude": -56.1319,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3425561,
+    "name": "Île aux Vainqueurs",
+    "latitude": 46.79069,
+    "longitude": -56.12842,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3424933,
+    "name": "Île Saint-Pierre",
+    "latitude": 46.78125,
+    "longitude": -56.19447,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3425799,
+    "name": "L'Île aux Chevaux",
+    "latitude": 46.99694,
+    "longitude": -56.31278,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3424939,
+    "name": "Miquelon",
+    "latitude": 46.96639,
+    "longitude": -56.32778,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3424934,
+    "name": "Saint-Pierre",
+    "latitude": 46.77914,
+    "longitude": -56.1773,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3425724,
+    "name": "Tête du Cap aux Morts",
+    "latitude": 46.89095,
+    "longitude": -56.27101,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3425719,
+    "name": "Tête Pelée",
+    "latitude": 46.88796,
+    "longitude": -56.28083,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  }
+]

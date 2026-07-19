@@ -1,0 +1,52 @@
+[
+  {
+    "geonameId": 3371122,
+    "name": "Bouvetøya",
+    "latitude": -54.42222,
+    "longitude": 3.35833,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371115,
+    "name": "Lars Island",
+    "latitude": -54.45278,
+    "longitude": 3.31389,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371111,
+    "name": "Lykke Peak",
+    "latitude": -54.43667,
+    "longitude": 3.32083,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371108,
+    "name": "Mosby Peak",
+    "latitude": -54.42361,
+    "longitude": 3.30694,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3371104,
+    "name": "Olav Peak",
+    "latitude": -54.40917,
+    "longitude": 3.35278,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  }
+]

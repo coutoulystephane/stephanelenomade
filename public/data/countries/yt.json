@@ -1,0 +1,942 @@
+[
+  {
+    "geonameId": 922015,
+    "name": "Acoua",
+    "latitude": -12.72391,
+    "longitude": 45.05819,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090371,
+    "name": "Andilabé",
+    "latitude": -12.87352,
+    "longitude": 45.15279,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090119,
+    "name": "Bandraboua",
+    "latitude": -12.7044,
+    "longitude": 45.12231,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090397,
+    "name": "Bandrele",
+    "latitude": -12.91276,
+    "longitude": 45.19256,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090467,
+    "name": "Bouéni",
+    "latitude": -12.9025,
+    "longitude": 45.07611,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10631844,
+    "name": "Cascade de Soulou",
+    "latitude": -12.77946,
+    "longitude": 45.10177,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090438,
+    "name": "Charifou",
+    "latitude": -12.9966,
+    "longitude": 45.15081,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090322,
+    "name": "Chiconi",
+    "latitude": -12.83333,
+    "longitude": 45.11056,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090415,
+    "name": "Chirongui",
+    "latitude": -12.93194,
+    "longitude": 45.14833,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 922004,
+    "name": "Chissioi Andréma",
+    "latitude": -12.66667,
+    "longitude": 45.13333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 921978,
+    "name": "Chissioi Bandele",
+    "latitude": -12.9,
+    "longitude": 45.25,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 921751,
+    "name": "Chissioi M’Zamboro",
+    "latitude": -12.65,
+    "longitude": 45.03333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 921989,
+    "name": "Chissioua Bambo",
+    "latitude": -12.93356,
+    "longitude": 45.20084,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090293,
+    "name": "Chissioua Bandrélé",
+    "latitude": -12.89804,
+    "longitude": 45.23158,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10631770,
+    "name": "Chissioua Chongochamaji",
+    "latitude": -12.69663,
+    "longitude": 45.12023,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090113,
+    "name": "Chissioua Handréma",
+    "latitude": -12.67495,
+    "longitude": 45.11439,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090418,
+    "name": "Chissioua Karoni",
+    "latitude": -12.92009,
+    "longitude": 45.14175,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090286,
+    "name": "Chissioua Kolo Issa",
+    "latitude": -12.83798,
+    "longitude": 45.23464,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090485,
+    "name": "Chissioua Mbouini",
+    "latitude": -13.00214,
+    "longitude": 45.13797,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090249,
+    "name": "Chissioua Mbouzi",
+    "latitude": -12.81109,
+    "longitude": 45.23612,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10631737,
+    "name": "Chissioua Mchako",
+    "latitude": -12.85214,
+    "longitude": 45.20439,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090097,
+    "name": "Chissioua Mtsamboro",
+    "latitude": -12.64485,
+    "longitude": 45.03108,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090115,
+    "name": "Chissioua Mtsongoma",
+    "latitude": -12.68939,
+    "longitude": 45.12915,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090287,
+    "name": "Chissioua Pengoua",
+    "latitude": -12.83909,
+    "longitude": 45.24658,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090285,
+    "name": "Chissioua Pouhou",
+    "latitude": -12.8277,
+    "longitude": 45.25297,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090327,
+    "name": "Chissioua Sada",
+    "latitude": -12.84649,
+    "longitude": 45.08929,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090309,
+    "name": "Col d'Ongojou",
+    "latitude": -12.83628,
+    "longitude": 45.15919,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090413,
+    "name": "Col de Chirongui",
+    "latitude": -12.93742,
+    "longitude": 45.16078,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10631763,
+    "name": "Col de Saziley",
+    "latitude": -12.96491,
+    "longitude": 45.16851,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 921933,
+    "name": "Combani",
+    "latitude": -12.8,
+    "longitude": 45.16667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 921917,
+    "name": "Dembeni",
+    "latitude": -12.8436,
+    "longitude": 45.18436,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 921900,
+    "name": "Dzaoudzi",
+    "latitude": -12.78339,
+    "longitude": 45.25693,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 921899,
+    "name": "Dzaoudzi Island",
+    "latitude": -12.78333,
+    "longitude": 45.28333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090183,
+    "name": "Dziani Karihani",
+    "latitude": -12.79648,
+    "longitude": 45.12079,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 921895,
+    "name": "Dzumogne",
+    "latitude": -12.71667,
+    "longitude": 45.11667,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10631786,
+    "name": "Gombé Ndroumé",
+    "latitude": -12.74956,
+    "longitude": 45.26958,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090220,
+    "name": "Île Blanche",
+    "latitude": -12.71851,
+    "longitude": 45.17339,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 921950,
+    "name": "Île Caroni",
+    "latitude": -12.93333,
+    "longitude": 45.16667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 921708,
+    "name": "Île Pamandzi",
+    "latitude": -12.78004,
+    "longitude": 45.28531,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090196,
+    "name": "Île Verte",
+    "latitude": -12.72618,
+    "longitude": 45.1459,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 921936,
+    "name": "Îles Choazil",
+    "latitude": -12.68333,
+    "longitude": 45.06667,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090288,
+    "name": "Îles Hajangoua",
+    "latitude": -12.83298,
+    "longitude": 45.24631,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 921997,
+    "name": "Îlot Aombe",
+    "latitude": -12.75,
+    "longitude": 45.28333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 921955,
+    "name": "Îlot Bouni",
+    "latitude": -13,
+    "longitude": 45.15,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 921952,
+    "name": "Îlot Cacazou",
+    "latitude": -12.76667,
+    "longitude": 45.26667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 921693,
+    "name": "Îlot du Récif",
+    "latitude": -12.82758,
+    "longitude": 45.28431,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 921896,
+    "name": "Îlot Dzugoma",
+    "latitude": -12.68333,
+    "longitude": 45.15,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 921781,
+    "name": "Îlot Mognameri",
+    "latitude": -12.76667,
+    "longitude": 45.26667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 921659,
+    "name": "Îlot Vatou",
+    "latitude": -12.76667,
+    "longitude": 45.26667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 922011,
+    "name": "Îlots Ajangua",
+    "latitude": -12.83333,
+    "longitude": 45.26667,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 921894,
+    "name": "Îlots Effatsy",
+    "latitude": -12.75,
+    "longitude": 45.26667,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090270,
+    "name": "Kakazou",
+    "latitude": -12.77129,
+    "longitude": 45.25856,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090476,
+    "name": "Kani-Kéli",
+    "latitude": -12.95361,
+    "longitude": 45.10333,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090239,
+    "name": "Kaouéni",
+    "latitude": -12.77121,
+    "longitude": 45.22419,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10631794,
+    "name": "Kétabé",
+    "latitude": -12.69681,
+    "longitude": 45.08127,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090225,
+    "name": "Koungou",
+    "latitude": -12.73361,
+    "longitude": 45.20417,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090275,
+    "name": "Labattoir",
+    "latitude": -12.77698,
+    "longitude": 45.28234,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 921932,
+    "name": "Lac Combani",
+    "latitude": -12.8,
+    "longitude": 45.13333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 921652,
+    "name": "Lac Zeánn",
+    "latitude": -12.76667,
+    "longitude": 45.3,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090161,
+    "name": "M'Tsangamouji",
+    "latitude": -12.75944,
+    "longitude": 45.08361,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090227,
+    "name": "Majikavo Koropa",
+    "latitude": -12.74701,
+    "longitude": 45.22058,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090099,
+    "name": "Malandzamiayajou",
+    "latitude": -12.67183,
+    "longitude": 45.04794,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090100,
+    "name": "Malandzamiayatsini",
+    "latitude": -12.67665,
+    "longitude": 45.05796,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 921815,
+    "name": "Mamoudzou",
+    "latitude": -12.78234,
+    "longitude": 45.22878,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 921811,
+    "name": "Mayotte",
+    "latitude": -12.82519,
+    "longitude": 45.15776,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 921968,
+    "name": "Mlima Bénara",
+    "latitude": -12.88009,
+    "longitude": 45.16299,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090370,
+    "name": "Mlima Bépilipili",
+    "latitude": -12.88094,
+    "longitude": 45.16908,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090450,
+    "name": "Mlima Choungui",
+    "latitude": -12.95665,
+    "longitude": 45.13406,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090424,
+    "name": "Mlima Choungui Kéli",
+    "latitude": -12.9575,
+    "longitude": 45.16257,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090260,
+    "name": "Mlima Combani",
+    "latitude": -12.80418,
+    "longitude": 45.1526,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090131,
+    "name": "Mlima Dziani Bolé",
+    "latitude": -12.69071,
+    "longitude": 45.08911,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090145,
+    "name": "Mlima Mahojani",
+    "latitude": -12.72917,
+    "longitude": 45.09306,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090237,
+    "name": "Mlima Mtsapéré",
+    "latitude": -12.76278,
+    "longitude": 45.18444,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 921720,
+    "name": "Mont Ouchongui",
+    "latitude": -12.95,
+    "longitude": 45.15,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 921681,
+    "name": "Mont Sapere",
+    "latitude": -12.76667,
+    "longitude": 45.2,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090269,
+    "name": "Monyé Amiri",
+    "latitude": -12.77116,
+    "longitude": 45.25114,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090126,
+    "name": "Mtsamboro",
+    "latitude": -12.69982,
+    "longitude": 45.06894,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090300,
+    "name": "Mtsanga Tsoholé",
+    "latitude": -12.98578,
+    "longitude": 45.21615,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090311,
+    "name": "Ouangani",
+    "latitude": -12.84639,
+    "longitude": 45.13611,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 921707,
+    "name": "Pamandzi",
+    "latitude": -12.79674,
+    "longitude": 45.27938,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 921704,
+    "name": "Passamainty",
+    "latitude": -12.80201,
+    "longitude": 45.20818,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090344,
+    "name": "Pengoua Bolé",
+    "latitude": -12.856,
+    "longitude": 45.10963,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10631738,
+    "name": "Réserve Naturelle du Lagon",
+    "latitude": -12.85535,
+    "longitude": 45.25785,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10631846,
+    "name": "Retenue Collinaire de Combani",
+    "latitude": -12.77334,
+    "longitude": 45.14359,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10631774,
+    "name": "Retenue Collinaire de Dzoumonyé",
+    "latitude": -12.71326,
+    "longitude": 45.10507,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090340,
+    "name": "Sada",
+    "latitude": -12.85055,
+    "longitude": 45.10205,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 921954,
+    "name": "Sisoa Bouzi",
+    "latitude": -12.81667,
+    "longitude": 45.25,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 10631755,
+    "name": "Tchaourembo",
+    "latitude": -12.87003,
+    "longitude": 45.14486,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090177,
+    "name": "Tsingoni",
+    "latitude": -12.78722,
+    "longitude": 45.10278,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090248,
+    "name": "Tsoundzou 1",
+    "latitude": -12.80615,
+    "longitude": 45.2023,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090254,
+    "name": "Vahibé",
+    "latitude": -12.79024,
+    "longitude": 45.17707,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090271,
+    "name": "Vatou",
+    "latitude": -12.77334,
+    "longitude": 45.25981,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090451,
+    "name": "Vatounkaridi",
+    "latitude": -12.96528,
+    "longitude": 45.14091,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 1090230,
+    "name": "Zissioua Ziné",
+    "latitude": -12.75864,
+    "longitude": 45.25079,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  }
+]

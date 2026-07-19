@@ -1,0 +1,222 @@
+[
+  {
+    "geonameId": 13308488,
+    "name": "Bandabou",
+    "latitude": 12.27177,
+    "longitude": -69.06533,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13308487,
+    "name": "Bandariba",
+    "latitude": 12.09257,
+    "longitude": -68.83092,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513233,
+    "name": "Christoffelberg",
+    "latitude": 12.33724,
+    "longitude": -69.123,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513790,
+    "name": "Curaçao Island",
+    "latitude": 12.1819,
+    "longitude": -68.99248,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513396,
+    "name": "Eiland Penso",
+    "latitude": 12.07722,
+    "longitude": -68.85667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513511,
+    "name": "Isla Makuaku",
+    "latitude": 12.11667,
+    "longitude": -68.8,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513646,
+    "name": "Jack Evertszberg",
+    "latitude": 12.1321,
+    "longitude": -68.97453,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513620,
+    "name": "Kabrietenberg",
+    "latitude": 12.07317,
+    "longitude": -68.85655,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513618,
+    "name": "Kadoesjie",
+    "latitude": 12.11667,
+    "longitude": -68.91667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513593,
+    "name": "Klein Curaçao",
+    "latitude": 11.99119,
+    "longitude": -68.64313,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513481,
+    "name": "Meeuwtje",
+    "latitude": 12.08056,
+    "longitude": -68.85722,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513222,
+    "name": "Saliña Sint Michiel",
+    "latitude": 12.15014,
+    "longitude": -68.99096,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513264,
+    "name": "Santa Rosa",
+    "latitude": 12.11667,
+    "longitude": -68.88333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513562,
+    "name": "Ser’i Kueba",
+    "latitude": 12.3374,
+    "longitude": -69.08169,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513518,
+    "name": "Seroe Macoco",
+    "latitude": 12.13333,
+    "longitude": -68.93333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513403,
+    "name": "Seru Pasku",
+    "latitude": 12.31667,
+    "longitude": -69.13333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513234,
+    "name": "Sint Antonieberg",
+    "latitude": 12.3,
+    "longitude": -69.06667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513221,
+    "name": "Sint Michiel Liber",
+    "latitude": 12.15,
+    "longitude": -68.98333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6692389,
+    "name": "St. Michiel",
+    "latitude": 12.14335,
+    "longitude": -68.99487,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513181,
+    "name": "Tafelberg",
+    "latitude": 12.07098,
+    "longitude": -68.83626,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513091,
+    "name": "Willemberg",
+    "latitude": 12.07639,
+    "longitude": -68.85611,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 3513090,
+    "name": "Willemstad",
+    "latitude": 12.12246,
+    "longitude": -68.88641,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  }
+]

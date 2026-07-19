@@ -1,0 +1,932 @@
+[
+  {
+    "geonameId": 2310547,
+    "name": "Aconibe",
+    "latitude": 1.29683,
+    "longitude": 10.93691,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2310309,
+    "name": "Añisoc",
+    "latitude": 1.8658,
+    "longitude": 10.76892,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2306737,
+    "name": "Aual",
+    "latitude": -1.44556,
+    "longitude": 5.62722,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2310046,
+    "name": "Bata",
+    "latitude": 1.86391,
+    "longitude": 9.76582,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2310438,
+    "name": "Cascada Alar",
+    "latitude": 1.17083,
+    "longitude": 10.16572,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2310292,
+    "name": "Cascada Anvam",
+    "latitude": 1.58906,
+    "longitude": 10.56685,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2310233,
+    "name": "Cascada Asoc-Dum",
+    "latitude": 1.83196,
+    "longitude": 10.59325,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2310165,
+    "name": "Cascada Ayabigumbe",
+    "latitude": 1.63958,
+    "longitude": 10.07786,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2309936,
+    "name": "Cascada Bibeñ",
+    "latitude": 1.62346,
+    "longitude": 10.03855,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2309904,
+    "name": "Cascada Bicón",
+    "latitude": 2.15792,
+    "longitude": 10.13085,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2309797,
+    "name": "Cascada Binyini",
+    "latitude": 1.68735,
+    "longitude": 10.10641,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2309571,
+    "name": "Cascada Cam",
+    "latitude": 1.70428,
+    "longitude": 10.133,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2309521,
+    "name": "Cascada Coaekuiguiné",
+    "latitude": 1.1622,
+    "longitude": 10.02255,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2309461,
+    "name": "Cascada Cuakigui",
+    "latitude": 1.17779,
+    "longitude": 10.16518,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2309391,
+    "name": "Cascada Dum",
+    "latitude": 2.17961,
+    "longitude": 10.13402,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2309108,
+    "name": "Cascada Enue",
+    "latitude": 1.03333,
+    "longitude": 10.05,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2308986,
+    "name": "Cascada Evoarncara",
+    "latitude": 1.51045,
+    "longitude": 9.9018,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2308513,
+    "name": "Cascada Mandoc",
+    "latitude": 1.57933,
+    "longitude": 10.00177,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2308164,
+    "name": "Cascada Melong",
+    "latitude": 2.20067,
+    "longitude": 9.90348,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2307933,
+    "name": "Cascada Minguo",
+    "latitude": 1.11667,
+    "longitude": 10.2,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2307887,
+    "name": "Cascada Miván",
+    "latitude": 1.71368,
+    "longitude": 10.58429,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2307885,
+    "name": "Cascada Miveñ",
+    "latitude": 1.59863,
+    "longitude": 10.57032,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2307677,
+    "name": "Cascada Mvom",
+    "latitude": 1.50236,
+    "longitude": 9.87214,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2307507,
+    "name": "Cascada Ncoromba",
+    "latitude": 1.50982,
+    "longitude": 9.89918,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2307383,
+    "name": "Cascada Nfolo",
+    "latitude": 1.5932,
+    "longitude": 10.5692,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2307348,
+    "name": "Cascada Ngom",
+    "latitude": 1.69663,
+    "longitude": 10.12421,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2307316,
+    "name": "Cascada Ngong",
+    "latitude": 1.90741,
+    "longitude": 10.30954,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2306779,
+    "name": "Cascada Sambo",
+    "latitude": 1.51041,
+    "longitude": 9.86283,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2306584,
+    "name": "Cascada Tutubo",
+    "latitude": 1.67297,
+    "longitude": 10.10753,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2310235,
+    "name": "Cascadas Asoc-Bisón",
+    "latitude": 1.63621,
+    "longitude": 10.58792,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2310232,
+    "name": "Cascadas Asoc-dum",
+    "latitude": 1.84291,
+    "longitude": 10.58556,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2309652,
+    "name": "Cascadas Bonsoc",
+    "latitude": 1.54187,
+    "longitude": 9.94481,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2306491,
+    "name": "Cascadas de Yibulot",
+    "latitude": 1.64771,
+    "longitude": 10.58437,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12226438,
+    "name": "Ciudad de la Paz",
+    "latitude": 1.5925,
+    "longitude": 10.82361,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2310011,
+    "name": "Collado de Belebú",
+    "latitude": 3.35969,
+    "longitude": 8.59859,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2309479,
+    "name": "Corisco Island",
+    "latitude": 0.91575,
+    "longitude": 9.31828,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2566085,
+    "name": "Cus",
+    "latitude": -1.44278,
+    "longitude": 5.63528,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2309332,
+    "name": "Ebebiyin",
+    "latitude": 2.15218,
+    "longitude": 11.33013,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2308994,
+    "name": "Evinayong",
+    "latitude": 1.43677,
+    "longitude": 10.55124,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2308889,
+    "name": "Gran Cascada Yibulob",
+    "latitude": 1.66111,
+    "longitude": 10.57414,
+    "category": "Waterfall",
+    "subcategory": "Waterfall",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2310306,
+    "name": "Isla de Annobón",
+    "latitude": -1.43391,
+    "longitude": 5.63697,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2309792,
+    "name": "Isla de Bioko",
+    "latitude": 3.5,
+    "longitude": 8.7,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2309174,
+    "name": "Isla de Elobey Chico",
+    "latitude": 1.0004,
+    "longitude": 9.51707,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2309173,
+    "name": "Isla de Elobey Grande",
+    "latitude": 0.98216,
+    "longitude": 9.5044,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2308979,
+    "name": "Isla de Evongue",
+    "latitude": 1.05,
+    "longitude": 9.8,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2306880,
+    "name": "Isla del Paso",
+    "latitude": -1.41139,
+    "longitude": 5.65311,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2309297,
+    "name": "Isla Ebongo",
+    "latitude": 1.05724,
+    "longitude": 9.77024,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2309082,
+    "name": "Isla Escobar",
+    "latitude": -1.46667,
+    "longitude": 5.61667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2308819,
+    "name": "Isla Ivelo",
+    "latitude": 1.0764,
+    "longitude": 9.69177,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2307366,
+    "name": "Isla Ngande",
+    "latitude": 1.07867,
+    "longitude": 9.73131,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2306725,
+    "name": "Isla Santarem",
+    "latitude": -1.48333,
+    "longitude": 5.61667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2306595,
+    "name": "Isla Tortuga",
+    "latitude": -1.40536,
+    "longitude": 5.65656,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2306506,
+    "name": "Isla Yebatelu",
+    "latitude": -1.4,
+    "longitude": 5.6,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2309175,
+    "name": "Islas de Elobey",
+    "latitude": 0.99594,
+    "longitude": 9.51064,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2308978,
+    "name": "Islas Evongue",
+    "latitude": 1.05,
+    "longitude": 9.8,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2310522,
+    "name": "Islote Adams",
+    "latitude": -1.4733,
+    "longitude": 5.64261,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2310007,
+    "name": "Islote Belobi",
+    "latitude": 0.99425,
+    "longitude": 9.50358,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2309288,
+    "name": "Islote Ebumya",
+    "latitude": 1.2502,
+    "longitude": 9.3811,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2308940,
+    "name": "Islote Fernando Póo",
+    "latitude": -1.48333,
+    "longitude": 5.61667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2308864,
+    "name": "Islote Hoco",
+    "latitude": 0.89332,
+    "longitude": 9.35771,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2308862,
+    "name": "Islote Horacio",
+    "latitude": 3.75889,
+    "longitude": 8.90828,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2308768,
+    "name": "Islote Kid",
+    "latitude": 3.54291,
+    "longitude": 8.57488,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2308725,
+    "name": "Islote Leva",
+    "latitude": 0.87786,
+    "longitude": 9.30627,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2308724,
+    "name": "Islote Leven",
+    "latitude": 3.46887,
+    "longitude": 8.82923,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2308680,
+    "name": "Islote Loros",
+    "latitude": 3.5424,
+    "longitude": 8.56848,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2308324,
+    "name": "Islote Mbañe",
+    "latitude": 0.81667,
+    "longitude": 9.38333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2308861,
+    "name": "Islotes Horacio",
+    "latitude": 3.75908,
+    "longitude": 8.90835,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2308679,
+    "name": "Islotes Loros",
+    "latitude": 3.54272,
+    "longitude": 8.57219,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2566071,
+    "name": "Lago A Pot",
+    "latitude": -1.42167,
+    "longitude": 5.6325,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2310207,
+    "name": "Lago Atoc",
+    "latitude": 1.57407,
+    "longitude": 10.25313,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2309528,
+    "name": "Luba",
+    "latitude": 3.45683,
+    "longitude": 8.55465,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2306726,
+    "name": "Macizo Santa Mina",
+    "latitude": -1.44972,
+    "longitude": 5.64056,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2309527,
+    "name": "Malabo",
+    "latitude": 3.75578,
+    "longitude": 8.78166,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2307970,
+    "name": "Mikomeseng",
+    "latitude": 2.13609,
+    "longitude": 10.61322,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2307795,
+    "name": "Mongomo",
+    "latitude": 1.62742,
+    "longitude": 11.31346,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2310671,
+    "name": "Monte Abicin",
+    "latitude": -1.43333,
+    "longitude": 5.61667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2310449,
+    "name": "Monte Agudo",
+    "latitude": 1.73333,
+    "longitude": 9.88333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11288058,
+    "name": "Monte Alén National Park",
+    "latitude": 1.53069,
+    "longitude": 10.11789,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2309676,
+    "name": "Monte Bombanyoko",
+    "latitude": 1.33333,
+    "longitude": 9.73333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2309439,
+    "name": "Monte Cusuzua",
+    "latitude": -1.43333,
+    "longitude": 5.61667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2307890,
+    "name": "Monte Mitra",
+    "latitude": 1.38212,
+    "longitude": 9.95865,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2566076,
+    "name": "Monte Santiago",
+    "latitude": -1.42194,
+    "longitude": 5.62806,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2306732,
+    "name": "Pico Basilé",
+    "latitude": 3.58812,
+    "longitude": 8.76168,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2309950,
+    "name": "Pico Biaó",
+    "latitude": 3.36233,
+    "longitude": 8.63354,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2309493,
+    "name": "Pico de la Concepción",
+    "latitude": 3.46667,
+    "longitude": 8.71667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2306750,
+    "name": "Pico de San Joaquín",
+    "latitude": 3.35832,
+    "longitude": 8.6341,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2566072,
+    "name": "Pico Do Fogo",
+    "latitude": -1.42129,
+    "longitude": 5.63534,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2566073,
+    "name": "Pico Lago",
+    "latitude": -1.42889,
+    "longitude": 5.63611,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2566075,
+    "name": "Pico Quioveo",
+    "latitude": -1.43981,
+    "longitude": 5.63291,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2306651,
+    "name": "Pico Surcado",
+    "latitude": -1.45,
+    "longitude": 5.63333,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2307710,
+    "name": "Puerto de Musola",
+    "latitude": 3.42953,
+    "longitude": 8.67076,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2306824,
+    "name": "Rebola",
+    "latitude": 3.71667,
+    "longitude": 8.83333,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2306774,
+    "name": "San Antonio de Palé",
+    "latitude": -1.4068,
+    "longitude": 5.63198,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  }
+]

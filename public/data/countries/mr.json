@@ -1,0 +1,2632 @@
+[
+  {
+    "geonameId": 2375751,
+    "name": "Adrar Toussasset",
+    "latitude": 19.5,
+    "longitude": -7.31667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2381981,
+    "name": "Ajâr",
+    "latitude": 16.3779,
+    "longitude": -11.4076,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7506929,
+    "name": "Ajoueïr",
+    "latitude": 19.78238,
+    "longitude": -16.33207,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2381707,
+    "name": "Akharaï",
+    "latitude": 21.11129,
+    "longitude": -11.17913,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2381690,
+    "name": "Akjoujt",
+    "latitude": 19.74163,
+    "longitude": -14.38534,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2381659,
+    "name": "Aleg",
+    "latitude": 17.05314,
+    "longitude": -13.91312,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2381622,
+    "name": "Amatil",
+    "latitude": 18.57371,
+    "longitude": -9.90918,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2598228,
+    "name": "Amourj",
+    "latitude": 16.10916,
+    "longitude": -7.21387,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376684,
+    "name": "Anâguer es Seyâla",
+    "latitude": 22.65372,
+    "longitude": -12.55563,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7506877,
+    "name": "Aouâtîl",
+    "latitude": 19.87501,
+    "longitude": -16.2803,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 9222766,
+    "name": "Arafat",
+    "latitude": 18.04639,
+    "longitude": -15.97194,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2381334,
+    "name": "Atar",
+    "latitude": 20.51875,
+    "longitude": -13.04637,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2381291,
+    "name": "Ayoun El Atrous",
+    "latitude": 16.6614,
+    "longitude": -9.6149,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2381249,
+    "name": "Bababé",
+    "latitude": 16.3371,
+    "longitude": -13.95287,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2381231,
+    "name": "Bagodine",
+    "latitude": 16.24013,
+    "longitude": -13.72224,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2381218,
+    "name": "Bakh",
+    "latitude": 16.55,
+    "longitude": -15.83333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2381428,
+    "name": "Banc d'Arguin",
+    "latitude": 20.23333,
+    "longitude": -16.1,
+    "category": "Park",
+    "subcategory": "Nature Reserve",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 9226336,
+    "name": "Banc d'Arguin National Park",
+    "latitude": 20.59849,
+    "longitude": -16.25223,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2381195,
+    "name": "Banouga",
+    "latitude": 16.64592,
+    "longitude": -14.78511,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2381152,
+    "name": "Basseknou",
+    "latitude": 15.86652,
+    "longitude": -5.94604,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13498075,
+    "name": "Blāy Krān Bārk",
+    "latitude": 18.12879,
+    "longitude": -15.99613,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2380954,
+    "name": "Bogué",
+    "latitude": 16.59153,
+    "longitude": -14.26309,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2380894,
+    "name": "Bouanzé",
+    "latitude": 15.81852,
+    "longitude": -12.23218,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2380817,
+    "name": "Bougadoum",
+    "latitude": 15.86702,
+    "longitude": -7.36924,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12718652,
+    "name": "Bouhdida",
+    "latitude": 16.92809,
+    "longitude": -13.99918,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2380764,
+    "name": "Bouly",
+    "latitude": 15.31753,
+    "longitude": -11.80095,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2380695,
+    "name": "Bousteila",
+    "latitude": 15.5754,
+    "longitude": -8.08563,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2380670,
+    "name": "Boutilimitt",
+    "latitude": 17.54584,
+    "longitude": -14.69777,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7506931,
+    "name": "Chedded",
+    "latitude": 19.62947,
+    "longitude": -16.47298,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6874411,
+    "name": "Chegg el Ghaïl",
+    "latitude": 18.3714,
+    "longitude": -8.9348,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378625,
+    "name": "Chegg el Khaïl",
+    "latitude": 18.33333,
+    "longitude": -9.1,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376601,
+    "name": "Col de Sraïz",
+    "latitude": 20.4449,
+    "longitude": -12.989,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376594,
+    "name": "Col de Suifort",
+    "latitude": 15.9096,
+    "longitude": -12.01679,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2380399,
+    "name": "Dar el Barka",
+    "latitude": 16.68294,
+    "longitude": -14.70031,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11496397,
+    "name": "Dar Naim",
+    "latitude": 18.10808,
+    "longitude": -15.92666,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2380351,
+    "name": "Della Ma",
+    "latitude": 15.65,
+    "longitude": -13.2,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2380306,
+    "name": "Diaguily",
+    "latitude": 14.84796,
+    "longitude": -12.39271,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2380291,
+    "name": "Diaouling",
+    "latitude": 16.42417,
+    "longitude": -16.35028,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 9222749,
+    "name": "Diawling National Park",
+    "latitude": 16.37769,
+    "longitude": -16.36992,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2380254,
+    "name": "Diogountourou",
+    "latitude": 14.77,
+    "longitude": -12.2509,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2380247,
+    "name": "Diou",
+    "latitude": 16.67261,
+    "longitude": -14.69081,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2380225,
+    "name": "Djiguenni",
+    "latitude": 15.73208,
+    "longitude": -8.66561,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2380162,
+    "name": "Djowol",
+    "latitude": 16.06393,
+    "longitude": -13.37292,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2380154,
+    "name": "Echeghel",
+    "latitude": 20.7693,
+    "longitude": -12.3311,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2380066,
+    "name": "El ’Ayoûn",
+    "latitude": 15.55791,
+    "longitude": -11.18004,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2380024,
+    "name": "El Djouf",
+    "latitude": 21.41667,
+    "longitude": -6.66667,
+    "category": "Desert",
+    "subcategory": "Desert",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 9224945,
+    "name": "El Ghayra",
+    "latitude": 17.19778,
+    "longitude": -12.24,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6911729,
+    "name": "El Khomsânîyé",
+    "latitude": 16.9014,
+    "longitude": -10.1818,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2382062,
+    "name": "El Megsem el Abiod",
+    "latitude": 16.33153,
+    "longitude": -12.65644,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2377920,
+    "name": "El Metreyoûgha",
+    "latitude": 17.0158,
+    "longitude": -11.8097,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378508,
+    "name": "El Msîlé",
+    "latitude": 16.20517,
+    "longitude": -11.51418,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376976,
+    "name": "Elghabra",
+    "latitude": 16.64713,
+    "longitude": -12.67113,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7506876,
+    "name": "En Nâyer",
+    "latitude": 19.85762,
+    "longitude": -16.38929,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2379713,
+    "name": "Enji",
+    "latitude": 18.0614,
+    "longitude": -8.177,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376191,
+    "name": "Et Tîdra",
+    "latitude": 19.73006,
+    "longitude": -16.40132,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2379620,
+    "name": "Façk",
+    "latitude": 20.45885,
+    "longitude": -15.25436,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2379630,
+    "name": "Faramzaye",
+    "latitude": 16.14198,
+    "longitude": -13.67721,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13527105,
+    "name": "Fondé Elimane",
+    "latitude": 16.31684,
+    "longitude": -13.91911,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2381474,
+    "name": "Foum Arârech",
+    "latitude": 16.407,
+    "longitude": -11.8079,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2381138,
+    "name": "Foum Batiel",
+    "latitude": 16.96828,
+    "longitude": -12.22685,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2380510,
+    "name": "Foum Chouer",
+    "latitude": 20.56321,
+    "longitude": -13.08311,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6910059,
+    "name": "Foum Djoûk",
+    "latitude": 17.1436,
+    "longitude": -12.1067,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2381146,
+    "name": "Foum el Batha",
+    "latitude": 17.86561,
+    "longitude": -12.28467,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2380832,
+    "name": "Foum el Boueïr",
+    "latitude": 18.62141,
+    "longitude": -9.92281,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6910033,
+    "name": "Foum el Koûz",
+    "latitude": 17.996,
+    "longitude": -12.1724,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2377036,
+    "name": "Foum er Ragg",
+    "latitude": 19.83333,
+    "longitude": -13.35,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2379632,
+    "name": "Foum Faram",
+    "latitude": 16.63575,
+    "longitude": -12.05907,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2379407,
+    "name": "Foum Gleïta",
+    "latitude": 16.15683,
+    "longitude": -12.66896,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2379381,
+    "name": "Foum Goussas",
+    "latitude": 16.54837,
+    "longitude": -12.02071,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378763,
+    "name": "Foum Jaoûl",
+    "latitude": 20.70347,
+    "longitude": -13.13883,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6762768,
+    "name": "Foum Teidart",
+    "latitude": 18.43481,
+    "longitude": -9.42809,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2375967,
+    "name": "Foum Tizegui",
+    "latitude": 19.75,
+    "longitude": -13.75,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2379490,
+    "name": "Gadianguer",
+    "latitude": 16.3775,
+    "longitude": -16.42861,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2379477,
+    "name": "Gandeïga",
+    "latitude": 17.3903,
+    "longitude": -11.3695,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2379471,
+    "name": "Ganki Un",
+    "latitude": 16.21413,
+    "longitude": -13.24037,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2379465,
+    "name": "Gao",
+    "latitude": 16.56667,
+    "longitude": -15.4,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378472,
+    "name": "Gâret el Kounta",
+    "latitude": 22.68333,
+    "longitude": -12.6,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2379425,
+    "name": "Gat'a Çfeyyât",
+    "latitude": 17.0218,
+    "longitude": -7.2897,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378847,
+    "name": "Gat’a Iznaye",
+    "latitude": 18.62607,
+    "longitude": -8.3265,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2377646,
+    "name": "Gat’a Na’âma",
+    "latitude": 18.4015,
+    "longitude": -8.6382,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2377848,
+    "name": "Gata Mohamèd",
+    "latitude": 15.92966,
+    "longitude": -7.02776,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376933,
+    "name": "Ghlîg el Ghodf",
+    "latitude": 16.9603,
+    "longitude": -10.2954,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6911723,
+    "name": "Gleïb el ’Aïch",
+    "latitude": 16.3243,
+    "longitude": -10.5731,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6911722,
+    "name": "Gleïb el Ghabra",
+    "latitude": 16.3038,
+    "longitude": -10.5239,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2379148,
+    "name": "Gleïb el Hamara",
+    "latitude": 22.68333,
+    "longitude": -12.63333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2377231,
+    "name": "Gleïbât Oûlâd Dâoûd",
+    "latitude": 16.7932,
+    "longitude": -10.1232,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2379371,
+    "name": "Goûchna",
+    "latitude": 19.71269,
+    "longitude": -16.34851,
+    "category": "Island",
+    "subcategory": "Island Group",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6647824,
+    "name": "Gouel Sedou Tabar",
+    "latitude": 15.46452,
+    "longitude": -11.85603,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2379367,
+    "name": "Gouére",
+    "latitude": 16.53333,
+    "longitude": -15.96667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6918988,
+    "name": "Goûr Amogjâr",
+    "latitude": 20.634,
+    "longitude": -12.7242,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2379312,
+    "name": "Goûrmél",
+    "latitude": 16.3516,
+    "longitude": -11.3183,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2381986,
+    "name": "Guelb Aderg",
+    "latitude": 22.63333,
+    "longitude": -12.53333,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2380386,
+    "name": "Guelb Dbâgh",
+    "latitude": 18.56667,
+    "longitude": -12.01667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2380310,
+    "name": "Guelb Djafarât",
+    "latitude": 16.0406,
+    "longitude": -10.5316,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378827,
+    "name": "Guelb Jdareyat",
+    "latitude": 22.65,
+    "longitude": -12.56667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12718653,
+    "name": "Guerou",
+    "latitude": 17.07754,
+    "longitude": -12.03869,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2379222,
+    "name": "Guidayo",
+    "latitude": 16.61667,
+    "longitude": -15.41667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2379072,
+    "name": "Hassi Chegar",
+    "latitude": 15.36628,
+    "longitude": -12.08663,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2379008,
+    "name": "Ibenghâne el Jediâne",
+    "latitude": 16.43731,
+    "longitude": -10.59135,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2381436,
+    "name": "Île Arel",
+    "latitude": 19.93619,
+    "longitude": -16.52476,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2596029,
+    "name": "Île aux Bois",
+    "latitude": 16.08944,
+    "longitude": -16.45833,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2380522,
+    "name": "Île Chikchit",
+    "latitude": 20.05,
+    "longitude": -16.26667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2381426,
+    "name": "Île d’Arguin",
+    "latitude": 20.59744,
+    "longitude": -16.46267,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2381448,
+    "name": "Île de l’Ardent",
+    "latitude": 20.61667,
+    "longitude": -16.48333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2379650,
+    "name": "Île de l’Étoile",
+    "latitude": 21.03333,
+    "longitude": -17.01667,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2377060,
+    "name": "Île des Pélicans",
+    "latitude": 20.69651,
+    "longitude": -16.67553,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378882,
+    "name": "Île Iouik",
+    "latitude": 19.85,
+    "longitude": -16.38333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378544,
+    "name": "Île Kiaone-Est",
+    "latitude": 20.01667,
+    "longitude": -16.28333,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378543,
+    "name": "Île Kiaone-Ouest",
+    "latitude": 20.01545,
+    "longitude": -16.29638,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378097,
+    "name": "Île Marguerite",
+    "latitude": 20.62572,
+    "longitude": -16.49494,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2375587,
+    "name": "Île Zira",
+    "latitude": 19.86667,
+    "longitude": -16.3,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378914,
+    "name": "Imourene",
+    "latitude": 25.1,
+    "longitude": -8.83333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378838,
+    "name": "Jalt Atil",
+    "latitude": 19.75,
+    "longitude": -13.45,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378818,
+    "name": "Jeïlîbé",
+    "latitude": 16.4046,
+    "longitude": -10.5064,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378736,
+    "name": "Kaédi",
+    "latitude": 16.15071,
+    "longitude": -13.50582,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378716,
+    "name": "Kankossa",
+    "latitude": 15.93891,
+    "longitude": -11.52701,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2379249,
+    "name": "Kedia Guemgoum",
+    "latitude": 25.17805,
+    "longitude": -11.44898,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378941,
+    "name": "Kediet ej Jill",
+    "latitude": 22.66194,
+    "longitude": -12.56895,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378620,
+    "name": "Khakane",
+    "latitude": 15.87873,
+    "longitude": -9.19382,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2377645,
+    "name": "Khang en Na’âm",
+    "latitude": 16.7345,
+    "longitude": -10.4347,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6910031,
+    "name": "Khang Nouadar",
+    "latitude": 17.9781,
+    "longitude": -12.1243,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378584,
+    "name": "Khérénéla",
+    "latitude": 15.28333,
+    "longitude": -11.81667,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378571,
+    "name": "Khneg Ḍbâ’",
+    "latitude": 22.64344,
+    "longitude": -12.64004,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7405354,
+    "name": "Khneg Lem’îz",
+    "latitude": 20.60543,
+    "longitude": -13.1813,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6910040,
+    "name": "Khneîg Ahel Chabboûti",
+    "latitude": 17.8414,
+    "longitude": -12.149,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376586,
+    "name": "Khneïg Tabellit",
+    "latitude": 16.51667,
+    "longitude": -9.86667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378554,
+    "name": "Khouda",
+    "latitude": 16.63333,
+    "longitude": -11.43333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378538,
+    "name": "Kiffa",
+    "latitude": 16.62073,
+    "longitude": -11.40208,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378536,
+    "name": "Kîji",
+    "latitude": 19.70286,
+    "longitude": -16.4847,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2597437,
+    "name": "Kobenni",
+    "latitude": 15.81722,
+    "longitude": -9.36528,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378510,
+    "name": "Kow Koluso",
+    "latitude": 15.88098,
+    "longitude": -12.6913,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378438,
+    "name": "Krekra",
+    "latitude": 19.2,
+    "longitude": -13,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2595352,
+    "name": "Ksar",
+    "latitude": 18.0995,
+    "longitude": -15.9574,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378498,
+    "name": "Lac de Kossou",
+    "latitude": 17.5,
+    "longitude": -5.5,
+    "category": "Lake",
+    "subcategory": "Reservoir",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2598201,
+    "name": "Lac de Mâl",
+    "latitude": 16.92487,
+    "longitude": -13.38972,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376902,
+    "name": "Lac Rkîz",
+    "latitude": 16.84806,
+    "longitude": -15.39,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378390,
+    "name": "Laououaja",
+    "latitude": 16.71667,
+    "longitude": -15.4,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2380050,
+    "name": "Le Bheyr",
+    "latitude": 16.56485,
+    "longitude": -12.0769,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378339,
+    "name": "Lehbilé",
+    "latitude": 16.75,
+    "longitude": -10.63333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378244,
+    "name": "Lemkeïfi",
+    "latitude": 16.4558,
+    "longitude": -10.5252,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2379886,
+    "name": "Lexeiba Un",
+    "latitude": 16.22506,
+    "longitude": -13.14089,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378170,
+    "name": "Maghama",
+    "latitude": 15.51014,
+    "longitude": -12.85096,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378160,
+    "name": "Magṭa‘ Laḥjar",
+    "latitude": 17.506,
+    "longitude": -13.0927,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378714,
+    "name": "Mare de Kankossa",
+    "latitude": 15.96959,
+    "longitude": -11.50104,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378711,
+    "name": "Mare de Kaora",
+    "latitude": 15.90836,
+    "longitude": -11.56,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378066,
+    "name": "Massif de Mbalou",
+    "latitude": 15.06667,
+    "longitude": -12.05,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376775,
+    "name": "Massif de Sbaya",
+    "latitude": 19.61667,
+    "longitude": -12.45,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12718654,
+    "name": "Mbera",
+    "latitude": 15.85615,
+    "longitude": -5.79067,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378025,
+    "name": "Mboutt",
+    "latitude": 16.02322,
+    "longitude": -12.57872,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378000,
+    "name": "Mederdra",
+    "latitude": 16.92256,
+    "longitude": -15.65646,
+    "category": "City",
+    "subcategory": "County Seat",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2382060,
+    "name": "Megsem el Abiodh",
+    "latitude": 21.17582,
+    "longitude": -11.37362,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2379105,
+    "name": "Megsem el Hareth",
+    "latitude": 21.02217,
+    "longitude": -11.44918,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2379038,
+    "name": "Megsem el Herrane",
+    "latitude": 21.18785,
+    "longitude": -11.32944,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376996,
+    "name": "Megsem el Reïd",
+    "latitude": 21.18648,
+    "longitude": -11.39886,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376490,
+    "name": "Megsem Tamat",
+    "latitude": 21.19532,
+    "longitude": -11.43724,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378928,
+    "name": "Megt’a Imbech",
+    "latitude": 19.36667,
+    "longitude": -14.35,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2377969,
+    "name": "Megta’es Sfeïra",
+    "latitude": 16.65,
+    "longitude": -11.0529,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376148,
+    "name": "Méhouene Tijot",
+    "latitude": 17.6043,
+    "longitude": -7.5446,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2377514,
+    "name": "Mgueïssem ed Deïgué",
+    "latitude": 16.39823,
+    "longitude": -10.25526,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6911697,
+    "name": "Mgueïssem el Ouâs’a",
+    "latitude": 16.35912,
+    "longitude": -10.2172,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2381359,
+    "name": "Montagne d’Artémou",
+    "latitude": 15.44058,
+    "longitude": -12.31953,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11951372,
+    "name": "Montagne de Lemdeina",
+    "latitude": 20.30856,
+    "longitude": -13.60784,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6902154,
+    "name": "Mount Tizzai",
+    "latitude": 16.8999,
+    "longitude": -11.6945,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2377589,
+    "name": "Ndêrek",
+    "latitude": 20.31121,
+    "longitude": -15.41319,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2377580,
+    "name": "Ndiago",
+    "latitude": 16.16763,
+    "longitude": -16.51026,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2377539,
+    "name": "Néma",
+    "latitude": 16.61702,
+    "longitude": -7.25649,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2377457,
+    "name": "Nouadhibou",
+    "latitude": 20.94188,
+    "longitude": -17.03842,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2377450,
+    "name": "Nouakchott",
+    "latitude": 18.08581,
+    "longitude": -15.9785,
+    "category": "City",
+    "subcategory": "Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2377443,
+    "name": "Nouâmleïn",
+    "latitude": 17.1402,
+    "longitude": -11.5356,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12718656,
+    "name": "Ouad Naga",
+    "latitude": 17.96636,
+    "longitude": -15.51802,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2377327,
+    "name": "Oualata",
+    "latitude": 17.29784,
+    "longitude": -7.02346,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2377319,
+    "name": "Ouara",
+    "latitude": 15.55834,
+    "longitude": -9.06186,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2377211,
+    "name": "Ould Yenjé",
+    "latitude": 15.54038,
+    "longitude": -11.71467,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6911684,
+    "name": "Oumm Agoueïguîf",
+    "latitude": 16.7274,
+    "longitude": -10.2208,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6911682,
+    "name": "Oumm Arâguene",
+    "latitude": 16.6693,
+    "longitude": -10.2797,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2377135,
+    "name": "Oumm el Mhâr",
+    "latitude": 16.59567,
+    "longitude": -10.7168,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2377183,
+    "name": "Oummât el Ham",
+    "latitude": 25.58426,
+    "longitude": -11.76042,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2377064,
+    "name": "Param",
+    "latitude": 16.14244,
+    "longitude": -13.64476,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 9222747,
+    "name": "Parc National du Banc d'Arguin",
+    "latitude": 20.23472,
+    "longitude": -16.10889,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2382042,
+    "name": "Passe d’Acheft",
+    "latitude": 17.9,
+    "longitude": -12.31667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2598155,
+    "name": "Passe d’Amogjâl",
+    "latitude": 20.59667,
+    "longitude": -12.73306,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2379566,
+    "name": "Passe de Fog",
+    "latitude": 17.31667,
+    "longitude": -11.71667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378383,
+    "name": "Passe de Larhderat",
+    "latitude": 16.53333,
+    "longitude": -10.71667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376718,
+    "name": "Passe de Sellakora",
+    "latitude": 16.41667,
+    "longitude": -11.91667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376609,
+    "name": "Passe de Soufa",
+    "latitude": 15.93723,
+    "longitude": -12.02199,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376330,
+    "name": "Passe de Tektat",
+    "latitude": 15.60008,
+    "longitude": -12.0064,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2380276,
+    "name": "Passes de Diégoum",
+    "latitude": 15.9911,
+    "longitude": -10.83963,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 9224943,
+    "name": "R'kiz",
+    "latitude": 16.9151,
+    "longitude": -15.23701,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376898,
+    "name": "Rosso",
+    "latitude": 16.51378,
+    "longitude": -15.80503,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376859,
+    "name": "Sagné",
+    "latitude": 15.20457,
+    "longitude": -12.78979,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 13498081,
+    "name": "Sāḩat Bārādisiyāk",
+    "latitude": 18.11964,
+    "longitude": -16.00052,
+    "category": "Park",
+    "subcategory": "Park",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376792,
+    "name": "Saré Souki",
+    "latitude": 16.43419,
+    "longitude": -14.09995,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376719,
+    "name": "Sélibaby",
+    "latitude": 15.15846,
+    "longitude": -12.1843,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376650,
+    "name": "Sisiande",
+    "latitude": 15.94602,
+    "longitude": -12.0152,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376431,
+    "name": "Taghâda el Ouâs’a",
+    "latitude": 16.9967,
+    "longitude": -11.809,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376430,
+    "name": "Taghâdet Irîji",
+    "latitude": 16.9711,
+    "longitude": -11.7394,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2380778,
+    "name": "Tâjâlet Boû Khléïkhîl",
+    "latitude": 16.4637,
+    "longitude": -10.8171,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2598164,
+    "name": "Tamâggoût",
+    "latitude": 19.52972,
+    "longitude": -14.74944,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376473,
+    "name": "Tamreïkat",
+    "latitude": 25.4816,
+    "longitude": -11.18841,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2379759,
+    "name": "Tarf el Mgueïssem",
+    "latitude": 16.0468,
+    "longitude": -11.6871,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2377836,
+    "name": "Tarf el Mohria",
+    "latitude": 21.54344,
+    "longitude": -11.03527,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2377547,
+    "name": "Ṭarf Neïjâm",
+    "latitude": 16.6119,
+    "longitude": -10.4364,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376379,
+    "name": "Tazâdit",
+    "latitude": 22.65818,
+    "longitude": -12.41808,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11951358,
+    "name": "Tazent Canyon",
+    "latitude": 20.27926,
+    "longitude": -13.17663,
+    "category": "Mountain",
+    "subcategory": "Canyon",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7405171,
+    "name": "Te-n-Tarazzi",
+    "latitude": 20.56943,
+    "longitude": -13.20363,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376101,
+    "name": "Te-n-Zâk",
+    "latitude": 20.71964,
+    "longitude": -13.05957,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376189,
+    "name": "Tékane",
+    "latitude": 16.60175,
+    "longitude": -15.34866,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376115,
+    "name": "Tembedgha",
+    "latitude": 16.24137,
+    "longitude": -8.17321,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376302,
+    "name": "Teniaggoûri",
+    "latitude": 20.6093,
+    "longitude": -12.7514,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 11009418,
+    "name": "Tevragh Zeina",
+    "latitude": 18.09894,
+    "longitude": -15.98848,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376070,
+    "name": "Ti-n-Fdérik",
+    "latitude": 22.66667,
+    "longitude": -12.66667,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376007,
+    "name": "Ti-n-Yeddir",
+    "latitude": 16.63333,
+    "longitude": -15.73333,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376249,
+    "name": "Tiak Tiak",
+    "latitude": 16.67749,
+    "longitude": -14.42184,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376243,
+    "name": "Tianbrank",
+    "latitude": 16.47583,
+    "longitude": -16.38306,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2381547,
+    "name": "Tîchilît el Angra",
+    "latitude": 15.83218,
+    "longitude": -11.25996,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376871,
+    "name": "Tîchilît Sadra",
+    "latitude": 15.8536,
+    "longitude": -11.32394,
+    "category": "Lake",
+    "subcategory": "Lake",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376193,
+    "name": "Tidjikja",
+    "latitude": 18.55644,
+    "longitude": -11.42715,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376177,
+    "name": "Tifoujar",
+    "latitude": 20.09967,
+    "longitude": -13.19672,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376165,
+    "name": "Tiguesmat",
+    "latitude": 25.06667,
+    "longitude": -8.36667,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6911696,
+    "name": "Ṭinṭâne",
+    "latitude": 16.3946,
+    "longitude": -10.1737,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6914274,
+    "name": "Toubâddi",
+    "latitude": 17.4684,
+    "longitude": -11.2896,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7506930,
+    "name": "Toûfeṭ",
+    "latitude": 19.64373,
+    "longitude": -16.48292,
+    "category": "Island",
+    "subcategory": "Island",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7461948,
+    "name": "Tounḍellîne",
+    "latitude": 20.25851,
+    "longitude": -15.13433,
+    "category": "Mountain",
+    "subcategory": "Peak",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2375763,
+    "name": "Tourine",
+    "latitude": 22.50311,
+    "longitude": -11.76318,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2381443,
+    "name": "Trîg ‘Areïchât",
+    "latitude": 18.034,
+    "longitude": -8.0923,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2375733,
+    "name": "Trig Aberraz",
+    "latitude": 21.26667,
+    "longitude": -11.43333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2381890,
+    "name": "Trîg Agoucheïl",
+    "latitude": 17.5905,
+    "longitude": -11.4414,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2381517,
+    "name": "Trîg Aoudach",
+    "latitude": 16.5882,
+    "longitude": -10.4996,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2381040,
+    "name": "Trîg Ben Nmoûr",
+    "latitude": 16.5531,
+    "longitude": -10.2074,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376693,
+    "name": "Trîg Cerâta",
+    "latitude": 16.51337,
+    "longitude": -10.40702,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2380576,
+    "name": "Trig Cheikh",
+    "latitude": 21.30445,
+    "longitude": -11.31056,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2375729,
+    "name": "Trig Chorfa",
+    "latitude": 21.02089,
+    "longitude": -11.59685,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2375728,
+    "name": "Trîg Chouaïl",
+    "latitude": 21.56327,
+    "longitude": -10.59708,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376863,
+    "name": "Trîg ec Cafra",
+    "latitude": 16.5824,
+    "longitude": -10.4643,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376860,
+    "name": "Trîg ec Çafra",
+    "latitude": 16.6889,
+    "longitude": -10.562,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2380572,
+    "name": "Trîg ech Chekâoui",
+    "latitude": 16.48624,
+    "longitude": -10.15565,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2381119,
+    "name": "Trîg el Bégué",
+    "latitude": 16.58333,
+    "longitude": -7.18333,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2381118,
+    "name": "Trîg el Behgué",
+    "latitude": 16.6246,
+    "longitude": -7.2215,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2375726,
+    "name": "Trig el Bène",
+    "latitude": 21.27754,
+    "longitude": -11.25099,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2379405,
+    "name": "Trîg el Gleïtât",
+    "latitude": 16.7228,
+    "longitude": -10.8996,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2375724,
+    "name": "Trig el Hamra",
+    "latitude": 21.42994,
+    "longitude": -11.43885,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2375723,
+    "name": "Trig el Mounane",
+    "latitude": 21.34255,
+    "longitude": -11.70804,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2375722,
+    "name": "Trig en Nâga",
+    "latitude": 21.28352,
+    "longitude": -11.36692,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2379631,
+    "name": "Trîg Faram",
+    "latitude": 16.7348,
+    "longitude": -11.9636,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2379482,
+    "name": "Trîg Gâloûla",
+    "latitude": 16.3451,
+    "longitude": -11.9709,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2379380,
+    "name": "Trîg Gouçaç",
+    "latitude": 16.6065,
+    "longitude": -11.8825,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378679,
+    "name": "Trîg Keïbbeb",
+    "latitude": 16.434,
+    "longitude": -11.9573,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2378137,
+    "name": "Trîg Makânet",
+    "latitude": 16.89205,
+    "longitude": -10.91098,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 7405531,
+    "name": "Ṭrîg Nchakou",
+    "latitude": 21.13831,
+    "longitude": -13.06898,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2377584,
+    "name": "Trîg Ndernâya",
+    "latitude": 16.3932,
+    "longitude": -11.8412,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2377583,
+    "name": "Trîg Ndernâyé",
+    "latitude": 16.94731,
+    "longitude": -10.9141,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 6914281,
+    "name": "Trîg Néga",
+    "latitude": 17.6365,
+    "longitude": -11.4132,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2377521,
+    "name": "Trîg Ngâma",
+    "latitude": 17.0884,
+    "longitude": -11.9119,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376781,
+    "name": "Trîg Sba",
+    "latitude": 16.3311,
+    "longitude": -11.8243,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2376698,
+    "name": "Trîg Seïouéddé",
+    "latitude": 16.8211,
+    "longitude": -11.9546,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2375719,
+    "name": "Trig Tiguidest",
+    "latitude": 21.20339,
+    "longitude": -11.15902,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2375718,
+    "name": "Trîg Tleïhé",
+    "latitude": 16.66572,
+    "longitude": -7.23265,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2375909,
+    "name": "Trîg Touéïdïma",
+    "latitude": 16.3896,
+    "longitude": -11.8579,
+    "category": "Mountain",
+    "subcategory": "Mountain Pass",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2375715,
+    "name": "Tsalabia",
+    "latitude": 23.1866,
+    "longitude": -8.5806,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2379619,
+    "name": "Vassala",
+    "latitude": 15.5571,
+    "longitude": -5.516,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 12718657,
+    "name": "Wali Djantang",
+    "latitude": 15.33255,
+    "longitude": -12.87464,
+    "category": "City",
+    "subcategory": "City",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2375639,
+    "name": "Zednes",
+    "latitude": 23.78919,
+    "longitude": -10.65539,
+    "category": "Mountain",
+    "subcategory": "Mountain",
+    "featured": false,
+    "priority": 50
+  },
+  {
+    "geonameId": 2375558,
+    "name": "Zouérat",
+    "latitude": 22.73542,
+    "longitude": -12.47134,
+    "category": "City",
+    "subcategory": "Regional Capital",
+    "featured": false,
+    "priority": 50
+  }
+]
