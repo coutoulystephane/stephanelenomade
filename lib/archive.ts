@@ -171,20 +171,73 @@ export async function saveTravel({
   notes,
 }: SaveTravelParams) {
   const { data, error } = await supabase
-    .from("travel_archive")
+    .from("trips")
     .insert({
       destination_id: destinationId,
       visit_month: visitMonth,
       visit_year: visitYear,
       notes,
+      favorite: false,
     })
     .select()
     .single();
 
   if (error) {
-    console.error("Error saving travel:", error);
+    console.error("Error saving trip:", error);
     throw error;
   }
 
   return data;
+}
+/* --------------------------------------------------
+   PHOTO STORAGE
+--------------------------------------------------- */
+
+export async function uploadTripPhoto(file: File) {
+  const extension = file.name.split(".").pop();
+
+  const fileName = `${crypto.randomUUID()}.${extension}`;
+
+  const { error } = await supabase.storage
+    .from("trip-photos")
+    .upload(fileName, file);
+
+  if (error) {
+    console.error("Upload error:", error);
+    throw error;
+  }
+
+  const { data } = supabase.storage
+    .from("trip-photos")
+    .getPublicUrl(fileName);
+
+  return {
+    fileName,
+    imageUrl: data.publicUrl,
+  };
+}
+
+type SaveTripPhotoParams = {
+  tripId: number;
+  fileName: string;
+  imageUrl: string;
+};
+
+export async function saveTripPhoto({
+  tripId,
+  fileName,
+  imageUrl,
+}: SaveTripPhotoParams) {
+  const { error } = await supabase
+    .from("photos")
+    .insert({
+      trip_id: tripId,
+      file_name: fileName,
+      image_url: imageUrl,
+    });
+
+  if (error) {
+    console.error("Photo save error:", error);
+    throw error;
+  }
 }

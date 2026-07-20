@@ -1,7 +1,12 @@
 "use client";
 
-import { useState } from "react";
-import { saveTravel } from "@/lib/archive";
+import { useRef, useState } from "react";
+
+import {
+  saveTravel,
+  uploadTripPhoto,
+  saveTripPhoto,
+} from "@/lib/archive";
 
 import ContinentSelect from "./ContinentSelect";
 import CountrySelect from "./CountrySelect";
@@ -15,41 +20,64 @@ export default function AddDestinationForm() {
   const [visitMonth, setVisitMonth] = useState("January");
   const [visitYear, setVisitYear] = useState(new Date().getFullYear());
   const [notes, setNotes] = useState("");
+  const [photos, setPhotos] = useState<File[]>([]);
+
+  const fileInputRef = useRef<HTMLInputElement>(null);
 
   const [saving, setSaving] = useState(false);
 
   async function handleSave() {
-    if (!selectedDestination) {
-      alert("Please select a destination.");
-      return;
-    }
-
-    try {
-      setSaving(true);
-
-      await saveTravel({
-        destinationId: selectedDestination,
-        visitMonth,
-        visitYear,
-        notes,
-      });
-
-      alert("Visit saved successfully!");
-
-      setSelectedDestination(null);
-      setVisitMonth("January");
-      setVisitYear(new Date().getFullYear());
-      setNotes("");
-    } catch (error) {
-      console.error(error);
-      alert("Unable to save visit.");
-    } finally {
-      setSaving(false);
-    }
+  if (!selectedDestination) {
+    alert("Please select a destination.");
+    return;
   }
 
-  return (
-    <div className="mx-auto max-w-3xl px-8 py-12">
+  try {
+    setSaving(true);
+
+    const trip = await saveTravel({
+      destinationId: selectedDestination,
+      visitMonth,
+      visitYear,
+      notes,
+    });
+
+    for (const photo of photos) {
+      const uploaded = await uploadTripPhoto(photo);
+
+      await saveTripPhoto({
+        tripId: trip.id,
+        fileName: uploaded.fileName,
+        imageUrl: uploaded.imageUrl,
+      });
+    }
+
+    alert("Visit saved successfully!");
+
+    // Reset the form
+    setSelectedContinent(null);
+    setSelectedCountry(null);
+    setSelectedDestination(null);
+
+    setVisitMonth("January");
+    setVisitYear(new Date().getFullYear());
+
+    setNotes("");
+    setPhotos([]);
+
+    if (fileInputRef.current) {
+      fileInputRef.current.value = "";
+    }
+  } catch (error) {
+    console.error(error);
+    alert("Unable to save visit.");
+  } finally {
+    setSaving(false);
+  }
+}
+
+return (
+  <div className="mx-auto max-w-3xl px-8 py-12">
       <h1 className="text-5xl font-bold">
         Travel Archive
       </h1>
@@ -148,9 +176,34 @@ export default function AddDestinationForm() {
           />
         </div>
 
+        <div>
+          <label className="mb-2 block text-sm font-medium">
+            📷 Photos
+          </label>
+
+        <input
+            ref={fileInputRef}
+            type="file"
+            multiple
+            accept="image/*"
+            onChange={(e) => {
+              if (!e.target.files) return;
+              setPhotos(Array.from(e.target.files));
+            }}
+            className="block w-full rounded-xl border border-white/10 bg-white/5 px-4 py-3 text-white"
+          />
+
+          {photos.length > 0 && (
+            <p className="mt-2 text-sm text-white/60">
+              {photos.length} photo{photos.length > 1 ? "s" : ""} selected
+            </p>
+          )}
+        </div>
+
       </div>
 
       <div className="mt-12 flex justify-end">
+
         <button
           onClick={handleSave}
           disabled={saving}
