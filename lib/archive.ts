@@ -228,12 +228,21 @@ export async function saveTripPhoto({
   fileName,
   imageUrl,
 }: SaveTripPhotoParams) {
+  // Check if this trip already has photos
+  const { count } = await supabase
+    .from("photos")
+    .select("*", { count: "exact", head: true })
+    .eq("trip_id", tripId);
+
+  const isCover = (count ?? 0) === 0;
+
   const { error } = await supabase
     .from("photos")
     .insert({
       trip_id: tripId,
       file_name: fileName,
       image_url: imageUrl,
+      is_cover: isCover,
     });
 
   if (error) {
@@ -259,8 +268,9 @@ export async function getTrips() {
         country_id
       ),
       photos (
-        image_url
-      )
+       image_url,
+       is_cover
+     )
     `)
     .order("visit_year", { ascending: false })
     .order("created_at", { ascending: false });
@@ -271,4 +281,43 @@ export async function getTrips() {
   }
 
   return data ?? [];
+}
+/* --------------------------------------------------
+   SINGLE TRIP
+--------------------------------------------------- */
+
+export async function getTrip(id: number) {
+  const { data, error } = await supabase
+    .from("trips")
+    .select(`
+      id,
+      visit_month,
+      visit_year,
+      notes,
+      destinations_master!trips_destination_fk (
+        geonameId,
+        name,
+        country_id,
+        latitude,
+        longitude,
+        countries (
+          name,
+          iso_code
+        )
+      ),
+      photos (
+        id,
+        image_url,
+        is_cover
+      )
+    `)
+    .eq("id", id)
+    .single();
+
+  if (error) {
+    console.error("Error loading trip:", error);
+    return null;
+  }
+
+  return data;
 }
