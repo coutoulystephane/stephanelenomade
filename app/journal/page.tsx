@@ -1,9 +1,15 @@
-export default function Page() {
+import JournalList from "@/components/JournalList";
+
+export default function JournalPage() {
   return (
-    <main className="min-h-screen bg-[#07111f] flex items-center justify-center">
-      <h1 className="text-5xl text-white font-serif">
-        Coming Soon
-      </h1>
+    <main className="min-h-screen bg-[#07111f] px-8 py-16">
+      <div className="mx-auto max-w-6xl">
+        <h1 className="mb-12 text-5xl font-serif text-white">
+          Travel Journal
+        </h1>
+
+        <JournalList />
+      </div>
     </main>
   );
 }

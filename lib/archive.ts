@@ -241,3 +241,34 @@ export async function saveTripPhoto({
     throw error;
   }
 }
+/* --------------------------------------------------
+   TRAVEL JOURNAL
+--------------------------------------------------- */
+
+export async function getTrips() {
+  const { data, error } = await supabase
+    .from("trips")
+    .select(`
+      id,
+      visit_month,
+      visit_year,
+      notes,
+      destinations_master!trips_destination_fk (
+        geonameId,
+        name,
+        country_id
+      ),
+      photos (
+        image_url
+      )
+    `)
+    .order("visit_year", { ascending: false })
+    .order("created_at", { ascending: false });
+
+  if (error) {
+    console.error("Error loading trips:", error);
+    return [];
+  }
+
+  return data ?? [];
+}
