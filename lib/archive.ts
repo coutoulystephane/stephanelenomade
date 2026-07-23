@@ -299,11 +299,7 @@ export async function getTrip(id: number) {
         name,
         country_id,
         latitude,
-        longitude,
-        countries (
-          name,
-          iso_code
-        )
+        longitude
       ),
       photos (
         id,
@@ -320,4 +316,34 @@ export async function getTrip(id: number) {
   }
 
   return data;
+}
+/* --------------------------------------------------
+   COVER PHOTO
+--------------------------------------------------- */
+
+export async function setCoverPhoto(
+  tripId: number,
+  photoId: number
+) {
+  // Remove the current cover
+  const { error: resetError } = await supabase
+    .from("photos")
+    .update({ is_cover: false })
+    .eq("trip_id", tripId);
+
+  if (resetError) {
+    console.error("Error resetting cover:", resetError);
+    throw resetError;
+  }
+
+  // Set the new cover
+  const { error: coverError } = await supabase
+    .from("photos")
+    .update({ is_cover: true })
+    .eq("id", photoId);
+
+  if (coverError) {
+    console.error("Error setting cover:", coverError);
+    throw coverError;
+  }
 }
