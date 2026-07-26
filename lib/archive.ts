@@ -262,11 +262,13 @@ export async function getTrips() {
       visit_month,
       visit_year,
       notes,
-      destinations_master!trips_destination_fk (
-        geonameId,
-        name,
-        country_id
-      ),
+destinations_master!trips_destination_fk (
+  geonameId,
+  name,
+  country_id,
+  latitude,
+  longitude
+),
       photos (
        image_url,
        is_cover
