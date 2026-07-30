@@ -7,13 +7,11 @@ import Stats from "./Stats";
 export default function Hero() {
   return (
     <section className="relative h-screen overflow-hidden">
-
       {/* Background */}
       <Background />
 
       {/* Main Content */}
       <div className="relative z-20 mx-auto h-screen max-w-[1800px]">
-
         {/* Story */}
         <div className="absolute left-12 top-12 z-20">
           <StoryPanel />
@@ -35,14 +33,12 @@ export default function Hero() {
             className="object-contain"
           />
         </div>
-
       </div>
 
       {/* Stats */}
-      <div className="absolute bottom-10 left-1/2 -translate-x-1/2 z-50 w-full flex justify-center">
+      <div className="absolute bottom-4 left-137 z-50">
         <Stats />
       </div>
-
     </section>
   );
 }

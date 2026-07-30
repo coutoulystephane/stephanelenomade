@@ -10,12 +10,22 @@ export type MapDestination = {
   countryCode: string;
   visitMonth: string;
   visitYear: number;
+  coverImage: string | null;
 };
 
 export async function getVisitedDestinations(): Promise<MapDestination[]> {
   const { data: trips, error: tripsError } = await supabase
     .from("trips")
-    .select("destination_id, visit_month, visit_year");
+    .select(`
+      id,
+      destination_id,
+      visit_month,
+      visit_year,
+      photos (
+        image_url,
+        is_cover
+      )
+    `);
 
   if (tripsError) {
     console.error(tripsError);
@@ -51,10 +61,14 @@ export async function getVisitedDestinations(): Promise<MapDestination[]> {
   );
 
   return trips
-    .map((trip) => {
+    .map((trip: any) => {
       const destination = lookup.get(trip.destination_id);
 
       if (!destination) return null;
+
+      const coverPhoto =
+        trip.photos?.find((photo: any) => photo.is_cover) ??
+        trip.photos?.[0];
 
       return {
         geonameId: destination.geonameId,
@@ -72,6 +86,7 @@ export async function getVisitedDestinations(): Promise<MapDestination[]> {
         countryCode: destination.countryCode,
         visitMonth: trip.visit_month,
         visitYear: trip.visit_year,
+        coverImage: coverPhoto?.image_url ?? null,
       };
     })
     .filter(

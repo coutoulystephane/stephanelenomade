@@ -55,60 +55,64 @@ const stats = [
 
 export default function Stats() {
   return (
-    <div className="absolute bottom-8 left-1/2 z-50 -translate-x-1/2 w-[1300px]">
+    <div className="w-[560px]">
       <div
         className="
-          flex
-          w-full
           overflow-hidden
           rounded-[30px]
           border
-          border-white/6
-          bg-[rgba(28,18,12,0.42)]
-          backdrop-blur-6xl
+          border-white/10
+          bg-[rgba(28,18,12,0.9)]
+          backdrop-blur-3xl
           shadow-[0_20px_60px_rgba(0,0,0,0.45)]
         "
       >
-        {stats.map((stat, index) => {
-          const Icon = stat.icon;
+        <div className="grid grid-cols-4">
+          {stats.map((stat, index) => {
+            const Icon = stat.icon;
 
-          return (
-            <div
-              key={stat.title}
-              className="
-                relative
-                flex
-                flex-1
-                flex-col
-                items-center
-                px-5
-                py-5
-              "
-            >
-              <Icon
-                size={24}
-                strokeWidth={1.8}
-                className="mb-6 text-[#E7C35A]"
-              />
+            return (
+              <div
+                key={stat.title}
+                className="
+                  relative
+                  flex
+                  flex-col
+                  items-center
+                  justify-center
+                  px-4
+                  py-7
+                "
+              >
+                <Icon
+                  size={22}
+                  strokeWidth={1.8}
+                  className="mb-4 text-[#E7C35A]"
+                />
 
-              <div className="text-[48px] font-semibold leading-none text-white">
-                {stat.value}
+                <div className="text-[28px] font-semibold leading-none text-white">
+                  {stat.value}
+                </div>
+
+                <div className="mt-2 text-[11px] uppercase tracking-[0.18em] text-white">
+                  {stat.title}
+                </div>
+
+                <div className="mt-1 text-xs text-white/65">
+                  {stat.subtitle}
+                </div>
+
+                {index % 4 !== 3 && (
+                  <div className="absolute right-0 top-5 bottom-5 w-px bg-white/10" />
+                )}
+
+                {index < 4 && (
+                  <div className="absolute bottom-0 left-5 right-5 h-px bg-white/10" />
+                )}
               </div>
-
-              <div className="mt-3 text-[13px] uppercase tracking-[0.18em] text-white">
-                {stat.title}
-              </div>
-
-              <div className="mt-1 text-sm text-white/65">
-                {stat.subtitle}
-              </div>
-
-              {index < stats.length - 1 && (
-                <div className="absolute right-0 top-5 bottom-5 w-px bg-white/10" />
-              )}
-            </div>
-          );
-        })}
+            );
+          })}
+        </div>
       </div>
     </div>
   );

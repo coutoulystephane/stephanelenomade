@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import TravelMarker from "./TravelMarker";
+import DestinationCard from "./DestinationCard";
 import { calibrateMap } from "@/lib/map/calibrator";
 
 type Destination = {
@@ -11,8 +12,10 @@ type Destination = {
   longitude: number;
   map_x: number | null;
   map_y: number | null;
+  countryCode?: string;
   visitMonth?: string;
   visitYear?: number;
+  coverImage?: string | null;
 
   x: number;
   y: number;
@@ -22,6 +25,8 @@ export default function LiveTravelPins() {
   const [destinations, setDestinations] = useState<Destination[]>([]);
   const [editable, setEditable] = useState(false);
   const [original, setOriginal] = useState<Destination[]>([]);
+  const [selectedDestination, setSelectedDestination] =
+    useState<Destination | null>(null);
 
   useEffect(() => {
     async function load() {
@@ -140,6 +145,14 @@ export default function LiveTravelPins() {
         )}
       </div>
 
+      <DestinationCard
+        name={selectedDestination?.name}
+        country={selectedDestination?.countryCode}
+        visitMonth={selectedDestination?.visitMonth}
+        visitYear={selectedDestination?.visitYear}
+        coverImage={selectedDestination?.coverImage}
+      />
+
       {destinations.map((destination) => (
         <TravelMarker
           key={destination.geonameId}
@@ -148,6 +161,7 @@ export default function LiveTravelPins() {
           name={destination.name}
           editable={editable}
           onMove={(x, y) => movePin(destination.geonameId, x, y)}
+          onClick={() => setSelectedDestination(destination)}
         />
       ))}
     </>

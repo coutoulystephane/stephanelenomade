@@ -8,6 +8,7 @@ type TravelMarkerProps = {
   name: string;
   editable: boolean;
   onMove: (x: number, y: number) => void;
+  onClick: () => void;
 };
 
 export default function TravelMarker({
@@ -16,6 +17,7 @@ export default function TravelMarker({
   name,
   editable,
   onMove,
+  onClick,
 }: TravelMarkerProps) {
   const dragging = useRef(false);
 
@@ -48,10 +50,17 @@ export default function TravelMarker({
     );
   }
 
+  function handleClick() {
+    // Don't open the card while editing
+    if (editable) return;
+
+    onClick();
+  }
+
   return (
     <div
       className={`absolute group ${
-        editable ? "cursor-grab active:cursor-grabbing" : ""
+        editable ? "cursor-grab active:cursor-grabbing" : "cursor-pointer"
       }`}
       style={{
         left: `${x}%`,
@@ -62,6 +71,7 @@ export default function TravelMarker({
       onMouseUp={handleMouseUp}
       onMouseLeave={handleMouseUp}
       onMouseMove={handleMouseMove}
+      onClick={handleClick}
     >
       {/* Glow */}
       <div className="absolute inset-0 w-5 h-5 -translate-x-1/2 -translate-y-1/2 rounded-full bg-amber-400/25 blur-md animate-pulse" />
