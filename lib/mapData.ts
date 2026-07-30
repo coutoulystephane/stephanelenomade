@@ -5,13 +5,14 @@ export type MapDestination = {
   name: string;
   latitude: number;
   longitude: number;
+  map_x: number | null;
+  map_y: number | null;
   countryCode: string;
   visitMonth: string;
   visitYear: number;
 };
 
 export async function getVisitedDestinations(): Promise<MapDestination[]> {
-  // Load trips
   const { data: trips, error: tripsError } = await supabase
     .from("trips")
     .select("destination_id, visit_month, visit_year");
@@ -25,10 +26,8 @@ export async function getVisitedDestinations(): Promise<MapDestination[]> {
     return [];
   }
 
-  // Get unique destination IDs
   const ids = [...new Set(trips.map((trip) => trip.destination_id))];
 
-  // Load matching destinations
   const { data: destinations, error: destinationsError } = await supabase
     .from("destinations_master")
     .select(`
@@ -36,6 +35,8 @@ export async function getVisitedDestinations(): Promise<MapDestination[]> {
       name,
       latitude,
       longitude,
+      map_x,
+      map_y,
       countryCode
     `)
     .in("geonameId", ids);
@@ -60,6 +61,14 @@ export async function getVisitedDestinations(): Promise<MapDestination[]> {
         name: destination.name,
         latitude: Number(destination.latitude),
         longitude: Number(destination.longitude),
+        map_x:
+          destination.map_x !== null
+            ? Number(destination.map_x)
+            : null,
+        map_y:
+          destination.map_y !== null
+            ? Number(destination.map_y)
+            : null,
         countryCode: destination.countryCode,
         visitMonth: trip.visit_month,
         visitYear: trip.visit_year,

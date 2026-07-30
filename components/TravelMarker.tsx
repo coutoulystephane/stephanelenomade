@@ -1,29 +1,72 @@
 "use client";
 
+import { useRef } from "react";
+
 type TravelMarkerProps = {
   x: number;
   y: number;
   name: string;
+  editable: boolean;
+  onMove: (x: number, y: number) => void;
 };
 
 export default function TravelMarker({
   x,
   y,
   name,
+  editable,
+  onMove,
 }: TravelMarkerProps) {
+  const dragging = useRef(false);
+
+  function handleMouseDown() {
+    if (!editable) return;
+    dragging.current = true;
+  }
+
+  function handleMouseUp() {
+    dragging.current = false;
+  }
+
+  function handleMouseMove(
+    e: React.MouseEvent<HTMLDivElement, MouseEvent>
+  ) {
+    if (!editable || !dragging.current) return;
+
+    const parent = e.currentTarget.parentElement;
+
+    if (!parent) return;
+
+    const rect = parent.getBoundingClientRect();
+
+    const newX = ((e.clientX - rect.left) / rect.width) * 100;
+    const newY = ((e.clientY - rect.top) / rect.height) * 100;
+
+    onMove(
+      Math.max(0, Math.min(100, newX)),
+      Math.max(0, Math.min(100, newY))
+    );
+  }
+
   return (
     <div
-      className="absolute group"
+      className={`absolute group ${
+        editable ? "cursor-grab active:cursor-grabbing" : ""
+      }`}
       style={{
         left: `${x}%`,
         top: `${y}%`,
         transform: "translate(-50%, -50%)",
       }}
+      onMouseDown={handleMouseDown}
+      onMouseUp={handleMouseUp}
+      onMouseLeave={handleMouseUp}
+      onMouseMove={handleMouseMove}
     >
       {/* Glow */}
       <div className="absolute inset-0 w-5 h-5 -translate-x-1/2 -translate-y-1/2 rounded-full bg-amber-400/25 blur-md animate-pulse" />
 
-      {/* Gold center */}
+      {/* Pin */}
       <div className="relative w-2.5 h-2.5 rounded-full bg-amber-300 border border-white shadow-lg transition-transform duration-200 group-hover:scale-150" />
 
       {/* Tooltip */}

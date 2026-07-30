@@ -9,12 +9,19 @@ type Destination = {
   name: string;
   latitude: number;
   longitude: number;
+  map_x: number | null;
+  map_y: number | null;
   visitMonth?: string;
   visitYear?: number;
+
+  x: number;
+  y: number;
 };
 
 export default function LiveTravelPins() {
   const [destinations, setDestinations] = useState<Destination[]>([]);
+  const [editable, setEditable] = useState(false);
+  const [original, setOriginal] = useState<Destination[]>([]);
 
   useEffect(() => {
     async function load() {
@@ -22,36 +29,127 @@ export default function LiveTravelPins() {
         const response = await fetch("/api/map");
 
         if (!response.ok) {
-          throw new Error("Failed to load map data");
+          throw new Error("Failed to load map");
         }
 
-        const data: Destination[] = await response.json();
-        setDestinations(data);
+        const data = await response.json();
+
+        const mapped: Destination[] = data.map((d: any) => {
+          if (d.map_x != null && d.map_y != null) {
+            return {
+              ...d,
+              x: d.map_x * 100,
+              y: d.map_y * 100,
+            };
+          }
+
+          const point = calibrateMap(d.latitude, d.longitude);
+
+          return {
+            ...d,
+            x: point.x * 100,
+            y: point.y * 100,
+          };
+        });
+
+        setDestinations(mapped);
+        setOriginal(mapped);
       } catch (error) {
-        console.error("Error loading map destinations:", error);
+        console.error(error);
       }
     }
 
     load();
   }, []);
 
+  function movePin(id: number, x: number, y: number) {
+    setDestinations((pins) =>
+      pins.map((pin) =>
+        pin.geonameId === id
+          ? {
+              ...pin,
+              x,
+              y,
+            }
+          : pin
+      )
+    );
+  }
+
+  function cancelChanges() {
+    setDestinations(original);
+    setEditable(false);
+  }
+
+  async function saveChanges() {
+    try {
+      const pins = destinations.map((pin) => ({
+        geonameId: pin.geonameId,
+        map_x: pin.x / 100,
+        map_y: pin.y / 100,
+      }));
+
+      const response = await fetch("/api/map/save", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ pins }),
+      });
+
+      if (!response.ok) {
+        throw new Error("Failed to save pins");
+      }
+
+      setOriginal(destinations);
+      setEditable(false);
+
+      alert("Map saved successfully!");
+    } catch (error) {
+      console.error(error);
+      alert("Unable to save map.");
+    }
+  }
+
   return (
     <>
-      {destinations.map((destination, index) => {
-        const point = calibrateMap(
-          destination.latitude,
-          destination.longitude
-        );
+      <div className="absolute top-6 right-6 z-50 flex gap-2">
+        {!editable ? (
+          <button
+            onClick={() => setEditable(true)}
+            className="rounded-xl bg-black/70 px-4 py-2 text-white backdrop-blur"
+          >
+            ✏️ Edit
+          </button>
+        ) : (
+          <>
+            <button
+              onClick={saveChanges}
+              className="rounded-xl bg-emerald-600 px-4 py-2 text-white"
+            >
+              💾 Save
+            </button>
 
-        return (
-          <TravelMarker
-            key={`${destination.geonameId}-${index}`}
-            x={point.x * 100}
-            y={point.y * 100}
-            name={destination.name}
-          />
-        );
-      })}
+            <button
+              onClick={cancelChanges}
+              className="rounded-xl bg-red-600 px-4 py-2 text-white"
+            >
+              ❌ Cancel
+            </button>
+          </>
+        )}
+      </div>
+
+      {destinations.map((destination) => (
+        <TravelMarker
+          key={destination.geonameId}
+          x={destination.x}
+          y={destination.y}
+          name={destination.name}
+          editable={editable}
+          onMove={(x, y) => movePin(destination.geonameId, x, y)}
+        />
+      ))}
     </>
   );
 }
