@@ -1,6 +1,10 @@
+"use client";
+
 import Image from "next/image";
+import { useRouter } from "next/navigation";
 
 type DestinationCardProps = {
+  geonameId?: number;
   name?: string;
   country?: string;
   visitMonth?: string;
@@ -9,16 +13,19 @@ type DestinationCardProps = {
 };
 
 export default function DestinationCard({
+  geonameId,
   name,
   country,
   visitMonth,
   visitYear,
   coverImage,
 }: DestinationCardProps) {
+  const router = useRouter();
+
   const hasDestination = !!name;
 
   return (
-    <div className="absolute bottom-[-290px] right-[220px] z-40 w-[500px] rounded-3xl border border-white/10 bg-black/80 p-4 text-white shadow-2xl backdrop-blur-xl">
+    <div className="absolute bottom-[-205px] right-[220px] z-50 w-[500px] rounded-3xl border border-white/10 bg-black/80 p-4 text-white shadow-2xl backdrop-blur-xl">
       {!hasDestination ? (
         <>
           <h2 className="text-2xl font-bold">
@@ -59,20 +66,28 @@ export default function DestinationCard({
       ) : (
         <>
           {/* Cover Image */}
-          <div className="relative h-76 w-full overflow-hidden rounded-2xl border border-white/10">
-            {coverImage ? (
-              <Image
-                src={coverImage}
-                alt={name ?? "Destination"}
-                fill
-                className="object-cover"
-              />
-            ) : (
-              <div className="flex h-full items-center justify-center bg-white/5 text-gray-500">
-                No cover image
-              </div>
-            )}
-          </div>
+<div className="relative aspect-[16/9] w-full overflow-hidden rounded-2xl border border-white/10">
+  {coverImage ? (
+<div className="relative aspect-[16/9] w-full overflow-hidden rounded-2xl bg-black border border-white/10">
+  {coverImage ? (
+    <Image
+      src={coverImage}
+      alt={name ?? "Destination"}
+      fill
+      className="object-contain"
+    />
+  ) : (
+    <div className="flex h-full items-center justify-center bg-white/5 text-gray-500">
+      No cover image
+    </div>
+  )}
+</div>
+  ) : (
+    <div className="flex h-full items-center justify-center bg-white/5 text-gray-500">
+      No cover image
+    </div>
+  )}
+</div>
 
           {/* Destination Row */}
           <div className="mt-4 flex flex-wrap items-center gap-2 border-b border-white/5 pb-3">
@@ -101,11 +116,21 @@ export default function DestinationCard({
 
           {/* Buttons */}
           <div className="mt-4 flex gap-3">
-            <button className="rounded-xl bg-white/10 px-4 py-2 text-sm transition hover:bg-white/20">
+            <button
+              onClick={() =>
+                geonameId && router.push(`/journal/${geonameId}`)
+              }
+              className="rounded-xl bg-white/10 px-4 py-2 text-sm transition hover:bg-white/20"
+            >
               Read Story
             </button>
 
-            <button className="rounded-xl bg-white/10 px-4 py-2 text-sm transition hover:bg-white/20">
+            <button
+              onClick={() =>
+                geonameId && router.push(`/gallery/${geonameId}`)
+              }
+              className="rounded-xl bg-white/10 px-4 py-2 text-sm transition hover:bg-white/20"
+            >
               Gallery
             </button>
           </div>

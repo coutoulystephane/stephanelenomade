@@ -146,11 +146,12 @@ export default function LiveTravelPins() {
       </div>
 
       <DestinationCard
-        name={selectedDestination?.name}
-        country={selectedDestination?.countryCode}
-        visitMonth={selectedDestination?.visitMonth}
-        visitYear={selectedDestination?.visitYear}
-        coverImage={selectedDestination?.coverImage}
+  geonameId={selectedDestination?.geonameId}
+  name={selectedDestination?.name}
+  country={selectedDestination?.countryCode}
+  visitMonth={selectedDestination?.visitMonth}
+  visitYear={selectedDestination?.visitYear}
+  coverImage={selectedDestination?.coverImage}
       />
 
       {destinations.map((destination) => (
