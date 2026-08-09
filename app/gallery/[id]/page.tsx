@@ -31,23 +31,41 @@ export default async function GalleryPage({ params }: Props) {
 
   return (
     <main className="min-h-screen bg-[#05080d] text-white">
+
       {/* Hero */}
-      <section className="relative min-h-[45vh] overflow-hidden">
+      <section className="relative min-h-[45vh] overflow-hidden bg-[#05080d]">
+
         {coverPhoto?.image_url ? (
-          <Image
-            src={coverPhoto.image_url}
-            alt={entry.destination.name}
-            fill
-            priority
-            className="object-cover"
-          />
+          <>
+            {/* Blurred background */}
+            <Image
+              src={coverPhoto.image_url}
+              alt=""
+              fill
+              priority
+              className="scale-110 object-cover blur-2xl opacity-40"
+            />
+
+            {/* Full original photo — no cropping */}
+            <div className="absolute inset-0 flex items-center justify-center">
+              <Image
+                src={coverPhoto.image_url}
+                alt={entry.destination.name}
+                fill
+                priority
+                className="object-contain"
+              />
+            </div>
+          </>
         ) : (
           <div className="absolute inset-0 bg-[#0b1420]" />
         )}
 
-        <div className="absolute inset-0 bg-black/50" />
+        {/* Dark overlay */}
+        <div className="absolute inset-0 bg-black/35" />
 
-        <div className="absolute inset-0 bg-gradient-to-t from-[#05080d] via-black/10 to-black/30" />
+        {/* Bottom cinematic gradient */}
+        <div className="absolute inset-0 bg-gradient-to-t from-[#05080d] via-black/5 to-black/20" />
 
         {/* Navigation */}
         <div className="relative z-10 mx-auto flex max-w-7xl items-center justify-between px-6 pt-8 lg:px-10">
@@ -69,6 +87,7 @@ export default async function GalleryPage({ params }: Props) {
         {/* Hero Content */}
         <div className="relative z-10 mx-auto flex min-h-[45vh] max-w-7xl items-end px-6 pb-16 lg:px-10 lg:pb-20">
           <div className="max-w-5xl">
+
             <p className="mb-5 text-sm uppercase tracking-[0.45em] text-yellow-400">
               Travel Gallery
             </p>
@@ -94,13 +113,16 @@ export default async function GalleryPage({ params }: Props) {
                 {photoCount} {photoCount === 1 ? "Photo" : "Photos"}
               </span>
             </div>
+
           </div>
         </div>
       </section>
 
       {/* Gallery */}
       <section className="mx-auto max-w-7xl px-6 py-16 lg:px-10 lg:py-24">
+
         <div className="mb-12 flex items-end justify-between">
+
           <div>
             <p className="mb-3 text-xs uppercase tracking-[0.4em] text-yellow-500">
               Memories
@@ -114,16 +136,19 @@ export default async function GalleryPage({ params }: Props) {
           <span className="text-sm uppercase tracking-[0.25em] text-white/40">
             {photoCount} {photoCount === 1 ? "Photo" : "Photos"}
           </span>
+
         </div>
 
         {galleryPhotos.length > 0 ? (
           <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
+
             {galleryPhotos.map((photo: any, index: number) => (
               <div
                 key={photo.id ?? photo.image_url}
-            className="group relative overflow-hidden rounded-[28px] bg-[#0b111a]"
+                className="group relative overflow-hidden rounded-[28px] bg-[#0b111a]"
               >
                 <div className="relative aspect-[4/3]">
+
                   <Image
                     src={photo.image_url}
                     alt={`${entry.destination.name} photo ${index + 1}`}
@@ -132,9 +157,11 @@ export default async function GalleryPage({ params }: Props) {
                   />
 
                   <div className="absolute inset-0 bg-black/0 transition duration-500 group-hover:bg-black/10" />
+
                 </div>
               </div>
             ))}
+
           </div>
         ) : (
           <div className="rounded-[28px] border border-white/10 bg-white/[0.03] px-8 py-16 text-center">
@@ -143,11 +170,14 @@ export default async function GalleryPage({ params }: Props) {
             </p>
           </div>
         )}
+
       </section>
 
       {/* Bottom Navigation */}
       <section className="border-t border-white/10">
+
         <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-12 lg:px-10">
+
           <Link
             href={`/journal/${id}`}
             className="text-sm uppercase tracking-[0.25em] text-white/50 transition hover:text-white"
@@ -161,8 +191,11 @@ export default async function GalleryPage({ params }: Props) {
           >
             World Map
           </Link>
+
         </div>
+
       </section>
+
     </main>
   );
 }
