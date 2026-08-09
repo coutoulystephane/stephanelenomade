@@ -32,7 +32,7 @@ export default async function GalleryPage({ params }: Props) {
   return (
     <main className="min-h-screen bg-[#05080d] text-white">
       {/* Hero */}
-      <section className="relative min-h-[78vh] overflow-hidden">
+      <section className="relative min-h-[45vh] overflow-hidden">
         {coverPhoto?.image_url ? (
           <Image
             src={coverPhoto.image_url}
@@ -67,7 +67,7 @@ export default async function GalleryPage({ params }: Props) {
         </div>
 
         {/* Hero Content */}
-        <div className="relative z-10 mx-auto flex min-h-[78vh] max-w-7xl items-end px-6 pb-16 lg:px-10 lg:pb-20">
+        <div className="relative z-10 mx-auto flex min-h-[45vh] max-w-7xl items-end px-6 pb-16 lg:px-10 lg:pb-20">
           <div className="max-w-5xl">
             <p className="mb-5 text-sm uppercase tracking-[0.45em] text-yellow-400">
               Travel Gallery
@@ -121,11 +121,7 @@ export default async function GalleryPage({ params }: Props) {
             {galleryPhotos.map((photo: any, index: number) => (
               <div
                 key={photo.id ?? photo.image_url}
-                className={`group relative overflow-hidden rounded-[28px] bg-[#0b111a] ${
-                  index % 5 === 0
-                    ? "md:col-span-2 lg:col-span-2"
-                    : ""
-                }`}
+            className="group relative overflow-hidden rounded-[28px] bg-[#0b111a]"
               >
                 <div className="relative aspect-[4/3]">
                   <Image
