@@ -61,11 +61,10 @@ export default async function GalleryPage({ params }: Props) {
           <div className="absolute inset-0 bg-[#0b1420]" />
         )}
 
-        {/* Dark overlay */}
+        {/* Cinematic overlays */}
         <div className="absolute inset-0 bg-black/35" />
 
-        {/* Bottom cinematic gradient */}
-        <div className="absolute inset-0 bg-gradient-to-t from-[#05080d] via-black/5 to-black/20" />
+        <div className="absolute inset-0 bg-gradient-to-t from-[#05080d] via-black/10 to-black/25" />
 
         {/* Navigation */}
         <div className="relative z-10 mx-auto flex max-w-7xl items-center justify-between px-6 pt-8 lg:px-10">
@@ -85,31 +84,34 @@ export default async function GalleryPage({ params }: Props) {
         </div>
 
         {/* Hero Content */}
-        <div className="relative z-10 mx-auto flex min-h-[45vh] max-w-7xl items-end px-6 pb-16 lg:px-10 lg:pb-20">
+        <div className="relative z-10 mx-auto flex min-h-[45vh] max-w-7xl items-end px-6 pb-12 lg:px-10 lg:pb-16">
           <div className="max-w-5xl">
 
-            <p className="mb-5 text-sm uppercase tracking-[0.45em] text-yellow-400">
+            <p className="mb-4 text-xs font-medium uppercase tracking-[0.5em] text-yellow-400">
               Travel Gallery
             </p>
 
-            <h1 className="font-serif text-5xl font-light tracking-[0.08em] md:text-7xl lg:text-8xl">
+            <h1 className="font-serif text-5xl font-light leading-[0.95] tracking-[0.06em] md:text-7xl lg:text-8xl">
               {entry.destination.name}
             </h1>
 
-            <div className="mt-7 h-px w-24 bg-yellow-500" />
+            <div className="mt-6 h-px w-20 bg-yellow-500" />
 
-            <div className="mt-6 flex flex-wrap items-center gap-x-6 gap-y-3 text-sm uppercase tracking-[0.28em] text-white/70">
-              <span>{entry.destination.countryCode}</span>
+            {/* Metadata */}
+            <div className="mt-6 inline-flex flex-wrap items-center gap-x-5 gap-y-3 rounded-full border border-white/10 bg-black/25 px-5 py-3 backdrop-blur-md">
+              <span className="text-xs uppercase tracking-[0.25em] text-white/75">
+                {entry.destination.countryCode}
+              </span>
 
-              <span className="hidden h-1 w-1 rounded-full bg-yellow-500 sm:block" />
+              <span className="h-1 w-1 rounded-full bg-yellow-500" />
 
-              <span>
+              <span className="text-xs uppercase tracking-[0.25em] text-white/75">
                 {entry.visit_month} {entry.visit_year}
               </span>
 
-              <span className="hidden h-1 w-1 rounded-full bg-yellow-500 sm:block" />
+              <span className="h-1 w-1 rounded-full bg-yellow-500" />
 
-              <span>
+              <span className="text-xs uppercase tracking-[0.25em] text-white/75">
                 {photoCount} {photoCount === 1 ? "Photo" : "Photos"}
               </span>
             </div>
