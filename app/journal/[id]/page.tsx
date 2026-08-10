@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getJournalEntry } from "@/lib/journal";
+import GalleryPhotoViewer from "@/components/gallery/GalleryPhotoViewer";
 
 type Props = {
   params: Promise<{
@@ -23,8 +24,7 @@ export default async function JournalPage({ params }: Props) {
     entry.photos?.[0];
 
   return (
-    <main className="min-h-screen bg-[#0b0b0b] text-white">
-
+    <main>
       {/* Back Navigation */}
       <div className="mx-auto max-w-6xl px-6 pt-8">
         <Link
@@ -39,7 +39,6 @@ export default async function JournalPage({ params }: Props) {
       {coverPhoto?.image_url && (
         <section className="mx-auto mt-8 max-w-4xl px-6">
           <div className="overflow-hidden rounded-[32px] bg-black shadow-2xl">
-
             <div className="relative flex h-[320px] items-center justify-center">
               <Image
                 src={coverPhoto.image_url}
@@ -49,14 +48,12 @@ export default async function JournalPage({ params }: Props) {
                 className="object-contain"
               />
             </div>
-
           </div>
         </section>
       )}
 
       {/* Destination Header */}
       <section className="mx-auto max-w-4xl px-6 py-6 text-center">
-
         <h1 className="text-5xl font-light tracking-[0.25em] uppercase">
           {entry.destination.name}
         </h1>
@@ -64,37 +61,31 @@ export default async function JournalPage({ params }: Props) {
         <div className="mx-auto mt-6 h-px w-20 bg-yellow-500" />
 
         <p className="mt-4 text-lg tracking-[0.35em] uppercase text-gray-400">
-          {entry.destination.countryCode} • {entry.visit_month} {entry.visit_year}
+          {entry.destination.countryCode} • {entry.visit_month}{" "}
+          {entry.visit_year}
         </p>
-
       </section>
 
       {/* Story */}
       <section className="mx-auto max-w-3xl px-6 pb-16">
-
         <h2 className="mb-8 text-center text-3xl font-light tracking-widest uppercase">
           My Journey
         </h2>
 
         {entry.notes ? (
           <div className="space-y-8 text-xl leading-10 text-gray-300">
-            <p className="whitespace-pre-wrap">
-              {entry.notes}
-            </p>
+            <p className="whitespace-pre-wrap">{entry.notes}</p>
           </div>
         ) : (
           <p className="text-center italic text-gray-500">
             No travel story has been written yet.
           </p>
         )}
-
       </section>
 
       {/* Gallery */}
       <section className="mx-auto max-w-3xl px-6 pt-4 pb-24">
-
         <div className="mb-10 flex items-center justify-between">
-
           <h2 className="text-3xl font-light tracking-widest uppercase">
             Gallery
           </h2>
@@ -102,34 +93,23 @@ export default async function JournalPage({ params }: Props) {
           <span className="text-sm uppercase tracking-[0.3em] text-gray-500">
             {entry.photos?.length ?? 0} Photos
           </span>
-
         </div>
 
-        <div className="grid grid-cols-2 gap-5 md:grid-cols-4">
-
-          {entry.photos?.map((photo: any) => (
-            <div
-              key={photo.image_url}
-              className="group relative aspect-square overflow-hidden rounded-3xl bg-neutral-900 shadow-xl"
-            >
-              <Image
-                src={photo.image_url}
-                alt={entry.destination.name}
-                fill
-                className="object-cover transition duration-500 group-hover:scale-110"
-              />
-            </div>
-          ))}
-
-        </div>
-
+        {entry.photos && entry.photos.length > 0 ? (
+          <GalleryPhotoViewer
+            photos={entry.photos}
+            destinationName={entry.destination.name}
+          />
+        ) : (
+          <p className="text-center text-gray-500">
+            No photos have been added yet.
+          </p>
+        )}
       </section>
 
       {/* Bottom Navigation */}
       <section className="border-t border-white/10">
-
         <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-12">
-
           <button className="text-sm uppercase tracking-[0.25em] text-gray-400 transition hover:text-white">
             ← Previous Destination
           </button>
@@ -144,11 +124,8 @@ export default async function JournalPage({ params }: Props) {
           <button className="text-sm uppercase tracking-[0.25em] text-gray-400 transition hover:text-white">
             Next Destination →
           </button>
-
         </div>
-
       </section>
-
     </main>
   );
 }

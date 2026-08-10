@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getJournalEntry } from "@/lib/journal";
+import GalleryPhotoViewer from "@/components/gallery/GalleryPhotoViewer";
 
 type Props = {
   params: Promise<{
@@ -30,8 +31,7 @@ export default async function GalleryPage({ params }: Props) {
   const photoCount = entry.photos?.length ?? 0;
 
   return (
-    <main className="min-h-screen bg-[#05080d] text-white">
-
+    <main>
       {/* Hero */}
       <section className="relative min-h-[45vh] overflow-hidden bg-[#05080d]">
 
@@ -142,29 +142,10 @@ export default async function GalleryPage({ params }: Props) {
         </div>
 
         {galleryPhotos.length > 0 ? (
-          <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
-
-            {galleryPhotos.map((photo: any, index: number) => (
-              <div
-                key={photo.id ?? photo.image_url}
-                className="group relative overflow-hidden rounded-[28px] bg-[#0b111a]"
-              >
-                <div className="relative aspect-[4/3]">
-
-                  <Image
-                    src={photo.image_url}
-                    alt={`${entry.destination.name} photo ${index + 1}`}
-                    fill
-                    className="object-cover transition duration-700 group-hover:scale-105"
-                  />
-
-                  <div className="absolute inset-0 bg-black/0 transition duration-500 group-hover:bg-black/10" />
-
-                </div>
-              </div>
-            ))}
-
-          </div>
+          <GalleryPhotoViewer
+            photos={galleryPhotos}
+            destinationName={entry.destination.name}
+          />
         ) : (
           <div className="rounded-[28px] border border-white/10 bg-white/[0.03] px-8 py-16 text-center">
             <p className="text-lg text-white/50">
@@ -197,7 +178,6 @@ export default async function GalleryPage({ params }: Props) {
         </div>
 
       </section>
-
     </main>
   );
 }
