@@ -2,8 +2,6 @@ import {
   Globe,
   MapPin,
   Map,
-  Route,
-  Plane,
   Camera,
   Heart,
 } from "lucide-react";
@@ -25,55 +23,43 @@ export default function Stats({
     {
       icon: Globe,
       value: countries.toLocaleString(),
-      title: "COUNTRIES",
+      title: "Countries",
     },
     {
       icon: MapPin,
       value: cities.toLocaleString(),
-      title: "CITIES",
+      title: "Cities",
     },
     {
       icon: Map,
       value: continents.toLocaleString(),
-      title: "CONTINENTS",
-    },
-    {
-      icon: Route,
-      value: "142,000",
-      title: "KILOMETRES",
-    },
-    {
-      icon: Plane,
-      value: "87",
-      title: "FLIGHTS",
+      title: "Continents",
     },
     {
       icon: Camera,
       value: photos.toLocaleString(),
-      title: "PHOTOS",
-    },
-    {
-      icon: Heart,
-      value: "∞",
-      title: "MEMORIES",
+      title: "Photos",
     },
   ];
 
   return (
-    <div className="w-[1100px] max-w-[calc(100vw-40px)]">
+    <div className="w-[680px] max-w-[calc(100vw-40px)]">
       <div
         className="
           overflow-hidden
-          rounded-full
+          rounded-[28px]
           border
-          border-white/10
-          bg-[rgba(18,12,9,0.72)]
-          px-2
-          backdrop-blur-2xl
-          shadow-[0_15px_50px_rgba(0,0,0,0.35)]
+          border-[#d4af37]/30
+          bg-[rgba(18,14,12,0.86)]
+          px-5
+          pt-5
+          pb-3
+          shadow-[0_20px_60px_rgba(0,0,0,0.45)]
+          backdrop-blur-3xl
         "
       >
-        <div className="grid grid-cols-7">
+        {/* Main statistics */}
+        <div className="grid grid-cols-4">
           {stats.map((stat, index) => {
             const Icon = stat.icon;
 
@@ -84,37 +70,48 @@ export default function Stats({
                   relative
                   flex
                   min-w-0
+                  flex-col
                   items-center
                   justify-center
-                  gap-2
                   px-3
-                  py-3
+                  pb-4
                 "
               >
                 <Icon
-                  size={17}
+                  size={26}
                   strokeWidth={1.7}
-                  className="shrink-0 text-[#E7C35A]"
+                  className="mb-3 text-[#E7C35A]"
                 />
 
-                <div className="min-w-0">
-                  <div className="flex items-baseline gap-1.5 whitespace-nowrap">
-                    <span className="text-lg font-semibold leading-none text-white">
-                      {stat.value}
-                    </span>
+                <div className="text-[28px] font-semibold leading-none text-white">
+                  {stat.value}
+                </div>
 
-                    <span className="text-[9px] uppercase tracking-[0.12em] text-white/65">
-                      {stat.title}
-                    </span>
-                  </div>
+                <div className="mt-2 text-[13px] text-[#E7C35A]">
+                  {stat.title}
                 </div>
 
                 {index !== stats.length - 1 && (
-                  <div className="absolute right-0 top-2 bottom-2 w-px bg-white/10" />
+                  <div className="absolute right-0 top-1 bottom-1 w-px bg-white/15" />
                 )}
               </div>
             );
           })}
+        </div>
+
+        {/* And counting */}
+        <div className="flex items-center justify-center gap-5 pt-1">
+          <div className="h-px w-[220px] bg-[#d4af37]/40" />
+
+          <span className="whitespace-nowrap font-serif text-[18px] italic text-[#E7C35A]">
+            and counting...
+          </span>
+
+          <div className="h-px w-[220px] bg-[#d4af37]/40" />
+        </div>
+
+        <div className="mt-2 flex justify-center text-[#E7C35A]">
+          <Heart size={24} strokeWidth={1.5} />
         </div>
       </div>
     </div>

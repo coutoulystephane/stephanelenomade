@@ -38,8 +38,8 @@ export default async function Hero() {
         </div>
       </div>
 
-      {/* Stats */}
-      <div className="absolute bottom-5 left-1/2 z-50 -translate-x-1/2">
+      {/* Statistics */}
+      <div className="absolute bottom-[58px] left-[27.5%] z-50">
         <Stats
           countries={stats.countries}
           cities={stats.cities}
