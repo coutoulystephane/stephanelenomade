@@ -28,7 +28,7 @@ export default function DestinationCard({
     <div
       className="
         absolute
-        bottom-[-150px]
+        bottom-[-145px]
         right-[300px]
         z-50
         w-[340px]
