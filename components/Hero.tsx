@@ -3,8 +3,11 @@ import Background from "./Background";
 import StoryPanel from "./StoryPanel";
 import WorldMap from "./WorldMap";
 import Stats from "./Stats";
+import { getTravelStats } from "@/lib/stats";
 
-export default function Hero() {
+export default async function Hero() {
+  const stats = await getTravelStats();
+
   return (
     <section className="relative h-screen overflow-hidden">
       {/* Background */}
@@ -37,7 +40,12 @@ export default function Hero() {
 
       {/* Stats */}
       <div className="absolute bottom-4 left-137 z-50">
-        <Stats />
+        <Stats
+          countries={stats.countries}
+          cities={stats.cities}
+          continents={stats.continents}
+          photos={stats.photos}
+        />
       </div>
     </section>
   );

@@ -2,6 +2,7 @@
 
 import Image from "next/image";
 import { useRouter } from "next/navigation";
+import { useTravelStats } from "./useTravelStats";
 
 type DestinationCardProps = {
   geonameId?: number;
@@ -21,6 +22,7 @@ export default function DestinationCard({
   coverImage,
 }: DestinationCardProps) {
   const router = useRouter();
+  const stats = useTravelStats();
 
   const hasDestination = !!name;
 
@@ -41,21 +43,21 @@ export default function DestinationCard({
           <div className="mt-5 border-t border-white/10 pt-4">
             <div className="grid grid-cols-3 gap-4 text-center">
               <div>
-                <p className="text-2xl font-bold text-yellow-400">56</p>
+                <p className="text-2xl font-bold text-yellow-400">{stats.countries}</p>
                 <p className="text-xs uppercase tracking-wider text-gray-400">
                   Countries
                 </p>
               </div>
 
               <div>
-                <p className="text-2xl font-bold text-yellow-400">188</p>
+                <p className="text-2xl font-bold text-yellow-400">{stats.cities}</p>
                 <p className="text-xs uppercase tracking-wider text-gray-400">
                   Cities
                 </p>
               </div>
 
               <div>
-                <p className="text-2xl font-bold text-yellow-400">12,340</p>
+                <p className="text-2xl font-bold text-yellow-400">{stats.photos.toLocaleString()}</p>
                 <p className="text-xs uppercase tracking-wider text-gray-400">
                   Photos
                 </p>

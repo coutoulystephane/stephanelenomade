@@ -1,8 +1,11 @@
 "use client";
 
 import Image from "next/image";
+import { useTravelStats } from "./useTravelStats";
 
 export default function InteractiveMap() {
+  const stats = useTravelStats();
+
   return (
     <section className="relative w-full bg-[#07111f] pt-36 pb-12">
 
@@ -138,13 +141,13 @@ export default function InteractiveMap() {
           >
 
             <Stat
-              number="56"
+              number={stats.countries.toLocaleString()}
               title="COUNTRIES"
               subtitle="Visited"
             />
 
             <Stat
-              number="188"
+              number={stats.cities.toLocaleString()}
               title="CITIES"
               subtitle="Explored"
             />
@@ -156,7 +159,7 @@ export default function InteractiveMap() {
             />
 
             <Stat
-              number="6"
+              number={stats.continents.toLocaleString()}
               title="CONTINENTS"
               subtitle=""
             />

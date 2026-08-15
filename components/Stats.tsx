@@ -8,52 +8,64 @@ import {
   Heart,
 } from "lucide-react";
 
-const stats = [
-  {
-    icon: Globe,
-    value: "56",
-    title: "COUNTRIES",
-    subtitle: "Visited",
-  },
-  {
-    icon: MapPin,
-    value: "188",
-    title: "CITIES",
-    subtitle: "Explored",
-  },
-  {
-    icon: Map,
-    value: "6",
-    title: "CONTINENTS",
-    subtitle: "Discovered",
-  },
-  {
-    icon: Route,
-    value: "142,000",
-    title: "KILOMETRES",
-    subtitle: "Travelled",
-  },
-  {
-    icon: Plane,
-    value: "87",
-    title: "FLIGHTS",
-    subtitle: "Taken",
-  },
-  {
-    icon: Camera,
-    value: "12,340",
-    title: "PHOTOS",
-    subtitle: "Captured",
-  },
-  {
-    icon: Heart,
-    value: "∞",
-    title: "MEMORIES",
-    subtitle: "Collected",
-  },
-];
+type StatsProps = {
+  countries: number;
+  cities: number;
+  continents: number;
+  photos: number;
+};
 
-export default function Stats() {
+export default function Stats({
+  countries,
+  cities,
+  continents,
+  photos,
+}: StatsProps) {
+  const stats = [
+    {
+      icon: Globe,
+      value: countries.toLocaleString(),
+      title: "COUNTRIES",
+      subtitle: "Visited",
+    },
+    {
+      icon: MapPin,
+      value: cities.toLocaleString(),
+      title: "CITIES",
+      subtitle: "Explored",
+    },
+    {
+      icon: Map,
+      value: continents.toLocaleString(),
+      title: "CONTINENTS",
+      subtitle: "Discovered",
+    },
+    {
+      icon: Route,
+      value: "142,000",
+      title: "KILOMETRES",
+      subtitle: "Travelled",
+    },
+    {
+      icon: Plane,
+      value: "87",
+      title: "FLIGHTS",
+      subtitle: "Taken",
+    },
+    {
+      icon: Camera,
+      value: photos.toLocaleString(),
+      title: "PHOTOS",
+      subtitle: "Captured",
+    },
+    {
+      icon: Heart,
+      value: "∞",
+      title: "MEMORIES",
+      subtitle: "Collected",
+    },
+  ];
+
   return (
     <div className="w-[560px]">
       <div
