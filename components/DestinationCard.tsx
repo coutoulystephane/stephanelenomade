@@ -28,43 +28,39 @@ export default function DestinationCard({
     <div
       className="
         absolute
-        bottom-[-45px]
-        right-[80px]
+        bottom-[-150px]
+        right-[300px]
         z-50
-        w-[460px]
+        w-[340px]
         rounded-[28px]
         border
-        border-white/10
-        bg-[rgba(12,10,9,0.78)]
+        border-[#d4af37]/30
+        bg-[rgba(12,10,9,0.84)]
         p-5
         text-white
-        shadow-[0_20px_60px_rgba(0,0,0,0.4)]
+        shadow-[0_20px_60px_rgba(0,0,0,0.45)]
         backdrop-blur-2xl
       "
     >
       {!hasDestination ? (
         <>
-          <div className="flex items-start gap-4">
-            <div className="text-3xl text-[#E7C35A]">✦</div>
+          <h2 className="font-serif text-[27px] text-[#E7C35A]">
+            Discover My Journey
+          </h2>
 
-            <div>
-              <h2 className="font-serif text-3xl text-white">
-                Discover My Journey
-              </h2>
+          <p className="mt-4 text-[14px] leading-6 text-white/85">
+            Every glowing pin marks a place I've visited — and every place has
+            a story.
+          </p>
 
-              <p className="mt-3 text-sm leading-6 text-white/70">
-                Every glowing pin marks a place I've visited — and every place
-                has a story.
-              </p>
+          <div className="mt-5 border-t border-white/10 pt-4">
+            <div className="flex items-center justify-between">
+              <span className="text-[13px] uppercase tracking-[0.2em] text-[#E7C35A]">
+                Explore the map
+              </span>
+
+             
             </div>
-          </div>
-
-          <div className="mt-5 flex items-center justify-between border-t border-white/10 pt-4">
-            <span className="text-xs uppercase tracking-[0.25em] text-[#E7C35A]">
-              Explore the map
-            </span>
-
-            <span className="text-xl text-[#E7C35A]">→</span>
           </div>
         </>
       ) : (

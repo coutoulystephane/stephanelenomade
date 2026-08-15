@@ -118,8 +118,33 @@ export default function LiveTravelPins() {
 
   return (
     <>
-      {/* Map editor controls are intentionally hidden on the public homepage.
-          The editing logic remains available in this component. */}
+      {/* Map editor controls */}
+      <div className="absolute top-6 right-6 z-50 flex gap-2">
+        {!editable ? (
+          <button
+            onClick={() => setEditable(true)}
+            className="rounded-xl bg-black/70 px-4 py-2 text-white backdrop-blur"
+          >
+            ✏️ Edit
+          </button>
+        ) : (
+          <>
+            <button
+              onClick={saveChanges}
+              className="rounded-xl bg-emerald-600 px-4 py-2 text-white"
+            >
+              💾 Save
+            </button>
+
+            <button
+              onClick={cancelChanges}
+              className="rounded-xl bg-red-600 px-4 py-2 text-white"
+            >
+              ❌ Cancel
+            </button>
+          </>
+        )}
+      </div>
 
       <DestinationCard
         geonameId={selectedDestination?.geonameId}
