@@ -2,7 +2,6 @@
 
 import Image from "next/image";
 import { useRouter } from "next/navigation";
-import { useTravelStats } from "./useTravelStats";
 
 type DestinationCardProps = {
   geonameId?: number;
@@ -22,87 +21,78 @@ export default function DestinationCard({
   coverImage,
 }: DestinationCardProps) {
   const router = useRouter();
-  const stats = useTravelStats();
 
   const hasDestination = !!name;
 
   return (
-    <div className="absolute bottom-[-205px] right-[220px] z-50 w-[500px] rounded-3xl border border-white/10 bg-black/80 p-4 text-white shadow-2xl backdrop-blur-xl">
+    <div
+      className="
+        absolute
+        bottom-[-45px]
+        right-[80px]
+        z-50
+        w-[460px]
+        rounded-[28px]
+        border
+        border-white/10
+        bg-[rgba(12,10,9,0.78)]
+        p-5
+        text-white
+        shadow-[0_20px_60px_rgba(0,0,0,0.4)]
+        backdrop-blur-2xl
+      "
+    >
       {!hasDestination ? (
         <>
-          <h2 className="text-2xl font-bold">
-            🌍 Discover My Journey
-          </h2>
+          <div className="flex items-start gap-4">
+            <div className="text-3xl text-[#E7C35A]">✦</div>
 
-          <p className="mt-3 leading-relaxed text-gray-300">
-            Click any glowing destination on the map to discover the places
-            I've visited, the stories behind them, and the memories collected
-            around the world.
-          </p>
+            <div>
+              <h2 className="font-serif text-3xl text-white">
+                Discover My Journey
+              </h2>
 
-          <div className="mt-5 border-t border-white/10 pt-4">
-            <div className="grid grid-cols-3 gap-4 text-center">
-              <div>
-                <p className="text-2xl font-bold text-yellow-400">{stats.countries}</p>
-                <p className="text-xs uppercase tracking-wider text-gray-400">
-                  Countries
-                </p>
-              </div>
-
-              <div>
-                <p className="text-2xl font-bold text-yellow-400">{stats.cities}</p>
-                <p className="text-xs uppercase tracking-wider text-gray-400">
-                  Cities
-                </p>
-              </div>
-
-              <div>
-                <p className="text-2xl font-bold text-yellow-400">{stats.photos.toLocaleString()}</p>
-                <p className="text-xs uppercase tracking-wider text-gray-400">
-                  Photos
-                </p>
-              </div>
+              <p className="mt-3 text-sm leading-6 text-white/70">
+                Every glowing pin marks a place I've visited — and every place
+                has a story.
+              </p>
             </div>
+          </div>
+
+          <div className="mt-5 flex items-center justify-between border-t border-white/10 pt-4">
+            <span className="text-xs uppercase tracking-[0.25em] text-[#E7C35A]">
+              Explore the map
+            </span>
+
+            <span className="text-xl text-[#E7C35A]">→</span>
           </div>
         </>
       ) : (
         <>
           {/* Cover Image */}
-<div className="relative aspect-[16/9] w-full overflow-hidden rounded-2xl border border-white/10">
-  {coverImage ? (
-<div className="relative aspect-[16/9] w-full overflow-hidden rounded-2xl bg-black border border-white/10">
-  {coverImage ? (
-    <Image
-      src={coverImage}
-      alt={name ?? "Destination"}
-      fill
-      className="object-contain"
-    />
-  ) : (
-    <div className="flex h-full items-center justify-center bg-white/5 text-gray-500">
-      No cover image
-    </div>
-  )}
-</div>
-  ) : (
-    <div className="flex h-full items-center justify-center bg-white/5 text-gray-500">
-      No cover image
-    </div>
-  )}
-</div>
+          <div className="relative aspect-[16/9] w-full overflow-hidden rounded-2xl border border-white/10 bg-black">
+            {coverImage ? (
+              <Image
+                src={coverImage}
+                alt={name ?? "Destination"}
+                fill
+                className="object-contain"
+              />
+            ) : (
+              <div className="flex h-full items-center justify-center bg-white/5 text-gray-500">
+                No cover image
+              </div>
+            )}
+          </div>
 
           {/* Destination Row */}
           <div className="mt-4 flex flex-wrap items-center gap-2 border-b border-white/5 pb-3">
-            <h2 className="text-3xl font-bold leading-none">
-              {name}
-            </h2>
+            <h2 className="text-3xl font-bold leading-none">{name}</h2>
 
             {country && (
               <>
                 <span className="text-white/20">|</span>
-                <span className="text-gray-300">
-                  {country}
-                </span>
+                <span className="text-gray-300">{country}</span>
               </>
             )}
 

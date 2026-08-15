@@ -51,7 +51,6 @@ export default function TravelMarker({
   }
 
   function handleClick() {
-    // Don't open the card while editing
     if (editable) return;
 
     onClick();
@@ -73,31 +72,78 @@ export default function TravelMarker({
       onMouseMove={handleMouseMove}
       onClick={handleClick}
     >
-      {/* Glow */}
-      <div className="absolute inset-0 w-5 h-5 -translate-x-1/2 -translate-y-1/2 rounded-full bg-amber-400/25 blur-md animate-pulse" />
+      {/* Outer glow */}
+      <div
+        className="
+          absolute
+          left-1/2
+          top-1/2
+          h-10
+          w-10
+          -translate-x-1/2
+          -translate-y-1/2
+          rounded-full
+          bg-amber-400/30
+          blur-lg
+          animate-pulse
+        "
+      />
+
+      {/* Inner halo */}
+      <div
+        className="
+          absolute
+          left-1/2
+          top-1/2
+          h-6
+          w-6
+          -translate-x-1/2
+          -translate-y-1/2
+          rounded-full
+          bg-amber-300/25
+          blur-md
+        "
+      />
 
       {/* Pin */}
-      <div className="relative w-2.5 h-2.5 rounded-full bg-amber-300 border border-white shadow-lg transition-transform duration-200 group-hover:scale-150" />
+      <div
+        className="
+          relative
+          h-4
+          w-4
+          rounded-full
+          border-2
+          border-white
+          bg-amber-300
+          shadow-[0_0_14px_rgba(251,191,36,0.95)]
+          transition-all
+          duration-200
+          group-hover:scale-150
+          group-hover:bg-white
+          group-hover:shadow-[0_0_24px_rgba(251,191,36,1)]
+        "
+      />
 
       {/* Tooltip */}
       <div
         className="
           absolute
           left-1/2
-          bottom-5
+          bottom-7
           -translate-x-1/2
           hidden
           group-hover:block
           whitespace-nowrap
           rounded-xl
-          bg-black/70
-          backdrop-blur-md
           border
-          border-white/20
+          border-[#d4af37]/30
+          bg-black/75
           px-3
-          py-1
+          py-1.5
           text-sm
           text-white
+          shadow-lg
+          backdrop-blur-md
         "
       >
         {name}

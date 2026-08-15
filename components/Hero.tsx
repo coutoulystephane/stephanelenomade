@@ -21,17 +21,17 @@ export default async function Hero() {
         </div>
 
         {/* World Map */}
-        <div className="absolute top-6 left-[14%] w-[100%] z-10">
+        <div className="absolute top-6 left-[14%] z-10 w-[100%]">
           <WorldMap />
         </div>
 
         {/* Stephane */}
-        <div className="absolute bottom-0 left-35 z-40">
+        <div className="absolute bottom-0 left-10 z-40">
           <Image
             src="/images/hero/stephane.png"
             alt="Stephane"
-            width={500}
-            height={760}
+            width={440}
+            height={670}
             priority
             className="object-contain"
           />
@@ -39,7 +39,7 @@ export default async function Hero() {
       </div>
 
       {/* Stats */}
-      <div className="absolute bottom-4 left-137 z-50">
+      <div className="absolute bottom-5 left-1/2 z-50 -translate-x-1/2">
         <Stats
           countries={stats.countries}
           cities={stats.cities}

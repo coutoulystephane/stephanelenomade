@@ -26,60 +26,54 @@ export default function Stats({
       icon: Globe,
       value: countries.toLocaleString(),
       title: "COUNTRIES",
-      subtitle: "Visited",
     },
     {
       icon: MapPin,
       value: cities.toLocaleString(),
       title: "CITIES",
-      subtitle: "Explored",
     },
     {
       icon: Map,
       value: continents.toLocaleString(),
       title: "CONTINENTS",
-      subtitle: "Discovered",
     },
     {
       icon: Route,
       value: "142,000",
       title: "KILOMETRES",
-      subtitle: "Travelled",
     },
     {
       icon: Plane,
       value: "87",
       title: "FLIGHTS",
-      subtitle: "Taken",
     },
     {
       icon: Camera,
       value: photos.toLocaleString(),
       title: "PHOTOS",
-      subtitle: "Captured",
     },
     {
       icon: Heart,
       value: "∞",
       title: "MEMORIES",
-      subtitle: "Collected",
     },
   ];
 
   return (
-    <div className="w-[560px]">
+    <div className="w-[1100px] max-w-[calc(100vw-40px)]">
       <div
         className="
           overflow-hidden
-          rounded-[30px]
+          rounded-full
           border
           border-white/10
-          bg-[rgba(28,18,12,0.9)]
-          backdrop-blur-3xl
-          shadow-[0_20px_60px_rgba(0,0,0,0.45)]
+          bg-[rgba(18,12,9,0.72)]
+          px-2
+          backdrop-blur-2xl
+          shadow-[0_15px_50px_rgba(0,0,0,0.35)]
         "
       >
-        <div className="grid grid-cols-4">
+        <div className="grid grid-cols-7">
           {stats.map((stat, index) => {
             const Icon = stat.icon;
 
@@ -89,37 +83,34 @@ export default function Stats({
                 className="
                   relative
                   flex
-                  flex-col
+                  min-w-0
                   items-center
                   justify-center
-                  px-4
-                  py-7
+                  gap-2
+                  px-3
+                  py-3
                 "
               >
                 <Icon
-                  size={22}
-                  strokeWidth={1.8}
-                  className="mb-4 text-[#E7C35A]"
+                  size={17}
+                  strokeWidth={1.7}
+                  className="shrink-0 text-[#E7C35A]"
                 />
 
-                <div className="text-[28px] font-semibold leading-none text-white">
-                  {stat.value}
+                <div className="min-w-0">
+                  <div className="flex items-baseline gap-1.5 whitespace-nowrap">
+                    <span className="text-lg font-semibold leading-none text-white">
+                      {stat.value}
+                    </span>
+
+                    <span className="text-[9px] uppercase tracking-[0.12em] text-white/65">
+                      {stat.title}
+                    </span>
+                  </div>
                 </div>
 
-                <div className="mt-2 text-[11px] uppercase tracking-[0.18em] text-white">
-                  {stat.title}
-                </div>
-
-                <div className="mt-1 text-xs text-white/65">
-                  {stat.subtitle}
-                </div>
-
-                {index % 4 !== 3 && (
-                  <div className="absolute right-0 top-5 bottom-5 w-px bg-white/10" />
-                )}
-
-                {index < 4 && (
-                  <div className="absolute bottom-0 left-5 right-5 h-px bg-white/10" />
+                {index !== stats.length - 1 && (
+                  <div className="absolute right-0 top-2 bottom-2 w-px bg-white/10" />
                 )}
               </div>
             );
