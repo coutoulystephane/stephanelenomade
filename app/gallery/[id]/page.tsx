@@ -15,7 +15,7 @@ export default async function GalleryPage({ params }: Props) {
 
   const entry = await getJournalEntry(Number(id));
 
-  if (!entry) {
+  if (!entry || !entry.destination) {
     notFound();
   }
 

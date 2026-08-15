@@ -55,7 +55,6 @@ export default function DestinationSearch({
       setResults(data);
       setLoading(false);
       setOpen(true);
-
     }, 300);
 
     return () => {
@@ -63,5 +62,5 @@ export default function DestinationSearch({
         clearTimeout(timeoutRef.current);
       }
     };
-
   }, [query, countryId]);
+}

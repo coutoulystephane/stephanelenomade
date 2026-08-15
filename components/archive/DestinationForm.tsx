@@ -1,8 +1,26 @@
+"use client";
+
+import { useState } from "react";
 import ContinentSelect from "./ContinentSelect";
 import CountrySelect from "./CountrySelect";
 import DestinationSelect from "./DestinationSelect";
 
 export default function DestinationForm() {
+  const [continentId, setContinentId] = useState<number | null>(null);
+  const [countryId, setCountryId] = useState<number | null>(null);
+  const [destinationId, setDestinationId] = useState<number | null>(null);
+
+  function handleContinentChange(value: number | null) {
+    setContinentId(value);
+    setCountryId(null);
+    setDestinationId(null);
+  }
+
+  function handleCountryChange(value: number | null) {
+    setCountryId(value);
+    setDestinationId(null);
+  }
+
   return (
     <div className="mx-auto max-w-3xl px-8 py-12">
 
@@ -16,11 +34,22 @@ export default function DestinationForm() {
 
       <div className="mt-12 space-y-8">
 
-        <ContinentSelect />
+        <ContinentSelect
+          value={continentId}
+          onChange={handleContinentChange}
+        />
 
-        <CountrySelect />
+        <CountrySelect
+          continentId={continentId}
+          value={countryId}
+          onChange={handleCountryChange}
+        />
 
-        <DestinationSelect />
+        <DestinationSelect
+          countryId={countryId}
+          value={destinationId}
+          onChange={setDestinationId}
+        />
 
         <div>
           <label className="mb-2 block text-sm font-medium">
@@ -50,23 +79,23 @@ export default function DestinationForm() {
             📅 Year
           </label>
 
-         <select
-  className="w-full rounded-xl border border-white/10 bg-white/5 px-4 py-3 text-white outline-none focus:border-amber-400"
->
-  {Array.from({ length: 60 }, (_, i) => {
-    const year = new Date().getFullYear() - i;
+          <select
+            className="w-full rounded-xl border border-white/10 bg-white/5 px-4 py-3 text-white outline-none focus:border-amber-400"
+          >
+            {Array.from({ length: 60 }, (_, i) => {
+              const year = new Date().getFullYear() - i;
 
-    return (
-      <option
-        key={year}
-        value={year}
-        className="bg-[#08121f]"
-      >
-        {year}
-      </option>
-    );
-  })}
-</select>
+              return (
+                <option
+                  key={year}
+                  value={year}
+                  className="bg-[#08121f]"
+                >
+                  {year}
+                </option>
+              );
+            })}
+          </select>
         </div>
 
         <div>

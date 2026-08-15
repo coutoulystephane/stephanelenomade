@@ -13,7 +13,7 @@ type Trip = {
     geonameId: number;
     name: string;
     country_id: number;
-  } | null;
+  }[];
   photos: {
     image_url: string;
     is_cover: boolean;
@@ -53,6 +53,8 @@ export default function JournalList() {
   return (
     <div className="grid gap-8 lg:grid-cols-2">
       {trips.map((trip) => {
+        const destination = trip.destinations_master[0];
+
         const cover =
           trip.photos.find((photo) => photo.is_cover)?.image_url ??
           trip.photos[0]?.image_url;
@@ -66,7 +68,7 @@ export default function JournalList() {
               {cover ? (
                 <img
                   src={cover}
-                  alt={trip.destinations_master?.name ?? ""}
+                  alt={destination?.name ?? ""}
                   className="h-full w-full object-cover"
                 />
               ) : (
@@ -79,7 +81,7 @@ export default function JournalList() {
 
               <div className="absolute bottom-4 left-5">
                 <h2 className="text-3xl font-serif text-white">
-                  {trip.destinations_master?.name ?? "Unknown Destination"}
+                  {destination?.name ?? "Unknown Destination"}
                 </h2>
 
                 <p className="text-gray-200">
