@@ -27,7 +27,7 @@ export default function WorldMap() {
         />
 
         {/* Live Travel Pins */}
-        <div className="absolute inset-0">
+        <div className="absolute inset-0 z-20">
           <LiveTravelPins />
         </div>
       </div>
