@@ -52,8 +52,8 @@ export default function Stats({
           border-[#d4af37]/30
           bg-[rgba(18,14,12,0.86)]
           px-5
-          pt-5
-          pb-3
+          pt-3
+          pb-2
           shadow-[0_20px_60px_rgba(0,0,0,0.45)]
           backdrop-blur-3xl
         "
@@ -74,20 +74,20 @@ export default function Stats({
                   items-center
                   justify-center
                   px-3
-                  pb-4
+                  pb-2
                 "
               >
                 <Icon
                   size={26}
                   strokeWidth={1.7}
-                  className="mb-3 text-[#E7C35A]"
+                  className="mb-2 text-[#E7C35A]"
                 />
 
                 <div className="text-[28px] font-semibold leading-none text-white">
                   {stat.value}
                 </div>
 
-                <div className="mt-2 text-[13px] text-[#E7C35A]">
+                <div className="mt-1 text-[13px] text-[#E7C35A]">
                   {stat.title}
                 </div>
 
@@ -100,7 +100,7 @@ export default function Stats({
         </div>
 
         {/* And counting */}
-        <div className="flex items-center justify-center gap-5 pt-1">
+        <div className="flex items-center justify-center gap-5 pt-0">
           <div className="h-px w-[220px] bg-[#d4af37]/40" />
 
           <span className="whitespace-nowrap font-serif text-[18px] italic text-[#E7C35A]">
@@ -110,7 +110,7 @@ export default function Stats({
           <div className="h-px w-[220px] bg-[#d4af37]/40" />
         </div>
 
-        <div className="mt-2 flex justify-center text-[#E7C35A]">
+        <div className="mt-1 flex justify-center text-[#E7C35A]">
           <Heart size={24} strokeWidth={1.5} />
         </div>
       </div>

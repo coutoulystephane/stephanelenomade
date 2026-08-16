@@ -9,29 +9,29 @@ export default async function Hero() {
   const stats = await getTravelStats();
 
   return (
-    <section className="relative h-screen overflow-hidden">
+    <section className="relative h-screen min-h-[760px] overflow-hidden">
       {/* Background */}
       <Background />
 
       {/* Main Content */}
       <div className="relative z-20 mx-auto h-screen max-w-[1800px]">
         {/* Story */}
-        <div className="absolute left-12 top-12 z-20">
+        <div className="absolute right-10 bottom-10 z-20">
           <StoryPanel />
         </div>
 
         {/* World Map */}
-        <div className="absolute top-6 left-[14%] z-10 w-[100%]">
+        <div className="absolute top-0 left-[8%] z-10 w-[90%]">
           <WorldMap />
         </div>
 
         {/* Stephane */}
-        <div className="absolute bottom-0 left-10 z-40">
+        <div className="absolute bottom-10 left-6 z-40">
           <Image
             src="/images/hero/stephane.png"
             alt="Stephane"
-            width={440}
-            height={670}
+            width={400}
+            height={610}
             priority
             className="object-contain"
           />
@@ -39,7 +39,7 @@ export default async function Hero() {
       </div>
 
       {/* Statistics */}
-      <div className="absolute bottom-[58px] left-[27.5%] z-50">
+      <div className="absolute bottom-0 left-[5%] z-50">
         <Stats
           countries={stats.countries}
           cities={stats.cities}

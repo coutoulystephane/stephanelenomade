@@ -3,13 +3,12 @@ import LiveTravelPins from "./LiveTravelPins";
 
 export default function WorldMap() {
   return (
-    <div className="relative flex w-full items-center justify-center pt-50">
+    <div className="relative flex w-full items-center justify-center pt-0">
       <div
         className="
           relative
           w-full
-          max-w-[1500px]
-          -translate-x-16
+          max-w-[1350px]
         "
       >
         <Image
