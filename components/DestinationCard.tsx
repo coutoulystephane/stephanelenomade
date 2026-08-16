@@ -26,12 +26,20 @@ export default function DestinationCard({
 
   return (
     <div
-      className="
+      className={`
         absolute
-        bottom-[-130px]
-        right-[300px]
+        bottom-4
+        left-1/2
         z-50
-        w-[340px]
+        w-[calc(100vw-24px)]
+        max-w-[340px]
+        -translate-x-1/2
+        lg:bottom-[-130px]
+        lg:left-auto
+        lg:right-[300px]
+        lg:w-[340px]
+        lg:max-w-none
+        lg:translate-x-0
         rounded-[28px]
         border
         border-[#d4af37]/30
@@ -40,7 +48,8 @@ export default function DestinationCard({
         text-white
         shadow-[0_20px_60px_rgba(0,0,0,0.45)]
         backdrop-blur-2xl
-      "
+        ${hasDestination ? "block" : "hidden lg:block"}
+      `}
     >
       {!hasDestination ? (
         <>

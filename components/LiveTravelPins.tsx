@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { useRouter } from "next/navigation";
 import { createSupabaseBrowserClient } from "@/lib/supabase-browser";
 import TravelMarker from "./TravelMarker";
 import DestinationCard from "./DestinationCard";
@@ -23,7 +24,10 @@ type Destination = {
 };
 
 export default function LiveTravelPins() {
+  const router = useRouter();
+
   const [destinations, setDestinations] = useState<Destination[]>([]);
+  const [mobileZoom, setMobileZoom] = useState(1);
   const [editable, setEditable] = useState(false);
   const [isAdmin, setIsAdmin] = useState(false);
   const [original, setOriginal] = useState<Destination[]>([]);
@@ -49,6 +53,23 @@ export default function LiveTravelPins() {
 
     return () => {
       subscription.unsubscribe();
+    };
+  }, []);
+
+  useEffect(() => {
+    if (typeof window === "undefined" || !window.visualViewport) return;
+
+    const viewport = window.visualViewport;
+
+    const updateZoom = () => {
+      setMobileZoom(viewport.scale || 1);
+    };
+
+    updateZoom();
+    viewport.addEventListener("resize", updateZoom);
+
+    return () => {
+      viewport.removeEventListener("resize", updateZoom);
     };
   }, []);
 
@@ -181,17 +202,58 @@ export default function LiveTravelPins() {
         coverImage={selectedDestination?.coverImage}
       />
 
-      {destinations.map((destination) => (
-        <TravelMarker
-          key={destination.geonameId}
-          x={destination.x}
-          y={destination.y}
-          name={destination.name}
-          editable={editable}
-          onMove={(x, y) => movePin(destination.geonameId, x, y)}
-          onClick={() => setSelectedDestination(destination)}
-        />
-      ))}
+      {/* MOBILE PIN LAYER */}
+      <div className="absolute inset-0 z-[200] lg:hidden">
+        {destinations.map((destination) => (
+          <button
+            key={`mobile-${destination.geonameId}`}
+            type="button"
+            aria-label={`Open ${destination.name}`}
+            onClick={() =>
+              router.push(`/gallery/${destination.geonameId}`)
+            }
+            style={{
+              position: "absolute",
+              left: `${destination.x}%`,
+              top: `${destination.y}%`,
+              transform: `translate(-50%, -50%) scale(${1 / mobileZoom})`,
+              backgroundColor: "#39FF14",
+              borderColor: "#39FF14",
+              boxShadow: "0 0 12px rgba(57,255,20,1)",
+            }}
+            className="
+              group
+              flex
+              h-4
+              w-4
+              items-center
+              justify-center
+              rounded-full
+              border
+            "
+          >
+            <span
+              className="absolute h-2 w-2 rounded-full"
+              style={{ backgroundColor: "#39FF14" }}
+            />
+          </button>
+        ))}
+      </div>
+
+      {/* DESKTOP PIN LAYER — unchanged */}
+      <div className="absolute inset-0 z-30 hidden lg:block">
+        {destinations.map((destination) => (
+          <TravelMarker
+            key={destination.geonameId}
+            x={destination.x}
+            y={destination.y}
+            name={destination.name}
+            editable={editable}
+            onMove={(x, y) => movePin(destination.geonameId, x, y)}
+            onClick={() => setSelectedDestination(destination)}
+          />
+        ))}
+      </div>
     </>
   );
 }
