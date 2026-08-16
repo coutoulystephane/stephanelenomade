@@ -1,15 +1,23 @@
+import LogoutButton from "@/components/admin/LogoutButton";
+
 export default function AdminPage() {
   return (
     <main className="min-h-screen bg-[#08121f] text-white p-10">
       <div className="max-w-6xl mx-auto">
 
-        <h1 className="text-5xl font-bold mb-2">
-          Stéphane le Nomade
-        </h1>
+        <div className="flex items-start justify-between gap-6 mb-12">
+          <div>
+            <h1 className="text-5xl font-bold mb-2">
+              Stéphane le Nomade
+            </h1>
 
-        <p className="text-white/60 mb-12">
-          Travel Archive Dashboard
-        </p>
+            <p className="text-white/60">
+              Travel Archive Dashboard
+            </p>
+          </div>
+
+          <LogoutButton />
+        </div>
 
         <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mb-12">
 

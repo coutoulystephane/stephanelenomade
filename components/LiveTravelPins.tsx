@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { createSupabaseBrowserClient } from "@/lib/supabase-browser";
 import TravelMarker from "./TravelMarker";
 import DestinationCard from "./DestinationCard";
 import { calibrateMap } from "@/lib/map/calibrator";
@@ -24,9 +25,32 @@ type Destination = {
 export default function LiveTravelPins() {
   const [destinations, setDestinations] = useState<Destination[]>([]);
   const [editable, setEditable] = useState(false);
+  const [isAdmin, setIsAdmin] = useState(false);
   const [original, setOriginal] = useState<Destination[]>([]);
   const [selectedDestination, setSelectedDestination] =
     useState<Destination | null>(null);
+
+  useEffect(() => {
+    const supabase = createSupabaseBrowserClient();
+
+    async function checkAuth() {
+      const { data } = await supabase.auth.getClaims();
+
+      setIsAdmin(!!data?.claims);
+    }
+
+    checkAuth();
+
+    const {
+      data: { subscription },
+    } = supabase.auth.onAuthStateChange((_event, session) => {
+      setIsAdmin(!!session);
+    });
+
+    return () => {
+      subscription.unsubscribe();
+    };
+  }, []);
 
   useEffect(() => {
     async function load() {
@@ -118,33 +142,35 @@ export default function LiveTravelPins() {
 
   return (
     <>
-      {/* Map editor controls */}
-      <div className="absolute top-6 right-6 z-50 flex gap-2">
-        {!editable ? (
-          <button
-            onClick={() => setEditable(true)}
-            className="rounded-xl bg-black/70 px-4 py-2 text-white backdrop-blur"
-          >
-            ✏️ Edit
-          </button>
-        ) : (
-          <>
+      {/* Map editor controls — authenticated users only */}
+      {isAdmin && (
+        <div className="absolute top-6 right-6 z-50 flex gap-2">
+          {!editable ? (
             <button
-              onClick={saveChanges}
-              className="rounded-xl bg-emerald-600 px-4 py-2 text-white"
+              onClick={() => setEditable(true)}
+              className="rounded-xl bg-black/70 px-4 py-2 text-white backdrop-blur"
             >
-              💾 Save
+              ✏️ Edit
             </button>
+          ) : (
+            <>
+              <button
+                onClick={saveChanges}
+                className="rounded-xl bg-emerald-600 px-4 py-2 text-white"
+              >
+                💾 Save
+              </button>
 
-            <button
-              onClick={cancelChanges}
-              className="rounded-xl bg-red-600 px-4 py-2 text-white"
-            >
-              ❌ Cancel
-            </button>
-          </>
-        )}
-      </div>
+              <button
+                onClick={cancelChanges}
+                className="rounded-xl bg-red-600 px-4 py-2 text-white"
+              >
+                ❌ Cancel
+              </button>
+            </>
+          )}
+        </div>
+      )}
 
       <DestinationCard
         geonameId={selectedDestination?.geonameId}
