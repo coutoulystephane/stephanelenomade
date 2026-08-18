@@ -1,4 +1,5 @@
 import { supabase } from "./supabase";
+import { createSupabaseBrowserClient } from "./supabase-browser";
 
 export async function getContinents() {
   const { data, error } = await supabase
@@ -131,7 +132,9 @@ export async function saveDestination({
   visitYear,
   notes,
 }: SaveDestinationParams) {
-  const { data, error } = await supabase
+  const browserSupabase = createSupabaseBrowserClient();
+
+  const { data, error } = await browserSupabase
     .from("destinations")
     .insert({
       country_id: countryId,
@@ -170,7 +173,9 @@ export async function saveTravel({
   visitYear,
   notes,
 }: SaveTravelParams) {
-  const { data, error } = await supabase
+  const browserSupabase = createSupabaseBrowserClient();
+
+  const { data, error } = await browserSupabase
     .from("trips")
     .insert({
       destination_id: destinationId,
@@ -194,11 +199,13 @@ export async function saveTravel({
 --------------------------------------------------- */
 
 export async function uploadTripPhoto(file: File) {
+  const browserSupabase = createSupabaseBrowserClient();
+
   const extension = file.name.split(".").pop();
 
   const fileName = `${crypto.randomUUID()}.${extension}`;
 
-  const { error } = await supabase.storage
+  const { error } = await browserSupabase.storage
     .from("trip-photos")
     .upload(fileName, file);
 
@@ -207,7 +214,7 @@ export async function uploadTripPhoto(file: File) {
     throw error;
   }
 
-  const { data } = supabase.storage
+  const { data } = browserSupabase.storage
     .from("trip-photos")
     .getPublicUrl(fileName);
 
@@ -228,15 +235,17 @@ export async function saveTripPhoto({
   fileName,
   imageUrl,
 }: SaveTripPhotoParams) {
+  const browserSupabase = createSupabaseBrowserClient();
+
   // Check if this trip already has photos
-  const { count } = await supabase
+  const { count } = await browserSupabase
     .from("photos")
     .select("*", { count: "exact", head: true })
     .eq("trip_id", tripId);
 
   const isCover = (count ?? 0) === 0;
 
-  const { error } = await supabase
+  const { error } = await browserSupabase
     .from("photos")
     .insert({
       trip_id: tripId,
@@ -255,34 +264,72 @@ export async function saveTripPhoto({
 --------------------------------------------------- */
 
 export async function getTrips() {
-  const { data, error } = await supabase
+  // Get all trips first
+  const { data: trips, error: tripsError } = await supabase
     .from("trips")
     .select(`
       id,
+      destination_id,
       visit_month,
       visit_year,
       notes,
-destinations_master!trips_destination_fk (
-  geonameId,
-  name,
-  country_id,
-  latitude,
-  longitude
-),
+      created_at,
       photos (
-       image_url,
-       is_cover
-     )
+        image_url,
+        is_cover
+      )
     `)
     .order("visit_year", { ascending: false })
     .order("created_at", { ascending: false });
 
-  if (error) {
-    console.error("Error loading trips:", error);
+  if (tripsError) {
+    console.error("Error loading trips:", tripsError);
     return [];
   }
 
-  return data ?? [];
+  if (!trips?.length) {
+    return [];
+  }
+
+  // Get the destination records separately.
+  // This avoids relying on the Supabase relationship name.
+  const destinationIds = [
+    ...new Set(trips.map((trip) => trip.destination_id)),
+  ];
+
+  const { data: destinations, error: destinationsError } = await supabase
+    .from("destinations_master")
+    .select(`
+      geonameId,
+      name,
+      country_id,
+      latitude,
+      longitude,
+      countryCode
+    `)
+    .in("geonameId", destinationIds);
+
+  if (destinationsError) {
+    console.error("Error loading destinations:", destinationsError);
+    return [];
+  }
+
+  const destinationLookup = new Map(
+    (destinations ?? []).map((destination) => [
+      destination.geonameId,
+      destination,
+    ])
+  );
+
+  // Combine each trip with its destination.
+  return trips.map((trip) => {
+    const destination = destinationLookup.get(trip.destination_id);
+
+    return {
+      ...trip,
+      destinations_master: destination ? [destination] : [],
+    };
+  });
 }
 /* --------------------------------------------------
    SINGLE TRIP
@@ -327,8 +374,10 @@ export async function setCoverPhoto(
   tripId: number,
   photoId: number
 ) {
-  // Remove the current cover
-  const { error: resetError } = await supabase
+  const browserSupabase = createSupabaseBrowserClient();
+
+  // Remove the current cover for this trip
+  const { error: resetError } = await browserSupabase
     .from("photos")
     .update({ is_cover: false })
     .eq("trip_id", tripId);
@@ -338,11 +387,12 @@ export async function setCoverPhoto(
     throw resetError;
   }
 
-  // Set the new cover
-  const { error: coverError } = await supabase
+  // Set the selected photo as the new cover
+  const { error: coverError } = await browserSupabase
     .from("photos")
     .update({ is_cover: true })
-    .eq("id", photoId);
+    .eq("id", photoId)
+    .eq("trip_id", tripId);
 
   if (coverError) {
     console.error("Error setting cover:", coverError);

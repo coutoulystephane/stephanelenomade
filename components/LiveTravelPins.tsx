@@ -7,6 +7,13 @@ import TravelMarker from "./TravelMarker";
 import DestinationCard from "./DestinationCard";
 import { calibrateMap } from "@/lib/map/calibrator";
 
+type Trip = {
+  tripId: number;
+  visitMonth: string;
+  visitYear: number;
+  coverImage: string | null;
+};
+
 type Destination = {
   geonameId: number;
   name: string;
@@ -15,9 +22,7 @@ type Destination = {
   map_x: number | null;
   map_y: number | null;
   countryCode?: string;
-  visitMonth?: string;
-  visitYear?: number;
-  coverImage?: string | null;
+  trips: Trip[];
 
   x: number;
   y: number;
@@ -84,7 +89,7 @@ export default function LiveTravelPins() {
 
         const data = await response.json();
 
-        const mapped: Destination[] = data.map((d: any) => {
+        const mapped: Destination[] = data.map((d: Destination) => {
           if (d.map_x != null && d.map_y != null) {
             return {
               ...d,
@@ -197,47 +202,51 @@ export default function LiveTravelPins() {
         geonameId={selectedDestination?.geonameId}
         name={selectedDestination?.name}
         country={selectedDestination?.countryCode}
-        visitMonth={selectedDestination?.visitMonth}
-        visitYear={selectedDestination?.visitYear}
-        coverImage={selectedDestination?.coverImage}
+        trips={selectedDestination?.trips ?? []}
       />
 
       {/* MOBILE PIN LAYER */}
       <div className="absolute inset-0 z-[200] lg:hidden">
-        {destinations.map((destination) => (
-          <button
-            key={`mobile-${destination.geonameId}`}
-            type="button"
-            aria-label={`Open ${destination.name}`}
-            onClick={() =>
-              router.push(`/gallery/${destination.geonameId}`)
-            }
-            style={{
-              position: "absolute",
-              left: `${destination.x}%`,
-              top: `${destination.y}%`,
-              transform: `translate(-50%, -50%) scale(${1 / mobileZoom})`,
-              backgroundColor: "#39FF14",
-              borderColor: "#39FF14",
-              boxShadow: "0 0 12px rgba(57,255,20,1)",
-            }}
-            className="
-              group
-              flex
-              h-4
-              w-4
-              items-center
-              justify-center
-              rounded-full
-              border
-            "
-          >
-            <span
-              className="absolute h-2 w-2 rounded-full"
-              style={{ backgroundColor: "#39FF14" }}
-            />
-          </button>
-        ))}
+        {destinations.map((destination) => {
+          const firstTrip = destination.trips[0];
+
+          return (
+            <button
+              key={`mobile-${destination.geonameId}`}
+              type="button"
+              aria-label={`Open ${destination.name}`}
+              onClick={() => {
+                if (firstTrip) {
+                  router.push(`/gallery/${firstTrip.tripId}`);
+                }
+              }}
+              style={{
+                position: "absolute",
+                left: `${destination.x}%`,
+                top: `${destination.y}%`,
+                transform: `translate(-50%, -50%) scale(${1 / mobileZoom})`,
+                backgroundColor: "#39FF14",
+                borderColor: "#39FF14",
+                boxShadow: "0 0 12px rgba(57,255,20,1)",
+              }}
+              className="
+                group
+                flex
+                h-4
+                w-4
+                items-center
+                justify-center
+                rounded-full
+                border
+              "
+            >
+              <span
+                className="absolute h-2 w-2 rounded-full"
+                style={{ backgroundColor: "#39FF14" }}
+              />
+            </button>
+          );
+        })}
       </div>
 
       {/* DESKTOP PIN LAYER — unchanged */}

@@ -1,28 +1,49 @@
 "use client";
 
 import Image from "next/image";
+import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
+
+type Trip = {
+  tripId: number;
+  visitMonth: string;
+  visitYear: number;
+  coverImage: string | null;
+};
 
 type DestinationCardProps = {
   geonameId?: number;
   name?: string;
   country?: string;
-  visitMonth?: string;
-  visitYear?: number;
-  coverImage?: string | null;
+  trips?: Trip[];
 };
 
 export default function DestinationCard({
   geonameId,
   name,
   country,
-  visitMonth,
-  visitYear,
-  coverImage,
+  trips = [],
 }: DestinationCardProps) {
   const router = useRouter();
 
   const hasDestination = !!name;
+
+  const [selectedTripId, setSelectedTripId] = useState<number | null>(
+    trips[0]?.tripId ?? null
+  );
+
+  /*
+   * When the user clicks another map pin,
+   * select the first trip for that destination.
+   */
+  useEffect(() => {
+    setSelectedTripId(trips[0]?.tripId ?? null);
+  }, [name, trips]);
+
+  const selectedTrip =
+    trips.find((trip) => trip.tripId === selectedTripId) ??
+    trips[0] ??
+    null;
 
   return (
     <div
@@ -32,18 +53,18 @@ export default function DestinationCard({
         left-1/2
         z-50
         w-[calc(100vw-24px)]
-        max-w-[340px]
+        max-w-[380px]
         -translate-x-1/2
         lg:bottom-[-130px]
         lg:left-auto
         lg:right-[300px]
-        lg:w-[340px]
+        lg:w-[380px]
         lg:max-w-none
         lg:translate-x-0
         rounded-[28px]
         border
         border-[#d4af37]/30
-        bg-[rgba(12,10,9,0.84)]
+        bg-[rgba(12,10,9,0.90)]
         p-5
         text-white
         shadow-[0_20px_60px_rgba(0,0,0,0.45)]
@@ -67,70 +88,152 @@ export default function DestinationCard({
               <span className="text-[13px] uppercase tracking-[0.2em] text-[#E7C35A]">
                 Explore the map
               </span>
-
-             
             </div>
           </div>
         </>
       ) : (
         <>
-          {/* Cover Image */}
-          <div className="relative aspect-[16/9] w-full overflow-hidden rounded-2xl border border-white/10 bg-black">
-            {coverImage ? (
-              <Image
-                src={coverImage}
-                alt={name ?? "Destination"}
-                fill
-                className="object-contain"
-              />
-            ) : (
-              <div className="flex h-full items-center justify-center bg-white/5 text-gray-500">
-                No cover image
+          {/* DESTINATION HEADER */}
+          <div className="border-b border-white/10 pb-3">
+            <div className="flex items-center gap-2">
+              <h2 className="text-3xl font-bold leading-none">{name}</h2>
+
+              {country && (
+                <>
+                  <span className="text-white/20">|</span>
+
+                  <span className="text-gray-300">
+                    {country}
+                  </span>
+                </>
+              )}
+            </div>
+          </div>
+
+          {/* YEAR SELECTOR */}
+          {trips.length > 0 && (
+            <div className="mt-4">
+              <div className="mb-2 text-[11px] uppercase tracking-[0.2em] text-white/40">
+                Journeys
               </div>
-            )}
-          </div>
 
-          {/* Destination Row */}
-          <div className="mt-4 flex flex-wrap items-center gap-2 border-b border-white/5 pb-3">
-            <h2 className="text-3xl font-bold leading-none">{name}</h2>
+              <div className="flex flex-wrap gap-2">
+                {trips.map((trip) => {
+                  const isSelected =
+                    trip.tripId === selectedTrip?.tripId;
 
-            {country && (
-              <>
-                <span className="text-white/20">|</span>
-                <span className="text-gray-300">{country}</span>
-              </>
-            )}
+                  return (
+                    <button
+                      key={trip.tripId}
+                      type="button"
+                      onClick={() =>
+                        setSelectedTripId(trip.tripId)
+                      }
+                      className={`
+                        rounded-full
+                        border
+                        px-4
+                        py-2
+                        text-sm
+                        font-medium
+                        transition
+                        ${
+                          isSelected
+                            ? "border-[#E7C35A] bg-[#E7C35A] text-black"
+                            : "border-white/15 bg-white/5 text-white/70 hover:bg-white/10 hover:text-white"
+                        }
+                      `}
+                    >
+                      {trip.visitYear}
+                    </button>
+                  );
+                })}
+              </div>
+            </div>
+          )}
 
-            {(visitMonth || visitYear) && (
-              <>
-                <span className="text-white/20">|</span>
-                <span className="text-sm text-yellow-400">
-                  Visited {visitMonth} {visitYear}
-                </span>
-              </>
-            )}
-          </div>
+          {/* SELECTED TRIP */}
+          {selectedTrip && (
+            <div className="mt-4 overflow-hidden rounded-2xl border border-white/10 bg-white/5">
+              {/* COVER IMAGE */}
+              <div className="relative aspect-[16/9] w-full overflow-hidden bg-black">
+                {selectedTrip.coverImage ? (
+                  <Image
+                    src={selectedTrip.coverImage}
+                    alt={`${name} ${selectedTrip.visitYear}`}
+                    fill
+                    className="object-contain"
+                  />
+                ) : (
+                  <div className="flex h-full items-center justify-center text-sm text-gray-500">
+                    No cover image
+                  </div>
+                )}
+              </div>
 
-          {/* Buttons */}
-          <div className="mt-4 flex gap-3">
-            <button
-              onClick={() =>
-                geonameId && router.push(`/journal/${geonameId}`)
-              }
-              className="rounded-xl bg-white/10 px-4 py-2 text-sm transition hover:bg-white/20"
-            >
-              Read Story
-            </button>
+              {/* TRIP INFORMATION */}
+              <div className="p-3">
+                <div className="flex items-center justify-between gap-3">
+                  <div>
+                    <div className="text-sm font-semibold text-white">
+                      {selectedTrip.visitMonth}{" "}
+                      {selectedTrip.visitYear}
+                    </div>
+                  </div>
 
-            <button
-              onClick={() =>
-                geonameId && router.push(`/gallery/${geonameId}`)
-              }
-              className="rounded-xl bg-white/10 px-4 py-2 text-sm transition hover:bg-white/20"
-            >
-              Gallery
-            </button>
-          </div>
+                  {/* ACTIONS */}
+                  <div className="flex gap-2">
+                    <button
+                      type="button"
+                      onClick={() =>
+                        router.push(
+                          `/journal/${selectedTrip.tripId}`
+                        )
+                      }
+                      className="
+                        rounded-lg
+                        bg-white/10
+                        px-3
+                        py-2
+                        text-xs
+                        transition
+                        hover:bg-white/20
+                      "
+                    >
+                      Story
+                    </button>
+
+                    <button
+                      type="button"
+                      onClick={() =>
+                        router.push(
+                          `/gallery/${selectedTrip.tripId}`
+                        )
+                      }
+                      className="
+                        rounded-lg
+                        bg-white/10
+                        px-3
+                        py-2
+                        text-xs
+                        transition
+                        hover:bg-white/20
+                      "
+                    >
+                      Gallery
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          )}
+
+          {/* NO TRIPS */}
+          {trips.length === 0 && (
+            <div className="mt-4 rounded-2xl border border-white/10 bg-white/5 py-6 text-center text-sm text-gray-500">
+              No trips recorded.
+            </div>
+          )}
         </>
       )}
     </div>

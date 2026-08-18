@@ -1,5 +1,12 @@
 import { supabase } from "./supabase";
 
+export type MapTrip = {
+  tripId: number;
+  visitMonth: string;
+  visitYear: number;
+  coverImage: string | null;
+};
+
 export type MapDestination = {
   geonameId: number;
   name: string;
@@ -8,9 +15,7 @@ export type MapDestination = {
   map_x: number | null;
   map_y: number | null;
   countryCode: string;
-  visitMonth: string;
-  visitYear: number;
-  coverImage: string | null;
+  trips: MapTrip[];
 };
 
 export async function getVisitedDestinations(): Promise<MapDestination[]> {
@@ -25,10 +30,12 @@ export async function getVisitedDestinations(): Promise<MapDestination[]> {
         image_url,
         is_cover
       )
-    `);
+    `)
+    .order("visit_year", { ascending: false })
+    .order("created_at", { ascending: false });
 
   if (tripsError) {
-    console.error(tripsError);
+    console.error("Error loading map trips:", tripsError);
     return [];
   }
 
@@ -52,25 +59,43 @@ export async function getVisitedDestinations(): Promise<MapDestination[]> {
     .in("geonameId", ids);
 
   if (destinationsError) {
-    console.error(destinationsError);
+    console.error("Error loading map destinations:", destinationsError);
     return [];
   }
 
   const lookup = new Map(
-    (destinations ?? []).map((d: any) => [d.geonameId, d])
+    (destinations ?? []).map((destination: any) => [
+      destination.geonameId,
+      destination,
+    ])
   );
 
-  return trips
-    .map((trip: any) => {
-      const destination = lookup.get(trip.destination_id);
+  const grouped = new Map<number, MapDestination>();
 
-      if (!destination) return null;
+  for (const trip of trips as any[]) {
+    const destination = lookup.get(trip.destination_id);
 
-      const coverPhoto =
-        trip.photos?.find((photo: any) => photo.is_cover) ??
-        trip.photos?.[0];
+    if (!destination) {
+      continue;
+    }
 
-      return {
+    const coverPhoto =
+      trip.photos?.find((photo: any) => photo.is_cover) ??
+      trip.photos?.[0];
+
+    const existing = grouped.get(destination.geonameId);
+
+    const mapTrip: MapTrip = {
+      tripId: trip.id,
+      visitMonth: trip.visit_month,
+      visitYear: trip.visit_year,
+      coverImage: coverPhoto?.image_url ?? null,
+    };
+
+    if (existing) {
+      existing.trips.push(mapTrip);
+    } else {
+      grouped.set(destination.geonameId, {
         geonameId: destination.geonameId,
         name: destination.name,
         latitude: Number(destination.latitude),
@@ -84,15 +109,14 @@ export async function getVisitedDestinations(): Promise<MapDestination[]> {
             ? Number(destination.map_y)
             : null,
         countryCode: destination.countryCode,
-        visitMonth: trip.visit_month,
-        visitYear: trip.visit_year,
-        coverImage: coverPhoto?.image_url ?? null,
-      };
-    })
-    .filter(
-      (item): item is MapDestination =>
-        item !== null &&
-        !isNaN(item.latitude) &&
-        !isNaN(item.longitude)
-    );
+        trips: [mapTrip],
+      });
+    }
+  }
+
+  return Array.from(grouped.values()).filter(
+    (destination) =>
+      !isNaN(destination.latitude) &&
+      !isNaN(destination.longitude)
+  );
 }
