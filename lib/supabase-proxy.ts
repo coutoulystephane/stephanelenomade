@@ -15,7 +15,7 @@ export async function updateSupabaseSession(request: NextRequest) {
           return request.cookies.getAll();
         },
         setAll(cookiesToSet) {
-          cookiesToSet.forEach(({ name, value, options }) => {
+          cookiesToSet.forEach(({ name, value }) => {
             request.cookies.set(name, value);
           });
 
@@ -37,14 +37,18 @@ export async function updateSupabaseSession(request: NextRequest) {
 
   if (
     pathname.startsWith("/admin") &&
-    pathname !== "/admin/login" &&
-    !claimsData?.claims
+    pathname !== "/admin/login"
   ) {
-    const loginUrl = request.nextUrl.clone();
-    loginUrl.pathname = "/admin/login";
-    loginUrl.search = "";
+    const userId = claimsData?.claims?.sub;
+    const adminUserId = process.env.ADMIN_USER_ID;
 
-    return NextResponse.redirect(loginUrl);
+    if (!userId || !adminUserId || userId !== adminUserId) {
+      const loginUrl = request.nextUrl.clone();
+      loginUrl.pathname = "/admin/login";
+      loginUrl.search = "";
+
+      return NextResponse.redirect(loginUrl);
+    }
   }
 
   return response;

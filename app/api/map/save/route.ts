@@ -7,7 +7,10 @@ export async function POST(req: NextRequest) {
 
     const { data: claimsData } = await supabase.auth.getClaims();
 
-    if (!claimsData?.claims) {
+    const userId = claimsData?.claims?.sub;
+    const adminUserId = process.env.ADMIN_USER_ID;
+
+    if (!userId || !adminUserId || userId !== adminUserId) {
       return NextResponse.json(
         { error: "Unauthorized" },
         { status: 401 }
