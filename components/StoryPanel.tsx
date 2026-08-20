@@ -5,21 +5,21 @@ export default function StoryPanel() {
   const instagramUrl = ["https://", "instagram.com", "/coutoulystephane"].join("");
 
   return (
-    <div className="max-w-[380px]">
+    <div className="max-w-[380px] translate-y-8">
       <h1 className="font-serif text-[3.2rem] leading-[0.92] text-white">
         Stéphane
         <br />
         le nomade
       </h1>
 
-      <div className="mt-6 h-[2px] w-44 bg-[#d4af37]" />
+      <div className="mt-4 h-[2px] w-44 bg-[#d4af37]" />
 
-      <div className="mt-6">
+      <div className="mt-2">
         <p className="text-[12px] uppercase tracking-[0.28em] text-[#d4af37]">
           Follow the Journey
         </p>
 
-        <div className="mt-4 flex items-center gap-3">
+        <div className="mt-2 flex items-center gap-3">
           <a
             href={facebookUrl}
             target="_blank"
