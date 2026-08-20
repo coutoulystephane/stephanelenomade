@@ -16,6 +16,7 @@ type DestinationCardProps = {
   name?: string;
   country?: string;
   trips?: Trip[];
+  onBack?: () => void;
 };
 
 export default function DestinationCard({
@@ -23,6 +24,7 @@ export default function DestinationCard({
   name,
   country,
   trips = [],
+  onBack,
 }: DestinationCardProps) {
   const router = useRouter();
 
@@ -51,7 +53,7 @@ export default function DestinationCard({
         absolute
         bottom-4
         left-1/2
-        z-50
+        z-[250]
         w-[calc(100vw-24px)]
         max-w-[380px]
         -translate-x-1/2
@@ -101,10 +103,32 @@ export default function DestinationCard({
                 <>
                   <span className="text-white/20">|</span>
 
-                  <span className="text-gray-300">
-                    {country}
-                  </span>
+                  <span className="text-gray-300">{country}</span>
                 </>
+              )}
+
+              {onBack && (
+                <button
+                  type="button"
+                  onClick={onBack}
+                  className="
+                    ml-auto
+                    rounded-full
+                    border
+                    border-white/15
+                    bg-white/5
+                    px-3
+                    py-1.5
+                    text-xs
+                    font-medium
+                    text-white/70
+                    transition
+                    hover:bg-white/10
+                    hover:text-white
+                  "
+                >
+                  ← Back
+                </button>
               )}
             </div>
           </div>
@@ -125,9 +149,7 @@ export default function DestinationCard({
                     <button
                       key={trip.tripId}
                       type="button"
-                      onClick={() =>
-                        setSelectedTripId(trip.tripId)
-                      }
+                      onClick={() => setSelectedTripId(trip.tripId)}
                       className={`
                         rounded-full
                         border

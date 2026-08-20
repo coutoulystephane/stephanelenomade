@@ -1,7 +1,6 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { useRouter } from "next/navigation";
 import { createSupabaseBrowserClient } from "@/lib/supabase-browser";
 import TravelMarker from "./TravelMarker";
 import DestinationCard from "./DestinationCard";
@@ -29,8 +28,6 @@ type Destination = {
 };
 
 export default function LiveTravelPins() {
-  const router = useRouter();
-
   const [destinations, setDestinations] = useState<Destination[]>([]);
   const [mobileZoom, setMobileZoom] = useState(1);
   const [editable, setEditable] = useState(false);
@@ -203,51 +200,50 @@ export default function LiveTravelPins() {
         name={selectedDestination?.name}
         country={selectedDestination?.countryCode}
         trips={selectedDestination?.trips ?? []}
+        onBack={() => setSelectedDestination(null)}
       />
 
       {/* MOBILE PIN LAYER */}
-      <div className="absolute inset-0 z-[200] lg:hidden">
-        {destinations.map((destination) => {
-          const firstTrip = destination.trips[0];
-
-          return (
-            <button
-              key={`mobile-${destination.geonameId}`}
-              type="button"
-              aria-label={`Open ${destination.name}`}
-              onClick={() => {
-                if (firstTrip) {
-                  router.push(`/gallery/${firstTrip.tripId}`);
-                }
-              }}
-              style={{
-                position: "absolute",
-                left: `${destination.x}%`,
-                top: `${destination.y}%`,
-                transform: `translate(-50%, -50%) scale(${1 / mobileZoom})`,
-                backgroundColor: "#39FF14",
-                borderColor: "#39FF14",
-                boxShadow: "0 0 12px rgba(57,255,20,1)",
-              }}
-              className="
-                group
-                flex
-                h-4
-                w-4
-                items-center
-                justify-center
-                rounded-full
-                border
-              "
-            >
-              <span
-                className="absolute h-2 w-2 rounded-full"
-                style={{ backgroundColor: "#39FF14" }}
-              />
-            </button>
-          );
-        })}
-      </div>
+      {!selectedDestination && (
+        <div className="absolute inset-0 z-[200] lg:hidden">
+          {destinations.map((destination) => {
+            return (
+              <button
+                key={`mobile-${destination.geonameId}`}
+                type="button"
+                aria-label={`Open ${destination.name}`}
+                onClick={() => {
+                  setSelectedDestination(destination);
+                }}
+                style={{
+                  position: "absolute",
+                  left: `${destination.x}%`,
+                  top: `${destination.y}%`,
+                  transform: `translate(-50%, -50%) scale(${1 / mobileZoom})`,
+                  backgroundColor: "#39FF14",
+                  borderColor: "#39FF14",
+                  boxShadow: "0 0 12px rgba(57,255,20,1)",
+                }}
+                className="
+                  group
+                  flex
+                  h-4
+                  w-4
+                  items-center
+                  justify-center
+                  rounded-full
+                  border
+                "
+              >
+                <span
+                  className="absolute h-2 w-2 rounded-full"
+                  style={{ backgroundColor: "#39FF14" }}
+                />
+              </button>
+            );
+          })}
+        </div>
+      )}
 
       {/* DESKTOP PIN LAYER — unchanged */}
       <div className="absolute inset-0 z-30 hidden lg:block">

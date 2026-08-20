@@ -17,12 +17,12 @@ export default async function Hero() {
       {/* ========================= */}
       <div className="relative z-20 flex min-h-screen flex-col lg:hidden">
         {/* Mobile Story */}
-        <div className="relative z-40 px-6 pt-8">
+        <div className="relative z-40 px-6 pt-3">
           <StoryPanel />
         </div>
 
         {/* Mobile World Map */}
-        <div className="relative z-10 mt-4 w-full px-2">
+        <div className="relative z-50 mt-4 w-full px-2">
           <WorldMap />
         </div>
 

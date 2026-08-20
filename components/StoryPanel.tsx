@@ -5,7 +5,7 @@ export default function StoryPanel() {
   const instagramUrl = ["https://", "instagram.com", "/coutoulystephane"].join("");
 
   return (
-    <div className="max-w-[380px] translate-y-8">
+    <div className="max-w-[380px] translate-y-0 lg:translate-y-8">
       <h1 className="font-serif text-[3.2rem] leading-[0.92] text-white">
         Stéphane
         <br />
