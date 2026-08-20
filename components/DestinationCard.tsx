@@ -79,14 +79,13 @@ export default function DestinationCard({
           </h2>
 
           <p className="mt-4 text-[14px] leading-6 text-white/85">
-            Every glowing pin marks a place I've visited — and every place has
-            a story.
+            Every glowing pin marks a place and a story. / Chaque point lumineux marque un lieu et une histoire.
           </p>
 
           <div className="mt-5 border-t border-white/10 pt-4">
             <div className="flex items-center justify-between">
               <span className="text-[13px] uppercase tracking-[0.2em] text-[#E7C35A]">
-                Explore the map
+                Explore the map. / Explorez la carte.
               </span>
             </div>
           </div>
