@@ -17,7 +17,7 @@ export default async function Hero() {
       {/* ========================= */}
       <div className="relative z-20 flex min-h-screen flex-col lg:hidden">
         {/* Mobile Story */}
-        <div className="relative z-40 px-6 pt-3">
+        <div className="relative z-40 px-6 pt-8">
           <StoryPanel />
         </div>
 
@@ -64,7 +64,7 @@ export default async function Hero() {
         </div>
 
         {/* Stephane */}
-        <div className="absolute bottom-10 left-6 z-40">
+        <div className="pointer-events-none absolute bottom-10 left-6 z-40">
           <Image
             src="/images/hero/stephane.png"
             alt="Stephane"
