@@ -26,6 +26,136 @@ type Props = {
   trips: Trip[];
 };
 
+/*
+ * --------------------------------------------------
+ * PHOTO OPTIMIZATION
+ * --------------------------------------------------
+ *
+ * Large phone/camera photos are resized before they
+ * are uploaded to Supabase.
+ *
+ * Maximum dimension: 2000px
+ * JPEG quality: 82%
+ */
+
+const MAX_IMAGE_SIZE = 2000;
+const JPEG_QUALITY = 0.82;
+
+async function optimizePhoto(file: File): Promise<File> {
+  /*
+   * If the browser cannot decode the image,
+   * fall back to the original file rather than
+   * breaking the upload.
+   */
+  try {
+    const image = new Image();
+
+    const objectUrl = URL.createObjectURL(file);
+
+    try {
+      await new Promise<void>((resolve, reject) => {
+        image.onload = () => resolve();
+        image.onerror = () =>
+          reject(new Error("Unable to read image"));
+        image.src = objectUrl;
+      });
+
+      const originalWidth = image.naturalWidth;
+      const originalHeight = image.naturalHeight;
+
+      if (!originalWidth || !originalHeight) {
+        return file;
+      }
+
+      /*
+       * Keep smaller images at their original size.
+       * We only reduce oversized images.
+       */
+      const scale = Math.min(
+        1,
+        MAX_IMAGE_SIZE / Math.max(originalWidth, originalHeight)
+      );
+
+      const width = Math.round(originalWidth * scale);
+      const height = Math.round(originalHeight * scale);
+
+      const canvas = document.createElement("canvas");
+
+      canvas.width = width;
+      canvas.height = height;
+
+      const context = canvas.getContext("2d");
+
+      if (!context) {
+        return file;
+      }
+
+      /*
+       * Higher quality downscaling.
+       */
+      context.imageSmoothingEnabled = true;
+      context.imageSmoothingQuality = "high";
+
+      context.drawImage(
+        image,
+        0,
+        0,
+        width,
+        height
+      );
+
+      const blob = await new Promise<Blob | null>((resolve) => {
+        canvas.toBlob(
+          (result) => resolve(result),
+          "image/jpeg",
+          JPEG_QUALITY
+        );
+      });
+
+      if (!blob) {
+        return file;
+      }
+
+      /*
+       * Keep the original filename, but change the
+       * extension because the optimized file is JPEG.
+       */
+      const baseName = file.name.replace(
+        /\.[^/.]+$/,
+        ""
+      );
+
+      const optimizedFile = new File(
+        [blob],
+        `${baseName}.jpg`,
+        {
+          type: "image/jpeg",
+          lastModified: Date.now(),
+        }
+      );
+
+      /*
+       * If optimization somehow creates a larger file,
+       * keep the original instead.
+       */
+      if (optimizedFile.size >= file.size) {
+        return file;
+      }
+
+      return optimizedFile;
+    } finally {
+      URL.revokeObjectURL(objectUrl);
+    }
+  } catch (error) {
+    console.warn(
+      "Photo optimization failed. Using original file.",
+      error
+    );
+
+    return file;
+  }
+}
+
 export default function UploadPhotos({ trips }: Props) {
   const [selectedTripId, setSelectedTripId] = useState<number | null>(
     trips[0]?.id ?? null
@@ -82,8 +212,20 @@ export default function UploadPhotos({ trips }: Props) {
     setMessage("");
 
     try {
-      for (const file of files) {
-        const uploaded = await uploadTripPhoto(file);
+      for (let index = 0; index < files.length; index++) {
+        const file = files[index];
+
+        setMessage(
+          `Optimizing photo ${index + 1} of ${files.length}...`
+        );
+
+        const optimizedFile = await optimizePhoto(file);
+
+        setMessage(
+          `Uploading photo ${index + 1} of ${files.length}...`
+        );
+
+        const uploaded = await uploadTripPhoto(optimizedFile);
 
         await saveTripPhoto({
           tripId: selectedTripId,
@@ -105,7 +247,9 @@ export default function UploadPhotos({ trips }: Props) {
       await loadPhotos(selectedTripId);
     } catch (error) {
       console.error(error);
-      setMessage("Something went wrong while uploading the photos.");
+      setMessage(
+        "Something went wrong while uploading the photos."
+      );
     } finally {
       setUploading(false);
     }
@@ -142,8 +286,8 @@ export default function UploadPhotos({ trips }: Props) {
       </h1>
 
       <p className="mt-4 max-w-2xl text-white/50">
-        Select an existing travel trip, add photos, and choose the cover photo
-        for that specific trip.
+        Select an existing travel trip, add photos, and choose the cover
+        photo for that specific trip.
       </p>
 
       {trips.length === 0 ? (
@@ -154,7 +298,6 @@ export default function UploadPhotos({ trips }: Props) {
         </div>
       ) : (
         <div className="mt-12 space-y-10">
-
           {/* TRIP SELECTOR */}
           <div>
             <label className="mb-3 block text-sm font-medium">
@@ -299,6 +442,11 @@ export default function UploadPhotos({ trips }: Props) {
                     </li>
                   ))}
                 </ul>
+
+                <p className="mt-4 text-xs text-white/40">
+                  Photos will be automatically resized and compressed for
+                  the website before upload.
+                </p>
               </div>
             )}
           </div>
