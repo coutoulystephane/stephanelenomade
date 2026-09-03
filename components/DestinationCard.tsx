@@ -57,7 +57,7 @@ export default function DestinationCard({
         w-[calc(100vw-24px)]
         max-w-[380px]
         -translate-x-1/2
-        lg:bottom-[-130px]
+        lg:bottom-[-145px]
         lg:left-auto
         lg:right-[300px]
         lg:w-[380px]
