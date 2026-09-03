@@ -65,6 +65,8 @@ export default function TravelMarker({
         left: `${x}%`,
         top: `${y}%`,
         transform: "translate(-50%, -50%)",
+        width: "32px",
+        height: "32px",
       }}
       onMouseDown={handleMouseDown}
       onMouseUp={handleMouseUp}
@@ -108,7 +110,11 @@ export default function TravelMarker({
       {/* Pin */}
       <div
         className="
-          relative
+          absolute
+          left-1/2
+          top-1/2
+          -translate-x-1/2
+          -translate-y-1/2
           h-4
           w-4
           rounded-full

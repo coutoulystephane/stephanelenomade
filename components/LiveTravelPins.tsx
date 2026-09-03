@@ -27,6 +27,11 @@ type Destination = {
   y: number;
 };
 
+type MousePosition = {
+  x: number;
+  y: number;
+};
+
 export default function LiveTravelPins() {
   const [destinations, setDestinations] = useState<Destination[]>([]);
   const [mobileZoom, setMobileZoom] = useState(1);
@@ -35,6 +40,10 @@ export default function LiveTravelPins() {
   const [original, setOriginal] = useState<Destination[]>([]);
   const [selectedDestination, setSelectedDestination] =
     useState<Destination | null>(null);
+
+  // Desktop-only mouse position
+  const [mousePosition, setMousePosition] =
+    useState<MousePosition | null>(null);
 
   useEffect(() => {
     const supabase = createSupabaseBrowserClient();
@@ -163,6 +172,114 @@ export default function LiveTravelPins() {
     }
   }
 
+  /*
+   * DESKTOP-ONLY PIN SPREADING
+   *
+   * The mouse position is measured in percentages of the map.
+   * When the mouse gets close to a pin, we look for other pins
+   * immediately around it.
+   *
+   * Only crowded groups are temporarily separated.
+   *
+   * IMPORTANT:
+   * These are visual positions only.
+   * The real saved map_x / map_y values are never changed.
+   */
+  function getVisualPosition(destination: Destination) {
+    if (
+      editable ||
+      !mousePosition ||
+      destinations.length < 2
+    ) {
+      return {
+        x: destination.x,
+        y: destination.y,
+      };
+    }
+
+    const MOUSE_TRIGGER_DISTANCE = 4;
+    const CLUSTER_DISTANCE = 2.8;
+    const SPREAD_DISTANCE = 1.2;
+
+    const mouseDistance = Math.sqrt(
+      Math.pow(destination.x - mousePosition.x, 2) +
+        Math.pow(destination.y - mousePosition.y, 2)
+    );
+
+    if (mouseDistance > MOUSE_TRIGGER_DISTANCE) {
+      return {
+        x: destination.x,
+        y: destination.y,
+      };
+    }
+
+    const nearbyPins = destinations.filter((other) => {
+      if (other.geonameId === destination.geonameId) return false;
+
+      const distance = Math.sqrt(
+        Math.pow(destination.x - other.x, 2) +
+          Math.pow(destination.y - other.y, 2)
+      );
+
+      return distance <= CLUSTER_DISTANCE;
+    });
+
+    if (nearbyPins.length === 0) {
+      return {
+        x: destination.x,
+        y: destination.y,
+      };
+    }
+
+    const cluster = [destination, ...nearbyPins];
+
+    const centerX =
+      cluster.reduce((sum, pin) => sum + pin.x, 0) /
+      cluster.length;
+
+    const centerY =
+      cluster.reduce((sum, pin) => sum + pin.y, 0) /
+      cluster.length;
+
+    let directionX = destination.x - centerX;
+    let directionY = destination.y - centerY;
+
+    const length = Math.sqrt(
+      directionX * directionX +
+        directionY * directionY
+    );
+
+    /*
+     * If two pins are almost exactly on top of each other,
+     * use the mouse position to determine a direction.
+     */
+    if (length < 0.001) {
+      directionX = destination.x - mousePosition.x;
+      directionY = destination.y - mousePosition.y;
+
+      const mouseLength = Math.sqrt(
+        directionX * directionX +
+          directionY * directionY
+      );
+
+      if (mouseLength > 0.001) {
+        directionX /= mouseLength;
+        directionY /= mouseLength;
+      } else {
+        directionX = 1;
+        directionY = 0;
+      }
+    } else {
+      directionX /= length;
+      directionY /= length;
+    }
+
+    return {
+      x: destination.x + directionX * SPREAD_DISTANCE,
+      y: destination.y + directionY * SPREAD_DISTANCE,
+    };
+  }
+
   return (
     <>
       {/* Map editor controls — authenticated users only */}
@@ -203,7 +320,7 @@ export default function LiveTravelPins() {
         onBack={() => setSelectedDestination(null)}
       />
 
-      {/* MOBILE PIN LAYER */}
+      {/* MOBILE PIN LAYER — UNCHANGED */}
       {!selectedDestination && (
         <div className="absolute inset-0 z-[200] lg:hidden">
           {destinations.map((destination) => {
@@ -245,20 +362,55 @@ export default function LiveTravelPins() {
         </div>
       )}
 
-      {/* DESKTOP PIN LAYER — unchanged */}
-      <div className="absolute inset-0 z-30 hidden lg:block">
-        {destinations.map((destination) => (
-          <TravelMarker
-            key={destination.geonameId}
-            x={destination.x}
-            y={destination.y}
-            name={destination.name}
-            editable={editable}
-            onMove={(x, y) => movePin(destination.geonameId, x, y)}
-            onClick={() => setSelectedDestination(destination)}
-          />
-        ))}
-      </div>
+      {/* DESKTOP PIN LAYER */}
+      {!selectedDestination && (
+        <div
+          className="absolute inset-0 z-30 hidden lg:block"
+          onMouseMove={(e) => {
+            const rect =
+              e.currentTarget.getBoundingClientRect();
+
+            setMousePosition({
+              x:
+                ((e.clientX - rect.left) /
+                  rect.width) *
+                100,
+              y:
+                ((e.clientY - rect.top) /
+                  rect.height) *
+                100,
+            });
+          }}
+          onMouseLeave={() => {
+            setMousePosition(null);
+          }}
+        >
+          {destinations.map((destination) => {
+            const visualPosition =
+              getVisualPosition(destination);
+
+            return (
+              <TravelMarker
+                key={destination.geonameId}
+                x={visualPosition.x}
+                y={visualPosition.y}
+                name={destination.name}
+                editable={editable}
+                onMove={(x, y) =>
+                  movePin(
+                    destination.geonameId,
+                    x,
+                    y
+                  )
+                }
+                onClick={() =>
+                  setSelectedDestination(destination)
+                }
+              />
+            );
+          })}
+        </div>
+      )}
     </>
   );
 }
