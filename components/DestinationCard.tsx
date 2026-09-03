@@ -80,26 +80,27 @@ export default function DestinationCard({
             Discover My Journey
           </h2>
 
-          <p className="mt-4 text-[14px] leading-6 text-white/85">
-            <strong>Every glowing pin marks a place and a story.</strong>
-            <br />
-            <span className="text-white/65">
-              For visual clarity, some locations may appear slightly offset
-              from their exact geographic position.
-            </span>
+          <div className="mt-2 text-[14px] leading-6 text-white/85">
+            <div>
+              <strong>Every glowing pin marks a place and a story.</strong>
+              <div className="text-white/65">
+                Some locations may appear slightly offset
+                from their exact geographic position.
+              </div>
+            </div>
 
-            <br />
-            <br />
+            <div className="mt-2">
+              <strong>
+                Chaque point lumineux marque un lieu et une histoire.
+              </strong>
+              <div className="text-white/65">
+                Certains lieux peuvent apparaître
+                légèrement décalés de leur position géographique exacte.
+              </div>
+            </div>
+          </div>
 
-            <strong>Chaque point lumineux marque un lieu et une histoire.</strong>
-            <br />
-            <span className="text-white/65">
-              Pour une meilleure lisibilité, certains lieux peuvent apparaître
-              légèrement décalés de leur position géographique exacte.
-            </span>
-          </p>
-
-          <div className="mt-5 border-t border-white/10 pt-4">
+          <div className="mt-3 border-t border-white/10 pt-3">
             <div className="flex items-center justify-between">
               <span className="text-[13px] uppercase tracking-[0.2em] text-[#E7C35A]">
                 Explore the map. / Explorez la carte.
