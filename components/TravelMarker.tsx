@@ -65,8 +65,8 @@ export default function TravelMarker({
         left: `${x}%`,
         top: `${y}%`,
         transform: "translate(-50%, -50%)",
-        width: "32px",
-        height: "32px",
+        width: "16px",
+        height: "16px",
       }}
       onMouseDown={handleMouseDown}
       onMouseUp={handleMouseUp}
