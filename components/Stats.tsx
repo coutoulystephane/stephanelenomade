@@ -1,9 +1,9 @@
+import Link from "next/link";
 import {
   Globe,
   MapPin,
   Map,
   Camera,
-  Heart,
 } from "lucide-react";
 
 type StatsProps = {
@@ -53,7 +53,7 @@ export default function Stats({
           bg-[rgba(18,14,12,0.86)]
           px-5
           pt-3
-          pb-2
+          pb-3
           shadow-[0_20px_60px_rgba(0,0,0,0.45)]
           backdrop-blur-3xl
         "
@@ -99,20 +99,111 @@ export default function Stats({
           })}
         </div>
 
-        {/* And counting */}
-        <div className="flex items-center justify-center gap-5 pt-0">
-          <div className="h-px w-[220px] bg-[#d4af37]/40" />
-
-          <span className="whitespace-nowrap font-serif text-[18px] italic text-[#E7C35A]">
-            and counting...
+        {/* Bright Discover More CTA */}
+        <Link
+          href="/continents"
+          className="
+            group
+            relative
+            mt-3
+            flex
+            min-h-[72px]
+            items-center
+            justify-center
+            gap-4
+            overflow-hidden
+            rounded-2xl
+            border
+            border-[#E7C35A]
+            bg-[rgba(212,175,55,0.10)]
+            px-4
+            py-3
+            shadow-[0_0_22px_rgba(212,175,55,0.35)]
+            transition-all
+            duration-300
+            hover:border-[#f6d979]
+            hover:bg-[rgba(212,175,55,0.18)]
+            hover:shadow-[0_0_38px_rgba(212,175,55,0.60)]
+          "
+        >
+          {/* Left arrows */}
+          <span
+            className="
+              text-[25px]
+              font-light
+              tracking-[-0.12em]
+              text-[#E7C35A]
+              transition-transform
+              duration-300
+              group-hover:-translate-x-1
+            "
+          >
+            »»
           </span>
 
-          <div className="h-px w-[220px] bg-[#d4af37]/40" />
-        </div>
+          <div className="text-center">
+            <div
+              className="
+                font-serif
+                text-[18px]
+                font-semibold
+                tracking-[0.16em]
+                text-[#f3d477]
+                transition-all
+                duration-300
+                group-hover:text-[#fff0a8]
+              "
+            >
+              CLICK TO DISCOVER MORE
+            </div>
 
-        <div className="mt-1 flex justify-center text-[#E7C35A]">
-          <Heart size={24} strokeWidth={1.5} />
-        </div>
+            <div
+              className="
+                mt-1
+                text-[11px]
+                tracking-[0.18em]
+                text-white/70
+                transition-colors
+                duration-300
+                group-hover:text-white
+              "
+            >
+              CLIQUER POUR EN DÉCOUVRIR PLUS
+            </div>
+          </div>
+
+          {/* Right arrows */}
+          <span
+            className="
+              text-[25px]
+              font-light
+              tracking-[-0.12em]
+              text-[#E7C35A]
+              transition-transform
+              duration-300
+              group-hover:translate-x-1
+            "
+          >
+            ««
+          </span>
+
+          {/* Bottom glow */}
+          <div
+            className="
+              pointer-events-none
+              absolute
+              inset-x-8
+              bottom-0
+              h-px
+              bg-[#f6d979]
+              opacity-80
+              blur-sm
+              transition-opacity
+              duration-300
+              group-hover:opacity-100
+            "
+          />
+        </Link>
       </div>
     </div>
   );

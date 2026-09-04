@@ -4,7 +4,7 @@ import { continents } from "@/content/continents";
 
 export default function ExploreWorld() {
   return (
-    <section className="w-full bg-[#07111f] pt-28 pb-24">
+    <section className="w-full bg-[#07111f] pt-28 pb-16">
       <div className="mx-auto max-w-[1700px] px-10">
 
         {/* ================= Header ================= */}
@@ -132,6 +132,48 @@ export default function ExploreWorld() {
             </div>
 
           ))}
+
+        </div>
+
+        {/* ================= Back to Map ================= */}
+
+        <div className="mt-14 flex justify-center">
+
+          <Link
+            href="/"
+            className="
+              group
+              inline-flex
+              items-center
+              gap-3
+              rounded-full
+              border
+              border-[#d4af37]/50
+              bg-[#08121d]/70
+              px-8
+              py-3
+              text-sm
+              uppercase
+              tracking-[0.2em]
+              text-[#E7C35A]
+              shadow-[0_0_18px_rgba(212,175,55,0.12)]
+              backdrop-blur-md
+              transition-all
+              duration-300
+              hover:border-[#E7C35A]
+              hover:bg-[#d4af37]/10
+              hover:text-[#f6d979]
+              hover:shadow-[0_0_28px_rgba(212,175,55,0.3)]
+            "
+          >
+            <span className="text-lg transition-transform duration-300 group-hover:-translate-x-1">
+              ←
+            </span>
+
+            <span>
+              BACK TO MAP
+            </span>
+          </Link>
 
         </div>
 
