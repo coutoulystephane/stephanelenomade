@@ -198,8 +198,8 @@ export default function LiveTravelPins() {
     }
 
     const MOUSE_TRIGGER_DISTANCE = 4;
-    const CLUSTER_DISTANCE = 2.8;
-    const SPREAD_DISTANCE = 1.2;
+    const CLUSTER_DISTANCE = 2.2;
+    const SPREAD_DISTANCE = 2.2;
 
     const mouseDistance = Math.sqrt(
       Math.pow(destination.x - mousePosition.x, 2) +

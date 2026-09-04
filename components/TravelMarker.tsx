@@ -74,63 +74,109 @@ export default function TravelMarker({
       onMouseMove={handleMouseMove}
       onClick={handleClick}
     >
-      {/* Outer glow */}
+      {/* -------------------------------------------------- */}
+      {/* SUBTLE OUTER GLOW                                  */}
+      {/* -------------------------------------------------- */}
       <div
         className="
           absolute
           left-1/2
           top-1/2
-          h-10
-          w-10
+          h-5
+          w-5
           -translate-x-1/2
           -translate-y-1/2
           rounded-full
-          bg-amber-400/30
-          blur-lg
-          animate-pulse
-        "
-      />
-
-      {/* Inner halo */}
-      <div
-        className="
-          absolute
-          left-1/2
-          top-1/2
-          h-6
-          w-6
-          -translate-x-1/2
-          -translate-y-1/2
-          rounded-full
-          bg-amber-300/25
+          bg-amber-400/20
           blur-md
-        "
-      />
-
-      {/* Pin */}
-      <div
-        className="
-          absolute
-          left-1/2
-          top-1/2
-          -translate-x-1/2
-          -translate-y-1/2
-          h-4
-          w-4
-          rounded-full
-          border-2
-          border-white
-          bg-amber-300
-          shadow-[0_0_14px_rgba(251,191,36,0.95)]
           transition-all
           duration-200
-          group-hover:scale-150
-          group-hover:bg-white
-          group-hover:shadow-[0_0_24px_rgba(251,191,36,1)]
+          group-hover:h-8
+          group-hover:w-8
+          group-hover:bg-amber-400/35
+          group-hover:blur-lg
         "
       />
 
-      {/* Tooltip */}
+      {/* -------------------------------------------------- */}
+      {/* COMPASS HALO                                       */}
+      {/* -------------------------------------------------- */}
+      <div
+        className="
+          absolute
+          left-1/2
+          top-1/2
+          h-3
+          w-3
+          -translate-x-1/2
+          -translate-y-1/2
+          rounded-full
+          border
+          border-amber-300/40
+          opacity-60
+          transition-all
+          duration-200
+          group-hover:h-6
+          group-hover:w-6
+          group-hover:border-amber-300/80
+          group-hover:opacity-100
+        "
+      />
+
+      {/* -------------------------------------------------- */}
+      {/* GOLD DIAMOND / COMPASS                             */}
+      {/* -------------------------------------------------- */}
+      <div
+        className="
+          absolute
+          left-1/2
+          top-1/2
+          h-2
+          w-2
+          -translate-x-1/2
+          -translate-y-1/2
+          rotate-45
+          border
+          border-amber-200
+          bg-amber-400
+          shadow-[0_0_8px_rgba(251,191,36,0.85)]
+          transition-all
+          duration-200
+          ease-out
+          group-hover:h-3.5
+          group-hover:w-3.5
+          group-hover:border-white
+          group-hover:bg-amber-300
+          group-hover:shadow-[0_0_20px_rgba(251,191,36,1)]
+        "
+      />
+
+      {/* -------------------------------------------------- */}
+      {/* COMPASS CENTER                                     */}
+      {/* -------------------------------------------------- */}
+      <div
+        className="
+          absolute
+          left-1/2
+          top-1/2
+          h-1
+          w-1
+          -translate-x-1/2
+          -translate-y-1/2
+          rounded-full
+          bg-white
+          opacity-80
+          transition-all
+          duration-200
+          group-hover:h-1.5
+          group-hover:w-1.5
+          group-hover:opacity-100
+        "
+      />
+
+      {/* -------------------------------------------------- */}
+      {/* TOOLTIP                                            */}
+      {/* -------------------------------------------------- */}
       <div
         className="
           absolute

@@ -315,17 +315,23 @@ export default function UploadPhotos({ trips }: Props) {
               }}
               className="w-full rounded-xl border border-white/10 bg-white/5 px-4 py-3 text-white outline-none focus:border-amber-400"
             >
-              {trips.map((trip) => (
-                <option
-                  key={trip.id}
-                  value={trip.id}
-                  className="bg-[#08121f]"
-                >
-                  {trip.name} — {trip.visitMonth} {trip.visitYear} —{" "}
-                  {trip.photoCount}{" "}
-                  {trip.photoCount === 1 ? "photo" : "photos"}
-                </option>
-              ))}
+              {[...trips]
+                .sort((a, b) =>
+                  a.name.localeCompare(b.name, undefined, {
+                    sensitivity: "base",
+                  })
+                )
+                .map((trip) => (
+                  <option
+                    key={trip.id}
+                    value={trip.id}
+                    className="bg-[#08121f]"
+                  >
+                    {trip.name} — {trip.visitMonth} {trip.visitYear} —{" "}
+                    {trip.photoCount}{" "}
+                    {trip.photoCount === 1 ? "photo" : "photos"}
+                  </option>
+                ))}
             </select>
           </div>
 
