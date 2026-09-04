@@ -1,15 +1,29 @@
 import Navigation from "@/components/Navigation";
+import ContinentHero from "@/components/ContinentHero";
+import CountryNavigation from "@/components/CountryNavigation";
+import CountrySection from "@/components/continent/CountrySection";
 
-export default function Page() {
+import { africaCountries } from "@/content/countries/africa";
+import { getTrips } from "@/lib/archive";
+
+export default async function AfricaPage() {
+  const trips = await getTrips();
+
   return (
-    <main className="min-h-screen bg-[#07111f]">
+    <main className="bg-[#07111f]">
       <Navigation />
 
-      <div className="flex min-h-screen items-center justify-center">
-        <h1 className="text-5xl font-serif text-white">
-          Coming Soon
-        </h1>
-      </div>
+      <ContinentHero continent="africa" />
+
+      <CountryNavigation countries={africaCountries} />
+
+      {africaCountries.map((country) => (
+        <CountrySection
+          key={country.id}
+          country={country}
+          trips={trips as any}
+        />
+      ))}
     </main>
   );
 }

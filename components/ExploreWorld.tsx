@@ -1,182 +1,105 @@
-import Image from "next/image";
 import Link from "next/link";
+import Image from "next/image";
 import { continents } from "@/content/continents";
 
 export default function ExploreWorld() {
   return (
-    <section className="w-full bg-[#07111f] pt-28 pb-16">
-      <div className="mx-auto max-w-[1700px] px-10">
-
-        {/* ================= Header ================= */}
-
-        <div className="mb-20 flex flex-col items-center">
-
-          <div className="mb-5 flex w-full max-w-3xl items-center gap-5">
-            <div className="h-px flex-1 bg-[#d4af37]/30" />
-
-            <div className="text-xl text-[#d4af37]">
-              ✦
-            </div>
-
-            <div className="h-px flex-1 bg-[#d4af37]/30" />
-          </div>
-
-          <p className="mb-4 text-sm uppercase tracking-[0.45em] text-[#d4af37]">
+    <section className="min-h-screen bg-[#07111f] px-8 py-20 text-white">
+      <div className="mx-auto max-w-[1800px]">
+        <div className="mb-16 text-center">
+          <p className="mb-5 text-sm uppercase tracking-[0.45em] text-[#d4af37]">
             JOURNEYS BY CONTINENT
           </p>
 
-          <h2 className="text-center font-serif text-6xl leading-tight text-white">
+          <h1 className="font-serif text-6xl md:text-7xl">
             Every continent has
             <br />
-            <span className="italic text-[#d4af37]">
-              a different story.
-            </span>
-          </h2>
-
+            a different story.
+          </h1>
         </div>
 
-        {/* ================= Cards ================= */}
-
-        <div className="grid grid-cols-3 gap-10">
-
+        <div className="grid gap-10 md:grid-cols-2 lg:grid-cols-3">
           {continents.map((continent) => (
-
-            <div
+            <Link
               key={continent.id}
+              href={`/${continent.id}`}
               className="
                 group
                 overflow-hidden
-                rounded-[32px]
+                rounded-[30px]
                 border
                 border-[#d4af37]/20
                 bg-[#08121d]
                 transition-all
                 duration-500
                 hover:border-[#d4af37]/60
-                hover:shadow-[0_0_45px_rgba(212,175,55,0.18)]
+                hover:shadow-[0_0_40px_rgba(212,175,55,0.16)]
               "
             >
-
-              {/* Artwork */}
-
-              <div className="relative h-[280px] overflow-hidden">
-
+              <div className="relative aspect-[16/9] overflow-hidden">
                 <Image
                   src={continent.image}
                   alt={continent.name}
                   fill
                   className="
                     object-cover
-                    object-top
                     transition-transform
                     duration-700
-                    group-hover:scale-[1.15]
+                    group-hover:scale-105
                   "
                 />
 
+                <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-transparent" />
               </div>
 
-              {/* Footer */}
-
-              <div
-                className="
-                  flex
-                  items-center
-                  justify-between
-                  border-t
-                  border-[#d4af37]/20
-                  bg-[rgba(8,12,20,0.82)]
-                  px-8
-                  py-[18px]
-                  backdrop-blur-xl
-                "
-              >
-
-                <Link
-                  href={continent.href}
+              <div className="flex items-center justify-between px-7 py-6">
+                <span
                   className="
-                    inline-flex
-                    items-center
                     rounded-full
                     border
                     border-[#d4af37]/60
-                    px-7
+                    px-6
                     py-2.5
                     text-sm
                     text-[#d4af37]
                     transition-all
                     duration-300
-                    hover:bg-[#d4af37]
-                    hover:text-black
+                    group-hover:bg-[#d4af37]
+                    group-hover:text-black
                   "
                 >
                   Explore →
-                </Link>
-
-                <div className="text-right">
-
-                  <div className="text-lg font-semibold text-white">
-                    {continent.countries > 0 ? continent.countries : "—"}
-                  </div>
-
-                  <div className="text-xs uppercase tracking-[0.18em] text-white/60">
-                    {continent.countries > 0
-                      ? "Countries"
-                      : "Coming Soon"}
-                  </div>
-
-                </div>
-
+                </span>
               </div>
-
-            </div>
-
+            </Link>
           ))}
-
         </div>
 
-        {/* ================= Back to Map ================= */}
-
-        <div className="mt-14 flex justify-center">
-
+        <div className="mt-16 text-center">
           <Link
             href="/"
             className="
-              group
               inline-flex
               items-center
               gap-3
               rounded-full
               border
-              border-[#d4af37]/50
-              bg-[#08121d]/70
-              px-8
+              border-[#d4af37]/40
+              px-7
               py-3
               text-sm
               uppercase
               tracking-[0.2em]
-              text-[#E7C35A]
-              shadow-[0_0_18px_rgba(212,175,55,0.12)]
-              backdrop-blur-md
+              text-[#d4af37]
               transition-all
               duration-300
-              hover:border-[#E7C35A]
+              hover:border-[#d4af37]
               hover:bg-[#d4af37]/10
-              hover:text-[#f6d979]
-              hover:shadow-[0_0_28px_rgba(212,175,55,0.3)]
             "
           >
-            <span className="text-lg transition-transform duration-300 group-hover:-translate-x-1">
-              ←
-            </span>
-
-            <span>
-              BACK TO MAP
-            </span>
+            ← BACK TO MAP
           </Link>
-
         </div>
-
       </div>
     </section>
   );
