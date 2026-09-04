@@ -1,5 +1,3 @@
-"use client";
-
 type Country = {
   id: string;
   name: string;
@@ -12,22 +10,12 @@ export default function CountryNavigation({
   countries: Country[];
 }) {
   return (
-    <section className="sticky top-20 z-40 border-y border-[#d4af37]/20 bg-[#07111f]/95 backdrop-blur-xl">
-
+    <section className="border-y border-[#d4af37]/20 bg-[#07111f]/95 backdrop-blur-xl">
       <div className="mx-auto flex max-w-7xl flex-wrap justify-center gap-4 px-8 py-6">
-
         {countries.map((country) => (
-
-          <button
+          <a
             key={country.id}
-            onClick={() =>
-              document
-                .getElementById(country.id)
-                ?.scrollIntoView({
-                  behavior: "smooth",
-                  block: "start",
-                })
-            }
+            href={`#${country.id}`}
             className="
               rounded-full
               border
@@ -41,12 +29,9 @@ export default function CountryNavigation({
             "
           >
             {country.flag} {country.name}
-          </button>
-
+          </a>
         ))}
-
       </div>
-
     </section>
   );
 }

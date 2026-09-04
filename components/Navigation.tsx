@@ -7,7 +7,7 @@ export default function Navigation() {
     <header className="fixed top-0 left-0 z-50 w-full">
       <nav className="mx-auto flex max-w-[1800px] justify-start px-8 py-8">
         <Link
-          href="/"
+          href="/continents"
           className="
             group
             inline-flex
@@ -37,7 +37,7 @@ export default function Navigation() {
             ←
           </span>
 
-          <span>BACK TO MAP</span>
+          <span>BACK TO CONTINENTS</span>
         </Link>
       </nav>
     </header>
