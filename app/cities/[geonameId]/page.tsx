@@ -37,7 +37,7 @@ export default async function CityPage({ params }: Props) {
 
       <div className="mx-auto max-w-6xl px-6 pt-8">
         <Link
-          href="/europe"
+          href="/continents"
           className="
             inline-flex
             items-center
@@ -49,7 +49,7 @@ export default async function CityPage({ params }: Props) {
             hover:text-[#f6d979]
           "
         >
-          ← Back to Europe
+          ← Back to Continents
         </Link>
       </div>
 
@@ -198,7 +198,7 @@ export default async function CityPage({ params }: Props) {
         <div className="mx-auto flex max-w-6xl justify-center px-6 py-12">
 
           <Link
-            href="/europe"
+            href="/continents"
             className="
               inline-flex
               items-center
@@ -219,7 +219,7 @@ export default async function CityPage({ params }: Props) {
               hover:text-[#f6d979]
             "
           >
-            ← Back to Europe
+            ← Back to Continents
           </Link>
 
         </div>

@@ -26,7 +26,8 @@ type Country = {
   id: string;
   name: string;
   flag: string;
-  isoCode: string;
+  isoCode?: string;
+  isoCodes?: string[];
 };
 
 type CityGroup = {
@@ -47,15 +48,19 @@ export default function CountrySection({
   country,
   trips,
 }: Props) {
-  const countryTrips = trips.filter(
-    (trip) =>
-      trip.destinations_master[0]?.countryCode?.toUpperCase() ===
-      country.isoCode
-  );
+  const countryTrips = trips.filter((trip) => {
+    const countryCode =
+      trip.destinations_master[0]?.countryCode?.toUpperCase();
 
-  /*
-   * Group all visits to the same city/destination.
-   */
+    if (!countryCode) return false;
+
+    if (country.isoCodes) {
+      return country.isoCodes.includes(countryCode);
+    }
+
+    return countryCode === country.isoCode;
+  });
+
   const cityMap = new Map<string, Trip[]>();
 
   for (const trip of countryTrips) {
@@ -72,9 +77,6 @@ export default function CountrySection({
     cityMap.get(key)!.push(trip);
   }
 
-  /*
-   * Build one card per city.
-   */
   const cities: CityGroup[] = Array.from(cityMap.values())
     .map((cityTrips) => {
       const sortedTrips = [...cityTrips].sort((a, b) => {
@@ -124,18 +126,10 @@ export default function CountrySection({
       "
     >
       <div className="mx-auto max-w-[1500px] px-10">
-
-        {/* ================= Country Header ================= */}
-
         <div className="mb-14 text-center">
-
           <div className="mb-5 flex items-center justify-center gap-5">
             <div className="h-px w-24 bg-[#d4af37]/30" />
-
-            <div className="text-xl text-[#d4af37]">
-              ✦
-            </div>
-
+            <div className="text-xl text-[#d4af37]">✦</div>
             <div className="h-px w-24 bg-[#d4af37]/30" />
           </div>
 
@@ -155,10 +149,7 @@ export default function CountrySection({
             Places, memories and stories from my travels through{" "}
             {country.name}.
           </p>
-
         </div>
-
-        {/* ================= City Grid ================= */}
 
         {cities.length === 0 ? (
           <div className="rounded-[28px] border border-[#d4af37]/15 bg-[#08121d] px-8 py-16 text-center">
@@ -168,7 +159,6 @@ export default function CountrySection({
           </div>
         ) : (
           <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
-
             {cities.map((city) => (
               <article
                 key={city.geonameId}
@@ -185,11 +175,7 @@ export default function CountrySection({
                   hover:shadow-[0_0_40px_rgba(212,175,55,0.16)]
                 "
               >
-
-                {/* ================= Image ================= */}
-
                 <div className="relative h-[250px] overflow-hidden bg-slate-900">
-
                   {city.cover ? (
                     <img
                       src={city.cover}
@@ -212,7 +198,6 @@ export default function CountrySection({
                   <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/10 to-transparent" />
 
                   <div className="absolute bottom-5 left-6">
-
                     <h3 className="font-serif text-3xl text-white">
                       {city.name}
                     </h3>
@@ -220,21 +205,15 @@ export default function CountrySection({
                     <p className="mt-1 text-sm text-white/80">
                       {city.years.join(" · ")}
                     </p>
-
                   </div>
-
                 </div>
 
-                {/* ================= Card Footer ================= */}
-
                 <div className="p-6">
-
                   <p className="mb-6 line-clamp-3 min-h-[72px] text-sm leading-6 text-white/60">
                     {city.latestTrip.notes || "No travel notes yet."}
                   </p>
 
                   <div className="flex items-center justify-between">
-
                     <span className="rounded-full border border-white/10 bg-white/5 px-3 py-1.5 text-xs text-white/70">
                       📷 {city.photoCount}{" "}
                       {city.photoCount === 1 ? "Photo" : "Photos"}
@@ -258,17 +237,12 @@ export default function CountrySection({
                     >
                       Read Story →
                     </Link>
-
                   </div>
-
                 </div>
-
               </article>
             ))}
-
           </div>
         )}
-
       </div>
     </section>
   );
