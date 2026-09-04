@@ -1,6 +1,7 @@
 import Navigation from "@/components/Navigation";
 import ContinentHero from "@/components/ContinentHero";
 import CountryNavigation from "@/components/CountryNavigation";
+import FranceSection from "@/components/continent/FranceSection";
 
 import { europeCountries } from "@/content/countries/europe";
 
@@ -13,6 +14,8 @@ export default function EuropePage() {
       <ContinentHero continent="europe" />
 
       <CountryNavigation countries={europeCountries} />
+
+      <FranceSection />
 
     </main>
   );
