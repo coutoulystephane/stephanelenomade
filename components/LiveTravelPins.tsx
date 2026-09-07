@@ -203,7 +203,7 @@ export default function LiveTravelPins() {
         onBack={() => setSelectedDestination(null)}
       />
 
-      {/* MOBILE PIN LAYER — UNCHANGED */}
+      {/* MOBILE PIN LAYER */}
       {!selectedDestination && (
         <div className="absolute inset-0 z-[200] lg:hidden">
           {destinations.map((destination) => {
@@ -220,24 +220,43 @@ export default function LiveTravelPins() {
                   left: `${destination.x}%`,
                   top: `${destination.y}%`,
                   transform: `translate(-50%, -50%) scale(${1 / mobileZoom})`,
-                  backgroundColor: "#39FF14",
-                  borderColor: "#39FF14",
-                  boxShadow: "0 0 12px rgba(57,255,20,1)",
                 }}
                 className="
                   group
                   flex
-                  h-4
-                  w-4
+                  h-5
+                  w-5
                   items-center
                   justify-center
                   rounded-full
                   border
+                  border-amber-300/70
+                  bg-transparent
+                  shadow-[0_0_7px_rgba(251,191,36,0.8)]
                 "
               >
+                {/* Gold compass diamond */}
                 <span
-                  className="absolute h-2 w-2 rounded-full"
-                  style={{ backgroundColor: "#39FF14" }}
+                  className="
+                    h-3
+                    w-3
+                    rotate-45
+                    border
+                    border-amber-100
+                    bg-amber-400
+                    shadow-[0_0_6px_rgba(251,191,36,0.9)]
+                  "
+                />
+
+                {/* White center */}
+                <span
+                  className="
+                    absolute
+                    h-1.5
+                    w-1.5
+                    rounded-full
+                    bg-white
+                  "
                 />
               </button>
             );
@@ -257,11 +276,7 @@ export default function LiveTravelPins() {
                 name={destination.name}
                 editable={editable}
                 onMove={(x, y) =>
-                  movePin(
-                    destination.geonameId,
-                    x,
-                    y
-                  )
+                  movePin(destination.geonameId, x, y)
                 }
                 onClick={() =>
                   setSelectedDestination(destination)
