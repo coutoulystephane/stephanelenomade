@@ -58,15 +58,15 @@ export default function TravelMarker({
 
   return (
     <div
-      className={`absolute group ${
+      className={`absolute group touch-manipulation ${
         editable ? "cursor-grab active:cursor-grabbing" : "cursor-pointer"
       }`}
       style={{
         left: `${x}%`,
         top: `${y}%`,
         transform: "translate(-50%, -50%)",
-        width: "16px",
-        height: "16px",
+        width: "20px",
+        height: "20px",
       }}
       onMouseDown={handleMouseDown}
       onMouseUp={handleMouseUp}
@@ -74,9 +74,7 @@ export default function TravelMarker({
       onMouseMove={handleMouseMove}
       onClick={handleClick}
     >
-      {/* -------------------------------------------------- */}
-      {/* SUBTLE OUTER GLOW                                  */}
-      {/* -------------------------------------------------- */}
+      {/* SHARP OUTER RING */}
       <div
         className="
           absolute
@@ -87,20 +85,17 @@ export default function TravelMarker({
           -translate-x-1/2
           -translate-y-1/2
           rounded-full
-          bg-amber-400/20
-          blur-md
+          border
+          border-amber-300/60
+          shadow-[0_0_6px_rgba(251,191,36,0.65)]
           transition-all
           duration-200
-          group-hover:h-8
-          group-hover:w-8
-          group-hover:bg-amber-400/35
-          group-hover:blur-lg
+          group-hover:scale-125
+          group-hover:border-amber-200
         "
       />
 
-      {/* -------------------------------------------------- */}
-      {/* COMPASS HALO                                       */}
-      {/* -------------------------------------------------- */}
+      {/* GOLD COMPASS DIAMOND */}
       <div
         className="
           absolute
@@ -110,78 +105,45 @@ export default function TravelMarker({
           w-3
           -translate-x-1/2
           -translate-y-1/2
-          rounded-full
-          border
-          border-amber-300/40
-          opacity-60
-          transition-all
-          duration-200
-          group-hover:h-6
-          group-hover:w-6
-          group-hover:border-amber-300/80
-          group-hover:opacity-100
-        "
-      />
-
-      {/* -------------------------------------------------- */}
-      {/* GOLD DIAMOND / COMPASS                             */}
-      {/* -------------------------------------------------- */}
-      <div
-        className="
-          absolute
-          left-1/2
-          top-1/2
-          h-2
-          w-2
-          -translate-x-1/2
-          -translate-y-1/2
           rotate-45
           border
-          border-amber-200
+          border-amber-100
           bg-amber-400
-          shadow-[0_0_8px_rgba(251,191,36,0.85)]
+          shadow-[0_0_7px_rgba(251,191,36,0.9)]
           transition-all
           duration-200
-          ease-out
-          group-hover:h-3.5
-          group-hover:w-3.5
+          group-hover:scale-125
           group-hover:border-white
           group-hover:bg-amber-300
-          group-hover:shadow-[0_0_20px_rgba(251,191,36,1)]
         "
       />
 
-      {/* -------------------------------------------------- */}
-      {/* COMPASS CENTER                                     */}
-      {/* -------------------------------------------------- */}
+      {/* WHITE CENTER */}
       <div
         className="
           absolute
           left-1/2
           top-1/2
-          h-1
-          w-1
+          h-1.5
+          w-1.5
           -translate-x-1/2
           -translate-y-1/2
           rounded-full
           bg-white
-          opacity-80
-          transition-all
-          duration-200
-          group-hover:h-1.5
-          group-hover:w-1.5
-          group-hover:opacity-100
+          shadow-[0_0_3px_white]
         "
       />
 
-      {/* -------------------------------------------------- */}
-      {/* TOOLTIP                                            */}
-      {/* -------------------------------------------------- */}
+      {/* LARGER INVISIBLE TOUCH AREA FOR IPHONE */}
+      <div className="absolute -inset-3" />
+
+      {/* TOOLTIP */}
       <div
         className="
+          pointer-events-none
           absolute
           left-1/2
-          bottom-7
+          bottom-8
           -translate-x-1/2
           hidden
           group-hover:block
@@ -189,13 +151,12 @@ export default function TravelMarker({
           rounded-xl
           border
           border-[#d4af37]/30
-          bg-black/75
+          bg-black/85
           px-3
           py-1.5
           text-sm
           text-white
           shadow-lg
-          backdrop-blur-md
         "
       >
         {name}
