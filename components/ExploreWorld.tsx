@@ -36,20 +36,20 @@ export default function ExploreWorld() {
                 hover:shadow-[0_0_40px_rgba(212,175,55,0.16)]
               "
             >
-              <div className="relative aspect-[16/9] overflow-hidden">
+              <div className="relative aspect-[16/9] overflow-hidden bg-[#08121d]">
                 <Image
                   src={continent.image}
                   alt={continent.name}
                   fill
                   className="
-                    object-cover
+                    object-contain
                     transition-transform
                     duration-700
-                    group-hover:scale-105
+                    group-hover:scale-[1.02]
                   "
                 />
 
-                <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-transparent" />
+                <div className="absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-transparent" />
               </div>
 
               <div className="flex items-center justify-between px-7 py-6">
