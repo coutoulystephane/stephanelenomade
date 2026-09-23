@@ -11,6 +11,7 @@ export default function Background() {
         priority
         quality={100}
         sizes="100vw"
+        unoptimized
         className="object-cover object-center"
       />
 

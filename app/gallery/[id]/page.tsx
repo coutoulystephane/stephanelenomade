@@ -43,6 +43,7 @@ export default async function GalleryPage({ params }: Props) {
               alt=""
               fill
               priority
+              unoptimized
               className="scale-110 object-cover blur-2xl opacity-40"
             />
 
@@ -53,6 +54,7 @@ export default async function GalleryPage({ params }: Props) {
                 alt={entry.destination.name}
                 fill
                 priority
+                unoptimized
                 className="object-contain"
               />
             </div>

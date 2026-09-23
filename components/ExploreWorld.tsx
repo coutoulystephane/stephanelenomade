@@ -41,6 +41,7 @@ export default function ExploreWorld() {
                   src={continent.image}
                   alt={continent.name}
                   fill
+                  unoptimized
                   className="
                     object-contain
                     transition-transform

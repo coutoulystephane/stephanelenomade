@@ -199,6 +199,7 @@ export default function DestinationCard({
                     src={selectedTrip.coverImage}
                     alt={`${name} ${selectedTrip.visitYear}`}
                     fill
+                    unoptimized
                     className="object-contain"
                   />
                 ) : (

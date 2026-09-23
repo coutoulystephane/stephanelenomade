@@ -94,6 +94,7 @@ export default function GalleryPhotoViewer({
                 src={photo.image_url}
                 alt={`${destinationName} photo ${index + 1}`}
                 fill
+                unoptimized
                 className="object-cover transition duration-700 group-hover:scale-105"
               />
 
@@ -151,6 +152,7 @@ export default function GalleryPhotoViewer({
               alt={`${destinationName} photo ${activeIndex + 1}`}
               fill
               priority
+              unoptimized
               className="object-contain"
               sizes="90vw"
             />
