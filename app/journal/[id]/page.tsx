@@ -1,3 +1,4 @@
+
 import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
@@ -8,10 +9,28 @@ type Props = {
   params: Promise<{
     id: string;
   }>;
+  searchParams: Promise<{
+    from?: string;
+  }>;
 };
 
-export default async function JournalPage({ params }: Props) {
+const VALID_CONTINENTS = [
+  "/africa",
+  "/asia",
+  "/europe",
+  "/north-america",
+  "/oceania",
+];
+
+export default async function JournalPage({
+  params,
+  searchParams,
+}: Props) {
   const { id } = await params;
+  const { from } = await searchParams;
+
+  const backPath =
+    from && VALID_CONTINENTS.includes(from) ? from : "/";
 
   const entry = await getJournalEntry(Number(id));
 
@@ -28,10 +47,10 @@ export default async function JournalPage({ params }: Props) {
       {/* Back Navigation */}
       <div className="mx-auto max-w-6xl px-6 pt-8">
         <Link
-          href="/"
+          href={backPath}
           className="inline-flex items-center text-sm tracking-wide text-gray-400 transition hover:text-white"
         >
-          ← Back to World Map
+          ← Back to Continents
         </Link>
       </div>
 
@@ -105,26 +124,6 @@ export default async function JournalPage({ params }: Props) {
             No photos have been added yet.
           </p>
         )}
-      </section>
-
-      {/* Bottom Navigation */}
-      <section className="border-t border-white/10">
-        <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-12">
-          <button className="text-sm uppercase tracking-[0.25em] text-gray-400 transition hover:text-white">
-            ← Previous Destination
-          </button>
-
-          <Link
-            href="/"
-            className="inline-flex items-center gap-2 text-sm uppercase tracking-[0.25em] text-yellow-500 transition hover:text-yellow-400"
-          >
-            ← World Map
-          </Link>
-
-          <button className="text-sm uppercase tracking-[0.25em] text-gray-400 transition hover:text-white">
-            Next Destination →
-          </button>
-        </div>
       </section>
     </main>
   );

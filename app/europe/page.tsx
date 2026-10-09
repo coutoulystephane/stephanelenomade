@@ -22,6 +22,7 @@ export default async function EuropePage() {
           key={country.id}
           country={country}
           trips={trips as any}
+          continentPath="/europe"
         />
       ))}
     </main>

@@ -8,10 +8,28 @@ type Props = {
   params: Promise<{
     id: string;
   }>;
+  searchParams: Promise<{
+    from?: string;
+  }>;
 };
 
-export default async function GalleryPage({ params }: Props) {
+const VALID_CONTINENTS = [
+  "/africa",
+  "/asia",
+  "/europe",
+  "/north-america",
+  "/oceania",
+];
+
+export default async function GalleryPage({
+  params,
+  searchParams,
+}: Props) {
   const { id } = await params;
+  const { from } = await searchParams;
+
+  const backPath =
+    from && VALID_CONTINENTS.includes(from) ? from : "/";
 
   const entry = await getJournalEntry(Number(id));
 
@@ -34,10 +52,8 @@ export default async function GalleryPage({ params }: Props) {
     <main>
       {/* Hero */}
       <section className="relative min-h-[45vh] overflow-hidden bg-[#05080d]">
-
         {coverPhoto?.image_url ? (
           <>
-            {/* Blurred background */}
             <Image
               src={coverPhoto.image_url}
               alt=""
@@ -47,7 +63,6 @@ export default async function GalleryPage({ params }: Props) {
               className="scale-110 object-cover blur-2xl opacity-40"
             />
 
-            {/* Full original photo — no cropping */}
             <div className="absolute inset-0 flex items-center justify-center">
               <Image
                 src={coverPhoto.image_url}
@@ -65,16 +80,15 @@ export default async function GalleryPage({ params }: Props) {
 
         {/* Cinematic overlays */}
         <div className="absolute inset-0 bg-black/35" />
-
         <div className="absolute inset-0 bg-gradient-to-t from-[#05080d] via-black/10 to-black/25" />
 
-        {/* Navigation */}
+        {/* Top Navigation */}
         <div className="relative z-10 mx-auto flex max-w-7xl items-center justify-between px-6 pt-8 lg:px-10">
           <Link
-            href={`/journal/${id}`}
+            href={backPath}
             className="text-sm uppercase tracking-[0.25em] text-white/70 transition hover:text-white"
           >
-            ← Journal
+            ← Back to Continents
           </Link>
 
           <Link
@@ -88,7 +102,6 @@ export default async function GalleryPage({ params }: Props) {
         {/* Hero Content */}
         <div className="relative z-10 mx-auto flex min-h-[45vh] max-w-7xl items-end px-6 pb-12 lg:px-10 lg:pb-16">
           <div className="max-w-5xl">
-
             <p className="mb-4 text-xs font-medium uppercase tracking-[0.5em] text-yellow-400">
               Travel Gallery
             </p>
@@ -117,16 +130,13 @@ export default async function GalleryPage({ params }: Props) {
                 {photoCount} {photoCount === 1 ? "Photo" : "Photos"}
               </span>
             </div>
-
           </div>
         </div>
       </section>
 
       {/* Gallery */}
       <section className="mx-auto max-w-7xl px-6 py-16 lg:px-10 lg:py-24">
-
         <div className="mb-12 flex items-end justify-between">
-
           <div>
             <p className="mb-3 text-xs uppercase tracking-[0.4em] text-yellow-500">
               Memories
@@ -140,7 +150,6 @@ export default async function GalleryPage({ params }: Props) {
           <span className="text-sm uppercase tracking-[0.25em] text-white/40">
             {photoCount} {photoCount === 1 ? "Photo" : "Photos"}
           </span>
-
         </div>
 
         {galleryPhotos.length > 0 ? (
@@ -155,19 +164,16 @@ export default async function GalleryPage({ params }: Props) {
             </p>
           </div>
         )}
-
       </section>
 
       {/* Bottom Navigation */}
       <section className="border-t border-white/10">
-
         <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-12 lg:px-10">
-
           <Link
-            href={`/journal/${id}`}
+            href={backPath}
             className="text-sm uppercase tracking-[0.25em] text-white/50 transition hover:text-white"
           >
-            ← Read Journal
+            ← Back to Continents
           </Link>
 
           <Link
@@ -176,9 +182,7 @@ export default async function GalleryPage({ params }: Props) {
           >
             World Map
           </Link>
-
         </div>
-
       </section>
     </main>
   );
